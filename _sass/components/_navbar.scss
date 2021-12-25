@@ -1,6 +1,8 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-900;
+  // background-color: $gray-900;
+  // background-color: $csc-blue-pastel;
+  // position: relative;
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -18,21 +20,71 @@
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: darken($primary, 20%);
     }
   }
-  .navbar-nav {
-    .nav-item {
-      .nav-link {
-        font-size: 90%;
+  .navbar-nav
+  {
+    .nav-item
+    {
+      .nav-link
+      {
+        font-size: 100%;
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: green;
+        color: $csc-blue;
         @include heading-font;
         &.active,
-        &:hover {
-          color: $primary;
+        &:hover
+        {
+          color: darken($csc-blue, 20%);
+          background-color: $csc-blue-pastel;
+        }
+      }
+      .people-link
+      {
+        font-size: 100%;
+        font-weight: 400;
+        padding: 0.75em 0;
+        letter-spacing: 1px;
+        color: $people-purple;
+        @include heading-font;
+        &.active,
+        &:hover
+        {
+          color: darken($people-purple, 0%);
+          background-color: $people-purple-pastel;
+        }
+      }
+      .platforms-link
+      {
+        font-size: 100%;
+        font-weight: 400;
+        padding: 0.75em 0;
+        letter-spacing: 1px;
+        color: $platform-green;
+        @include heading-font;
+        &.active,
+        &:hover
+        {
+          color: darken($platform-green, 0%);
+          background-color: $platform-green-pastel;
+        }
+      }
+      .policy-link
+      {
+        font-size: 100%;
+        font-weight: 400;
+        padding: 0.75em 0;
+        letter-spacing: 1px;
+        color: $policy-blue;
+        @include heading-font;
+        &.active,
+        &:hover
+        {
+          color: darken($policy-blue, 0%);
+          background-color: $policy-blue-pastel;
         }
       }
     }
@@ -40,13 +92,13 @@
 }
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: white;
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
@@ -60,6 +112,17 @@
         }
       }
     }
+    &.navbar-shrink {
+      padding-top: 0;
+      padding-bottom: 0;
+      background-color: white;
+      .navbar-brand {
+        font-size: 1.25em;
+        padding: 12px 0;
+      }
+    }
+  }
+}
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
