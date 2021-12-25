@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ourwork
 ---
 
 ### Our Work
