@@ -51,7 +51,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Clinical Scientific Computing"
-    text: "Developing people, platforms and policy."
+    text: "Evaluating and implementing medical software for the NHS"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
