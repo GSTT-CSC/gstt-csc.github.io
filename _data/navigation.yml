@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "About Us"
-      section: /aboutus.html
+      section: /team.html
     - title: "People"
       section: /people.html
     - title: "Platforms"
