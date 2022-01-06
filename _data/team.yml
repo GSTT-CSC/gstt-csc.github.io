@@ -1,0 +1,114 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  team:
+    text: "Click on the photos to find out more about each member of the team."
+    section: team
+    people:
+      - name: "Haris Shuaib"
+        role: "Head of Clinical Scientific Computing"
+        image: assets/img/team/Haris.png
+        social:
+          - url: https://twitter.com/haris_shuaib
+            icon: fab fa-twitter
+          - url: https://github.com/hshuaib90
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/haris-shuaib/
+            icon: fab fa-linkedin-in
+      - name: "Dika"
+        role: "Clinical Scientist"
+        image: assets/img/team/Dika.jpg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Lucy Funnell"
+        role: "AI Project Manager"
+        image: assets/img/team/Lucy.jpg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Simone"
+        role: "Medical Physicist"
+        image: assets/img/team/Simone.jpg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Laurence"
+        role: "Clinical Scientist"
+        image: assets/img/team/Laurence.png
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Anil"
+        role: "Clinical Scientist"
+        image: assets/img/team/Anil.jpg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Alexander Deng"
+        role: "Fellow in Clinical AI"
+        image: assets/img/team/Alex.jpg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Lucrezia"
+        role: "AI Engineer"
+        image: assets/img/team/Lucrezia.jpeg
+        social:
+          - url: https://twitter.com/
+            icon: fab fa-twitter
+          - url: https://github.com/
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/
+            icon: fab fa-linkedin-in
+      - name: "Tom Roberts"
+        role: "AI Engineer"
+        image: assets/img/team/TomR.jpeg
+        social:
+          - url: https://github.com/tomaroberts
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/tom-a-roberts/
+            icon: fab fa-linkedin-in
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
