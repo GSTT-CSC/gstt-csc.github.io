@@ -5,7 +5,7 @@ _Eventually this guide will become part of the Handbook on the website._
 _Please flag any issues with these instructions as I have mostly written from memory!_
 
 ## Install
-1. First, install ruby, the Jekyll rubygem and other pre-requisities by following the instructions here: [(MacOS)](https://jekyllrb.com/docs/installation/macos/).
+1. First, install ruby, the Jekyll rubygem and other pre-requisities by following the instructions here: [MacOS](https://jekyllrb.com/docs/installation/macos/).
 2. Clone this repo using `git clone` or GitHub Desktop.
    - The master branch is called `gh-pages`.
 4. `bundle install`
@@ -89,7 +89,7 @@ The nuts and bolts of the website.
 ### Bootstrap
 Determines the styling of the website, such as CSS and Java. 
 
-**Important:** Bootstrap is designed to be responsive, which means that it the website is optimised for both large computer screens and small mobile phone screens. 
+**Important:** Bootstrap is designed to be responsive, which means that the website is optimised for both large computer screens and small mobile phone screens. 
 - [Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/) – The lefthand bar contains links to all the different possibly classes contained in Bootstrap. This is _**really**_ useful, for instance if you want to design a page with different sized columns, add in buttons, layout images, etc, etc.
 - [Page Layouts](https://getbootstrap.com/docs/5.1/layout/columns/) – specifically working with rows/columns.
 - [Bootstrap Tutorial Video](https://www.youtube.com/watch?v=rQryOSyfXmI) – 1.5hr intro video on Bootstrap. Covers a lot of ground. I found this very helpful. You can skip through some bits, such as pop-ups and stuff, which we won't need.
