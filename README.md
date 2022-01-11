@@ -18,7 +18,7 @@ _Please flag any issues with these instructions as I have mostly written from me
 
 ## Developer Guide
 
-The CSC site uses is built on Jekyll and incorporates Bootstrap v5 for CSS and java. Useful links relating to these are in the [Resources](#Resources) section below.
+The CSC site is built on Jekyll and incorporates Bootstrap v5 for CSS and java. Useful links relating to these are in the [Resources](#Resources) section below.
 
 ### Website structure
 For a thorough explanation of this, consult the Jekyll website. This is an abridged alternative. The directory structure of the website is approximately as follows:
@@ -47,7 +47,7 @@ For a thorough explanation of this, consult the Jekyll website. This is an abrid
 
 `_sass` – this contains the CSS for the site, which determines colours, padding, background colours, etc. SASS is basically fancy, enhanced CSS. **Note:** styling is also controlled in some other files, such as the `_config.yml`, `assets/css/` and a few other places.
 
-`_site` – Do **NOT** edit these files. Jekyll creates creates the website from the .md, .html, .css, etc. files and puts the compiled website in this folder.
+`_site` – Do **NOT** edit these files. Jekyll creates the website from the .md, .html, .css, etc. files and puts the compiled website in this folder.
 
 `assets` – contains CSS, Javascript and image files. Can have subdirectories, such as `img/team` which contains all the photos of the CSC team.
 
