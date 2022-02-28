@@ -18,13 +18,13 @@ en: &DEFAULT_EN
       - name: "AIDE"
         image: assets/landscape/aide_logo.jpg
       - name: "CogStack"
-        image: assets/landscape/cogstack_logo.jpeg
+        image: assets/landscape/cogstack_logo.png
       - name: "FLIP"
         image: assets/landscape/flip_logo.png
-      - name: "MLOPS"
-        image: assets/landscape/mlops_logo.png
       - name: "XNAT"
-        image: assets/landscape/xnat_logo.jpeg
+        image: assets/landscape/xnat_logo.png
+      - name: "MLOPS"
+        image: assets/landscape/mlops_logo1.png
 
 
 
