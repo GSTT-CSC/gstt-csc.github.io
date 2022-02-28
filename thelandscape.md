@@ -1,5 +1,5 @@
 ---
-layout: landscape_l
+layout: landscape
 ---
 
 {% include landscape.html %}
