@@ -1,0 +1,37 @@
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
+
+<div class="container" >
+     <div class="row">
+         <div class="col-3 text-center">
+         <div class="col-3 text-center">
+             <div class="platform">
+                <img style="width: 300px; height: 180px; padding = 1px; class=rectangle; border: 8px solid transparent; background: linear-gradient(90deg, #e1f0d0 100%, #ce00 100%)" src="{{ page.platform-photo }}" alt="">
+                 <h4 class="pt-2 text-center">{{ page.platform-name }}</h4>
+             <div class="col-8">
+                 {% for platform in site.data.landscape[site.locale].landscape.platforms %}
+                 <h2>{{ platform.platform-content }}</h2>
+                  {% endfor %}
+             </div>
+        </div>
+         </div>
+	 </div>
+ </div>
+
+<style>
+.rectangle{
+border-radius:1%
+padding = 1px;
+border: 8px solid transparent;
+background: linear-gradient(90deg, #e1f0d0 100%, #ce00 100%)
+}
+
+h2 {
+  font-size: 1em;
+  font-weight: normal;
+  margin:  -210px -1000px 500px 300px;
+  }
+</style>
