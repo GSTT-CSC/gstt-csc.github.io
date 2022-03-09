@@ -8,15 +8,25 @@
   font-size: 20px;
   font-weight: bold;
 }
+
+h5 {
+  padding-bottom: 30px;
+}
 </style>
 
 </head>
 <body>
-<p>  <a href="/SOP.html">SOP's</a></p> <br />
-<p> Guides</p> <br />
-<p> Pathways</p> <br />
-<p> IG</p> <br />
-<p> IS</p> <br />
-<p> IT</p> <br />
+
+<h5 class="text-muted">Click on each policy title to read its content.</h5>
+<div class="container">
+  {% for policy in site.data.policy[site.locale].policy.policies %}
+	<div class="col-sm-4 pb-5">
+	  <div class="policy">
+		<a href="{{ policy.policy-page }}">  {{ policy.name }} </a>
+	  </div>
+	</div>
+  {% endfor %}
+</div>
+
 </body>
 <!-- End policy -->
