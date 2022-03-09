@@ -1,0 +1,40 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  policy:
+    text: "Click on the relative policies to find out more about each one of them."
+    section: policy
+    policies:
+      - name: "SOP's"
+        policy-page: /SOP.html
+      - name: "Guides"
+      - name: "Pathways"
+      - name: "IG"
+      - name: "IS"
+      - name: "IT"
+
+
+
+
+
+
+
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
