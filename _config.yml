@@ -16,7 +16,7 @@
 theme: jekyll-agency          # required for offline setup
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : CSC
 #logo       : "assets/img/logo_small.png"
@@ -33,8 +33,8 @@ analytics:
   google: #Google Analytics tracking code here
 
 ## TODO: create working collections folder "_teammembers"
-#collections:
-#  team_members:
-#    output: true
+collections:
+  team_member:
+    output: true
 
 markdown: kramdown
