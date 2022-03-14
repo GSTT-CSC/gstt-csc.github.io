@@ -32,7 +32,6 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-## TODO: create working collections folder "_teammembers"
 collections:
   team_member:
     output: true
