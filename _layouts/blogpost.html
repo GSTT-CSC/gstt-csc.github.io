@@ -22,7 +22,7 @@ document.getElementById("page-top").className="bg-light";
         <div class="col-8">
             <img class="mx-auto" style="width: 760px;" src={{ page.image }} alt="">
             <h1>{{page.title}}</h1>
-            <p>{{page.date}}</p>
+            <p>{{ page.date | date: "%-d %B %Y" }}</p>
             <br>
             {{ content }}
         </div>
