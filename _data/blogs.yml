@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       blog-page: 20210825-STP_blog.html
       image: assets/img/blog/nhs_logo.png
       author: Igor Malashchuk
-      author-image: assets/img/team/2.jpg
+      author-image: assets/img/team/standard_user.jpg
 
   workshops:
     - title: "The pathway to integrating AI into NHS practice"
