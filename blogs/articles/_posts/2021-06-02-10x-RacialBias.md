@@ -4,9 +4,9 @@ title: Workshop- The Problem of Bias in AI
 date: 2nd June 2021
 tag-line: "Outcomes of a 10X workshop on managing racial bias."
 read-time-mins: "15 mins"
-image: assets/img/blog/racial_bias.jpg
+image: /assets/img/blog/racial_bias.jpg
 author: Dika Villic
-author-image: assets/img/team/Dika.jpg
+author-image: /assets/img/team/Dika.jpg
 author-role: Clinical Scientist in AI
 ---
 
