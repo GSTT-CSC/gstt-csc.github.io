@@ -1,24 +1,25 @@
 <!-- Workshops -->
 <div class="container">
   <div class="row pt-3">
-  {% for blog in site.data.blogs[site.locale].workshops %}
+  {% for post in site.categories.workshops %}
 	<div class="col-sm-4 pb-5" id="blogCard" >
-	<a href="{{blog.blog-page}}">
+	<a href="{{post.url}}">
 	  <div class="card">
 		<div class="card__header">
-		  <img src="{{blog.image}}" alt="card__image" class="card__image" width="350">
+		  <img src="{{post.image}}" alt="card__image" class="card__image" width="350" height= "300" style="object-fit: cover" >
+
 		</div>
 		<div class="card__body">
-		  <h4>{{blog.title}}</h4>
-		  <p>{{blog.tag-line}}</p>
-		  <small>{{blog.read-time-mins}}</small>
+		  <h4>{{post.title}}</h4>
+		  <p>{{post.tag-line}}</p>
+		  <small>{{post.read-time-mins}}</small>
 		</div>
 		<div class="card__footer">
 		  <div class="user">
-			<img src="{{blog.author-image}}" alt="user__image" class="user__image">
+			<img src="{{post.author-image}}" alt="user__image" class="user__image">
 			<div class="user__info">
-			  <h5>{{blog.author}}</h5>
-			  <small>{{blog.date}}</small>
+			  <h5>{{post.author}}</h5>
+			  <small>{{ post.date | date: "%-d %B %Y" }}</small>
 			</div>
 		  </div>
 		</div>
@@ -29,4 +30,3 @@
   </div>
 </div>
 <!-- End Team -->
-
