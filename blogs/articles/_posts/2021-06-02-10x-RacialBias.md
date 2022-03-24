@@ -1,11 +1,11 @@
 ---
 layout: blogpost
-title: Workshop- The Problem of Bias in AI
+title: "Workshop: The Problem of Bias in AI"
 date: 2nd June 2021
 tag-line: "Outcomes of a 10X workshop on managing racial bias."
 read-time-mins: "15 mins"
 image: /assets/img/blog/racial_bias.jpg
-author: Dika Villic
+author: Dika Vilic
 author-image: /assets/img/team/Dika.jpg
 author-role: Clinical Scientist in AI
 ---
@@ -14,6 +14,7 @@ The CSC team held a workshop on racial bias in AI and strategies to combat it on
 preparation the team watched the Netflix documentary Coded Bias which discusses facial recognition bias in AI technology
 as experienced and published by Joy Buolamwini. More on her and her team’s work can be found 
 <a href="https://www.ajl.org">here</a>. 
+
 ### The Case Studies
 The session started with a broad overview of the problem of bias in AI, focussing on the following four case studies:
 
