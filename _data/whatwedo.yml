@@ -14,6 +14,8 @@ en: &DEFAULT_EN
   whatwedo:
     section: whatwedo
     title: "What we do"
+    text: "At CSC, we are passionate about improving healthcare in the NHS through the development of innovative new
+    software. We are focused on three key aspects:"
     aspects:
       - title: "People"
         text: "Software and AI solutions for tackling healthcare problems are ever-expanding. We are training the next
