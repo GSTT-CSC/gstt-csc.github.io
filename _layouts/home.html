@@ -5,4 +5,9 @@ layout: default
 {% include about.html %}
 {% include whatwedo.html %}
 {% include roadmap.html %}
-{% include calendar.html %}
+<section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
+<div class="container">
+    <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
+    {% include calendar.html %}
+</div>
+</section>

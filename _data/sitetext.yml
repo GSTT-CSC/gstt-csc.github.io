@@ -53,10 +53,7 @@ en: &DEFAULT_EN
 
   calendar:
     section: calendar
-
-
-
-
+    title: CSC Calendar
 
   footer:
     legal: "Privacy Policy"
