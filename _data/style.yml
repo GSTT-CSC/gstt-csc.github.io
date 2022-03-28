@@ -8,7 +8,7 @@ purple: "#645eaa"
 orange: "#d64933"
 
 #Image Customization
-header-image: "../img/9.png"
+header-image: "../img/nodes-graphic.png"
 contact-image: "../img/contact.png"
 logo: "../img/small_logo.png"
 #Font Awesome icon for portfolio grid when an item is hovered over

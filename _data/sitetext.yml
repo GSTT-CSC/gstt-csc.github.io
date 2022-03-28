@@ -16,7 +16,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Clinical Scientific Computing"
-    image: assets/img/csc-logo-text.png
+    image: assets/img/csc-logo-text.svg
     slogan: "We build and deploy medical software for routine clinical care"
     section: about
 
