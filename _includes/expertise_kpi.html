@@ -1,7 +1,7 @@
 <div class="container mt-5">
     <div class="table-responsive">
-        <table class="table   text-black table-hover" style='background-color:#F8F9FA'> 
-            <thead>
+        <table class="table   text-black table-hover" style='background-color:#F8F9FA'>
+
                 <tr>
                     <th colspan="2">Skills</th>
                     <th>Experts </th>
@@ -9,12 +9,12 @@
                     <th></th>
                 </tr>
              {% for skills in site.data.skils[site.locale].skills %}
-            </thead>
+
             <tbody>
                 <tr>
                     <td colspan="2">
                         <strong>{{ skills.name }} </strong>
-                        <br>{{ skills.description }}</br>
+                       {{ skills.description }}
                     </td>
                     <td>
                      {% for attribute in skills.experts %}
@@ -30,6 +30,3 @@
                   {% endfor %}
 
             </tbody>
-        </table>
-    </div>
-</div>
