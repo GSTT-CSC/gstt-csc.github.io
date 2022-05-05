@@ -1,0 +1,26 @@
+<!-- landscape_2 -->
+<h5 class="text-muted">Click on the team members to find out more about them.</h5>
+<div class="container">
+  <div class="row pt-3">
+  {% for person in site.data.team[site.locale].team.people %}
+	<div class="col-sm-4 pb-5">
+	  <div class="team-member">
+		  <img class="mx-auto rounded-circle p-1" style="width: 250px;" src="{{ person.image }}" alt="">
+		</a>
+		<h4>{{ person.name }}</h4>
+		<p class="text-muted">{{ person.role }}</p>
+		<ul class="list-inline social-buttons">
+		{% for network in person.social %}
+		  <li class="list-inline-item text-center">
+			<a href="{{ network.url }}">
+			  <i class="{{ network.icon }}"></i>
+			</a>
+		  </li>
+		{% endfor %}
+		</ul>
+	  </div>
+	</div>
+  {% endfor %}
+  </div>
+</div>
+<!-- End landscape_2 -->

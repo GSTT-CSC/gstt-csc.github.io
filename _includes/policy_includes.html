@@ -1,0 +1,32 @@
+<!-- policy -->
+<table class="table table-hover">
+<head>
+    <meta charset="UTF-8">
+    <title>let's put a pic in here</title>
+<style>
+    p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h5 {
+  padding-bottom: 30px;
+}
+</style>
+
+</head>
+<body>
+
+<h5 class="text-muted">Click on each policy title to read its content.</h5>
+<div class="container">
+  {% for policy in site.data.policy[site.locale].policy.policies %}
+	<div class="col-sm-4 pb-5">
+	  <div class="policy">
+		<a href="{{ policy.policy-page }}">  {{ policy.name }} </a>
+	  </div>
+	</div>
+  {% endfor %}
+</div>
+
+</body>
+<!-- End policy -->

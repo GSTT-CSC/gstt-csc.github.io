@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     people:
       - name: "Haris Shuaib"
         role: "Head of Clinical Scientific Computing"
-        team-member-page: /team_member/haris.html
+        team-member-page: /haris.html
         image: assets/img/team/Haris.png
         social:
           - url: https://twitter.com/haris_shuaib
@@ -28,7 +28,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Dika"
         role: "Clinical Scientist"
-        team-member-page: /team_member/dika.html
+        team-member-page: /dika.html
         image: assets/img/team/Dika.jpg
         social:
           - url: https://twitter.com/
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Lucy Funnell"
         role: "AI Project Manager"
-        team-member-page: /team_member/lucy.html
+        team-member-page: /lucy.html
         image: assets/img/team/Lucy.jpg
         social:
           - url: https://twitter.com/
@@ -50,7 +50,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Simone"
         role: "Medical Physicist"
-        team-member-page: /team_member/simone.html
+        team-member-page: /simone.html
         image: assets/img/team/Simone.jpg
         social:
           - url: https://twitter.com/
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Laurence"
         role: "Clinical Scientist"
-        team-member-page: /team_member/laurence.html
+        team-member-page: /laurence.html
         image: assets/img/team/Laurence.png
         social:
           - url: https://twitter.com/
@@ -72,7 +72,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Anil"
         role: "Clinical Scientist"
-        team-member-page: /team_member/anil.html
+        team-member-page: /anil.html
         image: assets/img/team/Anil.jpg
         social:
           - url: https://twitter.com/
@@ -83,7 +83,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Alexander Deng"
         role: "Fellow in Clinical AI"
-        team-member-page: /team_member/alex.html
+        team-member-page: /alex.html
         image: assets/img/team/Alex.jpg
         social:
           - url: https://twitter.com/
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Lucrezia"
         role: "AI Engineer"
-        team-member-page: /team_member/lucrezia.html
+        team-member-page: /lucrezia.html
         image: assets/img/team/Lucrezia.jpeg
         social:
           - url: https://twitter.com/
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Tom Roberts"
         role: "AI Engineer"
-        team-member-page: /team_member/tom.html
+        team-member-page: /tom.html
         image: assets/img/team/TomR.jpeg
         social:
           - url: https://github.com/tomaroberts

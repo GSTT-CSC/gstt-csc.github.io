@@ -1,0 +1,5 @@
+current directory: /Users/lce21/Documents/GitHub/csc-test-site-gh-pages/vendor/bundle/ruby/2.6.0/gems/http-parser-1.2.3/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -rrubygems /Users/lce21/Documents/GitHub/csc-test-site-gh-pages/vendor/bundle/ruby/2.6.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/Users/lce21/Documents/GitHub/csc-test-site-gh-pages/vendor/bundle/ruby/2.6.0/extensions/universal-darwin-21/2.6.0/http-parser-1.2.3 RUBYLIBDIR\=/Users/lce21/Documents/GitHub/csc-test-site-gh-pages/vendor/bundle/ruby/2.6.0/extensions/universal-darwin-21/2.6.0/http-parser-1.2.3
+mkdir -p x86_64-darwin/http-parser
+xcrun clang -fexceptions -O -fno-omit-frame-pointer -fno-strict-aliasing -Wall -Wextra -O3   -o x86_64-darwin/http-parser/http_parser.o -c ./http-parser/http_parser.c
+xcrun clang -bundle -o x86_64-darwin/libhttp-parser-ext.bundle x86_64-darwin/http-parser/http_parser.o -fexceptions 

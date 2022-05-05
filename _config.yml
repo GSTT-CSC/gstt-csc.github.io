@@ -11,12 +11,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# TODO: fix these theme settings properly
-# theme: jekyll-theme-cayman  # uncomment if problems with GitHub pages when pushing live site
-theme: jekyll-theme-cayman
+theme: jekyll-agency
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : CSC
 #logo       : "assets/img/logo_small.png"
@@ -32,8 +30,9 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
-  team_member:
-    output: true
+## TODO: create working collections folder "_teammembers"
+#collections:
+#  team_members:
+#    output: true
 
 markdown: kramdown

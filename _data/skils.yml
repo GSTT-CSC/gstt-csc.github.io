@@ -1,0 +1,48 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  skills:
+      - name: "Skill"
+        description: "Description"
+        experts:
+          - person: "Haris Shuaib"
+            picture: assets/img/team/Haris.png
+        in-progress:
+          - person: "Laurence Jackson"
+            picture: assets/img/team/Laurence.png
+      - name: "Skill"
+        description: "Descritption"
+        experts:
+         - person: "Tom Roberts"
+           picture: assets/img/team/TomR.jpeg
+        in-progress:
+         - person: "Lucrezia Cester"
+           picture: assets/img/team/Lucrezia.jpeg
+      - name: "Skill"
+        description: "Description"
+        experts:
+          - person: "Dika"
+            picture: assets/img/team/Dika.jpg
+        in-progress:
+          - person: "Simone"
+            picture: assets/img/team/Simone.jpg
+
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

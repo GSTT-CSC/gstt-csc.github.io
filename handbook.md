@@ -4,4 +4,5 @@ title: Handbook
 description:
 ---
 
-The CSC Handbook: an essential guide to all things CSC.
+
+{% include table_of_contents.html %}
