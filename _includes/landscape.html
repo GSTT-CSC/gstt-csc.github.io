@@ -5,10 +5,8 @@
   {% for platform in site.data.landscape[site.locale].landscape.platforms %}
 	<div class="col-sm-4 pb-5">
 	  <div class="platform">
-		<a href="{{ platform.platform }}">
-			<a href="/aidelandscape.html">
+		<a href="{{ platform.platform-page }}">
 		  <img style="width: 300px; height: 180px; padding = 1px; border: 8px solid transparent; background: linear-gradient(90deg, #e1f0d0 100%, #ce00 100%)" src="{{ platform.image }}" alt="">
-		</a>
 		</a>
 		<h4>{{ platform.name }}</h4>
 	  </div>
