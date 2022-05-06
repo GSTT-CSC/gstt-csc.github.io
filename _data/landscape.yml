@@ -17,14 +17,20 @@ en: &DEFAULT_EN
     platforms:
       - name: "AIDE"
         image: assets/landscape/aide_logo.jpg
+        platform-page: /aidelandscape.html
+        platform-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, blanditiis, eos fugit in magni modi nemo quaerat quis repudiandae sunt vero voluptatum! Accusantium alias deleniti deserunt, dolores earum eligendi, eum illo iusto minima minus nam numquam quos sint tempora ullam ut vitae. Cumque doloremque error, ipsam iusto minima molestiae quam?
       - name: "CogStack"
         image: assets/landscape/cogstack_logo.png
+        platform-page:
       - name: "FLIP"
         image: assets/landscape/flip_logo.png
+        platform-page:
       - name: "XNAT"
         image: assets/landscape/xnat_logo.png
+        platform-page:
       - name: "MLOPS"
         image: assets/landscape/mlops_logo1.png
+        platform-page:
 
 
 
