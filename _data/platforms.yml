@@ -1,0 +1,41 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  title: "The Landscape"
+  intro-text: "Click on the links below to find out more about the software platforms we are working on within CSC."
+  section: platforms
+  platforms:
+    - name: "AIDE"
+      platform-page: /platforms/aide.html
+      platform-image: assets/img/platforms/aide_logo.png
+    - name: "FLIP"
+      platform-page: /platforms/flip.html
+      platform-image: assets/img/platforms/flip_logo.png
+    - name: "CogStack"
+      platform-page: /platforms/cogstack.html
+      platform-image: assets/img/platforms/cogstack_logo.png
+    - name: "XNAT"
+      platform-page: /platforms/xnat.html
+      platform-image: assets/img/platforms/xnat_logo.png
+    - name: "MLOps"
+      platform-page: /platforms/mlops.html
+      platform-image: assets/img/platforms/mlops_logo.png
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
