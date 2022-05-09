@@ -35,5 +35,7 @@ analytics:
 collections:
   team_member:
     output: true
+  platforms:
+    output: true
 
 markdown: kramdown
