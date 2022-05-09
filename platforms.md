@@ -1,5 +1,3 @@
 ---
-layout: landscape_l
+layout: platforms
 ---
-
-{% include landscape.html %}
