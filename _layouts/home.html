@@ -4,11 +4,15 @@ layout: default
 {% include navheader.html %}
 {% include about.html %}
 {% include roadmap.html %}
-<div class="row">
-   <div class = "col-8">
-   {% include calendar.html %}
-</div>
-<div class="col-4">
-   {% include twitter.html %}
-</div>
+<div class="container mt-5">
+   <div class="row">
+      <div class="col-7 mr-5">
+         <h2 class="mb-3">Calendar</h2>
+         {% include calendar.html %}
+      </div>
+      <div class="col-4">
+         <h2 class="mb-3">Twitter</h2>
+         {% include twitter.html %}
+      </div>
    </div>
+</div>
