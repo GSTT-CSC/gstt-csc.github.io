@@ -22,34 +22,33 @@ en: &DEFAULT_EN
 
   roadmap:
     title: "Roadmap"
-    text: "Lorem ipsum roadmap"
     section: roadmap
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/roadmap/1.jpg
+      - title: "CSC is Founded!"
+        date: "January 2021"
+        desc: "The Clinical Scientific Computing (CSC) department is born at Guy's and St Thomas' NHS Foundation Trust (GSTT)."
+        image: assets/img/roadmap/csc-logo-old-rm.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Something significant happens"
+        date: "October 2022"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus."
         image: assets/img/roadmap/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "AIDE MVP is deployed"
+        date: "April (?) 2021"
+        desc: "The first version of the AI Deployment Engine is deployed at King's College Hospital."
         image: assets/img/roadmap/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "CSC awarded four NHS Topol Fellowships"
+        date: "January 2022"
+        desc: "Four members of the CSC team are awarded Topol Fellowships to work on innovative digital health projects. This takes the tally of Topol Fellows in CSC to a total of six."
         image: assets/img/roadmap/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Click to <br> see our current <br> work"
 
   calendar:
     section: calendar
