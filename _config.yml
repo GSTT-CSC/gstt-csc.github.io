@@ -17,6 +17,7 @@ theme: jekyll-agency
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
+gstturl: "https://www.guysandstthomas.nhs.uk/"
 
 title      : CSC
 #logo       : "assets/img/logo_small.png"
