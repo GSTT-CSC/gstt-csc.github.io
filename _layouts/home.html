@@ -5,9 +5,18 @@ layout: default
 {% include about.html %}
 {% include whatwedo.html %}
 {% include roadmap.html %}
+
 <section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
 <div class="container">
-    <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
-    {% include calendar.html %}
+  <div class="row">
+    <div class="col-7 mr-5">
+       <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
+       {% include calendar.html %}
+    </div>
+    <div class="col-4">
+       <h2 class="pb-4">Twitter</h2>
+       {% include twitter.html %}
+    </div>
+  </div>
 </div>
 </section>
