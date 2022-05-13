@@ -13,7 +13,7 @@
 
 # TODO: fix these theme settings properly
 # theme: jekyll-theme-cayman  # uncomment if problems with GitHub pages when pushing live site
-theme: jekyll-agency
+theme: jekyll-theme-cayman
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
