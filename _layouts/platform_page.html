@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% include nav.html %}
+{% include subnav-platforms.html %}
+
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
+
+<div class="container" id="pagecontainer">
+    <br>
+    <br>
+    <h1>{{ page.platform-name }}</h1>
+    <br>
+    <div class="row">
+        <div class="col-4">
+            <img class="mx-auto" style="border: 1px solid black; " src={{ page.platform-image }} alt="">
+        </div>
+        <div class="col-8">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</div>
