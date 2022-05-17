@@ -37,5 +37,7 @@ collections:
     output: true
   platforms:
     output: true
+  projects:
+    output: true
 
 markdown: kramdown
