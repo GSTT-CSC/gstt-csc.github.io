@@ -1,5 +1,6 @@
 ---
 layout: ourwork
+title: Our Work
 ---
 
 ## Our Work
