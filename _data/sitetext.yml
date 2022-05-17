@@ -14,6 +14,11 @@ en: &DEFAULT_EN
     title:
     text:
 
+  about:
+    title: "Clinical Scientific Computing"
+    image: assets/img/csc-logo-text.svg
+    slogan: "Developing people, platforms and policy for digital health"
+    section: about
 
   roadmap:
     title: "Roadmap"
@@ -48,14 +53,7 @@ en: &DEFAULT_EN
 
   calendar:
     section: calendar
-
-  about:
-    title: "Clinical Scientific Computing"
-    text: "Evaluating and implementing medical software for the NHS"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-
-
+    title: CSC Calendar
 
   footer:
     legal: "Privacy Policy"

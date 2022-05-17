@@ -1,0 +1,22 @@
+<!-- What We Do -->
+<section class="page-section bg-light" id="{{ whatwedo.section | default: "What we do" }}">
+  <div class="container">
+    <h2>{{ site.data.whatwedo[site.locale].whatwedo.title }}</h2>
+<!--    <p>{{ site.data.whatwedo[site.locale].whatwedo.text }}</p>-->
+
+    <div class="row pt-3">
+      {% for aspect in site.data.whatwedo[site.locale].whatwedo.aspects %}
+      <div class="col-1">
+        <img src="{{ aspect.image }}"  style="width: inherit">
+      </div>
+      <div class="col-3">
+        <h3 style="color:{{ aspect.colour }}">{{ aspect.title }}</h3>
+        <p class="text-muted">{{ aspect.text }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</section>
+<!-- End What We Do -->
