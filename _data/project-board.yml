@@ -1,0 +1,29 @@
+- project-status: Backlog
+  limit:
+
+- project-status: Scoping
+  limit:
+
+- project-status: Documenting
+  limit:
+
+- project-status: Governance
+  limit:
+
+- project-status: Contracting
+  limit:
+
+- project-status: Data Curating
+  limit:
+
+- project-status: Developing
+  limit:
+
+- project-status: Evaluating
+  limit:
+
+- project-status: Reporting
+  limit:
+
+- project-status: Graveyard
+  limit:
