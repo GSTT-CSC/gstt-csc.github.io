@@ -1,7 +1,7 @@
 ---
 layout: aboutus
-title: Handbook
+title: CSC Handbook
 description:
 ---
 
-The CSC Handbook: an essential guide to all things CSC.
+{% include handbook.html %}
