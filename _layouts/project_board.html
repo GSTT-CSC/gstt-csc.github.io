@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% include nav.html %}
+{% include subnav-ourwork.html %}
+
+<!--Intro-->
+<div class="container py-5" id="pagecontainer">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+</div>
+<!--Intro-->
+
+<!--Project Stages-->
+{% for status in site.data.project-board %}
+<section class="page-section {% cycle 'bg-light', 'white' %}" id="{{ status.project-status }}">
+    <div class="container" id="pagecontainer">
+        <h2 class="section-heading pb-3">{{ status.project-status }}</h2>
+        <div class="row pt-3">
+
+            <!--Project Cards-->
+            {% for project in site.projects %}
+
+            {% if project.status == status.project-status %}
+                {% include project-card.html %}
+            {% endif %}
+
+            {% endfor %}
+            <!--Project Cards-->
+        </div>
+    </div>
+</section>
+{% endfor %}
+<!--Project Stages-->
+
+
