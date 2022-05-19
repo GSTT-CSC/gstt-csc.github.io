@@ -1,5 +1,5 @@
 ---
-layout: platform_page
+layout: project_page
 title: Lung Nodules
 status: Backlog
 image: /assets/img/blog/nhs_logo.png
