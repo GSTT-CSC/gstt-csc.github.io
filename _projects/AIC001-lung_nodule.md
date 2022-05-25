@@ -1,11 +1,11 @@
 ---
-layout: ourwork
+layout: project_page
 title: Lung Nodules
 status: Project Scoping
 image: /assets/img/blog/nhs_logo.png
 summary: Automatic lung nodule detection and characterisation on CT Chest
-csc-lead: <a href="team_member/Anil.html">Anil</a>
-modality: Low-dose CT (LDCT) of the chest
+csc-lead: <a href="/team_member/Anil.html">Anil</a>
+modality: Low-dose CT
 pathology: Lung nodule growth, lung cancer
 rationale: The identification and characterisation of lung nodules for lung cancer indication is a repetitive and time-consuming process, and the burden of small team specialist thoracic radiologists. AI software that performs as well as a thoracic radiologist could provide initial assessment on all low-dose chest CT’s with incidental lung nodule pick-ups.
 patient-pathway: In virtual clinics, Thoracic Radiologists and Physicians discuss patients with incidental nodules picked up on CT's done for other reasons. Preparation for these meeting is time consuming. 
