@@ -1,7 +1,7 @@
 ---
 layout: ourwork
 title: Lung Nodules
-status: Backlog
+status: Project Scoping
 image: /assets/img/blog/nhs_logo.png
 summary: Automatic lung nodule detection and characterisation on CT Chest
 csc-lead: <a href="team_member/Anil.html">Anil</a>
