@@ -1,8 +1,8 @@
 ---
 layout: project_page
 title: Lung Nodules
-status: Backlog
-image: /assets/img/blog/nhs_logo.png
+status: Scoping
+image: assets/img/roadmap/lung_nodules.jpg
 summary: Automatic lung nodule detection and characterisation on CT Chest
 csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: Low-dose CT
