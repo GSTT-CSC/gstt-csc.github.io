@@ -1,29 +1,29 @@
-- project-status: Backlog
-  limit:
-
 - project-status: Scoping
-  limit:
+  description: Working with stakeholders to establish the project requirements.
 
 - project-status: Documenting
-  limit:
+  description:
 
 - project-status: Governance
-  limit:
+  description:
 
 - project-status: Contracting
-  limit:
+  description:
 
 - project-status: Data Curating
-  limit:
+  description:
 
 - project-status: Developing
-  limit:
+  description:
 
 - project-status: Evaluating
-  limit:
+  description:
 
 - project-status: Reporting
-  limit:
+  description:
+
+- project-status: Backlog
+  description:
 
 - project-status: Graveyard
-  limit:
+  description:
