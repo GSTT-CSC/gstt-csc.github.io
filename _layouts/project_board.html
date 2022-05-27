@@ -16,16 +16,26 @@ layout: default
 <section class="page-section {% cycle 'bg-light', 'white' %}" id="{{ status.project-status }}">
     <div class="container" id="pagecontainer">
         <h2 class="section-heading pb-3">{{ status.project-status }}</h2>
+        <h3 class="lead pb-3">{{ status.description }}</h3>
         <div class="row pt-3">
 
             <!--Project Cards-->
+            {% assign is_card = false %}
+
             {% for project in site.projects %}
 
+            <!--Assign project card to status-->
             {% if project.status == status.project-status %}
                 {% include project-card.html %}
+                {% assign is_card = true %}
             {% endif %}
 
             {% endfor %}
+
+            <!--Filler text if no projects with this status-->
+            {% if is_card == false %}
+                <h3 class="lead pb-3 font-italic">There are currently no projects at this stage of the development cycle.</h3>
+            {% endif %}
             <!--Project Cards-->
         </div>
     </div>
