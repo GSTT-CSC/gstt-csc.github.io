@@ -2,7 +2,7 @@
 layout: project_page
 title: Osteoporosis
 status: Contracting
-image: assets/img/roadmap/Osteoporosis.jpg
+image: /assets/img/roadmap/Osteoporosis.jpg
 summary: Timely identification of vertebral compression fractures to promote early treatment interventions.
 csc-lead: <a href="team_member/Dika.html">Dika</a>
 modality: CT first, then x-ray, then MRI.
