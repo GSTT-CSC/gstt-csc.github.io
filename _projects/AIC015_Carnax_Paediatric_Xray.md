@@ -1,10 +1,10 @@
 ---
 layout: project_page
-title: Carnax- computer assisted reporting of neonatal abdominal x rays
+title: Carnax – Computer Assisted Reporting of Neonatal Abdominal X-rays
 status: Developing
 image: /assets/img/blog/nhs_logo.png
 summary: This is a project summary.
-csc-lead: <a href="team_member/Simone.html">Simone</a>
+csc-lead: <a href="/team_member/Simone.html">Simone</a>
 modality: Abdominal and Chest X-Rays (Paediatric)
 pathology: Perforation of the intestine in preterm new-born babies
 rationale: AI-based medical imaging tool for detection of intestinal perforation in preterm neonates (abdominal x ray)

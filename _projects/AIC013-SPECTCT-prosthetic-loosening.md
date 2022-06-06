@@ -4,7 +4,7 @@ title: Prosthetic Loosening
 status: Data Curating
 image: /assets/img/blog/nhs_logo.png
 summary: This is a project summary.
-csc-lead: <a href="team_member/Dika.html">Dika</a>
+csc-lead: <a href="/team_member/Dika.html">Dika</a>
 modality: SPECT/CT
 pathology: Prosthetic loosening – mostly hip and knees, occasional elbow and shoulder.
 rationale: Prosthetic loosening is definitively diagnosed with a SPECT/CT. Around 40% of cases are not obvious and in 20% of cases the report is changed with further consultation. An AI tool would help in accuracy and increase confidence in reporting.

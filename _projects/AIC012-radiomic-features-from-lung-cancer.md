@@ -4,7 +4,7 @@ title: Radiomic features from CT to predict lung cancer
 status: Backlog
 image: /assets/img/blog/nhs_logo.png
 summary: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer.
-csc-lead: <a href="team_member/Anil.html">Anil</a>
+csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: Thorax CT (contrast enhanced)
 pathology: Lung cancer with nodal involvement
 rationale: Radiomic Features (RF) that are extracted from contrast enhanced CT of lung cancer and lymph nodes can be correlated with histology and survival outcomes to provide a non-invasive predictive tool to develop a multi-parametric predictive model to assistive the decisions in patient treatment.

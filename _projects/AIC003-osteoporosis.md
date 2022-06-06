@@ -4,7 +4,7 @@ title: Osteoporosis
 status: Contracting
 image: /assets/img/roadmap/Osteoporosis.jpg
 summary: Timely identification of vertebral compression fractures to promote early treatment interventions.
-csc-lead: <a href="team_member/Dika.html">Dika</a>
+csc-lead: <a href="/team_member/Dika.html">Dika</a>
 modality: CT first, then x-ray, then MRI.
 pathology: Vertebral compression fractures (spine)
 rationale: 77% of scans with vertebral compression fractures are correctly identified and 43% scans recommend referrals – both of these numbers can be improved with AI tool.
@@ -15,7 +15,7 @@ goals: Increased rates of identification and treatment referrals after identific
 success-criteria: Increased referrals and identifications of vertebral compression fractures
 alternatives: <a href="https://www.zebra-med.com/bone-health-solution"> NanoxAI</a>. Retrospective and prospective trials are planned to take place in the early 2022. The results will determine whether this clinical problem will be solved with NanoxAI's BoneHealth solution
 ---
-Background osteoporosis is easily treatable if identified, but can lead to complex fractures at other sites if undiagnosed, especially in the hip where a > 50% mortality at 12 months over the age of 80. Currently, 70% of vertebral compression fractures are undiagnosed though they are the most common osteoporotic fracture. This project would work in conjunction with the current fracture liaison service quality improvement project.
+Osteoporosis is easily treatable if identified, but can lead to complex fractures at other sites if undiagnosed, especially in the hip where a > 50% mortality at 12 months over the age of 80. Currently, 70% of vertebral compression fractures are undiagnosed though they are the most common osteoporotic fracture. This project would work in conjunction with the current fracture liaison service quality improvement project.
 
 <b>Clinical lead(s)</b>: Davina Mak <br>
 <br>
