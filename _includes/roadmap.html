@@ -3,7 +3,18 @@
   <div class="col-lg-12">
     <ul class="roadmap">
       {%- assign align = site.data.roadmap.start_align -%}
+
+      <!--Events Loop-->
       {%- for event in site.data.roadmap.events -%}
+
+      {% if page.url == "/roadmap.html" %}
+        {%- assign display_event = true %}
+      {% else %}
+        {%- assign display_event = event.homepage_display %}
+      {% endif %}
+
+      <!--Display Event-->
+      {%- if display_event == true -%}
       {%- if align == "right" -%}
       {%- if event.align and event.align == "left" -%}
       {%- assign align = "right" -%}
@@ -34,7 +45,11 @@
           </div>
         </div>
       </li>
+      {% endif %}
+      <!--End Display Event-->
+
       {% endfor %}
+      <!--End Events Loop-->
 
       {% if site.data.roadmap.end %}
       <li class="roadmap-inverted">
