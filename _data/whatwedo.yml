@@ -1,42 +1,19 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
-
-# English (default)
-# -----------------
-en: &DEFAULT_EN
-
-  whatwedo:
-    section: whatwedo
-    title: "What we do"
-    text:
-    aspects:
-      - title: "People"
-        text: "Software and AI solutions for tackling healthcare problems are ever-expanding. We are training the next
+section: whatwedo
+title: "What we do"
+text:
+aspects:
+  - title: "People"
+    text: "Software and AI solutions for tackling healthcare problems are ever-expanding. We are training the next
         generation of cross-domain experts with knowledge of the clinical environment and scientific computing."
-        image: assets/img/people-icon.svg
-        colour: "#645EAA"
-      - title: "Platforms"
-        text: "Software and AI are changing healthcare. We are embedded in the hospital environment, working with all
+    image: assets/img/people-icon.svg
+    colour: "#645EAA"
+  - title: "Platforms"
+    text: "Software and AI are changing healthcare. We are embedded in the hospital environment, working with all
         stakeholders to create bespoke software platforms and new AI algorithms to transform patient care."
-        image: assets/img/platforms-icon.svg
-        colour: "#017751"
-      - title: "Policy"
-        text: "Patient safety is paramount when introducing any new technology into healthcare. We are developing policy
+    image: assets/img/platforms-icon.svg
+    colour: "#017751"
+  - title: "Policy"
+    text: "Patient safety is paramount when introducing any new technology into healthcare. We are developing policy
         and using policy to inform every aspect of the software lifecycle."
-        image: assets/img/policy-icon.svg
-        colour: "#D7472E"
-
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+    image: assets/img/policy-icon.svg
+    colour: "#D7472E"
