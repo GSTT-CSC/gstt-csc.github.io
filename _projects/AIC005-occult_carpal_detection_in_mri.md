@@ -4,7 +4,7 @@ title: MRI Occult Carpal Detection
 status: Data Curating
 image: /assets/img/roadmap/MRI wrist.jpg
 summary: AI application to interpret MRI scans to increase sensitivity and confidence of diagnosis.
-csc-lead: <a href="team_member/Laurence.html">Laurence</a>
+csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
 modality: MRI
 pathology: Occult carpal fracture
 rationale: Scaphoid and occult carpal fractures can be difficult to identify in MR images, typically requiring specialist radiologists that are not always available. This project aims to develop an AI application that can automatically identify these fractures.

@@ -4,7 +4,7 @@ title: Rotational Profiles
 status: Developing
 image: /assets/img/blog/nhs_logo.png
 summary: An AI tool to measure degrees of misalignment of lower limb rotation in pre-surgical planning assessments .  
-csc-lead: <a href="team_member/Anil.html">Anil</a>
+csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: CT Scans 
 pathology: Lower limb rotation
 rationale: Assessment of rotational profiles is time consuming and complex. An AI algorithm would significantly decrease the amount of time needed to measure the angles of rotation.

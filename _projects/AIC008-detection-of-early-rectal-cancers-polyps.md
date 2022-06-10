@@ -4,7 +4,7 @@ title: Early detection of rectal cancer
 status: Data Curating
 image: /assets/img/roadmap/polyps.jpg
 summary: An application that identifies areas of concern on MRI images for the detection of rectal cancers/polyps
-csc-lead: <a href="team_member/Laurence.html">Laurence</a>
+csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
 modality: MRI
 pathology: Rectal cancer/polyps
 rationale: Development of an AI tool to identify areas of concern that may indicate early development of cancer and polyps in rectal MRI images

@@ -4,7 +4,7 @@ title: X-Ray Occult Carpal Detection
 status: Data Curating
 image: /assets/img/roadmap/xray_carpel.jpg
 summary: A computer aided diagnosis tool which would automatically run when a scaphoid fracture is suspected.
-csc-lead: <a href="team_member/Dika.html">Dika</a>
+csc-lead: <a href="/team_member/Dika.html">Dika</a>
 modality: X-ray
 pathology: Occult carpal fractures (wrist and hands)
 rationale: MRI is superior in identification of occult carpal fracture, but is not always accessible. An AI tool to aide clinical diagnosis of occult carpal fractures using x-rays would increase diagnostic sensitivity in areas and situations where MRI is not available.
