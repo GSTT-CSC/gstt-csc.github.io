@@ -9,6 +9,7 @@ modality: Thorax CT (contrast enhanced)
 pathology: Lung cancer with nodal involvement
 rationale: Radiomic Features (RF) that are extracted from contrast enhanced CT of lung cancer and lymph nodes can be correlated with histology and survival outcomes to provide a non-invasive predictive tool to develop a multi-parametric predictive model to assistive the decisions in patient treatment.
 patient-pathway: Patients receive a contrast enhanced CT then a biopsy for diagnosis and staging of lung cancer, the results of which determine the treatment path.
+
 training-data: Pre-operative Contrast enhanced Thorax CTs (2014-2018), collected into a database (n = 500 ~ 600). Option of including recent CTs (2018 – present) with limited data on survival after surgery.
 errors: Poor RF will develop a model with little predictive value. Mismanagement of patient treatment. Poor research outcomes.
 goals: A tool that extracts radiomic features with a high predictive power in predicting histology and patient outcomes.

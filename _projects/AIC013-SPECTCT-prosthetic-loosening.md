@@ -23,4 +23,5 @@ Bone scan and SPECT CT are effective ways of assessing loosening as the metal ar
 <b>Project Plan</b><br>  1.	Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> <br> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing <br><br>6.	Implementation <br><br>7. Audit 
 <br>
 <br>
+
 <b>References</b>

@@ -4,8 +4,17 @@ layout: default
 {% include navheader.html %}
 {% include about.html %}
 {% include whatwedo.html %}
-{% include roadmap.html %}
 
+<!--Roadmap-->
+<section class="page-section" id="{{ site.data.roadmap.section }}">
+<div class="container">
+    <h2 class="section-heading pb-3">{{ site.data.roadmap.title | markdownify | default: "Roadmap" }}</h2>
+    {% include roadmap.html %}
+</div>
+</section>
+<!--End Roadmap-->
+
+<!--Calendar & Twitter-->
 <section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
 <div class="container">
   <div class="row">
@@ -20,3 +29,4 @@ layout: default
   </div>
 </div>
 </section>
+<!--End Calendar & Twitter-->
