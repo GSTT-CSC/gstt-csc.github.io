@@ -22,7 +22,8 @@ MRI pelvis studies are reported by a variety of subspecialty radiologists leadin
 <br>
 **Project Plan**
 
-**Initial Meeting**<br>
+
+<strike><b>Initial Meeting<br></b>
    1. Meeting of all persons involved to determine AI specifications <br>
 
 **Setting technical and system requirements for AI model**<br>
@@ -30,7 +31,7 @@ MRI pelvis studies are reported by a variety of subspecialty radiologists leadin
    2. Agree on minimum valuable requirements for success e.g. 25% reduction in missed polyps. We are aiming for a 10% reduction in missed polyps using the methodology above.<br>
    3. Agree on size of POC and production datasets and who is responsible for compiling them. We will use existing database of 5 year audit to generate proof-of-concept dataset <br>
    4. Agree on how model will be deployed. The application will push information back to radiologist workstation to indicate suspect dicom series as well as slice number and region <br>
-
+</strike> <br>
 **Development phase (proof of concept (POC)**
    1. Dataset curation (retrospective)
    2. Model training 

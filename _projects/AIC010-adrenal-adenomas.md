@@ -17,8 +17,10 @@ alternatives: Currently no commercial products identified
 
 ---
 Within increasing accessibility and demand for CT imaging in radiology, the number of incidental findings are also increasing. The incidence of incidental adrenal lesions is in the region of 5%-10% (from published studies). The challenge for radiologists is giving an accurate diagnosis/characterisation of these adrenal lesions that do not clearly demonstrate macroscopic fat. Hence we often have to recall patients for dedicated adrenal CT examinations. If we are able to use AI technology to better characterise incidental adrenal lesions as either benign, malignant or indermintate, we will reduce our recall rates of patients.
-
-<b>Clinical lead(s)</b>
+<br>
+<br>
+<b>Clinical lead(s)</b> TBC
+<br>
 <br>
 <b>Project Plan</b> <br> 1. Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> <br> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing <br><br>6.	Implementation <br><br>7. Audit 
 <br>
