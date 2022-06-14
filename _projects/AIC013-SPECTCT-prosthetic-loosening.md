@@ -3,7 +3,7 @@ layout: project_page
 title: Prosthetic Loosening
 status: Data Curating
 image: /assets/img/blog/nhs_logo.png
-summary: This is a project summary.
+summary: An AI tool to improve accuracy and increase confidence in reporting of prosthetic loosening.
 csc-lead: <a href="/team_member/Dika.html">Dika</a>
 modality: SPECT/CT
 pathology: Prosthetic loosening – mostly hip and knees, occasional elbow and shoulder.
@@ -15,13 +15,13 @@ goals: Reducing patient pain and avoiding unnecessary surgery. Improving diagnos
 success-criteria: Increased diagnostic accuracy and thus reduction in unnecessary surgery, increase in speed with which loosening is diagnosed.
 alternatives: Currently no commercial products identified
 ---
-Bone scan and SPECT CT are effective ways of assessing loosening as the metal artefact reduces the clarity of other imaging modalities. Patients will also be referred to x-ray and CT, but SPECT/CT supersedes these for accuracy. 
-
-
-<b>Clinical lead(s)</b>
-<br>
-<b>Project Plan</b><br>  1.	Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> <br> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing <br><br>6.	Implementation <br><br>7. Audit 
+Bone scan and SPECT CT are effective ways of assessing loosening as the metal artefact reduces the clarity of other imaging modalities. Patients will also be referred to x-ray and CT, but SPECT/CT supersedes these for accuracy.
 <br>
 <br>
-
+<b>Clinical lead: </b>Sanjay Vijayanathan
+<br>
+<br>
+<b>Project Plan</b><br> <strike> 1.	Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> <br> </strike> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing <br><br>6.Implementation <br><br>7. Audit 
+<br>
+<br>
 <b>References</b>

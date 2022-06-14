@@ -16,12 +16,13 @@ success-criteria: Improvement in diagnostic accuracy and diagnostic speed.
 alternatives: Currently no commercial products identified 
 ---
 Scaphoid and Occult carpal fractures are a significant economic burden on society and the TOHETI study demonstrated economic advantages of primary scanning with short sequence MRI. We aim to develop an AI application to interpret MRI to increase sensitivity and confidence of diagnosis. This should enable rapid turnaround treatment and discharge of these patients, many of whom are treated unnecessarily. If applied this is likely to benefit communities where there are fewer radiologists available for image interpretation and allow triage of reporting.
-
+<br>
+<br>
 <b>Clinical lead</b>: Davina Mak <br>
 <br>
 **Project Plan** <br>
-<strike> 1.	Meeting of all persons involved to determine AI specifications <br><br> 2.	Setting technical and system requirements for AI model <br> </strike> <br> 3.Dataset curation (retrospective) <br><br> 4.Model training <br><br>   5.Model testing<br><br>6.	Implementation|
+<strike> 1.	Meeting of all persons involved to determine AI specifications <br><br> 2.	Setting technical and system requirements for AI model <br> </strike> <br> 3.Dataset curation (retrospective) <br><br>4.Model training <br><br>   5.Model testing<br><br>6.	Implementation
 <br>
 <br>
-<b>References</b>  - 
+<b>References</b>
 

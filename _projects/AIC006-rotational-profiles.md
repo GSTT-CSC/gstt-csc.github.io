@@ -17,14 +17,14 @@ alternatives: Currently no commercial products identified
 ---
 
 Current practice of manually drawing lines over the long bones and the joints on CT images in PACS to figure the degree of misalignment is time-consuming (15-20 minutes per case). An AI tool would automatically create these lines and angles, saving time and reducing variability.
-
-
-<b>Clinical lead(s)</b>: Dr. Christopher Tang <br>
+<br>
+<br>
+<b>Clinical lead</b>: Dr. Christopher Tang <br>
 <br>
 **Project Plan**
-<br> <b> <strike> 1. Meeting of all persons involved to determine AI specifications.</b> <br><br> For radiologist (Chris) :<br> - Confirm +/3 to 5 degree precision with peers<br> - Confirm with surgeons how angles are used to guide knee surgery <br> - Confirm 3 bone ankle slice is the correct slice to analyse.<br>- Review software requirements spec <br> <br><b>2.	Setting technical and system requirements for AI model.</b><br><br> For CSC (Anil) <br>  -  Perform the risk assessment<br> - Create software design spec from software requirements spec <br> - Attempt to build non-A.I software with “dicom_server” and eventually “AI Deployment Engine” <br> - Investigate the AI route<br><br><b> 3. Dataset curation (retrospective). </b><br><br> - Collect Patient ID’s for 100-200 patients, analysed by different radiologists<br><br> </strike> <b>4.	Model training</b><br><br> <b>5.	Model testing</b> <br><br><b>6.	Implementation</b> <br><br>
-<b>7. Audit </b> 
+<br> <strike> 1. Meeting of all persons involved to determine AI specifications. <br><br> For radiologist (Chris) :<br> - Confirm +/3 to 5 degree precision with peers<br> - Confirm with surgeons how angles are used to guide knee surgery <br> - Confirm 3 bone ankle slice is the correct slice to analyse.<br>- Review software requirements spec <br> <br>2.	Setting technical and system requirements for AI model.<br><br> For CSC (Anil) <br>  -  Perform the risk assessment<br> - Create software design spec from software requirements spec <br> - Attempt to build non-A.I software with “dicom_server” and eventually “AI Deployment Engine” <br> - Investigate the AI route<br><br> 3. Dataset curation (retrospective).<br><br> - Collect Patient ID’s for 100-200 patients, analysed by different radiologists<br><br> </strike> 4.	Model training<br><br> 5.Model testing <br><br>6. Implementation <br><br> 7. Audit
 <br>
 <br>
-<b>References</b>:  Website used to help calculate rotational angles is <a href="http://uwmsk.org/legrotation.html"> here</a>. |
+<b>References</b>:<br>
+Website used to help calculate rotational angles is <a href="http://uwmsk.org/legrotation.html"> here</a>.
 

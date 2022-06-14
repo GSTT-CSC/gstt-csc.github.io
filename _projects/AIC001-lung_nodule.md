@@ -25,3 +25,11 @@ General radiologists assessing a patients’ chest LDCT performed for other reas
 detect lung nodules, potentially missing diagnoses. An AI software that could pre-read and report lung nodules means 
 general radiologists could produce nodule management plans not dissimilar to that reported by a thoracic radiologist, 
 therefore improving confidence in cancer work, and reducing the burden on thoracic radiologists.
+<br>
+<br>
+<b>Clinical lead(s)</b>: TBC <br>
+<br>
+**Project Plan**<br> TBC
+<br>
+<br>
+<b>References</b>:<br>
