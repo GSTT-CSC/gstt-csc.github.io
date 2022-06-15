@@ -1,6 +1,6 @@
 ---
 layout: project_page
-title: Carnax – Computer Assisted Reporting of Neonatal Abdominal X-rays
+title: CARNAX – Computer Assisted Reporting of Neonatal Abdominal X-rays
 status: Developing
 image: /assets/img/roadmap/carnax_logo.png
 summary: AI-based medical imaging tool for detection of intestinal perforation.
