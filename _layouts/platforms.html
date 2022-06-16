@@ -10,10 +10,27 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+ <h1>{{ site.data.platforms[site.locale].title }}</h1>
+      <h5 class="text-muted">{{ site.data.platforms[site.locale].intro-text }}</h5>
+<div class="container" id="pagecontainer">
+         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" >
+  <div class="carousel-inner" >
+
+      {% for platform in site.data.platforms[site.locale].platforms %}
+        <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+           <img class="rounded mx-auto d-block w-50"  src="{{ platform.platform-image }}">
+        </div>
+      
+     {% endfor %}
+    </div>
+  </div>
+</div>
+</div>
+
+
 <div class="container" id="pagecontainer">
     <!-- Landscape -->
-      <h1>{{ site.data.platforms[site.locale].title }}</h1>
-      <h5 class="text-muted">{{ site.data.platforms[site.locale].intro-text }}</h5>
+
       <div class="row pt-3">
       {% for platform in site.data.platforms[site.locale].platforms %}
         <div class="col-4 pb-3">
