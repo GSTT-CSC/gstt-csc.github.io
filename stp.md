@@ -39,8 +39,10 @@ For more information on how to apply, please refer to the [National School of He
 
 As applicants are only able to apply for one specialty, you will need to refer to the [STP Specialisms](https://nshcs.hee.nhs.uk/programmes/stp/applicants/stp-specialisms/) available each year. Typically, those interested in working with our team should apply for those within the **[Physical Sciences](https://nshcs.hee.nhs.uk/healthcare-science/healthcare-science-specialisms-explained/physical-sciences/)** and **[Informatics](https://nshcs.hee.nhs.uk/healthcare-science/healthcare-science-specialisms-explained/informatics/)** themes, specifically **[Clinical Scientific Computing](https://nshcs.hee.nhs.uk/healthcare-science/healthcare-science-specialisms-explained/informatics/clinical-scientific-computing/)**.
 
+<!---
 ## Alumni
 
 The CSC team is proud to have an esteemed list of alumni from the programme, some of which have shared their highlights below:
 
 {% include carousel.html %}
+-->
