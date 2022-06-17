@@ -1,18 +1,34 @@
 ---
 layout: people
-title: Scientists Training Programme (STP) Scheme
+title: Scientist Training Programme (STP) Scheme
 description:
 ---
 
-As part of Guy's and St Thomas' NHS Foundation Trust support for the [scheme](https://nshcs.hee.nhs.uk/programmes/stp/), the Clinical Scientific Computing (CSC) team offers trainees the opportunity to learn more about the use and development of AI in healthcare, including the ethical use of clinical data, to improve patient care and outcomes.
+The NHS employs Clinical Scientists who work in scientific roles within hospitals. The NHS Scientist Training Programme 
+(STP) is a three-year [scheme](https://nshcs.hee.nhs.uk/programmes/stp/) of work-based learning, supported by a 
+University accredited master's degree, which trains graduates to become registered Clinical Scientists.
 
-Aside from their work within GSTT, the CSC team is also a core member of the [London Medical Imaging & AI Centre for Value Based Healthcare](https://www.aicentre.co.uk/). This allows STP trainees to learn in a globally unique environment by not only giving them access to the [world’s largest supercomputer dedicated to healthcare](https://www.aicentre.co.uk/news-and-events/news/helping-build-uks-most-powerful-supercomputer-ai-healthcare), but also being an integral part of the entire AI product lifecycle from research and development, to procurement and post-market analysis.
+The CSC team now offers a new STP specialism in [Clinical Scientific Computing](https://nshcs.hee.nhs.uk/healthcare-science/healthcare-science-specialisms-explained/informatics/clinical-scientific-computing/). 
 
-Throughout their time with the team, trainees will gain a variety of transferable skills such as: 
+Trainees will be based at Guy's and St Thomas' NHS Foundation Trust (GSTT) working within the CSC team. Trainees will 
+learn about the use and development of AI in healthcare, including the ethical use of clinical data, to improve patient care and outcomes.
 
-- Software development
+Beyond GSTT, the CSC team is also a core member of the [London Medical Imaging & AI Centre for Value Based Healthcare](https://www.aicentre.co.uk/). 
+This allows STP trainees to learn in a globally unique environment by not only giving them access to the 
+[world’s largest supercomputer dedicated to healthcare](https://www.aicentre.co.uk/news-and-events/news/helping-build-uks-most-powerful-supercomputer-ai-healthcare), 
+but also being an integral part of the entire AI product lifecycle from research and development, to procurement and post-market analysis.
+
+Trainees who specialise in Clinical Scientific Computing will gain a variety of skills including: 
+
+- Knowledge of all stages of the Software Development Lifecycle
+- AI skills
+- Programming skills
+- Creating software
+- Commissioning software for clinical use
+- Maintenance of clinical software
 - Data curation
 - Project management
+- Software policy expertise
 
 ## How to apply
 For more information on how to apply, please refer to the [National School of Healthcare Science (NSHS)](http://nshcs.hee.nhs.uk/) Applicants page [here](https://nshcs.hee.nhs.uk/programmes/stp/applicants/). Typically, the process consists of three stages:
