@@ -1,6 +1,7 @@
 ---
 layout: people
 title: Scientist Training Programme (STP) Scheme
+permalink: /stp.html
 description:
 ---
 
