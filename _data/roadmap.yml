@@ -38,8 +38,8 @@ events:
     desc: "5 CSC team members have abstracts accepted at SIIM 2022"
     homepage_display: false
     alt:
-  - title: "QMS Audit"
-    date: "TBC 2022"
+  - title: "QMS ISO 13485 Certified"
+    date: "June 2022"
     desc: "The CSC Teams Quality Management System is audited and is certified to use"
     image: assets/img/roadmap/design-devlopment-process.jpg
     homepage_display: false
