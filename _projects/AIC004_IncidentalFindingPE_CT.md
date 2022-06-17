@@ -2,7 +2,7 @@
 layout: project_page
 title: Incidental Pulmonary Embolism
 status: Data Curating
-image: /assets/img/roadmap/lung_pe.jpg
+image: /assets/img/projects/lung_pe.jpg
 summary: An automated tool for identifying and prioritising patients with Pulmonary Emboli.
 csc-lead: <a href="/team_member/Simone.html">Simone</a>
 modality: Contrast enhanced CT (Thorax/Abdomen/Pelvis)
