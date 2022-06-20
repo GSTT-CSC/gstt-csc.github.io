@@ -1,6 +1,7 @@
 ---
 layout: aboutus
 title: Meet the Team
+permalink: /team.html
 description: The CSC Team
 ---
 

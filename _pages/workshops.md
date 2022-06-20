@@ -1,5 +1,6 @@
 ---
 layout: blog
+permalink: /workshops.html
 ---
 
 ## Workshops 

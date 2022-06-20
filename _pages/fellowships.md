@@ -1,6 +1,7 @@
 ---
 layout: people
 title: Fellowships
+permalink: /fellowships.html
 description:
 ---
 
