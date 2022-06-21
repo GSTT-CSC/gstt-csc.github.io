@@ -30,5 +30,7 @@ collections:
     output: true
   projects:
     output: true
+  handbook:
+    output: true
 
 markdown: kramdown
