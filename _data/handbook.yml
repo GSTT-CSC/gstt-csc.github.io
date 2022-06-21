@@ -1,0 +1,61 @@
+# Handbook contents
+
+#  heading:
+#  image:
+#  text:
+
+- heading: Using this Handbook
+  image:
+  text: "The CSC Handbook is intended to act as an encyclopedia for all activities inside CSC. If you work in CSC,
+  if you're new to CSC, if you're a CSC collaborator or you're interested in joining CSC then the information you seek
+  should be in here somewhere."
+
+- heading: Our Mission
+  image:
+  text: "The CSC mission statement is: developing people, platforms and policy for digital health. Our objectives are to
+  develop the NHS digital workforce of tomorrow, to create and support innovative new software and to advise on
+  policy relating to software as a medical device."
+
+- heading: Our Values
+  image:
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at consectetur consequatur corporis
+  cupiditate, eaque eligendi excepturi exercitationem fugit, id impedit inventore ipsam maxime minima modi nemo nobis
+  obcaecati perspiciatis porro praesentium quos recusandae rerum sunt suscipit tenetur vero voluptatem"
+
+- heading: Working in CSC
+  image:
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at consectetur consequatur corporis
+  cupiditate, eaque eligendi excepturi exercitationem fugit, id impedit inventore ipsam maxime minima modi nemo nobis
+  obcaecati perspiciatis porro praesentium quos recusandae rerum sunt suscipit tenetur vero voluptatem"
+
+- heading: Standups
+  image:
+  text: "The CSC Team hosts Standup meetings every Tuesday and Thursday morning from 9.30am to 10.00am. The first part
+  of the meeting is devoted to news pertinent to the entire CSC Team. The second part of the Standup is dedicated to
+  individual members of the team summarising work from the previous days and detailing their plans for the next few
+  days. This is also an opportunity to appraise anything noteworthy or raise any concerns which might be a barrier to
+  progress."
+
+- heading: NHS Admin
+  image:
+  text: "This section will address all those fiddly little things you've forgotten, such as how to access GTi, how to
+  find your payslips, where to find the CSC annual leave calendar, etc."
+
+- heading: GSTT IT
+  image:
+  text: "This section will detail how to get in touch with GSTT IT if you have a technical problem."
+
+- heading: Performance Reviews
+  image:
+  text: "How to do PDRs and where to find relevant information"
+
+- heading: GitHub
+  image:
+  text: The CSC GitHub can be found here – <a href="https://github.com/GSTT-CSC/">CSC Github</a>.
+
+- heading: Quality Management System
+  image:
+  text: CSC develops software for use at GSTT under a Quality Management System (QMS).
+
+
+

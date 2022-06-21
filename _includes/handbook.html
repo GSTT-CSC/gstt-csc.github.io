@@ -1,0 +1,52 @@
+<!-- Handbook -->
+<style>
+.scrollspy-example {
+  position: relative;
+  /*height: 200px;*/
+  overflow: auto;
+}
+</style>
+
+<div class="row">
+
+  <div class="col-3">
+    <!-- Handbook Scrollspy -->
+    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+
+      <ul class="nav flex-column nav-pills menu-sidebar" id="handbookNav">
+      <h4 class="text-center pt-2">Handbook Contents</h4>
+          {% assign ctr = 0 %}
+          {% for item in site.data.handbook %}
+              <li class="nav-item">
+                <a class="nav-link" href="#handbook-entry-{{ctr}}">{{ item.heading }}</a>
+              </li>
+          {% capture ctr %}{{ ctr | plus:1 }}{% endcapture %}
+          {% endfor %}
+      </ul>
+    </div>
+    <!-- Handbook Scrollspy -->
+  </div>
+
+  <div class="col-md-9">
+    <!-- Handbook Text (spied element) -->
+    <div
+      data-mdb-spy="scroll"
+      data-mdb-target="#scrollspy1"
+      data-mdb-offset="0"
+      class="scrollspy-example"
+    >
+        {% assign ctr = 0 %}
+        {% for item in site.data.handbook %}
+        <h3 id="handbook-entry-{{ctr}}">{{ item.heading }}</h3>
+        {% if item.image %}
+            <p>{{ item.image }}</p>
+        {% endif %}
+        <p>{{ item.text }}</p>
+        {% capture ctr %}{{ ctr | plus:1 }}{% endcapture %}
+        {% endfor %}
+    </div>
+    <!-- Handbook Text (spied element) -->
+  </div>
+
+</div>
+<!-- End Handbook -->
