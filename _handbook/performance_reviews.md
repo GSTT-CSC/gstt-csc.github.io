@@ -1,7 +1,7 @@
 ---
 title: Performance Reviews
-order: 4
+order: 9
 image:
 ---
 
-How to do PDRs and where to find relevant information
+More information about performance and development reviews can be found on the Trust HR Portal 
