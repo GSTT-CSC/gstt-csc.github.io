@@ -4,6 +4,11 @@ order: 3
 image:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at consectetur consequatur corporis
-cupiditate, eaque eligendi excepturi exercitationem fugit, id impedit inventore ipsam maxime minima modi nemo nobis
-obcaecati perspiciatis porro praesentium quos recusandae rerum sunt suscipit tenetur vero voluptatem
+The CSC team values reflect the values of Guy's and St Thomas' NHS Foundation Trust. Our values are at the heart of 
+everything we do. They are to:
+- Put patients first
+- Take pride in what we do
+- Respect others
+- Strive to be the best
+- Act with integrity
+
