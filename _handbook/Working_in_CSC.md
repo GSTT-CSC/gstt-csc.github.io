@@ -4,10 +4,24 @@ order: 4
 image:
 ---
 
-The CSC Team is small group of elected individuals from a variety of backgrounds. The team is made up of 7 full time members and 3 part time members. We are based in and around St Thomas’ NHS foundation trust however most of our work is completed remotely using MS Teams, MS Share point and our CSC Website. New members to the CSC Team are provided with a MacBook Pro to enable them to access these programs and complete their working tasks. If additional equipment or software is required to support, you complete your role this can be arranged after conversations with the Head of the CSC Team.<br> 
-<br>While we have a flexible work schedule the team should be available to meeting with standard working hours if required i.e. for stakeholder meetings, CSC Stand-ups and our 10x sessions.<br>
-<br>The team support clinical teams with GSTT to evaluate or develop AI that’s address a need in a clinical or workflow pathway. We can support projects of varying sizes and at various stages of the project lifecycle. Typically, we will be engaged in projects for their entire lifecycle and a CSC member would be assigned to individual projects as the CSC Lead to provide a single point of contact for project clinical leads.<br>
-<br>The CSC Team does have a general email address cscteam@gstt.nhs.uk to ensure cross cover and transparency of workload between individual team members.<br>
-<br>
-<img src="/assets/img/roadmap/department-hierarchy-diagram.png">
-<br> 
+The CSC Team is small group of individuals from a variety of backgrounds. The team is made up of 7 full time members 
+and 3 part-time members. We are based at St Thomas’ Hospital (part of GSTT), however we mostly work remotely 
+via Microsoft Teams, using GitHub and our CSC website.
+
+New members of the CSC Team are provided with a brand new Apple MacBook Pro to perform their work. If additional 
+equipment or software is required for your work, this can be arranged with the Head of the CSC Team.
+
+While we have a flexible work schedule, team members should be available to meet during standard working hours, where 
+required, such as for stakeholder meetings, CSC Standups and our 10x Workshops.
+
+The CSC Team supports clinical teams within GSTT to evaluate or develop AI which addresses a clinical need or clinical 
+pathway. We can support projects of varying sizes and at various stages of the project lifecycle. Typically, we will be
+engaged in projects for their entire lifecycle and a CSC member would be assigned to individual projects(as the CSC 
+Lead) to provide a single point of contact clinical leads on the project
+
+The general purpose CSC Team email address is: **cscteam@gstt.nhs.uk**.
+
+The diagram below illustrates the structure of the CSC Team within Medical Physics at GSTT.
+
+<img src="/assets/img/handbook/department-hierarchy-diagram.png">
+

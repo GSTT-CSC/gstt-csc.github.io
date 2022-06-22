@@ -3,8 +3,22 @@ title: 10x Workshops
 order: 7
 image:
 ---
-On alternate Wednesdays the CSC Team hosts a 10x workshop. Within this space we discuss new topics surrounding the implementation of AI within the Healthcare sector, we have group discussions about the current practices, new ideas and policies that effect the NHS and AI Technologies.<br> 
-<br>The 10x sessions are also an opportunity for the team to present their projects to the wider team as well as external parties who have expressed an interest in our work. <br>
-<br>We have regular Retrospective exercises for members of the group to express what has been a positive experience over the last quarter, what barriers or delays they have experienced. We conclude these sessions with actions focused on improving our workflow and practice moving forward. <br>  
-A list of previous and planned 10x workshops can be found here <a href="https://emckclac.sharepoint.com/:w:/r/sites/MT-CSC-CSC/_layouts/15/Doc.aspx?sourcedoc=%7B70E69FF2-67A4-4D8B-80CA-4DB4C397F614%7D&file=Workshop%20Agenda%20Timetable.docx&action=default&mobileredirect=true">CSC Workshop Agenda</a>
+
 <img src="assets/img/roadmap/workshop_3.21.jpg">
+
+On **bi-weekly Wednesdays**, the CSC Team hosts a 10x Workshop. Within this space, we discuss new topics surrounding the 
+implementation of AI within the healthcare sector, we have group discussions about current practices, and we discuss new 
+AI ideas and AI policies pertinent to the NHS.
+
+The 10x Workshops are also an opportunity for CSC Team members to present their projects to the wider Team. We also 
+invite external parties to share knowledge. If you are from an external organisation and you are interested in 
+discussing your work at one of our 10x Workshops, please get in touch!
+
+We also use the 10x Workshops to hold regular Retrospective exercises. These quarterly group exercises allow CSC Team 
+members to raise and discuss positive experiences, as well as any difficulties, barriers or delays to working that they 
+have experienced. We conclude these Retrospective sessions by creating actions focused on improving our working 
+practices moving forward.
+
+A list of previous and forthcoming 10x Workshops can be found on the CSC Team Sharepoint here:
+<a href="https://emckclac.sharepoint.com/:w:/r/sites/MT-CSC-CSC/_layouts/15/Doc.aspx?sourcedoc=%7B70E69FF2-67A4-4D8B-80CA-4DB4C397F614%7D&file=Workshop%20Agenda%20Timetable.docx&action=default&mobileredirect=true">CSC Workshops Agenda</a>
+
