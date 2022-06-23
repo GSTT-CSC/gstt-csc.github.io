@@ -5,6 +5,7 @@
                 <tr>
                     <th colspan="2">Skills</th>
                     <th>Experts </th>
+                    <th>Competent</th>
                     <th>In Progress</th>
                     <th></th>
                 </tr>
@@ -21,8 +22,13 @@
                             <div class="d-flex align-items-center"><img class="rounded-circle" src="{{ attribute.picture }}" width="30"><span class="ml-2">{{ attribute.person }}</span></div>
                      {% endfor %}
                     </td>
+                      <td>
+                    {% for attribute in skills.competent %}
+                            <div class="d-flex align-items-center"><img class="rounded-circle" src="{{ attribute.picture }}" width="30"><span class="ml-2">{{ attribute.person }}</span></div>
+                     {% endfor %}
+                    </td>
                     <td>
-                    {% for attribute in skills.in-progress %}
+                     {% for attribute in skills.in-progress %}
                             <div class="d-flex align-items-center"><img class="rounded-circle" src="{{ attribute.picture }}" width="30"><span class="ml-2">{{ attribute.person }}</span></div>
                      {% endfor %}
                     </td>

@@ -12,30 +12,158 @@
 en: &DEFAULT_EN
 
   skills:
-      - name: "Skill"
-        description: "Description"
+      - name: "MLOPS"
+        description: "Deploy AI models"
         experts:
-          - person: "Haris Shuaib"
-            picture: assets/img/team/Haris.png
-        in-progress:
           - person: "Laurence Jackson"
             picture: assets/img/team/Laurence.png
-      - name: "Skill"
-        description: "Descritption"
-        experts:
-         - person: "Tom Roberts"
-           picture: assets/img/team/TomR.jpeg
+        competent:
+          - person:
+            picture:
         in-progress:
-         - person: "Lucrezia Cester"
-           picture: assets/img/team/Lucrezia.jpeg
-      - name: "Skill"
-        description: "Description"
+          - person: "Haleema"
+            picture:
+      - name: "XNAT"
+        description: "Retrieve and Anonimise Radiology images"
         experts:
           - person: "Dika"
             picture: assets/img/team/Dika.jpg
+        competent:
+          - person: "Haleema"
+            picture:
         in-progress:
+          - person:
+            picture:
+      - name: "AIDE"
+        description: "AI models deployment"
+        experts:
+         - person: "Tom Roberts"
+           picture: assets/img/team/TomR.jpeg
+         - person: "Haris Shuaib"
+           picture: assets/img/team/Haris.png
+        competent:
+          - person: "Lucrezia Cester"
+            picture: assets/img/team/Lucrezia.jpeg
+          - person: "Haleema"
+        in-progress:
+         - person:
+           picture:
+      - name: "FLIP"
+        description: "Deploy AI models at scale without sharing data"
+        experts:
+          - person: "Haleema"
+            picture:
+        in-progress:
+          - person:
+            picture:
+      - name: "Hazen"
+        description: "Automatic QA of MRI images"
+        experts:
+          - person: "Tom Roberts"
+            picture: assets/img/team/TomR.jpeg
+          - person: "Lucrezia Cester"
+            picture: assets/img/team/Lucrezia.jpeg
+          - person: "Laurence Jackson"
+            picture: assets/img/team/Laurence.png
+          - person: "Haris Shuaib"
+            picture: assets/img/team/Haris.png
+        in-progress:
+         - person: "Haleema"
+           picture:
+      - name: "QMS"
+        description: "Documents processes, procedures, and responsibilities for achieving quality policies"
+        experts:
+          - person: "Anil Mistry"
+            picture: assets/img/team/Anil.jpg
+          - person: "Haris Shuaib"
+            picture: assets/img/team/Haris.png
+        competent:
+          - person: "CSC team"
+            picture:
+      - name: "Ostheoporosis"
+        experts:
+          - person: "Dika"
+            picture: assets/img/team/Dika.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "X-Ray Occult Carpal Detection"
+        experts:
+          - person: "Dika"
+            picture: assets/img/team/Dika.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "Incidental Pulmonary Embolism"
+        experts:
           - person: "Simone"
             picture: assets/img/team/Simone.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "MRI Occult Carpal Detection"
+        description: "AI application to interpret MRI scans to increase sensitivity and confidence of diagnosis."
+        experts:
+          - person: "Laurence Jackson"
+            picture: assets/img/team/Laurence.png
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "Early detection of rectal cancer"
+        description: "An application that identifies areas of concern on MRI images for the detection of rectal cancers/polyps"
+        experts:
+          - person: "Laurence Jackson"
+            picture: assets/img/team/Laurence.png
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "Prosthetic Loosening"
+        description: "An AI tool to improve accuracy and increase confidence in reporting of prosthetic loosening."
+        experts:
+          - person: "Dika"
+            picture: assets/img/team/Dika.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "Rotational Profiles"
+        description: "An AI tool to measure degrees of misalignment of lower limb rotation in pre-surgical planning assessments ."
+        experts:
+          - person: "Anil Mistry"
+            picture: assets/img/team/Anil.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "CARNAX"
+        description: "AI-based medical imaging tool for detection of intestinal perforation."
+        experts:
+          - person: "Simone"
+            picture: assets/img/team/Simone.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: "Synthetic CT for MR-Only Prostate Radiotherapy Planning"
+        description: "AI to create a Synthetic CT for MR-Only Prostate Radiotherapy Planning"
+        experts:
+          - person: "Anil Mistry"
+            picture: assets/img/team/Anil.jpg
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+      - name: " NLP for optimisation of endoscopic resources"
+        experts:
+          - person: "Laurence Jackson"
+            picture: assets/img/team/Laurence.png
+        competent:
+          - person: "Lucy"
+            picture: assets/img/team/Lucy.jpg
+
+
+
+
+
+
+
+
 
 
 en-US:
