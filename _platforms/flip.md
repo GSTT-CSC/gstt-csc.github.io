@@ -4,7 +4,7 @@ platform-name: FLIP
 platform-image: /assets/img/platforms/flip_logo.png
 ---
 
-The Federated Learning Interoperability Platform (FLIP) links data from multiple Trusts to enable AI at scale. It is composed of three core components:
+FLIP, the Federated Learning Interoperability Platform, links data from multiple Trusts to enable AI at scale. It is composed of three core components:
 
 - **Secure Enclave**
   > Data from participating Trusts will be transferred into their respective local secure enclaves for curation and aggregation, including both imaging and non-imaging electronic healthcare data. 
