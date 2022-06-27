@@ -18,7 +18,7 @@ document.getElementById("page-top").className="bg-light";
       {% for platform in site.data.platforms[site.locale].platforms %}
         <div class="col-4 pb-3">
             <a href="{{ platform.platform-page }}">
-              <img style="width: 300px; border: 1px solid black;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
+              <img style="width: 300px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
             </a>
             <h4>{{ platform.name }}</h4>
         </div>
