@@ -1,12 +1,12 @@
 <html lang="en">
 {% for entry in site.data.getinvolved-stp %}
     <ul>
-      <li>{{ entry.title }}</li>
+        <li><b>{{ entry.title }}</b></li>
+        {{ entry.description }}
       <div class="progress">
         <div class="progress-bar bg-success" role="progressbar" style="width: {{ entry.other }}%" aria-valuenow="{{ entry.other }}" aria-valuemin="0" aria-valuemax="100">Other STP</div>
         <div class="progress-bar" role="progressbar" style="width: {{ entry.csc }}%" aria-valuenow="{{ entry.csc }}" aria-valuemin="0" aria-valuemax="100">CSC</div>
       </div>
-        {{ entry.description }}
     </ul>
 {% endfor %}
 </html>

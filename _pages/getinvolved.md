@@ -7,17 +7,18 @@ description:
 If what we do sounds exciting, get involved and work with us! There are several ways to do so:
 
 ### Temporarily
-There are several options available as part of the NHS Scientist Training Programme (STP), which allows trainees to allocate part of the programme time to working with us. We've summarised the options and the different timeframes below but for more information, please refer to our dedicated [STP page](../stp.html). 
+Interested applicants can either apply to join as a [Clinical Fellow](../fellowships.html) or through any one of the several options available as part of the National School of Healthcare Science (NSHCS) Scientist Training Programme (STP). The NSHCS STP allows trainees to allocate part of the programme time to working with us and we've summarised the options and the different timeframes below. 
+
+For the most up-to-date information, however, we recommend applicants refer to the [NSHCS STP page](https://www.nshcs.hee.nhs.uk/programmes/stp/) and our dedicated [STP page](../stp.html). 
 
 {% include progress-stp.html %}
 
-Alternatively, you can apply to join as a Clinical Fellow.
 
 ### Permanently
 For open positions within our team and the wider organisation, please refer to the NHS jobs site [here](https://www.jobs.nhs.uk/). For internal applicants, please also refer to GSTT's GTi page [here](https://www.guysandstthomas.nhs.uk/current-vacancies?_ts=1#!) whilst connected to the Trust VPN.
 
 ### Projects
-This could be:
+We also welcome interested applicants to work with us on:
 - An existing or proposed new project that aims to resolve a clinical need
 - An existing or proposed new project requiring or expected to require evaluation
 - A new medical device to be built under our Quality Management System (QMS)
@@ -26,10 +27,9 @@ This could be:
 
 For new projects within Guy's and St Thomas' NHS Foundation Trust (GSTT), please submit the [Project Initiation Document (PID)](../assets/docs/CSC-SubmissionForm-V3.docx) via email to [Lucy Funnell](mailto:Lucy.Funnell@gstt.nhs.uk).
 
-
 ### Outreach
-The team aims to regularly engage with potential STP applicants and students via:
+We also aim to regularly engage with potential STP applicants and students via:
 
-- The [National School of Healthcare Science's (NSHCS)](https://nshcs.hee.nhs.uk/) [Healthcare Science Week](https://nshcs.hee.nhs.uk/healthcare-science/help-to-promote-healthcare-science-to-the-public/healthcare-science-week/)
+- The [NSHCS](https://nshcs.hee.nhs.uk/) [Healthcare Science Week](https://nshcs.hee.nhs.uk/healthcare-science/help-to-promote-healthcare-science-to-the-public/healthcare-science-week/)
 - University talks with students interested in the STP programme and gaining work experience with clinical scientific computing, medical phyics and/or bioinformatics before submitting their applications
 - Sixth form college talks with students interested in a career in healthcare sciences
