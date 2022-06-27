@@ -1,18 +1,52 @@
 <!-- Resources -->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">Resource</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  {% for resource in site.data.resources %}
-  <tr>
-    <td>{% if resource.link %}<a href="{{ resource.link }}">{{ resource.name }}</a>{% else %} {{ resource.name }}{% endif %}</td>
-    <td>{{ resource.description }}</td>
-  </tr>
-{% endfor %}
-  </tbody>
-</table>
-<!-- Resources -->
+<style>
+.scrollspy-example {
+  position: relative;
+  /*height: 200px;*/
+  overflow: auto;
+}
+</style>
+
+<div class="row">
+
+  <!--  Define variable which sorts order of _resources .md files -->
+  {% assign items_ordered = site.resources | sort: "order" %}
+
+  <div class="col-3">
+    <!-- Handbook Scrollspy -->
+    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+
+      <ul class="nav flex-column nav-pills menu-sidebar" id="resourcesNav">
+          {% for item in items_ordered | sort: "order" %}
+              <li class="nav-item">
+                <a class="nav-link" href="#resources-entry-{{item.order}}">{{ item.title }}</a>
+              </li>
+          {% endfor %}
+      </ul>
+    </div>
+    <!-- Handbook Scrollspy -->
+  </div>
+
+  {% assign item_order = site.resources | sort: "order" %}
+
+  <div class="col-md-9">
+    <!-- Handbook Text (spied element) -->
+    <div
+      data-mdb-spy="scroll"
+      data-mdb-target="#scrollspy1"
+      data-mdb-offset="0"
+      class="scrollspy-example"
+    >
+        {% for item in items_ordered %}
+        <h3 id="resources-entry-{{item.order}}">{{ item.title }}</h3>
+        {% if item.image %}
+            <p>{{ item.image }}</p>
+        {% endif %}
+        <p>{{ item.content }}</p>
+        {% endfor %}
+    </div>
+    <!-- Handbook Text (spied element) -->
+  </div>
+
+</div>
+<!-- End Handbook -->
