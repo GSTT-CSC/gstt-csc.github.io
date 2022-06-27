@@ -12,16 +12,16 @@
 en: &DEFAULT_EN
 
   title: "The Landscape"
-  intro-text: "Click on the links below to find out more about the software platforms we are working on within CSC."
+  intro-text: "Or, click on the links below to find out more about the software platforms:"
   section: platforms
   platforms:
     - name: "AIDE"
       platform-page: /platforms/aide.html
-      platform-image: assets/img/platforms/aide_logo.png
+      platform-image: assets/img/platforms/aide_logo_temp.png
       platform-verb: "Deploy AI Models"
     - name: "FLIP"
       platform-page: /platforms/flip.html
-      platform-image: assets/img/platforms/flip_logo.png
+      platform-image: assets/img/platforms/flip_logo_temp.png
       platform-verb: "Train AI Models"
     - name: "CogStack"
       platform-page: /platforms/cogstack.html
