@@ -10,67 +10,43 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
-
-
-<style>
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-  filter: invert(1);
-}
-</style>
-
 <div class="container" id="pagecontainer">
+
     <h1>{{ site.data.platforms[site.locale].title }}</h1>
-    <h5 class="text-muted" > Click on the arrows to learn how the platforms work</h5 >
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner">
-   {% for platform in site.data.platforms[site.locale].platforms %}
-        <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-           <img class="rounded mx-auto d-block w-25"  src="{{ platform.platform-image }}">
-             <h4 style="text-align:center;">{{ platform.platform-verb }}</h4>
-        </div>
-     {% endfor %}
-</div>
-     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" outline="black"  data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-         <a class="carousel-control-next" href="#carouselExampleControls" role="button"  class="btn btn-primary btn-lg btn-block" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-</div>
 
+    <!--Landscape Wheel-->
+    <h3 class="lead">
+    The Landscape wheel below shows the software platforms that the CSC team uses in order to bring AI models from data
+        collection all the way through to deployment.
+    </h3>
 
-<section class="page-section bg-light" >
-    <div class="container" id="pagecontainer">
-    <h5 class="text-muted" > This graph illustrates which platform is to be used for each stage of the Machine Learning cycle. Click on the platforms' name to learn about each paltform.</h5 >
-<img src="assets/Landscape-1.png" class="rounded mx-auto d-block w-50" usemap="#workmap">
-<map name="workmap">
-  <area shape="rect" coords="450,200,480,300" alt="Computer" href="/platforms/flip.html">
-     <area shape="rect" coords="500,250,700,350" alt="Computer" href="/platforms/mlops.html">
-     <area shape="rect" coords="90,400,250,500" alt="Computer" href="/platforms/aide.html">
-    <area shape="rect" coords="110,90,220,180" alt="Computer" href="/platforms/cogstack.html">
-    <area shape="rect" coords="220,20,310,70" alt="Computer" href="/platforms/xnat.html">
+    <p class="text-muted">Click on the platform names to find out more about each one:</p>
 
-</map>
+    <div style="text-align: center;" class="pt-4">
+        <img src="assets/img/platforms/platforms-wheel.png" class="w-50" usemap="#workmap">
     </div>
-</section>
 
+    <map name="workmap">
+        <area shape="rect" coords="450,200,480,300" alt="Computer" href="/platforms/flip.html">
+        <area shape="rect" coords="500,250,700,350" alt="Computer" href="/platforms/mlops.html">
+        <area shape="rect" coords="90,400,250,500" alt="Computer" href="/platforms/aide.html">
+        <area shape="rect" coords="110,90,220,180" alt="Computer" href="/platforms/cogstack.html">
+        <area shape="rect" coords="220,20,310,70" alt="Computer" href="/platforms/xnat.html">
+    </map>
 
-
-
-<div class="container" id="pagecontainer">
-    <h5 class="text-muted">{{ site.data.platforms[site.locale].intro-text }}</h5>
-    <!-- Landscape -->
+    <!--Landscape Grid-->
+    <br />
+    <br />
+    <p class="text-muted">{{ site.data.platforms[site.locale].intro-text }}</p>
 
       <div class="row pt-3">
       {% for platform in site.data.platforms[site.locale].platforms %}
         <div class="col-4 pb-3">
-            <a href="{{ platform.platform-page }}">
-              <img style="width: 300px; border: 1px solid black;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
-            </a>
             <h4>{{ platform.name }}</h4>
+            <a href="{{ platform.platform-page }}">
+              <img style="width: 300px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
+            </a>
+            <p>{{ platform.platform-verb }}</p>
         </div>
       {% endfor %}
       </div>
