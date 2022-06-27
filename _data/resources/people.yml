@@ -1,0 +1,20 @@
+# Add your resources items here by filling in the details as below.
+
+#  name:
+#  description:
+#  link:
+
+- name: Scientist Training Programme
+  description: The Scientist Training Programme (STP) is a three-year programme of work-based learning, supported by a University accredited master's degree.
+  link: https://nshcs.hee.nhs.uk/programmes/stp/
+
+- name: Open Grants
+  description: |
+    An increasing number of researchers are sharing their grant proposals openly. 
+    They do this to open up science so that all stages of the process can benefit from better interaction and communication 
+    and to provide examples for early career scientists writing grants. This is a list of some of these proposals to help you find them.
+  link: https://www.ogrants.org
+
+- name: NHS Jobs
+  description: NHS jobs listings
+  link: https://www.jobs.nhs.uk/
