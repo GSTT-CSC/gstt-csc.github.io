@@ -1,40 +1,15 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
-
-# English (default)
-# -----------------
-en: &DEFAULT_EN
-
-  title: "Our Collaborators Include"
-  section: collaborators
-  collaborators:
-    - image: assets/img/collaborators/answer_logo (1).jpg
-      image-page: https://answerdigital.com/
-    - image: assets/img/collaborators/aidoc_logo (2).jpg
-      image-page: https://www.aidoc.com/
-    - image: assets/img/collaborators/nvidia_logo (2).jpg
-      image-page: https://www.nvidia.com/en-gb/
-    - image: assets/img/collaborators/ibm_logo.jpg
-      image-page: https://www.ibm.com/uk-en
-    - image: assets/img/collaborators/innersight_logo.jpg
-      image-page: https://innersightlabs.com/
-    - image: assets/img/collaborators/kitek_logo.jpg
-    - image: assets/img/collaborators/qure_logo.jpg
-      image-page: https://www.qure.ai/
-
-
-
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+title: "Collaborators"
+section: collaborators
+collaborators:
+  - image: assets/img/collaborators/aicentre_logo.png
+    image-page: https://www.aicentre.co.uk/
+  - image: assets/img/collaborators/nvidia_logo.png
+    image-page: https://www.nvidia.com/en-gb/
+  - image: assets/img/collaborators/aidoc_logo.png
+    image-page: https://www.aidoc.com/
+  - image: assets/img/collaborators/innersight_logo.svg
+    image-page: https://innersightlabs.com/
+  - image: assets/img/collaborators/aidence_logo.svg
+    image-page: https://www.aidence.com/
+  - image: assets/img/collaborators/qure_logo.png
+    image-page: https://www.qure.ai/
