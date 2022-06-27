@@ -9,23 +9,26 @@
 
 <div class="row">
 
+  <!--  Define variable which sorts order of _handbook .md files -->
+  {% assign items_ordered = site.handbook | sort: "order" %}
+
   <div class="col-3">
     <!-- Handbook Scrollspy -->
     <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
 
       <ul class="nav flex-column nav-pills menu-sidebar" id="handbookNav">
       <h4 class="text-center pt-2">Handbook Contents</h4>
-          {% assign ctr = 0 %}
-          {% for item in site.data.handbook %}
+          {% for item in items_ordered | sort: "order" %}
               <li class="nav-item">
-                <a class="nav-link" href="#handbook-entry-{{ctr}}">{{ item.heading }}</a>
+                <a class="nav-link" href="#handbook-entry-{{item.order}}">{{ item.title }}</a>
               </li>
-          {% capture ctr %}{{ ctr | plus:1 }}{% endcapture %}
           {% endfor %}
       </ul>
     </div>
     <!-- Handbook Scrollspy -->
   </div>
+
+  {% assign item_order = site.handbook | sort: "order" %}
 
   <div class="col-md-9">
     <!-- Handbook Text (spied element) -->
@@ -35,14 +38,12 @@
       data-mdb-offset="0"
       class="scrollspy-example"
     >
-        {% assign ctr = 0 %}
-        {% for item in site.data.handbook %}
-        <h3 id="handbook-entry-{{ctr}}">{{ item.heading }}</h3>
+        {% for item in items_ordered %}
+        <h3 id="handbook-entry-{{item.order}}">{{ item.title }}</h3>
         {% if item.image %}
             <p>{{ item.image }}</p>
         {% endif %}
-        <p>{{ item.text }}</p>
-        {% capture ctr %}{{ ctr | plus:1 }}{% endcapture %}
+        <p>{{ item.content }}</p>
         {% endfor %}
     </div>
     <!-- Handbook Text (spied element) -->
