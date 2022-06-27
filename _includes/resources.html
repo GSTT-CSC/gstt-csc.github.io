@@ -13,7 +13,7 @@
   {% assign items_ordered = site.resources | sort: "order" %}
 
   <div class="col-3">
-    <!-- Handbook Scrollspy -->
+    <!-- Resources Scrollspy -->
     <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
 
       <ul class="nav flex-column nav-pills menu-sidebar" id="resourcesNav">
@@ -24,13 +24,13 @@
           {% endfor %}
       </ul>
     </div>
-    <!-- Handbook Scrollspy -->
+    <!-- Resources Scrollspy -->
   </div>
 
   {% assign item_order = site.resources | sort: "order" %}
 
   <div class="col-md-9">
-    <!-- Handbook Text (spied element) -->
+    <!-- Resources Text (spied element) -->
     <div
       data-mdb-spy="scroll"
       data-mdb-target="#scrollspy1"
@@ -45,8 +45,8 @@
         <p>{{ item.content }}</p>
         {% endfor %}
     </div>
-    <!-- Handbook Text (spied element) -->
+    <!-- Resources Text (spied element) -->
   </div>
 
 </div>
-<!-- End Handbook -->
+<!-- End Resources -->
