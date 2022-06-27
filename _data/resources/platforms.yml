@@ -4,11 +4,6 @@
 #  description:
 #  link:
 
-- name: DeployStack
-  description: |
-    DeployStack is a list of the best, hand picked tools and services that you might need when launching a website.
-  link: https://switowski.github.io/deploystack/
-
 - name: The Cancer Imaging Archive (TCIA)
   description: |
     The Cancer Imaging Archive (TCIA) is a service which de-identifies and hosts a large archive of medical images of
@@ -18,3 +13,8 @@
 - name: NHS Data Model and Dictionary
   description: The NHS Data Model and Dictionary provides a reference point for approved Information Standards Notices to support health care activities within the NHS in England. It has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS.
   link: https://www.datadictionary.nhs.uk/
+
+- name: DeployStack
+  description: |
+    DeployStack is a list of the best, hand picked tools and services that you might need when launching a website. Note that this project is no longer actively maintained.
+  link: https://switowski.github.io/deploystack/
