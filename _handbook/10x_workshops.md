@@ -1,6 +1,6 @@
 ---
 title: 10x Workshops
-order: 7
+order: 8
 image:
 ---
 
