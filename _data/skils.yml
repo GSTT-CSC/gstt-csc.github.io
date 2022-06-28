@@ -12,30 +12,32 @@
 en: &DEFAULT_EN
 
   skills:
-      - name: "MLOPS"
-        description: "Deploy AI models"
+      - name: "Radiology images retrieval and anonymization"
+        description:
         experts:
-          - person: "Laurence Jackson"
-            picture: assets/img/team/Laurence.png
-        competent:
-          - person:
-            picture:
-        in-progress:
-          - person: "Haleema"
-            picture:
-      - name: "XNAT"
-        description: "Retrieve and Anonimise Radiology images"
-        experts:
-          - person: "Dika"
+          - person: "Dika Vilic"
             picture: assets/img/team/Dika.jpg
         competent:
-          - person: "Haleema"
+          - person:
+            picture:
+        in-progress:
+          - person: "Haleema Alijazzaf"
+            picture:
+      - name: "AI project management "
+        description:
+        experts:
+          - person: "Haris Shuaib"
+            picture: assets/img/team/Haris.png
+          - person: "Lucy Funnel"
+            picture: assets/img/team/Lucy.jpg
+        competent:
+          - person:
             picture:
         in-progress:
           - person:
             picture:
-      - name: "AIDE"
-        description: "AI models deployment"
+      - name: "AI deployment"
+        description:
         experts:
          - person: "Tom Roberts"
            picture: assets/img/team/TomR.jpeg
@@ -44,20 +46,20 @@ en: &DEFAULT_EN
         competent:
           - person: "Lucrezia Cester"
             picture: assets/img/team/Lucrezia.jpeg
-          - person: "Haleema"
+          - person: "Haleema Alijazzaf"
         in-progress:
          - person:
            picture:
-      - name: "FLIP"
-        description: "Deploy AI models at scale without sharing data"
+      - name: "Federated learning"
+        description:
         experts:
-          - person: "Haleema"
+          - person: "Haleema Alijazzaf"
             picture:
         in-progress:
           - person:
             picture:
-      - name: "Hazen"
-        description: "Automatic QA of MRI images"
+      - name: "Automatic MRI quality assurance"
+        description:
         experts:
           - person: "Tom Roberts"
             picture: assets/img/team/TomR.jpeg
@@ -68,10 +70,10 @@ en: &DEFAULT_EN
           - person: "Haris Shuaib"
             picture: assets/img/team/Haris.png
         in-progress:
-         - person: "Haleema"
+         - person: "Haleema Alijazzaf"
            picture:
-      - name: "QMS"
-        description: "Documents processes, procedures, and responsibilities for achieving quality policies"
+      - name: "QMS "
+        description:
         experts:
           - person: "Anil Mistry"
             picture: assets/img/team/Anil.jpg
@@ -80,82 +82,19 @@ en: &DEFAULT_EN
         competent:
           - person: "CSC team"
             picture:
-      - name: "Ostheoporosis"
+      - name: "Retrieval of unstructured data"
         experts:
-          - person: "Dika"
-            picture: assets/img/team/Dika.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "X-Ray Occult Carpal Detection"
-        experts:
-          - person: "Dika"
-            picture: assets/img/team/Dika.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "Incidental Pulmonary Embolism"
-        experts:
-          - person: "Simone"
+          - person: "Simone Ambrogio"
             picture: assets/img/team/Simone.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "MRI Occult Carpal Detection"
-        description: "AI application to interpret MRI scans to increase sensitivity and confidence of diagnosis."
+      - name: "Digital healthcare policy"
+        description:
         experts:
           - person: "Laurence Jackson"
             picture: assets/img/team/Laurence.png
         competent:
-          - person: "Lucy"
+          - person: "Lucy Funnel"
             picture: assets/img/team/Lucy.jpg
-      - name: "Early detection of rectal cancer"
-        description: "An application that identifies areas of concern on MRI images for the detection of rectal cancers/polyps"
-        experts:
-          - person: "Laurence Jackson"
-            picture: assets/img/team/Laurence.png
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "Prosthetic Loosening"
-        description: "An AI tool to improve accuracy and increase confidence in reporting of prosthetic loosening."
-        experts:
-          - person: "Dika"
-            picture: assets/img/team/Dika.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "Rotational Profiles"
-        description: "An AI tool to measure degrees of misalignment of lower limb rotation in pre-surgical planning assessments ."
-        experts:
-          - person: "Anil Mistry"
-            picture: assets/img/team/Anil.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "CARNAX"
-        description: "AI-based medical imaging tool for detection of intestinal perforation."
-        experts:
-          - person: "Simone"
-            picture: assets/img/team/Simone.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: "Synthetic CT for MR-Only Prostate Radiotherapy Planning"
-        description: "AI to create a Synthetic CT for MR-Only Prostate Radiotherapy Planning"
-        experts:
-          - person: "Anil Mistry"
-            picture: assets/img/team/Anil.jpg
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
-      - name: " NLP for optimisation of endoscopic resources"
-        experts:
-          - person: "Laurence Jackson"
-            picture: assets/img/team/Laurence.png
-        competent:
-          - person: "Lucy"
-            picture: assets/img/team/Lucy.jpg
+
 
 
 
