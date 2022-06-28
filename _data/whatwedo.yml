@@ -3,17 +3,14 @@ title: "What we do"
 text:
 aspects:
   - title: "People"
-    text: "We develop the next generation of healthcare professionals to create, build upon and use software and AI solutions for the improvement of patient pathways and outcomes. 
-           Collaboration is at the heart of what we do and we welcome every opportunity to share with and gain knowledge from our wider healthcare and AI community."
+    text: "We develop educational and training opportunities for healthcare professionals at different stages of their career to gain the skills necessary to safely and effectively adopt digital health technologies."
     image: assets/img/people-icon.svg
     colour: "#645EAA"
   - title: "Platforms"
-    text: "We innovate and develop healthcare software and AI solutions, leveraging our clinical and scientific computing expertise, all whilst embedded in the hospital environment. 
-           This means we work with all stakeholders to ensure that the quality of healthcare provided to our patients informs and grows with our technologies."
+    text: "We develop enabling technical platforms that facilitate the adoption of cutting edge digital health technologies such as medical AI. We focus on shortening the journey from innovation to implementation."
     image: assets/img/platforms-icon.svg
     colour: "#017751"
   - title: "Policy"
-    text: "We adhere to existing policies and regulations, and then build on them further to ensure patient safety and data privacy is at the forefront of each stage in the software lifecycle. 
-           Patients can rest assured their rights are being respected and fought for, and their data is ethically used under the appropriate oversight."
+    text: "We develop and contribute to the development of policies, best practice and industry standards in regards to software medical devices and patient data, locally for our Trust as well as in collaboration with others nationally and internationally."
     image: assets/img/policy-icon.svg
     colour: "#D7472E"
