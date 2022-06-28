@@ -11,5 +11,5 @@ image:
 
 **CSC Desk area**
    - The CSC team resides on level 5 of Becket House
-   - Enter the doors title 'Big Ben side'
+   - Enter the doors titled 'Big Ben side'
 
