@@ -3,17 +3,17 @@ title: "What we do"
 text:
 aspects:
   - title: "People"
-    text: "Software and AI solutions for tackling healthcare problems are ever-expanding. We are training the next
-        generation of cross-domain experts with knowledge of the clinical environment and scientific computing."
+    text: "We develop the next generation of healthcare professionals to create, build upon and use software and AI solutions for the improvement of patient pathways and outcomes. 
+           Collaboration is at the heart of what we do and we welcome every opportunity to share with and gain knowledge from our wider healthcare and AI community."
     image: assets/img/people-icon.svg
     colour: "#645EAA"
   - title: "Platforms"
-    text: "Software and AI are changing healthcare. We are embedded in the hospital environment, working with all
-        stakeholders to create bespoke software platforms and new AI algorithms to transform patient care."
+    text: "We innovate and develop healthcare software and AI solutions, leveraging our clinical and scientific computing expertise, all whilst embedded in the hospital environment. 
+           This means we work with all stakeholders to ensure that the quality of healthcare provided to our patients informs and grows with our technologies."
     image: assets/img/platforms-icon.svg
     colour: "#017751"
   - title: "Policy"
-    text: "Patient safety is paramount when introducing any new technology into healthcare. We are developing policy
-        and using policy to inform every aspect of the software lifecycle."
+    text: "We adhere to existing policies and regulations, and then build on them further to ensure patient safety and data privacy is at the forefront of each stage in the software lifecycle. 
+           Patients can rest assured their rights are being respected and fought for, and their data is ethically used under the appropriate oversight."
     image: assets/img/policy-icon.svg
     colour: "#D7472E"

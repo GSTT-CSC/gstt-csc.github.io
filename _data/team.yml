@@ -33,9 +33,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/dangerdika
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Lucy Funnell"
         role: "AI Project Manager"
@@ -44,9 +44,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/lucy-funnell
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Simone"
         role: "Medical Physicist"
@@ -55,9 +55,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/simoambr
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Laurence"
         role: "Clinical Scientist"
@@ -66,9 +66,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/laurencejackson
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Anil"
         role: "Clinical Scientist"
@@ -77,9 +77,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/AnilMistry
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Alexander Deng"
         role: "Fellow in Clinical AI"
@@ -88,9 +88,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/alexandertdeng
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Lucrezia"
         role: "AI Engineer"
@@ -99,9 +99,9 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/
             icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/Lucrezia-Cester
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
       - name: "Tom Roberts"
         role: "AI Engineer"
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://github.com/heyhaleema
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/
             icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
