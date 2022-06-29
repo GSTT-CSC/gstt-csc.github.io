@@ -1,0 +1,38 @@
+- project-status: Scoping
+  description: "Initial conversations between project stakeholders, planning of design and development ideas, discussions
+  about verification and evaluation methods."
+
+- project-status: Documenting
+  description: "Final project plans are documented and circulated to stakeholders. For projects involving SMEs,
+  preparation of Information Security (IS) and Information Governance (IG) compliance documents."
+
+- project-status: Governance
+  description: "Projects with SMEs awaiting feedback or approval of submitted IS and IG compliance documents."
+
+- project-status: Contracting
+  description: "For projects with SMEs, preparation of Pilot Agreement and data.md Processing Agreement documents."
+
+- project-status: data.md Curating
+  description: "data.md preparation and data access logistics, such as for training AI algorithms or retrospective 
+  evaluation studies."
+
+- project-status: Developing
+  description: "Development of AI algorithms and software. This stage also includes validation and verification testing. 
+  Projects with SMEs will likely bypass this stage."
+
+- project-status: Evaluating
+  description: "Evaluation comprises two parts: 1) retrospective evaluation using legacy data to determine if the 
+  software is appropriate for clinical practice, or requires further development. 2) prospective evaluation in a live 
+  clinical setting."
+
+- project-status: Reporting
+  description: "Report produced for the software owner detailing the results of the evaluation stage, potentially 
+  highlighting any additional design and development considerations. For SMEs, this report serves as the basis for 
+  submitting applications to the Trust procurement team."
+
+- project-status: Backlog
+  description: "Projects which have not been started yet. May be due to lack of project owner engagement,
+  missing information relating to the project, or lack of bandwidth within CSC to support the project."
+
+- project-status: Graveyard
+  description: "Terminated projects, possibly because of a failure at one of the stages above."

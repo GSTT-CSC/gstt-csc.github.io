@@ -14,52 +14,21 @@ en: &DEFAULT_EN
     title:
     text:
 
-
-  roadmap:
-    title: "Roadmap"
-    text: "Lorem ipsum roadmap"
-    section: roadmap
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/roadmap/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/roadmap/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/roadmap/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/roadmap/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  about:
+    title: "Clinical Scientific Computing"
+    image: assets/img/csc-logo-text.svg
+    slogan: "Developing people, platforms and policy for digital health"
+    section: about
 
   calendar:
     section: calendar
-
-  about:
-    title: "Clinical Scientific Computing"
-    text: "Evaluating and implementing medical software for the NHS"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-
-
+    title: CSC Calendar
 
   footer:
     legal: "Privacy Policy"
     social:
+      - url: mailto:CSCTeam@gstt.nhs.uk
+        icon: "fa fa-envelope-square"
       - url: https://twitter.com/CSC_GSTT
         icon: "fab fa-twitter"
       - url: https://github.com/GSTT-CSC

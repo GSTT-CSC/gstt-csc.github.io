@@ -220,3 +220,24 @@
     }
   }
 }
+
+
+
+// Styling Handbook Scrollspy
+#handbookNav {
+background-color: #eee;
+position: relative;
+.nav-item
+  {
+    .nav-link
+    {
+      color: $csc-blue;
+      @include heading-font;
+      &.active,
+      &:hover
+      {
+        background-color: $csc-blue-pastel;
+      }
+    }
+  }
+}

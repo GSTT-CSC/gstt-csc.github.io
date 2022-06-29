@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% include nav.html %}
+{% include subnav-ourwork.html %}
+
+<div class="container" id="pagecontainer">
+    <br>
+    <br>
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.summary }}</p>
+<!--    <div class="row d-flex bg-light">-->
+    <div class="d-flex align-items-center bg-light" style="min-height: 15vh">
+        <div class="col-4 pt-3">
+            <h4>Modality: </h4>
+            <p class="lead">{{ page.modality }}</p>
+        </div>
+        <div class="col-4 pt-3">
+            <h4>Pathology: </h4>
+            <p class="lead">{{ page.pathology }}</p>
+        </div>
+        <div class="col-4 pt-3">
+            <h4>Status: </h4>
+            <p class="lead">{{ page.status }}</p>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-4">
+            <img class="mx-auto img-fluid" style="border: 1px solid black; " src={{ page.image }} alt="">
+            <h4 class="py-3">CSC Lead: {{ page.csc-lead }}</h4>
+        </div>
+        <div class="col-8">
+<!--                <p class="lead">{{ page.rationale }}</p>-->
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</div>
