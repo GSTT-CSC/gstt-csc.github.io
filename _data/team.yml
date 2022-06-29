@@ -93,6 +93,13 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/heyhaleema
             icon: fab fa-linkedin-in
+      - name: "Ryan Satnarine"
+        role: "Trainee Medical Physicist"
+        team-member-page: /team_member/ryan.html
+        image: assets/img/team/ryan.jpg
+        social:
+          - url: https://github.com/rs-sprout98
+            icon: fab fa-github
 en-US:
   <<: *DEFAULT_EN
 en-CA:
