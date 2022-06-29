@@ -1,5 +1,5 @@
 ---
-layout: ourwork
+layout: projects
 title: Project Title
 status:
 image: /assets/img/blog/nhs_logo.png

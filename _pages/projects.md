@@ -1,7 +1,7 @@
 ---
 layout: project_board
 title: Projects
-permalink: /ourwork.html
+permalink: /projects.html
 ---
 
 The Project Board below tracks the progress of each CSC project through the different 

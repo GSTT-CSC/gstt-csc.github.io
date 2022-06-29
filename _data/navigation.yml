@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Policy"
       section: /policy.html
     - title: "Projects"
-      section: /ourwork.html
+      section: /projects.html
     - title: "Blog"
       section: /blog.html
 
