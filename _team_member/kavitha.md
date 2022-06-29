@@ -2,8 +2,8 @@
 ---
 layout: teammember
 team-member-name: Kavitha VImalesvaran
-team-member-photo: 
-job-role: Clinical AI Fellow
+team-member-photo: 	/assets/img/team/KavithaV.png
+job-role: Fellow in Clinical Artifical Intelligence
 ---
 
 ### Bio
