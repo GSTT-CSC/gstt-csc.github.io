@@ -6,15 +6,16 @@ description:
 ---
 If what we do sounds exciting, get involved and work with us! There are several ways to do so:
 
-### Temporarily
-Interested applicants can either apply to join as a [Clinical Fellow](../fellowships.html) or through any one of the several options available as part of the National School of Healthcare Science (NSHCS) Scientist Training Programme (STP). The NSHCS STP allows trainees to allocate part of the programme time to working with us and we've summarised the options and the different timeframes below. 
-
-For the most up-to-date information, however, we recommend applicants refer to the [NSHCS STP page](https://www.nshcs.hee.nhs.uk/programmes/stp/) and our dedicated [STP page](../stp.html). 
+### Temporary Posts
+##### Scientists
+- Interested applicants can apply through any one of the several options available as part of the National School of Healthcare Science (NSHCS) Scientist Training Programme (STP). The NSHCS STP allows trainees to allocate part of the programme time to working with us and we've summarised the options and the different timeframes below. For the most up-to-date information, we recommend applicants refer to the [NSHCS STP page](https://www.nshcs.hee.nhs.uk/programmes/stp/) and our dedicated [STP page](../stp.html). 
 
 {% include progress-stp.html %}
 
+##### Clinicians
+- Our team hosts fellows from the Fellowships in Clinical Artificial Intelligence. Please refer to the [Fellowships page](../fellowships.html) for further information.
 
-### Permanently
+### Permanent Posts
 For open positions within our team and the wider organisation, please refer to the NHS jobs site [here](https://www.jobs.nhs.uk/). For internal applicants, please also refer to GSTT's GTi page [here](https://www.guysandstthomas.nhs.uk/current-vacancies?_ts=1#!) whilst connected to the Trust VPN.
 
 ### Projects
