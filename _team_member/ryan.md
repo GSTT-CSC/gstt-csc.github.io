@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Ryan Satnarine
-team-member-photo: /assets/img/team/Ryan.jpeg
+team-member-photo: /assets/img/team/Ryan.jpg
 job-role: Trainee Medical Physicist 
 ---
 
