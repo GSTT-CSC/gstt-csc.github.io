@@ -11,7 +11,24 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
+
     <h1>{{ page.title }}</h1>
     <br>
     {{ content }}
+    <div class="row pt-3 justify-content-center">
+        {% for button in site.data.policy[site.locale].buttons %}
+            <div class="col-4 pb-10">
+                <a href="{{ button.link }}">
+                  <img style="width: 100%; border: 1px solid black;" src="{{ button.img }}" alt="{{ platform.name }}">
+                </a>
+                <h4 >{{ button.text }}</h4>
+            </div>
+        {% endfor %}
+    </div>
+    <br>
+    <h2>Relevant CSC posts</h2>
+    <br> <br>
+
+    <h2>Latest News</h2>
+
 </div>
