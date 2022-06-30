@@ -1,0 +1,13 @@
+<div class="container">
+    {% for reg in site.data.policy[site.locale].regs%}
+        <div class="container">
+
+            <a href="{{reg.link}}"><h5>{{reg.id}}  -  {{reg.title}}</h5></a>
+            <br>
+            <p>{{reg.text}}</p>
+            <hr style="width:50%;text-align:left;margin-left:0">
+
+        </div>
+    {% endfor %}
+
+</div>
