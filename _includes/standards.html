@@ -3,11 +3,12 @@
 <style>
 details >  summary {
   width: 100%;
-  padding: 4px;
+  padding: 2px;
   cursor: pointer;
-list-style-type: '∆   ';
+  list-style-type: '∆   ';
   font-size:large;
   font-weight: bold;
+  background-color:#f3d4d6;
 }
 details[open] >  summary {
     list-style-type: '>   ';
@@ -21,13 +22,14 @@ details > p {
 <body>
 <div class="container">
     {% for reg in site.data.policy[site.locale].regs%}
-            <details>
-                <summary>{{reg.id}}  -  {{reg.title}}</summary>
-                <a href="{{reg.link}}"> Link to {{reg.id}}</a>
-                <p>{{reg.text}}</p>
-                <hr style="width:50%;text-align:left;margin-left:0">
-            </details>
+        <details>
+            <summary>{{reg.id}}  -  {{reg.title}}</summary>
             <br>
+            <a href="{{reg.link}}"> Link to Document --  {{reg.id}}</a>
+            <p>{{reg.text}}</p>
+            <hr style="width:50%;text-align:left;margin-left:0">
+        </details>
+        <br>
     {% endfor %}
 
 </div>
