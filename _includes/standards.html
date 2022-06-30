@@ -1,13 +1,39 @@
+<html>
+<head>
+<style>
+details >  summary {
+  width: 100%;
+  padding: 4px;
+  cursor: pointer;
+list-style-type: '∆   ';
+  font-size:large;
+  font-weight: bold;
+}
+details[open] >  summary {
+    list-style-type: '>   ';
+}
+details > p {
+  padding: 4px;
+  margin: 0;
+}
+</style>
+</head>
+<body>
 <div class="container">
     {% for reg in site.data.policy[site.locale].regs%}
-        <div class="container">
-
-            <a href="{{reg.link}}"><h5>{{reg.id}}  -  {{reg.title}}</h5></a>
+            <details>
+                <summary>{{reg.id}}  -  {{reg.title}}</summary>
+                <a href="{{reg.link}}"> Link to {{reg.id}}</a>
+                <p>{{reg.text}}</p>
+                <hr style="width:50%;text-align:left;margin-left:0">
+            </details>
             <br>
-            <p>{{reg.text}}</p>
-            <hr style="width:50%;text-align:left;margin-left:0">
-
-        </div>
     {% endfor %}
 
 </div>
+</body>
+</html>
+
+
+
+
