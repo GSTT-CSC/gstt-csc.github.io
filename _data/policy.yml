@@ -46,11 +46,13 @@ en: &DEFAULT_EN
     - title: "Quality management system for medical software development"
       id: "ISO 13485 : 2016"
       link: https://www.iso.org/standard/59752.html
-      text: "The main standard required for CE/UKAS marking and by UK DMR 2002 "
+      text: "The main standard required for CE/UKAS marking and by UK MDR 2002 <br> <br> "
     - title: "Clinical Risk Management"
       id: "ISO 14971 : 2019"
       link: https://www.iso.org/standard/38421.html
-      text: ""
+      text: "Clinical risk management is essential for the development of medical software as the potential to negative 
+            affect large amounts of patients is significant without it. <br>All Staff within the CSC Team are trained to
+            clinical risk management"
     - title: " Medical Device Software, Software lifecycles processes"
       id: "BS EN 62304 : 2006"
       link: https://www.iso.org/standard/38421.html
@@ -65,15 +67,17 @@ en: &DEFAULT_EN
     - title: "Application of usability engineering to medical devices"
       id: "BS EN 62366-1 : 2015"
       link: https://www.iso.org/standard/63179.html
-      text: ""
+      text: "Best practices for gathering requirements for medical software usability, including risk assessments on 
+            user interfaces and traceability for UI risk controls."
     - title: "Clinical Risk Management: its Application in the Manufacture of Health IT Systems"
       id: "DCB 0129"
       link: https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems
-      text: ""
+      text: "A NHS Digital regulation that reflects ISO 14971 for software development"
     - title: "Clinical Risk Management: its Application in the Deployment and Use of Health IT Systems"
       id: "DCB 0160"
       link: https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0160-clinical-risk-management-its-application-in-the-deployment-and-use-of-health-it-systems
-      text: ""
+      text: "A NHS Digital regulation that incorporates ISO 14971, with the addition of ensuring manufacturers make the 
+            Hazard Log available to NHS TRUST deploying their application."
 
 
 en-US:
