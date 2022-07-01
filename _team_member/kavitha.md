@@ -1,12 +1,9 @@
-@@ -0,0 +1,11 @@
 ---
 layout: teammember
-team-member-name: Kavitha VImalesvaran
-team-member-photo: 	/assets/img/team/KavithaV.png
-job-role: Fellow in Clinical Artifical Intelligence
+team-member-name: Kavitha Vimalesvaran
+team-member-photo: /assets/img/team/Kavitha.png
+job-role: Fellow in Clinical Artificial Intelligence
 ---
 
 ### Bio
-
-
-### CSC Team Role
+Kavitha joined the CSC team as one of our [Clinical AI Fellows](/fellowships.html).

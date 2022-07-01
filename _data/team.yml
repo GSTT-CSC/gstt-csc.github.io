@@ -93,6 +93,13 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/heyhaleema
             icon: fab fa-linkedin-in
+      - name: "Kavitha Vimalesvaran"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/kavitha.html
+        image: assets/img/team/Kavitha.png
+        social:
+          - url: https://github.com/kavithavaran
+            icon: fab fa-github
 en-US:
   <<: *DEFAULT_EN
 en-CA:
