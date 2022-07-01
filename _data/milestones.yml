@@ -1,0 +1,44 @@
+title: "Milestones"
+section: milestones
+# left is the default
+#start_align: "left"
+events:
+  - title: "CSC jet to Florida"
+    date: "June 2022"
+    desc: "Five CSC Team members present their work at the SIIM 2022 conference in Florida"
+    image: assets/img/milestones/alligator.jpeg
+    homepage_display: false
+    alt:
+  - title: "CSC awarded four NHS Topol Fellowships"
+    date: "January 2022"
+    desc: "Four members of the CSC team are awarded Topol Fellowships to work on innovative digital health projects, taking the tally of Topol Fellows in CSC to a total of six."
+    image: assets/img/milestones/topol_fellowship.png
+    homepage_display: true
+    alt:
+  - title: "AIDE MVP is deployed"
+    date: "October 2021"
+    desc: "The first version of the AIDE (AI Deployment Engine) is deployed at King's College Hospital."
+    image: assets/img/milestones/aide.png
+    homepage_display: true
+    alt:
+  - title: "CSC's First Student"
+    date: "May 2021"
+    desc: "The CSC Team hosts our first student, Igor Malashchuk, on an elective placement."
+    image: assets/img/milestones/Student Learning.jpg
+    homepage_display: false
+    alt:
+  - title: "Software Collaborations Begin"
+    date: "March 2021"
+    desc: "The CSC Team issues a GSTT-wide call to assist with the development of new AI software projects and evaluate their performance for clinical usage. More than 20 projects are submitted."
+    image: assets/img/milestones/collaboration.jpg
+    homepage_display: false
+    alt:
+  - title: "CSC is Founded!"
+    date: "January 2020"
+    desc: "The Clinical Scientific Computing (CSC) department is born at Guy's and St Thomas' NHS Foundation Trust (GSTT)."
+    image: assets/img/milestones/csc-logo-old-rm.png
+    homepage_display: true
+    alt:
+    # you can enforce the alignment
+    align: right
+end: "Click to <br> see our current <br> work"

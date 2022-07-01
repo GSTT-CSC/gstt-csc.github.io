@@ -1,8 +1,8 @@
 ---
 layout: aboutus
-title: Roadmap
-permalink: /roadmap.html
+title: Milestones
+permalink: /milestones.html
 description:
 ---
 
-{% include roadmap.html %}
+{% include milestones.html %}
