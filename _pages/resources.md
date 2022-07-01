@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: aboutus
 title: Resources
 permalink: /resources.html
 description:
