@@ -61,11 +61,15 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/AnilMistry
             icon: fab fa-github
-      - name: "Alexander Deng"
-        role: "Fellow in Clinical AI"
+      - name: "Alexander T Deng"
+        role: "Programme Lead for Fellowships in Clinical AI"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
         social:
+          - url: https://twitter.com/alextdeng
+            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/alexandertdeng
+            icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
       - name: "Lucrezia"
