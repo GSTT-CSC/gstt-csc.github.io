@@ -1,0 +1,38 @@
+<html>
+<head>
+<style>
+details >  summary {
+  width: 100%;
+  padding: 2px;
+  cursor: pointer;
+  list-style-type: '∆   ';
+  font-size:large;
+  font-weight: bold;
+  background-color:#F8E1DD;
+}
+details[open] >  summary {
+    list-style-type: '>   ';
+}
+details > p {
+  padding: 4px;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+    {% for reg in site.data.policy[site.locale].regs%}
+        <details>
+            <summary>{{reg.id}} – {{reg.title}}</summary>
+            <br>
+            <a href="{{reg.link}}"> Link to Document – {{reg.id}}</a>
+            <p>{{reg.text}}</p>
+            <hr style="width:50%;text-align:left;margin-left:0">
+        </details>
+        <br>
+    {% endfor %}
+</body>
+</html>
+
+
+
+
