@@ -3,7 +3,7 @@
     {% for button in site.data.policy[site.locale].buttons %}
         <div class="col-4 pb-10">
             <a href="{{ button.link }}">
-              <img style="width: 350px; height: 250px; border: 1px solid black;" src="{{ button.img }}" alt="{{ platform.name }}">
+              <img style="width: 350px; height: 250px;" src="{{ button.img }}" alt="{{ platform.name }}">
             </a>
             <h4 >{{ button.text }}</h4>
         </div>
