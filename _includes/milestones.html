@@ -51,14 +51,16 @@
       {% endfor %}
       <!--End Events Loop-->
 
-      {% if site.data.milestones.end %}
-      <li class="roadmap-inverted">
-        <div class="roadmap-image">
-          <a href="/projects.html" style="color: white">
-            <h4>{{ site.data.milestones.end }}</h4>
-          </a>
-        </div>
-      </li>
+      {% if page.url != "/milestones.html" %}
+        {% if site.data.milestones.end %}
+        <li class="roadmap-inverted">
+          <div class="roadmap-image">
+            <a href="/projects.html" style="color: white">
+              <h4>{{ site.data.milestones.end }}</h4>
+            </a>
+          </div>
+        </li>
+        {% endif %}
       {% endif %}
 
     </ul>
