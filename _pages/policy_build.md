@@ -1,54 +1,37 @@
 ---
+title: Building Software as a Medical Device (SaMD)
 layout: policy
 permalink: /policy_build.html
 ---
-<img src="assets/img/policy/building_header.png" alt="Markdown Monster icon" style="margin-right: 10px;" width="100%"  />
+<img src="assets/img/policy/building_header.png" width="100%" />
 
-<br>
+<div class="p-3 mb-3 align-items-center" style="background-color: #F8E1DD;">
+    <h2 class="lead text-center" style="color: #D7472E">We build medical software for clinical deployment at Guy's & St Thomas' NHS Foundation Trust</h2>
+</div>
 
-<h3 style="color:red">The CSC Team builds medical software that is deployed within the Trust.</h3>
-
-<br><br>
-
-#### Introduction
-
-The CSC department develops software applications to be used within a clinical setting, which includes Software as a 
+The CSC Team develops software applications for routine clinical usage. This includes Software as a 
 Medical Device (SaMD). It is well understood that building medical software requires extra safety considerations above 
-normal software development. 
+normal software development.
 
-
-#### Expertise 
-
-The CSC team has clinical expertise across and a range of hospital settings, and experience in clinical databases 
-including PACS, CRIS and EPR. 
-
-#### The Process
-<br>
-
----
-<h3 style="color:red">Regulations and Standards</h3>
-
----
-
-{% include standards.html %}
+Our team comprises both software and clinical expertise across a broad range of hospital settings. We are embedded 
+within Guy's & St Thomas' NHS Foundation Trust, which gives us direct access to clinical databases including PACS, 
+CRIS and EPR.
 
 <br>
+## The Software Building Process
 
 ---
+<h3 style="color: #D7472E">The CSC Quality Management System</h3>
 
-<h3 style="color:red">The CSC Quality Management System</h3>
-
----
-
-- The CSC team develops medical software within a quality management system (QMS) that is ISO 13485:2016 compliant. The 
+The CSC team develops medical software within a quality management system (QMS) that is ISO 13485:2016 compliant. The 
 scope of our QMS is for the development of medical software application that are deployed within the Trust. 
 
-- It sits within the GSTT Medical Physics Department, utilising key departmental processes and resources for audits, 
+It sits within the GSTT Medical Physics Department, utilising key departmental processes and resources for audits, 
 management review, HR, and purchasing. 
 
-- It Incorporates all aspects of the standards and regulations listed above, as relevant to the scope. 
+It Incorporates all aspects of the standards and regulations listed above, as relevant to the scope. 
 
-- The following software and languages have been validated for use for projects under this QMS:
+The following software and languages have been validated for use for projects under this QMS:
   - XNAT
   - MONAI
   - PyCharm
@@ -135,16 +118,20 @@ management review, HR, and purchasing.
 <br>
 <br>
 
---- 
-<h3 style="color:red">External Authorities</h3>
 ---
+<h3 style="color: #D7472E">Regulations and Standards</h3>
 
-##### MHRA
+{% include standards.html %}
+
+<br>
+
+
+
+--- 
+<h3 style="color:#D7472E">External Authorities</h3>
+
+###### MHRA
 ###### Classification of medical devices
-
-
-
-
 ###### Reporting incidents
  
 

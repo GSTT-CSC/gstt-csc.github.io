@@ -8,7 +8,7 @@ details >  summary {
   list-style-type: '∆   ';
   font-size:large;
   font-weight: bold;
-  background-color:#f3d4d6;
+  background-color:#F8E1DD;
 }
 details[open] >  summary {
     list-style-type: '>   ';
@@ -20,19 +20,16 @@ details > p {
 </style>
 </head>
 <body>
-<div class="container">
     {% for reg in site.data.policy[site.locale].regs%}
         <details>
-            <summary>{{reg.id}}  -  {{reg.title}}</summary>
+            <summary>{{reg.id}} – {{reg.title}}</summary>
             <br>
-            <a href="{{reg.link}}"> Link to Document --  {{reg.id}}</a>
+            <a href="{{reg.link}}"> Link to Document – {{reg.id}}</a>
             <p>{{reg.text}}</p>
             <hr style="width:50%;text-align:left;margin-left:0">
         </details>
         <br>
     {% endfor %}
-
-</div>
 </body>
 </html>
 
