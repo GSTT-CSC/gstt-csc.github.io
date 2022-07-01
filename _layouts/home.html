@@ -17,13 +17,13 @@ layout: default
 <!--Calendar & Twitter-->
 <section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
 <div class="container">
-  <div class="row">
-    <div class="col-7 mr-5">
+  <div class="row justify-content-md-center">
+    <div class="col-lg-7">
        <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
        {% include calendar.html %}
     </div>
-    <div class="col-4">
-       <h2 class="pb-4">Twitter</h2>
+    <div class="col-md-12 col-lg-5">
+       <h2 class="py-4">Twitter</h2>
        {% include twitter.html %}
     </div>
   </div>
