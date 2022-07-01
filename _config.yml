@@ -7,7 +7,7 @@
 # You can access these config variables using {{ site.variablename }}.
 
 url    : ""     # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/"    # the subpath of your site, e.g. /blog
+baseurl: ""    # the subpath of your site, e.g. /blog
 gstturl: "https://www.guysandstthomas.nhs.uk/"
 
 title      : CSC

@@ -23,10 +23,10 @@
   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <!-- Bootstrap core CSS -->
-  <link rel="stylesheet" href="{{ "assets/css/bootstrap.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | relative_url }}">
 
   <!-- Custom fonts for this template -->
-  <link href="{{ "assets/css/all.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+  <link href="{{ "/assets/css/all.min.css" | relative_url }}" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -42,8 +42,7 @@
   <meta name="msapplication-TileColor" content="#3d89fe">
   <meta name="theme-color" content="#ffffff">
   <!-- Custom styles for this theme -->
-  <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
-  <link rel="stylesheet" href="{{ "assets/css/agency.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/agency.css" | relative_url }}">
 
   <!-- Page container change top padding when nav shrinks -->
   <!-- TAR - there must be a more efficient way of doing this with a loop... -->
