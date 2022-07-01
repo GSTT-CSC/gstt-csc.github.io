@@ -40,5 +40,5 @@ events:
     homepage_display: true
     alt:
     # you can enforce the alignment
-    align: right
+    # align: left
 end: "Click to <br> see our current <br> work"
