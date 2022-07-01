@@ -10,10 +10,10 @@
   description: "Projects with SMEs awaiting feedback or approval of submitted IS and IG compliance documents."
 
 - project-status: Contracting
-  description: "For projects with SMEs, preparation of Pilot Agreement and Data Processing Agreement documents."
+  description: "For projects with SMEs, preparation of Pilot Agreement and data.md Processing Agreement documents."
 
-- project-status: Data Curating
-  description: "Data preparation and data access logistics, such as for training AI algorithms or retrospective 
+- project-status: Curating
+  description: "Preparation and data access logistics, such as for training AI algorithms or retrospective 
   evaluation studies."
 
 - project-status: Developing

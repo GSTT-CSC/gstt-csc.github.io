@@ -1,0 +1,27 @@
+# Add temporary involvement (STP) options here by filling in the title, description, proportion of time for "Other STP" and "CSC" time
+# Add temporary involvement (STP) options in the correct position to maintain cleaner view, i.e. higher proportion of "CSC" time first
+
+#  title:
+#  description:
+#  other:
+#  csc:
+
+- title: Full-term
+  description: Your time with GSTT and the CSC team will comprise the entirety of the programme's timeframe.
+  other: 0
+  csc: 100
+
+- title: Long-term
+  description: Typically, applicants will need to be employed by GSTT and your time with the CSC team will be 2 years of the programme's timeframe.
+  other: 33
+  csc: 67
+
+- title: Short-term
+  description: Your time with our team, typically for Medical Physics and Bioinformatics STP applicants, will be 3 months of the programme's timeframe.
+  other: 92
+  csc: 8
+
+- title: Elective
+  description: Your time with our team will typically begin towards the end of the programme's 3rd year and will be 6 - 8 weeks of the programme's timeframe.
+  other: 95
+  csc: 5

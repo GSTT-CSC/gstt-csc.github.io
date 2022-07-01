@@ -11,19 +11,43 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
-    <!-- Landscape -->
-      <h1>{{ site.data.platforms[site.locale].title }}</h1>
-      <h5 class="text-muted">{{ site.data.platforms[site.locale].intro-text }}</h5>
+
+    <h1>{{ site.data.platforms[site.locale].title }}</h1>
+
+    <!--Landscape Wheel-->
+    <h3 class="lead">
+    The Landscape wheel below shows the software platforms that the CSC team uses in order to bring AI models from data collection all the way through to deployment.
+    </h3>
+
+    <p>Click on the platform names to find out more about each one:</p>
+
+    <div style="text-align: center;" class="pt-4">
+        <img src="assets/img/platforms/platforms-wheel.png" class="w-50" usemap="#workmap">
+    </div>
+
+ <map name="workmap">
+        <area shape="rect" coords="430,280,460,330" alt="Computer" href="/platforms/flip.html">
+        <area shape="rect" coords="400,440,480,500" alt="Computer" href="/platforms/mlops.html">
+        <area shape="rect" coords="130,400,200,440" alt="Computer" href="/platforms/aide.html">
+        <area shape="rect" coords="180,110,280,140" alt="Computer" href="/platforms/cogstack.html">
+        <area shape="rect" coords="300,70,370,100" alt="Computer" href="/platforms/xnat.html">
+    </map>
+
+    <!--Landscape Grid-->
+    <br />
+    <br />
+    <p>{{ site.data.platforms[site.locale].intro-text }}</p>
+
       <div class="row pt-3">
       {% for platform in site.data.platforms[site.locale].platforms %}
         <div class="col-4 pb-3">
-            <a href="{{ platform.platform-page }}">
-              <img style="width: 300px; border: 1px solid black;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
-            </a>
             <h4>{{ platform.name }}</h4>
+            <a href="{{ platform.platform-page }}">
+              <img style="width: 300px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
+            </a>
+            <p>{{ platform.platform-verb }}</p>
         </div>
       {% endfor %}
       </div>
     </div>
     <!-- Landscape -->
-</div>

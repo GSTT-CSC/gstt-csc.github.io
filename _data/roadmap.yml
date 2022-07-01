@@ -11,13 +11,13 @@ events:
     alt:
   - title: "Collaboration Begins"
     date: "March 2021"
-    desc: "Call out for project ideas to GSTT clinical teams results in 20 Project submissions. The CSC Team complete litrature reviews and stakeholder engagemnt meetings."
+    desc: "Call out for project ideas to GSTT clinical teams results in 20 Project submissions. The CSC Team complete literature reviews and stakeholder engagement meetings."
     image: assets/img/roadmap/collaboration.jpg
     homepage_display: false
     alt:
   - title: "1st Student"
     date: "May 2021"
-    desc: "The CSC Team supports it first student on an elective placement"
+    desc: "The CSC Team supports it first student on an elective placement."
     image: assets/img/roadmap/Student Learning.jpg
     homepage_display: false
     alt:
@@ -40,13 +40,13 @@ events:
     alt:
   - title: "QMS Audit"
     date: "TBC 2022"
-    desc: "The CSC Teams Quality Management System is audited and is certified to use"
+    desc: "The CSC Teams Quality Management System is audited and is certified to use."
     image: assets/img/roadmap/design-devlopment-process.jpg
     homepage_display: false
     alt:
   - title: "FlIP MVP"
     date: "TBC 2022"
-    desc: "The Federated Learning Platform in collaboration the the AI Centre for London is launched"
+    desc: "The Federated Learning Platform in collaboration the the AI Centre for London is launched."
     image: assets/img/roadmap
     homepage_display: false
     alt:
@@ -58,7 +58,7 @@ events:
     alt:
   - title: "MLOps"
     date: "TBC 2022"
-    desc: " Laurence Key milestone"
+    desc: " Laurence Key milestone."
     image: assets/img/roadmap/
     homepage_display: false
     alt:

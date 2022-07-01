@@ -6,12 +6,8 @@
 
 # You can access these config variables using {{ site.variablename }}.
 
-# TODO: fix these theme settings properly
-# theme: jekyll-theme-cayman  # uncomment if problems with GitHub pages when pushing live site
-theme: jekyll-agency
-
 url    : ""     # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/"    # the subpath of your site, e.g. /blog
+baseurl: ""    # the subpath of your site, e.g. /blog
 gstturl: "https://www.guysandstthomas.nhs.uk/"
 
 title      : CSC
@@ -31,6 +27,8 @@ collections:
   projects:
     output: true
   handbook:
+    output: true
+  resources:
     output: true
 
 markdown: kramdown

@@ -31,78 +31,50 @@ en: &DEFAULT_EN
         team-member-page: /team_member/dika.html
         image: assets/img/team/Dika.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/dangerdika
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Lucy Funnell"
         role: "AI Project Manager"
         team-member-page: /team_member/lucy.html
         image: assets/img/team/Lucy.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/lucy-funnell
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Simone"
         role: "Medical Physicist"
         team-member-page: /team_member/simone.html
         image: assets/img/team/Simone.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/simoambr
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Laurence"
         role: "Clinical Scientist"
         team-member-page: /team_member/laurence.html
         image: assets/img/team/Laurence.png
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/laurencejackson
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Anil"
         role: "Clinical Scientist"
         team-member-page: /team_member/anil.html
         image: assets/img/team/Anil.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/AnilMistry
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Alexander Deng"
         role: "Fellow in Clinical AI"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/alexandertdeng
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Lucrezia"
         role: "AI Engineer"
         team-member-page: /team_member/lucrezia.html
         image: assets/img/team/Lucrezia.jpeg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
-          - url: https://github.com/
+          - url: https://github.com/Lucrezia-Cester
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
-            icon: fab fa-linkedin-in
       - name: "Tom Roberts"
         role: "AI Engineer"
         team-member-page: /team_member/tom.html
@@ -117,12 +89,24 @@ en: &DEFAULT_EN
         team-member-page: /team_member/haleema.html
         image: assets/img/team/Haleema.jpg
         social:
-          - url: https://twitter.com/
-            icon: fab fa-twitter
           - url: https://github.com/heyhaleema
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/
+          - url: https://www.linkedin.com/heyhaleema
             icon: fab fa-linkedin-in
+      - name: "Kavitha Vimalesvaran"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/kavitha.html
+        image: assets/img/team/Kavitha.png
+        social:
+          - url: https://github.com/kavithavaran
+            icon: fab fa-github
+      - name: "Ryan Satnarine"
+        role: "Trainee Medical Physicist"
+        team-member-page: /team_member/ryan.html
+        image: assets/img/team/Ryan.jpg
+        social:
+          - url: https://github.com/rs-sprout98
+            icon: fab fa-github
 en-US:
   <<: *DEFAULT_EN
 en-CA:

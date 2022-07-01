@@ -1,0 +1,86 @@
+skills:
+    - name: "Radiology images retrieval and anonymization"
+      description:
+      experts:
+        - person: "Dika Vilic"
+          picture: assets/img/team/Dika.jpg
+      competent:
+        - person:
+          picture:
+      in-progress:
+        - person: "Haleema Al Jazzaf"
+          picture: assets/img/team/Haleema.jpg
+    - name: "AI project management "
+      description:
+      experts:
+        - person: "Haris Shuaib"
+          picture: assets/img/team/Haris.png
+        - person: "Lucy Funnell"
+          picture: assets/img/team/Lucy.jpg
+      competent:
+        - person:
+          picture:
+      in-progress:
+        - person:
+          picture:
+    - name: "AI deployment"
+      description:
+      experts:
+       - person: "Tom Roberts"
+         picture: assets/img/team/TomR.jpeg
+       - person: "Haris Shuaib"
+         picture: assets/img/team/Haris.png
+      competent:
+        - person: "Lucrezia Cester"
+          picture: assets/img/team/Lucrezia.jpeg
+        - person: "Haleema Al Jazzaf"
+          picture: assets/img/team/Haleema.jpg
+      in-progress:
+       - person:
+         picture:
+    - name: "Federated learning"
+      description:
+      experts:
+        - person: "Haleema Al Jazzaf"
+          picture: assets/img/team/Haleema.jpg
+      in-progress:
+        - person:
+          picture:
+    - name: "Automatic MRI quality assurance"
+      description:
+      experts:
+        - person: "Tom Roberts"
+          picture: assets/img/team/TomR.jpeg
+        - person: "Lucrezia Cester"
+          picture: assets/img/team/Lucrezia.jpeg
+        - person: "Laurence Jackson"
+          picture: assets/img/team/Laurence.png
+        - person: "Haris Shuaib"
+          picture: assets/img/team/Haris.png
+      in-progress:
+       - person: "Haleema Al Jazzaf"
+         picture: assets/img/team/Haleema.jpg
+    - name: "QMS "
+      description:
+      experts:
+        - person: "Anil Mistry"
+          picture: assets/img/team/Anil.jpg
+        - person: "Haris Shuaib"
+          picture: assets/img/team/Haris.png
+      competent:
+        - person: "CSC Team"
+          picture:
+    - name: "Retrieval of unstructured data"
+      experts:
+        - person: "Simone Ambrogio"
+          picture: assets/img/team/Simone.jpg
+    - name: "Digital healthcare policy"
+      description:
+      experts:
+        - person: "Haris Shuaib"
+          picture: assets/img/team/Haris.png
+        - person: "Anil Mistry"
+          picture: assets/img/team/Anil.jpg
+      competent:
+        - person: "Lucy Funnell"
+          picture: assets/img/team/Lucy.jpg

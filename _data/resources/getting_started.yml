@@ -1,0 +1,29 @@
+# Add your resources items here by filling in the details as below.
+
+#  name:
+#  description:
+#  link:
+
+- name: Free-for.dev
+  description: |
+    This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+    The scope of this particular list is limited to things that infrastructure developers
+    (System Administrator, DevOps Practitioners, etc.) are likely to find useful.
+  link: https://free-for.dev/
+
+- name: GitHub Student Developer Pack
+  description: |
+    Free access to the best developer tools in one place so they can learn by doing.
+  link: https://education.github.com/pack
+
+- name: NHS Python Community
+  description: Lead by enthusiasts and advocates, the NHS Python Community for Healthcare is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector
+  link: https://nhs-pycom.net/
+
+- name: devdocs
+  description: DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+  link: https://devdocs.io/
+
+- name: Datacamp
+  description: Comprehensive online learning for data scientists
+  link: https://www.datacamp.com/
