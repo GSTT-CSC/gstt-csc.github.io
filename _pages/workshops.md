@@ -1,9 +1,9 @@
 ---
 layout: blog
+title: Workshops
 permalink: /workshops.html
 ---
 
-## Workshops 
-<p> Outputs of our forntightly 10x workshop sessions, where we discuss novel ideas and </p>
+Discussion pieces resulting from our internal bi-weekly 10X workshops.
 
 {% include blog-workshops.html %}
