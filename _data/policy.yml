@@ -23,11 +23,57 @@ en: &DEFAULT_EN
       - name: "IS"
       - name: "IT"
 
+  buttons:
+    - text: "Building SaMD"
+      link: "policy_build.html"
+      img: "assets/img/policy/build_img.png"
+    - text: "Buying Medical Software"
+      link: "policy_buy.html"
+      img: "assets/img/policy/buy_img.jpg"
 
+  regs:
+    - title: "UK Medical Device Regulations"
+      id: "UK MDR 2002"
+      link: https://www.legislation.gov.uk/uksi/2002/618/contents/made
+      text: "UK-MDR 2002 is the current applicable regulation for medical devices within the UK. It encodes MDR 2002 
+            into law, with requirements for companies to have a uk-based responsible person. UK MDR 2002 is applicable 
+            to applications developed by the CSC as they will be deployed into clinical use. The software we build 
+            includes AI applications that we intend to deploy on the AIDE platform, or as stand alone medical devices. 
+            <br> <br> Although the CSC does not initially intend to put the software we create onto the UK market, we 
+            still work within a quality management system that is ISO 13485:2016 compliant to ensure best practises 
+            when developing SaMD."
 
-
-
-
+    - title: "Quality management system for medical software development"
+      id: "ISO 13485 : 2016"
+      link: https://www.iso.org/standard/59752.html
+      text: "The main standard required for CE/UKAS marking and by UK DMR 2002 "
+    - title: "Clinical Risk Management"
+      id: "ISO 14971 : 2019"
+      link: https://www.iso.org/standard/38421.html
+      text: ""
+    - title: " Medical Device Software, Software lifecycles processes"
+      id: "BS EN 62304 : 2006"
+      link: https://www.iso.org/standard/38421.html
+      text: "This standard provide a framework for developing medical software, which relies on working within a ISO 
+            13485 quality management system. 
+            <br><br>Key points include:
+            <br>- Maintaining good traceability of meeting customer requirements
+            <br>- Enforcing clinical safety
+            <br>- Classification of the software (A/B/C)
+            <br>- Modularity for verification/unit testing
+            <br>- Change management"
+    - title: "Application of usability engineering to medical devices"
+      id: "BS EN 62366-1 : 2015"
+      link: https://www.iso.org/standard/63179.html
+      text: ""
+    - title: "Clinical Risk Management: its Application in the Manufacture of Health IT Systems"
+      id: "DCB 0129"
+      link: https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems
+      text: ""
+    - title: "Clinical Risk Management: its Application in the Deployment and Use of Health IT Systems"
+      id: "DCB 0160"
+      link: https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0160-clinical-risk-management-its-application-in-the-deployment-and-use-of-health-it-systems
+      text: ""
 
 
 en-US:
