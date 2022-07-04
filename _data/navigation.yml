@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       section: /platforms.html
     - title: "Policy"
       section: /policy.html
-    - title: "Our Work"
-      section: /ourwork.html
+    - title: "Projects"
+      section: /projects.html
     - title: "Blog"
       section: /blog.html
 

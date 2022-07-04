@@ -2,14 +2,13 @@
 <section class="page-section bg-light" id="{{ site.data.whatwedo.section | markdownify | default: "What we do" }}">
   <div class="container">
     <h2>{{ site.data.whatwedo.title }}</h2>
-<!--    <p>{{ site.data.whatwedo.text }}</p>-->
 
-    <div class="row pt-3">
+    <div class="row pt-5">
       {% for aspect in site.data.whatwedo.aspects %}
-      <div class="col-1">
+      <div class="col-12 col-sm-3 col-lg-1 pb-5">
         <img src="{{ aspect.image }}"  style="width: inherit">
       </div>
-      <div class="col-3">
+      <div class="col-12 col-sm-9 col-lg-3 pb-5">
         <h3 style="color:{{ aspect.colour }}">{{ aspect.title }}</h3>
         <p class="text-muted">{{ aspect.text }}</p>
       </div>

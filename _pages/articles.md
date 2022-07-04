@@ -1,10 +1,10 @@
 ---
 layout: blog
+title: Articles
 permalink: /articles.html
 ---
 
-## Articles 
-<p> Articles on topics we believe and important/interesting, relating the Healthcare Tech. These article are written by 
-the core CSC team and those associated with us.</p>
+Articles on topics we believe are interesting relating to digital healthcare. These articles are written by 
+the core CSC team and our colleagues.
 
 {% include blog-articles.html %}

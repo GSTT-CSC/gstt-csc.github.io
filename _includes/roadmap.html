@@ -1,13 +1,13 @@
-<!-- Roadmap -->
+<!-- Milestones -->
 <div class="row">
   <div class="col-lg-12">
     <ul class="roadmap">
-      {%- assign align = site.data.roadmap.start_align -%}
+      {%- assign align = site.data.milestones.start_align -%}
 
       <!--Events Loop-->
-      {%- for event in site.data.roadmap.events -%}
+      {%- for event in site.data.milestones.events -%}
 
-      {% if page.url == "/roadmap.html" %}
+      {% if page.url == "/milestones.html" %}
         {%- assign display_event = true %}
       {% else %}
         {%- assign display_event = event.homepage_display %}
@@ -51,11 +51,11 @@
       {% endfor %}
       <!--End Events Loop-->
 
-      {% if site.data.roadmap.end %}
+      {% if site.data.milestones.end %}
       <li class="roadmap-inverted">
         <div class="roadmap-image">
-          <a href="/ourwork.html" style="color: white">
-            <h4>{{ site.data.roadmap.end }}</h4>
+          <a href="/projects.html" style="color: white">
+            <h4>{{ site.data.milestones.end }}</h4>
           </a>
         </div>
       </li>

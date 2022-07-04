@@ -1,6 +1,6 @@
 ---
 title: Standups
-order: 5
+order: 6
 image:
 ---
 

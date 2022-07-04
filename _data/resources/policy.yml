@@ -1,0 +1,10 @@
+# Add your resources items here by filling in the details as below.
+
+#  name:
+#  description:
+#  link:
+
+- name: British Standards Institute
+  description: |
+    The BSI publish standards relevant to our work in medical devices. Use KCL institutional login for access.
+  link: https://bsol.bsigroup.com/

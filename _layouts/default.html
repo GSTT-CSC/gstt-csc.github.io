@@ -4,24 +4,24 @@
   {% include head.html %}
 
   <body id="page-top">
-
       {{ content }}
+
 
 	  {% include footer.html %}
 
 	  <!-- Bootstrap core JavaScript -->
-	  <script src="{{ "assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
-	  <script src="{{ "assets/js/bootstrap.bundle.min.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/js/jquery.min.js" | relative_url }}"></script>
+	  <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
 
 	  <!-- Plugin JavaScript -->
-	  <script src="{{ "assets/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/js/jquery.easing.min.js" | relative_url }}"></script>
 
 	  <!-- Contact form JavaScript -->
-	  <script src="{{ "assets/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
-	  <script src="{{ "assets/js/contact_me.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/js/jqBootstrapValidation.js" | relative_url }}"></script>
+	  <script src="{{ "/assets/js/contact_me.js" | relative_url }}"></script>
 
 	  <!-- Custom scripts for this template -->
-	  <script src="{{ "assets/js/agency.min.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/js/agency.min.js" | relative_url }}"></script>
 
   </body>
 </html>
