@@ -40,7 +40,7 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/lucy-funnell
             icon: fab fa-github
-      - name: "Simone"
+      - name: "Simone Ambrogio"
         role: "Medical Physicist"
         team-member-page: /team_member/simone.html
         image: assets/img/team/Simone.jpg
@@ -54,7 +54,7 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/laurencejackson
             icon: fab fa-github
-      - name: "Anil"
+      - name: "Anil Mistry"
         role: "Clinical Scientist"
         team-member-page: /team_member/anil.html
         image: assets/img/team/Anil.jpg
@@ -72,7 +72,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
-      - name: "Lucrezia"
+      - name: "Lucrezia Cester"
         role: "AI Engineer"
         team-member-page: /team_member/lucrezia.html
         image: assets/img/team/Lucrezia.jpeg
