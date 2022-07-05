@@ -26,7 +26,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/haris-shuaib/
             icon: fab fa-linkedin-in
-      - name: "Dika"
+      - name: "Dika Vilic"
         role: "Clinical Scientist"
         team-member-page: /team_member/dika.html
         image: assets/img/team/Dika.jpg
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/simoambr
             icon: fab fa-github
-      - name: "Laurence"
+      - name: "Laurence Jackson"
         role: "Clinical Scientist"
         team-member-page: /team_member/laurence.html
         image: assets/img/team/Laurence.png
