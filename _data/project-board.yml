@@ -12,7 +12,7 @@
 - project-status: Contracting
   description: "For projects with SMEs, preparation of Pilot Agreement and data.md Processing Agreement documents."
 
-- project-status: Curating
+- project-status: Data Curating
   description: "Preparation and data access logistics, such as for training AI algorithms or retrospective 
   evaluation studies."
 
