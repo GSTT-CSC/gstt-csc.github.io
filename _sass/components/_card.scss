@@ -29,11 +29,9 @@ body {
 }
 
 .img {
-
   display: block;
   object-fit: cover;
   overflow: hidden;
-
 }
 
 .card {
@@ -92,7 +90,6 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
 
 .card__body h4 {
   font-size: 1.5rem;
-  text-transform: capitalize;
 }
 
 .card__footer {

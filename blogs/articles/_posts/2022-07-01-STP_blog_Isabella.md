@@ -1,9 +1,9 @@
 ---
 layout: blogpost
-title: NHS STP - 2022 CSC Placement 
-tag-line: "My short rotation as a Clinical Engineering STP trainee with the CSC"
+title: "My 5-month placement with the CSC team" 
+tag-line: "Isabella talks about her time as a Clinical Engineering STP trainee with the CSC team"
 date: "1st July 2022"
-read-time-mins: "15 mins"
+read-time-mins: "5 mins"
 image: /assets/img/blog/nhs_logo.png
 author: Isabella Trujillo-Cortes
 author-image: /assets/img/team/standard_user.jpg
