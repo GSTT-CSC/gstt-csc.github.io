@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row pt-3">
   {% for person in site.data.team[site.locale].team.people %}
-	<div class="col-sm-4 pb-5">
+	<div class="col-md-6 col-lg-4 pb-4 text-sm-center text-md-left">
 	  <div class="team-member">
 		<a href="{{ person.team-member-page }}">
 		  <img class="mx-auto rounded-circle p-1" style="width: 250px;" src="{{ person.image }}" alt="">
