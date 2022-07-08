@@ -1,7 +1,9 @@
-// Styling for the navbar
+// Main NavBar
 #mainNav {
    background-color: #FFFFFF;
    //position: relative;
+
+  // NavBar Toggle Button
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -9,19 +11,24 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $primary;
+    background-color: $csc-blue;
+    outline: $csc-blue;
+    box-shadow: none;
     @include heading-font;
+    &:hover { background-color: lighten($csc-blue, 10%); }
   }
   .navbar-brand {
-    color: $primary;
+    color: $csc-blue;
     @include heading-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 20%);
+      color: darken($csc-blue, 20%);
     }
   }
+
+  // Main NavBar Items
   .navbar-nav
   {
     .nav-item
@@ -43,12 +50,7 @@
       }
       .people-link
       {
-        font-size: 100%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
         color: $people-purple;
-        @include heading-font;
         &.active,
         &:hover
         {
@@ -58,12 +60,7 @@
       }
       .platforms-link
       {
-        font-size: 100%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
         color: $platform-green;
-        @include heading-font;
         &.active,
         &:hover
         {
@@ -73,12 +70,7 @@
       }
       .policy-link
       {
-        font-size: 100%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
         color: $policy-red;
-        @include heading-font;
         &.active,
         &:hover
         {
@@ -89,6 +81,8 @@
     }
   }
 }
+
+// Navbar Font Padding & more... (could be tidier)
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 10px;
