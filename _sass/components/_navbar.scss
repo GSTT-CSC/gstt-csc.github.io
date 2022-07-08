@@ -117,10 +117,48 @@
   }
 }
 
-// Subnav bar
+// SubNav
 #subNav {
-  min-width: 992px;
+  min-width: 300px;
   position: relative;
+
+  // SubNav Toggle Button
+  .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: white;
+    border: 0;
+    background-color: $csc-blue;
+    outline: $csc-blue;
+    @include heading-font;
+    &:active,
+    &:hover { background-color: lighten($csc-blue, 10%); }
+  }
+  .people-btn
+  {
+    background-color: $people-purple;
+    outline: $people-purple;
+    &:active,
+    &:hover { background-color: lighten($people-purple, 10%); }
+  }
+  .platforms-btn
+  {
+    background-color: $platform-green;
+    outline: $platform-green;
+    &:active,
+    &:hover { background-color: lighten($platform-green, 10%); }
+  }
+  .policy-btn
+  {
+    background-color: $policy-red;
+    outline: $policy-red;
+    &:active,
+    &:hover { background-color: lighten($policy-red, 10%); }
+  }
+
+  // SubNavbar Items
   .navbar-nav {
     .nav-item {
       .nav-link
@@ -140,13 +178,8 @@
       }
       .people-link
       {
-        font-size: 90%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
         color: $people-purple;
-        @include heading-font;
-        &.active,
+        &:active,
         &:hover
         {
           color: darken($people-purple, 0%);
@@ -155,12 +188,8 @@
       }
       .platforms-link
       {
-        font-size: 90%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
+
         color: $platform-green;
-        @include heading-font;
         &.active,
         &:hover
         {
@@ -170,12 +199,7 @@
       }
       .policy-link
       {
-        font-size: 90%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
         color: $policy-red;
-        @include heading-font;
         &.active,
         &:hover
         {
@@ -186,7 +210,7 @@
     }
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 300px) {
   #subNav {
     // padding-top: 10px;
     // padding-bottom: 10px;
