@@ -10,13 +10,13 @@
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-color: $csc-blue;
+  border-color: $csc-blue;
   &:active,
   &:focus,
   &:hover {
-    background-color: darken($primary, 7.5%) !important;
-    border-color: darken($primary, 7.5%) !important;
+    background-color: darken($csc-blue, 7.5%) !important;
+    border-color: darken($csc-blue, 7.5%) !important;
     color: white;
   }
   &:active,
