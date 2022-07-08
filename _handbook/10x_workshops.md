@@ -4,7 +4,7 @@ order: 8
 image:
 ---
 
-<img src="assets/img/handbook/workshop_3.21.jpg">
+<img src="assets/img/handbook/workshop_3.21.jpg" class="img-fluid">
 
 On **bi-weekly Wednesdays**, the CSC Team hosts a 10x Workshop. Within this space, we discuss new topics surrounding the 
 implementation of AI within the healthcare sector, we have group discussions about current practices, and we discuss new 

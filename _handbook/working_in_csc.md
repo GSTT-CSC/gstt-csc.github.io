@@ -23,5 +23,5 @@ The general purpose CSC Team email address is: **cscteam@gstt.nhs.uk**.
 
 The diagram below illustrates the structure of the CSC Team within Medical Physics at GSTT.
 
-<img src="/assets/img/handbook/department-hierarchy-diagram.png">
+<img src="/assets/img/handbook/department-hierarchy-diagram.png" class="img-fluid">
 
