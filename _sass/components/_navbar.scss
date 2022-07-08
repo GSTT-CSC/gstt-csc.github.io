@@ -1,6 +1,7 @@
 // Main NavBar
 #mainNav {
    background-color: #FFFFFF;
+   border-bottom:1px solid $csc-blue;
    //position: relative;
 
   // NavBar Toggle Button
@@ -91,6 +92,7 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
+    border-bottom:1px solid $csc-blue;
     background-color: white;
     .navbar-brand {
       font-size: 1.75em;
