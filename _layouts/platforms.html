@@ -38,9 +38,9 @@ document.getElementById("page-top").className="bg-light";
     <br />
     <p>{{ site.data.platforms[site.locale].intro-text }}</p>
 
-      <div class="row pt-3">
+      <div class="row pt-3 text-center text-md-left">
       {% for platform in site.data.platforms[site.locale].platforms %}
-        <div class="col-4 pb-3">
+        <div class="mx-auto col-md-6 col-lg-4 p-4 ">
             <h4>{{ platform.name }}</h4>
             <a href="{{ platform.platform-page }}">
               <img style="width: 300px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
