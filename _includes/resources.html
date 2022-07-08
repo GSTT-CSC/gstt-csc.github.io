@@ -12,11 +12,12 @@
   <!--  Define variable which sorts order of _resources .md files -->
   {% assign items_ordered = site.resources | sort: "order" %}
 
-  <div class="col-3">
+  <div class="col-md-4 col-lg-3 pb-3">
     <!-- Resources Scrollspy -->
     <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
 
       <ul class="nav flex-column nav-pills menu-sidebar" id="resourcesNav">
+      <h4 class="text-center pt-2">Resources Contents</h4>
           {% for item in items_ordered | sort: "order" %}
               <li class="nav-item">
                 <a class="nav-link" href="#resources-entry-{{item.order}}">{{ item.title }}</a>
@@ -29,7 +30,7 @@
 
   {% assign item_order = site.resources | sort: "order" %}
 
-  <div class="col-md-9">
+  <div class="col-md-8 col-lg-9">
     <!-- Resources Text (spied element) -->
     <div
       data-mdb-spy="scroll"

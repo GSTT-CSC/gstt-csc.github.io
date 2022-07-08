@@ -1,72 +1,64 @@
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+<!-- Homepage NavBar -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-	  <a class="navbar-brand js-scroll-trigger" href="#page-top">
-            <img height="{{ site.logo.height | default: 42 }}"
-             src="https://raw.githubusercontent.com/GSTT-CSC/csc-test-site/gh-pages/assets/img/CSC-logo-trans-sm.png"
-            />
-      </a>
-      <a class="navbar-brand js-scroll-trigger" href="{{ site.gstturl }}" target="_blank">
-        <img
-          height="{{ site.logo.height | default: 42 }}"
-          src="https://raw.githubusercontent.com/GSTT-CSC/csc-test-site/gh-pages/assets/img/gstt-logo-sm.jpg"
-        />
-      </a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        Menu
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav text-uppercase ml-auto">
-        <!-- {% for link in site.data.navigation[site.locale].nav %}
-          <li class="nav-item">
-            {%- if link.url -%}
-              <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-            {%- else if link.section -%}
-              <a class="nav-link js-scroll-trigger" href="{{ link.section }}">{{ link.title }}</a>
-            {%- else -%}
-              <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
-            {%- endif -%}
-          </li>
-        {% endfor %} -->
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/team.html">About Us</a>
-          </li>
-          <li class="nav-item">
-              <a class="people-link nav-link js-scroll-trigger" href="/stp.html">People</a>
-          </li>
-          <li class="nav-item">
-              <a class="platforms-link nav-link js-scroll-trigger" href="/platforms.html">Platforms</a>
-          </li>
-          <li class="nav-item">
-              <a class="policy-link nav-link js-scroll-trigger" href="/policy.html">Policy</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/projects.html">Projects</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/articles.html">Blog</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-  <!-- End Navigation -->
 
-  <!-- Header -->
-  <header class="masthead">
-    <div class="container">
-      <div class="intro-text">
-	  {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
-	  {%- endif -%}
-      </div>
+        <!--CSC & GSTT logos-->
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <img height="{{ site.logo.height | default: 42 }}" src="/assets/img/CSC-logo-trans-sm.png"/>
+        </a>
+        <a class="navbar-brand mr-auto js-scroll-trigger" href="{{ site.gstturl }}" target="_blank">
+            <img height="{{ site.logo.height | default: 42 }}" src="/assets/img/gstt-logo-sm.jpg"/>
+        </a>
+        <!--End CSC & GSTT logos-->
+
+        <!--Menu Button-->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Main <i class="fas fa-bars" ></i>
+        </button>
+        <!--End Menu Button-->
+
+        <!--Menu Items-->
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav text-uppercase text-center ml-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/team.html">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="people-link nav-link js-scroll-trigger" href="/stp.html">People</a>
+                </li>
+                <li class="nav-item">
+                    <a class="platforms-link nav-link js-scroll-trigger" href="/platforms.html">Platforms</a>
+                </li>
+                <li class="nav-item">
+                    <a class="policy-link nav-link js-scroll-trigger" href="/policy.html">Policy</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/projects.html">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/articles.html">Blog</a>
+                </li>
+            </ul>
+        </div>
+        <!--EndMenu Items-->
     </div>
-  </header>
-  <!-- End Header -->
+</nav>
+<!-- End Homepage NavBar -->
+
+<!-- Header -->
+<header class="masthead">
+    <div class="container">
+        <div class="intro-text">
+            {%- if site.data.sitetext[site.locale].header.title -%}
+            <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+            {%- endif -%}
+            {%- if site.data.sitetext[site.locale].header.text -%}
+            <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+            {%- endif -%}
+            {%- if site.data.sitetext[site.locale].header.button -%}
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+            {%- endif -%}
+        </div>
+    </div>
+</header>
+<!-- End Header -->

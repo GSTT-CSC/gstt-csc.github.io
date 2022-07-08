@@ -1,67 +1,49 @@
-<!-- Navigation -->
-<nav
-  class="navbar navbar-expand-lg navbar-dark"
-  id="mainNav"
-  style="background-color: #FFFFFF"
->
+<!-- Main Navigation Outside of Homepage -->
+<nav class="navbar navbar-expand-lg navbar-dark" id="mainNav" style="background-color: #FFFFFF">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="{{ "/" | relative_url }}">
 
-      <img
-        height="{{ site.logo.height | default: 42 }}"
-        src="https://raw.githubusercontent.com/GSTT-CSC/csc-test-site/gh-pages/assets/img/CSC-logo-trans-sm.png"
-      />
+    <!--CSC & GSTT logos-->
+    <a class="navbar-brand js-scroll-trigger" href="{{ "/" | relative_url }}">
+    <img height="{{ site.logo.height | default: 42 }}" src="/assets/img/CSC-logo-trans-sm.png"/>
     </a>
-    <a class="navbar-brand js-scroll-trigger" href="{{ site.gstturl }}" target="_blank">
-      <img
-        height="{{ site.logo.height | default: 42 }}"
-        src="https://raw.githubusercontent.com/GSTT-CSC/csc-test-site/gh-pages/assets/img/gstt-logo-sm.jpg"
-      />
+    <a class="navbar-brand mr-auto js-scroll-trigger" href="{{ site.gstturl }}" target="_blank">
+      <img height="{{ site.logo.height | default: 42 }}" src="/assets/img/gstt-logo-sm.jpg"/>
     </a>
-    <button
-      class="navbar-toggler navbar-toggler-right"
-      type="button"
-      data-toggle="collapse"
-      data-target="#navbarResponsive"
-      aria-controls="navbarResponsive"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      Menu <i class="fas fa-bars"></i>
+    <!--End CSC & GSTT logos-->
+
+    <!--Main Navbar-->
+    <!--Menu Button-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Main <i class="fas fa-bars" ></i>
     </button>
+    <!--End Menu Button-->
+
+    <!--Menu Items-->
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav text-uppercase ml-auto">
-      <!-- {% for link in site.data.navigation[site.locale].nav %}
+      <ul class="navbar-nav text-uppercase text-center ml-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          {%- if link.url -%}
-            <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-          {%- else if link.section -%}
-            <a class="nav-link js-scroll-trigger" href="{{ link.section }}">{{ link.title }}</a>
-          {%- else -%}
-            <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
-          {%- endif -%}
-        </li>
-      {% endfor %} -->
-        <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/team.html">About Us</a>
+          <a class="nav-link js-scroll-trigger" href="/team.html">About Us</a>
         </li>
         <li class="nav-item">
-            <a class="people-link nav-link js-scroll-trigger" href="/stp.html">People</a>
+          <a class="people-link nav-link js-scroll-trigger" href="/stp.html">People</a>
         </li>
         <li class="nav-item">
-            <a class="platforms-link nav-link js-scroll-trigger" href="/platforms.html">Platforms</a>
+          <a class="platforms-link nav-link js-scroll-trigger" href="/platforms.html">Platforms</a>
         </li>
         <li class="nav-item">
-            <a class="policy-link nav-link js-scroll-trigger" href="/policy.html">Policy</a>
+          <a class="policy-link nav-link js-scroll-trigger" href="/policy.html">Policy</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/projects.html">Projects</a>
+          <a class="nav-link js-scroll-trigger" href="/projects.html">Projects</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/articles.html">Blog</a>
+          <a class="nav-link js-scroll-trigger" href="/articles.html">Blog</a>
         </li>
       </ul>
     </div>
+    <!--EndMenu Items-->
+
+    <!--End Main Navbar-->
   </div>
 </nav>
-<!-- End Navigation -->
+<!-- End Main Navigation Outside of Homepage -->

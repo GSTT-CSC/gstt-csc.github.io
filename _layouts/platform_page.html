@@ -10,16 +10,16 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
-<div class="container" id="pagecontainer">
+<div class="container">
     <br>
     <br>
-    <h1>{{ page.platform-name }}</h1>
+    <h1 class="text-center text-md-left">{{ page.platform-name }}</h1>
     <br>
     <div class="row">
-        <div class="col-4">
-            <img class="mx-auto" style="" src={{ page.platform-image }} alt="">
+        <div class="col-12 col-lg-4 text-center text-md-left">
+            <img class="mx-auto pb-4" src={{ page.platform-image }} alt="">
         </div>
-        <div class="col-8">
+        <div class="col-12 col-lg-8">
                 {{ content }}
             </div>
         </div>

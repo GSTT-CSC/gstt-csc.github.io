@@ -13,14 +13,14 @@ document.getElementById("page-top").className="bg-light";
 <div class="container" id="pagecontainer">
     <br>
     <div class="row">
-        <div class="col-3 text-center">
+        <div class="col-12 col-md-4 text-center pb-3">
             <img class="mx-auto rounded-circle p-1" style="width: 150px;" src={{ page.author-image }} alt="">
 		    <h4 class="pt-2 text-center">{{ page.author }}</h4>
             <h5 class="pt-2 text-center">{{page.author-role}}</h5>
 
         </div>
-        <div class="col-8">
-            <img class="mx-auto" style="width: 760px;" src={{ page.image }} alt="">
+        <div class="col-12 col-md-8">
+            <img class="mx-auto img-fluid" style="width: 760px;" src={{ page.image }} alt="">
             <h1>{{page.title}}</h1>
             <p>{{ page.date | date: "%-d %B %Y" }}</p>
             <br>
