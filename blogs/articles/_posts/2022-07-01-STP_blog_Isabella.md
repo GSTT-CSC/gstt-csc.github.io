@@ -25,8 +25,8 @@ and fortnightly 10X workshops also allowed me to receive regular updates on the 
 involved with. I could say for certain that I received a glimpse of most projects, especially as the team were extremely
 welcoming and would often invite me to their meetings and workshops. 
 
-{:refdef: style="text-align: center;" width="50%"}
-![My Image]( /assets/img/blog/stock_person_coding.png)
+{:refdef: style="text-align: center;" width="1%"}
+![My Image1]( /assets/img/blog/stock_coding.jpg)
 {: refdef }
 
 As I had the privilege to be with the team for a couple of months, I was able to see the progress of the projects I 
@@ -46,8 +46,8 @@ to review the operational acceptance testing tasks that are to be conducted and 
 Lucrezia, also took me through the web development of the new CSC website. I then contributed to the platforms page and
 was able to see the website go live at the end of my placement, which was extremely rewarding.
 
-{:refdef: style="text-align: center;" width="50%"}
-![My Image]( /assets/img/blog/isabella_blog_1.png)
+{:refdef: style="text-align: center;" width="100%"}
+![My Image2]( /assets/img/blog/isabella_blog.png)
 {: refdef }
 
 Whilst working on these projects, I used GitHub to view project information as well as share code and documentation with
