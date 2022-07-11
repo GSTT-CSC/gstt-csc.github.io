@@ -21,7 +21,7 @@ Given the fact that the CSC Team has only recently been built, I was impressed b
 currently working on and their significant contributions in digital health at GSTT. It was particularly interesting to 
 note the many applications of Machine Learning and Artificial Intelligence in healthcare. I had the exciting opportunity
 to work with most, if not all, of the members and their respective projects. Joining the stand-up meetings twice a week 
-and fornightly 10X workshops also allowed me to receive regular updates on the projects I may not have been directly 
+and fortnightly 10X workshops also allowed me to receive regular updates on the projects I may not have been directly 
 involved with. I could say for certain that I received a glimpse of most projects, especially as the team were extremely
 welcoming and would often invite me to their meetings and workshops. 
 
