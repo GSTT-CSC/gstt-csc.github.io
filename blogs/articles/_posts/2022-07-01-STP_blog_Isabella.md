@@ -4,7 +4,7 @@ title: "My 5-month placement with the CSC team"
 tag-line: "Isabella talks about her time as a Clinical Engineering STP trainee with the CSC team"
 date: "1st July 2022"
 read-time-mins: "5 mins"
-image: /assets/img/blog/nhs_logo.png
+image: /assets/img/blog/stock_coding.jpg
 author: Isabella Trujillo-Cortes
 author-image: /assets/img/team/standard_user.jpg
 author-role: STP Trainee Clinical Engineering 
@@ -25,8 +25,8 @@ and fortnightly 10X workshops also allowed me to receive regular updates on the 
 involved with. I could say for certain that I received a glimpse of most projects, especially as the team were extremely
 welcoming and would often invite me to their meetings and workshops. 
 
-{:refdef: style="text-align: center;" width="1%"}
-![My Image1]( /assets/img/blog/stock_coding.jpg)
+{:refdef: style="text-align: center;" width="100%"}
+![My Image2]( /assets/img/blog/isabella_blog.png)
 {: refdef }
 
 As I had the privilege to be with the team for a couple of months, I was able to see the progress of the projects I 
@@ -45,10 +45,6 @@ me with an introduction to its functionality and a brief roadmap of its deployme
 to review the operational acceptance testing tasks that are to be conducted and the expected results. Tom, as well as 
 Lucrezia, also took me through the web development of the new CSC website. I then contributed to the platforms page and
 was able to see the website go live at the end of my placement, which was extremely rewarding.
-
-{:refdef: style="text-align: center;" width="100%"}
-![My Image2]( /assets/img/blog/isabella_blog.png)
-{: refdef }
 
 Whilst working on these projects, I used GitHub to view project information as well as share code and documentation with
 the rest of the team. I can definitely agree that this platform is largely useful for collaborative and long-term 
