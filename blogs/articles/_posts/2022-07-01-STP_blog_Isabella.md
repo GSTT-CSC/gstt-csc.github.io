@@ -25,6 +25,10 @@ and fortnightly 10X workshops also allowed me to receive regular updates on the 
 involved with. I could say for certain that I received a glimpse of most projects, especially as the team were extremely
 welcoming and would often invite me to their meetings and workshops. 
 
+{:refdef: style="text-align: center;" width="50%"}
+![My Image]( /assets/img/blog/stock_person_coding.png)
+{: refdef }
+
 As I had the privilege to be with the team for a couple of months, I was able to see the progress of the projects I 
 worked on. The main project I was involved with was the Scaphoid and Occult Carpal Detection in MRI with Dika and 
 Laurence. We organised and prepared the data that would be used to train a model. I also attended a series of meetings 
