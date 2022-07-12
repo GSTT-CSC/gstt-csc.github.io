@@ -27,3 +27,7 @@
 - name: Datacamp
   description: Comprehensive online learning for data scientists
   link: https://www.datacamp.com/
+  
+- name: SankeyMATIC
+  description: Free web tool for creating Sankey diagrams, no specialist knowledge needed
+  link: https://sankeymatic.com/
