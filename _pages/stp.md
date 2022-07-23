@@ -86,7 +86,7 @@ As applicants are only able to apply for one specialty, you will need to refer t
 The STP [Trainers](https://nshcs.hee.nhs.uk/programmes/stp/trainers/) section of the NSHCS website is kept up to date with new information and resources.
  
 We’ve covered all of the essentials on working with the 2022 curriculum, this includes:  
-·       changes to [rotations](https://nshcs.hee.nhs.uk/programmes/stp/trainers/guidance-for-working-with-the-2022-stp-curricula/rotation-modules/) which now provide trainees with an understanding of their specialty and the wider healthcare environment around them  
+-  changes to [rotations](https://nshcs.hee.nhs.uk/programmes/stp/trainers/guidance-for-working-with-the-2022-stp-curricula/rotation-modules/) which now provide trainees with an understanding of their specialty and the wider healthcare environment around them,
 ·       planning and [scheduling training](https://nshcs.hee.nhs.uk/programmes/stp/trainers/guidance-for-working-with-the-2022-stp-curricula/scheduling-training/) through the phases of the curriculum,  
 ·       the [work-based curriculum](https://nshcs.hee.nhs.uk/programmes/stp/trainers/guidance-for-working-with-the-2022-stp-curricula/the-work-based-curriculum/) including the updated competencies and considerations, work-based assessments and clinical experiences  
 ·       changes to the core modules  including the new [Professional Foundations](https://curriculumlibrary.nshcs.org.uk/stp/module/S-C1/) and [Independent Professional Development](https://curriculumlibrary.nshcs.org.uk/stp/module/S-C4/) modules. We’d suggest starting to look at both of these modules with trainees as they start, there’s lots to consider as they begin to develop their professional skills and knowledge. 
