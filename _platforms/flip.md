@@ -1,7 +1,7 @@
 ---
 layout: platform_page
 platform-name: FLIP
-platform-image: /assets/img/platforms/flip_logo.png
+platform-image: /assets/img/platforms/FLIP_light.png
 ---
 
 FLIP, the Federated Learning Interoperability Platform, links data from multiple Trusts to enable AI at scale. This approach empowers individual Trusts to train their models on, and reap the resulting benefits, of both higher-quality (via its standardisation and enrichment) and larger sets of data, all whilst adhering to national, local and international governance and data privacy regulations.
