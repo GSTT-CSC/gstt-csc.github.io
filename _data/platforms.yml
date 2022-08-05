@@ -17,11 +17,11 @@ en: &DEFAULT_EN
   platforms:
     - name: "AIDE"
       platform-page: /platforms/aide.html
-      platform-image: assets/img/platforms/aide_logo_temp.png
+      platform-image: assets/img/platforms/AIDE_light.png
       platform-verb: "Deploy AI Models"
     - name: "FLIP"
       platform-page: /platforms/flip.html
-      platform-image: assets/img/platforms/flip_logo_temp.png
+      platform-image: assets/img/platforms/FLIP_light.png
       platform-verb: "Train AI Models"
     - name: "CogStack"
       platform-page: /platforms/cogstack.html
