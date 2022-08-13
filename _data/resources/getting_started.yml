@@ -39,3 +39,7 @@
 - name: autosklearn
   description: auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction
   link: https://automl.github.io/auto-sklearn/master/#
+  
+- name: Open source imaging data sets
+  description: A collection of open source imaging data sets.
+  link: https://nhsx.github.io/open-source-imaging-data-sets
