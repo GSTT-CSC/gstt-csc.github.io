@@ -22,3 +22,7 @@
 - name: FastAPI
   description: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
   link: https://fastapi.tiangolo.com
+
+- name: gazelle - eHealth test framework for interoperability
+  description: Contains technical resources for implementers of IHE profiles, including those preparing for IHE Connectathons.
+  link: https://gazelle.ihe.net/content/gazelle-user-guides
