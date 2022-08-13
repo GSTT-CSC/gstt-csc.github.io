@@ -18,3 +18,7 @@
   description: |
     DeployStack is a list of the best, hand picked tools and services that you might need when launching a website. Note that this project is no longer actively maintained.
   link: https://switowski.github.io/deploystack/
+  
+- name: FastAPI
+  description: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+  link: https://fastapi.tiangolo.com
