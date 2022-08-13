@@ -35,3 +35,7 @@
 - name: Diagrams
   description: Diagram as Code allows you to track the architecture diagram changes in any version control system.
   link: https://diagrams.mingrammer.com
+  
+- name: autosklearn
+  description: auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction
+  link: https://automl.github.io/auto-sklearn/master/#
