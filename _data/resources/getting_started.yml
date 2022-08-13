@@ -31,3 +31,7 @@
 - name: SankeyMATIC
   description: Free web tool for creating Sankey diagrams, no specialist knowledge needed
   link: https://sankeymatic.com/
+
+- name: Diagrams
+  description: Diagram as Code allows you to track the architecture diagram changes in any version control system.
+  link: https://diagrams.mingrammer.com
