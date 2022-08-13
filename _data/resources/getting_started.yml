@@ -47,3 +47,7 @@
 - name: Open Access Medical Image Repositories
   description: Sites that list and/or host multiple collections of data
   link: https://www.aylward.org/notes/open-access-medical-image-repositories
+ 
+- name: System Design Primer
+  description:
+  link: https://github.com/donnemartin/system-design-primer#index-of-system-design-topics  
