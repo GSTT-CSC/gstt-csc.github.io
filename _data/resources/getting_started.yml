@@ -51,3 +51,7 @@
 - name: System Design Primer
   description:
   link: https://github.com/donnemartin/system-design-primer#index-of-system-design-topics  
+  
+- name: Jupyter Book
+  description:Make publication ready books from Jupyter notebooks and markdown files
+  link: https://github.com/executablebooks/jupyter-book
