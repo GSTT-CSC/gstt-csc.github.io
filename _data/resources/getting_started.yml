@@ -49,7 +49,7 @@
   link: https://www.aylward.org/notes/open-access-medical-image-repositories
  
 - name: System Design Primer
-  description:
+  description: An organized collection of resources to help you learn how to build systems at scale
   link: https://github.com/donnemartin/system-design-primer#index-of-system-design-topics  
   
 - name: Jupyter Book
