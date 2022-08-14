@@ -12,3 +12,7 @@
 - name: Best-practice guidance for the in-house manufacture of medical devices and non-medical devices, including software in both cases, for use within the same health institution
   description: This guidance document has been developed to provide scientific, engineering, technical, clinical and risk management staff with guidance on the regulatory issues and best-practice involved in the manufacture, management and use of these devices
   link: https://www.ipem.ac.uk/media/vp0ewy01/ipembe-1.pdf
+
+- name: Artificial intelligence in healthcare - Applications, risks, and ethical and
+  description: The report identifies and clarifies the main clinical, social and ethical risks posed by AI in healthcare, more specifically: potential errors and patient harm; risk of bias and increased health inequalities; lack of transparency and trust; and vulnerability to hacking and data privacy breaches.
+  link: https://www.europarl.europa.eu/RegData/etudes/STUD/2022/729512/EPRS_STU(2022)729512_EN.pdf
