@@ -8,3 +8,7 @@
   description: |
     The BSI publish standards relevant to our work in medical devices. Use KCL institutional login for access.
   link: https://bsol.bsigroup.com/
+
+- name:Best-practice guidance for the in-house manufacture of medical devices and non-medical devices, including software in both cases, for use within the same health institution
+  description:This guidance document has been developed to provide scientific, engineering, technical, clinical and risk management staff with guidance on the regulatory issues and best-practice involved in the manufacture, management and use of these devices
+  link: https://www.ipem.ac.uk/media/vp0ewy01/ipembe-1.pdf
