@@ -14,5 +14,6 @@
   link: https://www.ipem.ac.uk/media/vp0ewy01/ipembe-1.pdf
 
 - name: Artificial intelligence in healthcare - Applications, risks, and ethical and
-  description: The report identifies and clarifies the main clinical, social and ethical risks posed by AI in healthcare, more specifically: potential errors and patient harm; risk of bias and increased health inequalities; lack of transparency and trust; and vulnerability to hacking and data privacy breaches.
+  description: |
+      The report identifies and clarifies the main clinical, social and ethical risks posed by AI in healthcare, more specifically the potential errors and patient harm; risk of bias and increased health inequalities; lack of transparency and trust; and vulnerability to hacking and data privacy breaches.
   link: https://www.europarl.europa.eu/RegData/etudes/STUD/2022/729512/EPRS_STU(2022)729512_EN.pdf
