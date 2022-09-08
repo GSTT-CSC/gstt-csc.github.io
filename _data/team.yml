@@ -115,6 +115,13 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/rs-sprout98
             icon: fab fa-github
+      - name: "Aysha Luis"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/aysha.html
+        image: assets/img/team/Aysha.JPG
+        social:
+          - url: https://twitter.com/ayshaluis
+            icon: fab fa-twitter
 en-US:
   <<: *DEFAULT_EN
 en-CA:
