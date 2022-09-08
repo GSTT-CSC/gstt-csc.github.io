@@ -106,7 +106,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://twitter.com/kavitha_varan
             icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
+          - url: https://www.linke![](../assets/img/team/Aysha.jpg)din.com/in/kavitha-vimalesvaran-83600979/
             icon: fab fa-linkedin-in
       - name: "Ryan Satnarine"
         role: "Trainee Medical Physicist"
@@ -118,7 +118,7 @@ en: &DEFAULT_EN
       - name: "Aysha Luis"
         role: "Fellow in Clinical AI"
         team-member-page: /team_member/aysha.html
-        image: assets/img/team/Aysha.JPG
+        image: assets/img/team/Aysha.jpg
         social:
           - url: https://twitter.com/ayshaluis
             icon: fab fa-twitter
