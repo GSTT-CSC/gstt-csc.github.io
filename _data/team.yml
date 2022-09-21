@@ -115,6 +115,13 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/rs-sprout98
             icon: fab fa-github
+      - name: "Beatrix Fletcher"
+        role: "Programme Manager for Fellowships in Clinical AI"
+        team-member-page: /team_member/beatrix.html
+        image: assets/img/team/Beatrix1.jpg
+        social:
+          - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
+            icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
