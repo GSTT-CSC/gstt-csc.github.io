@@ -1,0 +1,94 @@
+# Add your resources items here by filling in the details as below.
+
+#  name:
+#  description:
+#  link:
+
+- name: Emerging Architectures for Modern Data Infrastructure
+  description: This reads provides with an updated set of data infrastructure architectures. Data infrastructures architectures provide a framework for how IT infrastructure supports data. The goal of any data architecture is to show how data is acquired, transported, stored, queried, and secured.
+  link: https://future.com/emerging-architectures-modern-data-infrastructure/
+
+- name: The Model Performance Mismatch Problem (and what to do about it)
+  description:  This read gives an overview of what to do when you get a very promising performance when evaluating the model on the training dataset but poor performance when evaluating the model on the test set.
+  link: https://machinelearningmastery.com/the-model-performance-mismatch-problem/
+
+- name: Simple Python Package to Extract Deep Learning Features
+  description:  This read explains how to use a Python package called image_features that can be used to perform computer vision problems such as to extract features using imagenet trained deep learning models.
+  link: https://chsasank.com/deep-learning-image-features.html
+
+- name: Awesome Production Machine Learning
+  description: This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
+  link: https://github.com/EthicalML/awesome-production-machine-learning#neural-architecture-search
+
+- name: Playbook for Threat Modeling Medical Devices
+  description: This read provides a description of threat modeling and why it has become a recognized cybersecurity best practice. Threat modeling is analyzing representations of a system to highlight concerns about security and privacy characteristics.
+  link: https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf
+
+- name: Regulatory Frameworks for Development and Evaluation of Artificial Intelligence–Based Diagnostic Imaging Algorithms
+  description: This read delves into how AI algorithms' safety and effectiveness must be ensured in order for these to be trusted. This articles talks about the major regulatory frameworks for software as a medical device application, identifies major gaps, and propose additional strategies to improve the development and evaluation of diagnostic AI algorithms.
+  link: https://www.jacr.org/article/S1546-1440(20)31020-6/fulltext?mobileUi=0#secsectitle0025
+
+- name: Presenting Machine Learning Model Information to Clinical end Users with Model Facts Labels
+  description: This paper talks about the risks of translating a machine learning model into clinical care and provides the “Model Facts” label, which aims to ensure that clinicians actually know how, when, how not, and when not to incorporate model output into clinical decisions.
+  link: https://www.nature.com/articles/s41746-020-0253-3
+
+- name: To buy or Not to Buy - Evaluating Commercial AI Solutions in Radiology (the ECLAIR guidelines)
+  description: This article lays out a practical framework that will help stakeholders evaluate commercial AI solutions in radiology to allow them to make an informed decision on whether to buy the AI or not.
+  link: https://link.springer.com/article/10.1007/s00330-020-07684-x
+
+- name: Open Source in Government, Creating the Conditions for Success.
+  description: This book talks about the advantages of using open-source software.
+  link: https://assets.public.digital/Open_Source_Report.pdf
+
+- name: How Do We Get the Best Out of Automation and AI in Health Care?
+  description: This report explores the opportunities for automation and AI in health care and the challenges of deploying them in practice.
+  link: https://www.health.org.uk/publications/reports/switched-on
+
+- name: Deep Learning Interviews
+  description: This book will prepare you for deep learning job interviews by guiding you through hundreds of fully solved questions.
+  link: https://arxiv.org/pdf/2201.00650.pdf
+
+- name: A Research Ethics Framework for the Clinical Translation of Healthcare Machine Learning
+  description: This paper talks about a research ethics framework that can apply to the systematic inquiry of ML research across its development cycle.
+  link: https://www.tandfonline.com/doi/pdf/10.1080/15265161.2021.2013977?needAccess=true
+
+- name: What are Diffusion Models?
+  description:  This articles introduces the concept of diffusion models. These models work by destroying training data through the successive addition of Gaussian noise.
+  link: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+
+- name: Qure.ai Tech Blog
+  description: This article talks about fluentd, a unified data collector for logging which allows you to collect logs from wide variety of sources and save them to different places like S3, mongodb etc.
+  link: https://blog.qure.ai/notes/fluentd-logs
+
+- name: Mitigating Racial Bias in Machine Learning
+  description: This paper talks about bias in AI.
+  link: https://www.cambridge.org/core/journals/journal-of-law-medicine-and-ethics/article/abs/mitigating-racial-bias-in-machine-learning/325C9BF492331B16EFC154996BE0394F
+
+- name: The Medical Algorithmic Audit.
+  description: This article talks about a medical algorithmic audit framework that guides the auditor through a process of considering potential algorithmic errors.
+  link: https://www.sciencedirect.com/science/article/pii/S2589750022000036#
+
+- name: Simplified Transfer Learning for Chest Radiography Model Development
+  description: Because building robust CXR models requires large labeled training datasets, this articles describes how Google Health utilizes advanced ML methods to generate pre-trained “CXR networks”.
+  link: https://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html
+
+- name: Implementation of Clinical Artificial Intelligence in Radiology, Who Decides and How?
+  description: In this article, a framework is established for the infrastructure required for clinical AI implementation and presents a road map for governance.
+  link: https://pubs.rsna.org/doi/abs/10.1148/radiol.212151?journalCode=radiology
+
+- name: As if Sand Were Stone. New Concepts and Metrics to Probe the Ground on which to Build Trustable AI
+  description: This paper talks about the importance of interpreting the quality of the labeling used as the input of predictive models to understand the reliability of their output.
+  link: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01224-9
+
+- name: Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning
+  description: This book talks about the correct use of model evaluation, model selection, and algorithm selection.
+  link: https://arxiv.org/pdf/1811.12808.pdf
+
+- name: Evaluating machine learning models and their diagnostic value
+  description: This chapter describes how to validate a machine learning model
+  link: https://hal.inria.fr/hal-03682454/
+
+- name: What are the Best Words to Use when Talking about Data?
+  description: This article talks about the right vocabulary to be used for patient data in care, treatment and research.
+  link: https://understandingpatientdata.org.uk/what-are-best-words-use-when-talking-about-data
+
