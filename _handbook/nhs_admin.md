@@ -16,3 +16,17 @@ may be required. This is also an opportunity to discuss your career progression,
 changes in working hours.
 
 More information about the PDR process can be found on the Trust HR Portal. 
+
+**Clarity Booking System**
+
+When booking Hotels/Flights/Train etc this can be done through the Clarity Booking System. This is the site's <a href="https://ctmcrown.sabscorp.com/js/clarity/current/#/logonl">URL</a>.
+Alternatively, you can contact Clarity both online and offline at:
+Online contacts
+
+Email – gsttonline@claritybt.com
+Phone - 0333 230 9194
+
+Offline contacts
+
+Email – gstt@claritbt.com
+Phone - 0333 230 9194
