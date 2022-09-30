@@ -19,7 +19,7 @@ More information about the PDR process can be found on the Trust HR Portal.
 
 **Clarity Booking System**
 
-When booking Hotels/Flights/Train etc this can be done through the Clarity Booking System. This is the site's <a href="https://ctmcrown.sabscorp.com/js/clarity/current/#/logonl">URL</a>.
+When you need to get work travel budget authorized and paid for by the NHS, the first step is to email Haris for authorisation. The next step is to book it throught the <a href="https://ctmcrown.sabscorp.com/js/clarity/current/#/logonl"> Clarity Booking System </a>.
 Alternatively, you can contact Clarity both online and offline at:
 Online contacts
 
