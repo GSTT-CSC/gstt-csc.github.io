@@ -10,17 +10,19 @@
 <div class="row">
 
   <!--  Define variable which sorts order of _comunities .md files -->
-  {% assign items_ordered = site.handbook | sort: "order" %}
+
+
+  {% assign items_ordered = site.communities | sort: "order" %}
 
   <div class="col-md-4 col-lg-3 pb-3">
     <!-- Handbook Scrollspy -->
     <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
 
-      <ul class="nav flex-column nav-pills menu-sidebar" id="handbookNav">
+      <ul class="nav flex-column nav-pills menu-sidebar" id="communitiesNav">
       <h4 class="text-center pt-2">Handbook Contents</h4>
-          {% for item in items_ordered | sort: "order" %}
+          {% for item in items_ordered  %}
               <li class="nav-item">
-                <a class="nav-link" href="#handbook-entry-{{item.order}}">{{ item.title }}</a>
+                <a class="nav-link" href="#communities-entry-{{item.order}}">{{ item.title }}</a>
               </li>
           {% endfor %}
       </ul>
@@ -28,7 +30,7 @@
     <!-- Handbook Scrollspy -->
   </div>
 
-  {% assign item_order = site.handbook | sort: "order" %}
+  {% assign item_order = site.communities | sort: "order" %}
 
   <div class="col-md-8 col-lg-9">
     <!-- Handbook Text (spied element) -->
@@ -38,8 +40,8 @@
       data-mdb-offset="0"
       class="scrollspy-example"
     >
-        {% for item in items_ordered %}
-        <h3 id="handbook-entry-{{item.order}}">{{ item.title }}</h3>
+  {% for item in items_ordered %}
+        <h3 id="communities-entry-{{item.order}}">{{ item.title }}</h3>
         {% if item.image %}
             <p>{{ item.image }}</p>
         {% endif %}

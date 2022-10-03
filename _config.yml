@@ -30,5 +30,6 @@ collections:
     output: true
   resources:
     output: true
-
+  communities:
+    output: true
 markdown: kramdown
