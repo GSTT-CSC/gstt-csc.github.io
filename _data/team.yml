@@ -115,6 +115,15 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/rs-sprout98
             icon: fab fa-github
+
+      - name: "Aysha Luis"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/aysha.html
+        image: assets/img/team/Aysha.jpg
+        social:
+          - url: https://twitter.com/ayshaluis
+            icon: fab fa-twitter
+
       - name: "Beatrix Fletcher"
         role: "Programme Manager for Fellowships in Clinical AI"
         team-member-page: /team_member/beatrix.html
@@ -122,6 +131,7 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
             icon: fab fa-linkedin-in
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
