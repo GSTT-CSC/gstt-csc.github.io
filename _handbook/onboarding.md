@@ -13,3 +13,8 @@ image:
    - The CSC team resides on level 5 of Becket House
    - Enter the doors titled 'Big Ben side'
 
+**10th floor York Road Booking Instructions**
+
+In order to book a desk in the York Road Education Center, you will need to:
+  - Ask Haris to email nina.thompson@gstt.nhs.uk to set up a desk booking account.
+  - Follow instructions sent by PilotFeedback
