@@ -131,6 +131,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
             icon: fab fa-linkedin-in
+    
+      - name: "Agathe Zecevic"
+        role: "Data Scientist"
+        team-member-page: /team_member/agathe.html
+        image: assets/img/team/Agathe.jpg
+        social:
+          - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
+            icon: fab fa-linkedin-in
 
 en-US:
   <<: *DEFAULT_EN
