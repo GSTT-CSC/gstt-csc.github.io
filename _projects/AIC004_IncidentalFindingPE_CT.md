@@ -9,11 +9,11 @@ modality: Contrast enhanced CT (Thorax/Abdomen/Pelvis)
 pathology: Pulmonary Emboli (Incidental Findings)
 rationale: Incidental findings of Pulmonary Emboli on routine cancer surveillance CT scans with contrast agent(Thorax/Abdomen/Pelvis)
 patient-pathway: Contrast Enhanced CT scans as follow up on cancer patients
-training-data: Commercial product to be evaluated <a href="https://www.aidoc.com/"> AIDOC </a> 
+training-data: Commercial product to be evaluated.
 errors: Morbidity or mortality if treatment is delayed
 goals: An automated tool for identifying and prioritising patients with PE
 success-criteria: Earlier identification of the pathology and prompt intervention
-alternatives: <a href="https://www.aidoc.com/"> AIDOC </a> |
+alternatives:
 ---
 Contrast enhanced CT scans (Thorax, Pelvis, Abdomen) are routinely performed on cancer surveillance and provide the ideal contrast to detect PE. GSTT has currently 7-14 days turn-around timescale for reporting CTs, with the risk that the pathology progresses causing morbidity or mortality. A computer aided diagnosis tool which supports the clinician for the detection of incidental Pulmonary Emboli during cancer follow up exams. The tool will support identification and prioritisation of the scans, reducing delayed diagnosis and enabling earlier intervention
 <br>

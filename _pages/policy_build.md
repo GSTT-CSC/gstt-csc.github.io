@@ -74,7 +74,7 @@ The following software and languages have been validated for use for projects un
     <td> &nbsp; &nbsp; </td>
     <td> <strong>ISO 13485:2016 compliant</strong></td>
     <td> &nbsp; &nbsp; </td>
-    <td> Regular internal audits by certified Qulity manager </td>
+    <td> Regular internal audits by certified Quality manager </td>
 
   </tr>
   <tr>

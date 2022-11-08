@@ -18,3 +18,15 @@
   description: |
     DeployStack is a list of the best, hand picked tools and services that you might need when launching a website. Note that this project is no longer actively maintained.
   link: https://switowski.github.io/deploystack/
+  
+- name: FastAPI
+  description: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+  link: https://fastapi.tiangolo.com
+
+- name: gazelle - eHealth test framework for interoperability
+  description: Contains technical resources for implementers of IHE profiles, including those preparing for IHE Connectathons.
+  link: https://gazelle.ihe.net/content/gazelle-user-guides
+  
+- name: Digital Health & Care Innovation Centre 
+  description: Simulation refers to funded projects where we work with developers to integrate their products and services within these new types of architecture
+  link: https://www.dhi-scotland.com/dhi-exchange/

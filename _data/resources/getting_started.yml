@@ -27,3 +27,34 @@
 - name: Datacamp
   description: Comprehensive online learning for data scientists
   link: https://www.datacamp.com/
+  
+- name: SankeyMATIC
+  description: Free web tool for creating Sankey diagrams, no specialist knowledge needed
+  link: https://sankeymatic.com/
+
+- name: Diagrams
+  description: Diagram as Code allows you to track the architecture diagram changes in any version control system.
+  link: https://diagrams.mingrammer.com
+  
+- name: autosklearn
+  description: auto-sklearn frees a machine learning user from algorithm selection and hyperparameter tuning. It leverages recent advantages in Bayesian optimization, meta-learning and ensemble construction
+  link: https://automl.github.io/auto-sklearn/master/#
+  
+- name: Open source imaging data sets
+  description: A collection of open source imaging data sets.
+  link: https://nhsx.github.io/open-source-imaging-data-sets
+  
+- name: Open Access Medical Image Repositories
+  description: Sites that list and/or host multiple collections of data
+  link: https://www.aylward.org/notes/open-access-medical-image-repositories
+ 
+- name: System Design Primer
+  description: An organized collection of resources to help you learn how to build systems at scale
+  link: https://github.com/donnemartin/system-design-primer#index-of-system-design-topics  
+  
+- name: Jupyter Book
+  description: Make publication ready books from Jupyter notebooks and markdown files
+  link: https://github.com/executablebooks/jupyter-book
+
+
+

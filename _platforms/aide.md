@@ -1,7 +1,7 @@
 ---
 layout: platform_page
 platform-name: AIDE
-platform-image: /assets/img/platforms/aide_logo.png
+platform-image: /assets/img/platforms/AIDE_light.png
 ---
 
 AIDE, the AI Deployment Engine, is an open-source tool which allows healthcare providers to deploy AI models safely, effectively, and efficiently by enabling the integration of AI models into clinical workflows.  

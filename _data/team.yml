@@ -26,7 +26,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/haris-shuaib/
             icon: fab fa-linkedin-in
-      - name: "Dika"
+      - name: "Dika Vilic"
         role: "Clinical Scientist"
         team-member-page: /team_member/dika.html
         image: assets/img/team/Dika.jpg
@@ -40,21 +40,21 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/lucy-funnell
             icon: fab fa-github
-      - name: "Simone"
+      - name: "Simone Ambrogio"
         role: "Medical Physicist"
         team-member-page: /team_member/simone.html
         image: assets/img/team/Simone.jpg
         social:
           - url: https://github.com/simoambr
             icon: fab fa-github
-      - name: "Laurence"
+      - name: "Laurence Jackson"
         role: "Clinical Scientist"
         team-member-page: /team_member/laurence.html
         image: assets/img/team/Laurence.png
         social:
           - url: https://github.com/laurencejackson
             icon: fab fa-github
-      - name: "Anil"
+      - name: "Anil Mistry"
         role: "Clinical Scientist"
         team-member-page: /team_member/anil.html
         image: assets/img/team/Anil.jpg
@@ -72,7 +72,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
-      - name: "Lucrezia"
+      - name: "Lucrezia Cester"
         role: "AI Engineer"
         team-member-page: /team_member/lucrezia.html
         image: assets/img/team/Lucrezia.jpeg
@@ -115,6 +115,31 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/rs-sprout98
             icon: fab fa-github
+
+      - name: "Aysha Luis"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/aysha.html
+        image: assets/img/team/Aysha.jpg
+        social:
+          - url: https://twitter.com/ayshaluis
+            icon: fab fa-twitter
+
+      - name: "Beatrix Fletcher"
+        role: "Programme Manager for Fellowships in Clinical AI"
+        team-member-page: /team_member/beatrix.html
+        image: assets/img/team/Beatrix1.jpg
+        social:
+          - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
+            icon: fab fa-linkedin-in
+    
+      - name: "Agathe Zecevic"
+        role: "Data Scientist"
+        team-member-page: /team_member/agathe.html
+        image: assets/img/team/Agathe.jpg
+        social:
+          - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
+            icon: fab fa-linkedin-in
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
