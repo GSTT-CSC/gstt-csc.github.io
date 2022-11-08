@@ -19,6 +19,17 @@ image:
 The CSC team has desk availability at the 10th floor of the Education Center in York Road. In order to get there you will need to:
 Access is granted from the security desk at York Road after they receive an email from line manager. After this is done, you can just swipe your card at the entrance.
   
+ 
+**Booking meeting rooms in GSTT (not KCL)** 
+
+There is a central room booking service allowing GSTT staff to book a variety of
+meeting rooms (without charge) across our sites including Minerva and Great Dover
+Street.
+
+Go to https://gstt.nhs.micadipr.net/pages/roomMonitoringClients/rmSignIN.asp?return=%2Fpages%2FroomMonitoringClients%2FrmRoomSearchForClients%2Easp%3F
+
+
+Simply register an account and complete your request (date/time/room size and function) and a selection of options come up which you can proceed to book online.
 
 **Electronic Staff Record**
 
