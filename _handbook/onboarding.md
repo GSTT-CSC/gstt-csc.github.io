@@ -26,7 +26,7 @@ There is a central room booking service allowing GSTT staff to book a variety of
 meeting rooms (without charge) across our sites including Minerva and Great Dover
 Street.
 
-Go to https://gstt.nhs.micadipr.net/pages/roomMonitoringClients/rmSignIN.asp?return=%2Fpages%2FroomMonitoringClients%2FrmRoomSearchForClients%2Easp%3F
+Go to [Room Booking](https://gstt.nhs.micadipr.net/pages/roomMonitoringClients/rmSignIN.asp?return=%2Fpages%2FroomMonitoringClients%2FrmRoomSearchForClients%2Easp%3F) from the GSTT network (using Citrix if not onsite)
 
 
 Simply register an account and complete your request (date/time/room size and function) and a selection of options come up which you can proceed to book online.
