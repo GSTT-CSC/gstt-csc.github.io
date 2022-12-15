@@ -113,7 +113,7 @@ The following software and languages have been validated for use for projects un
 <br>
 <br>
 
-<img src="assets/img/policy/process-interactions-diagram.png" alt="Markdown Monster icon" style="margin-right: 10px;" width="50%"  />
+<img src="assets/img/policy/process_interactions.png" alt="QMS process interactions_diagram" style="margin-right: 10px;" width="50%"  />
 
 <br>
 <br>
