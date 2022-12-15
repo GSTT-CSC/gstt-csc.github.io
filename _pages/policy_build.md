@@ -26,6 +26,8 @@ CRIS and EPR.
 The CSC team develops medical software within a quality management system (QMS) that is ISO 13485:2016 compliant. The 
 scope of our QMS is for the development of medical software application that are deployed within the Trust. 
 
+<img src="assets/img/policy/scarlet-iso-badge-full-dark.svg" width="20%" />
+
 It sits within the GSTT Medical Physics Department, utilising key departmental processes and resources for audits, 
 management review, HR, and purchasing. 
 
