@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Incidental Pulmonary Embolism
-status: Data Curating
+status: Evaluating
 image: /assets/img/projects/lung_pe.jpg
 summary: An automated tool for identifying and prioritising patients with Pulmonary Emboli.
 csc-lead: <a href="/team_member/Simone.html">Simone</a>
@@ -21,6 +21,6 @@ Contrast enhanced CT scans (Thorax, Pelvis, Abdomen) are routinely performed on 
 <b>Clinical lead</b>:  Mak Sze Mun <br>
 <br>
 **Project Plan** <br>
-<strike> 1.	Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> </strike> <br> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing <br><br>6.	Implementation <br><br>7. Audit <br>
+<strike> 1.	Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> </strike> <br> 3. Dataset curation (retrospective). <br> </strike> <br> 4.	Retrospective Evaluation <br> </strike> <br> 5.	Prospective Evaluation <br><br>6.	Implementation <br><br>7. Audit <br>
 <br>
 <b>References</b> <br> <a href="https://doi.org/10.3390/app10082945"> Cano-Espinosa et al 2020 </a> <br>  <a href="https://doi.org/10.1007/s00330-020-06998-0"> Wikert et al 2020 </a> <br>  <a href="https://doi.org/10.1038/s41746-020-0266-y"> Huang et al 2020 </a> 
