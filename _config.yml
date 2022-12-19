@@ -32,4 +32,6 @@ collections:
     output: true
   communities:
     output: true
+  sop:
+    output: true
 markdown: kramdown
