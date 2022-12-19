@@ -10,10 +10,10 @@ permalink: /policy_build.html
 </div>
 
 The CSC Team develops software applications for routine clinical usage. This includes Software as a 
-Medical Device (SaMD). It is well understood that building medical software requires extra safety considerations above 
-normal software development.
+Medical Device (SaMD). The development of medical software requires extra safety considerations above 
+normal software development, particularly around clinical and patient safety, data security, usability, and managing changes.  
 
-Our team comprises both software and clinical expertise across a broad range of hospital settings. We are embedded 
+The CSC Team provides both software and clinical expertise across a broad range of hospital settings. We are embedded 
 within Guy's & St Thomas' NHS Foundation Trust, which gives us direct access to clinical databases including PACS, 
 CRIS and EPR.
 
@@ -26,18 +26,24 @@ CRIS and EPR.
 The CSC team develops medical software within a quality management system (QMS) that is ISO 13485:2016 compliant. The 
 scope of our QMS is for the development of medical software application that are deployed within the Trust. 
 
-It sits within the GSTT Medical Physics Department, utilising key departmental processes and resources for audits, 
-management review, HR, and purchasing. 
-
-It Incorporates all aspects of the standards and regulations listed above, as relevant to the scope. 
+We have gained ISO13485:2016 certification for our QMS from the UK notified body [Scarlet Comply](https://www.ukas.com/wp-content/uploads/schedule_uploads/1001534/23422Management-Systems.pdf) in 2022. 
+<br>
+<div style="text-align: center"><img src="assets/img/policy/scarlet-iso-badge-full-dark.svg" width="20%"/></div>
+<br>
+It sits within the GSTT Medical Physics Department and utilises key departmental processes and resources for audits, 
+management review, HR, and purchasing. It incorporates all aspects of the standards and regulations listed on the page 
+below, as relevant to the scope. 
 
 The following software and languages have been validated for use for projects under this QMS:
   - XNAT
   - MONAI
-  - PyCharm
   - MLOps
 
+See our blog series on our journey to building a certified Quality Management System (_in progress_). 
+
 <br>
+
+
 
 ##### Key Roles
 
@@ -112,8 +118,7 @@ The following software and languages have been validated for use for projects un
 
 <br>
 <br>
-
-<img src="assets/img/policy/process-interactions-diagram.png" alt="Markdown Monster icon" style="margin-right: 10px;" width="50%"  />
+<div style="text-align: center"><img src="assets/img/policy/process_interactions.png" width="50%"/></div>
 
 <br>
 <br>
