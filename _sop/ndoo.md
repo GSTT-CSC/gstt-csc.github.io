@@ -1,5 +1,5 @@
 ---
-title: National Data Opt-Out
+title: National Data Opt-Out (NDOO)
 order: 
 image:
 shorthand: ndoo
