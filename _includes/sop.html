@@ -1,0 +1,40 @@
+<!-- Standard Operating Procedures (SOP) -->
+<style>
+.scrollspy-example {
+  position: relative;
+  /*height: 200px;*/
+  overflow: auto;
+}
+</style>
+<div class="container-fluid">
+    <div class="row">
+
+  <!--  Define variable which sorts order of _sop .md files -->
+  {% assign items_ordered = site.sop | sort %}
+
+  <div class="col-md-4 col-lg-3 pb-3">
+    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+      <ul class="nav flex-column nav-pills menu-sidebar" id="sopNav">
+          {% for item in items_ordered  %}
+              <li class="nav-item">
+                <a data-toggle="pill" class="nav-link" href="#sop-entry-{{item.shorthand}}">{{ item.title }}</a>
+              </li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  {% assign item_order = site.sop | sort %}
+
+  <div class="col-md-8 col-lg-9">
+      <div class="tab-content">
+        {% for item in items_ordered %}
+        <div id="sop-entry-{{item.shorthand}}" class="tab-pane fade">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.content }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
