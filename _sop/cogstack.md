@@ -10,7 +10,7 @@ shorthand: cogstack
 At Guys and St Thomas' NHS Foundation Trust (GSTT), it contains a catalogue of hospital documents from several of our clinical data sources and can be used to identify patient cohorts, as well as search
 for clinical information for other purposes, such as AI software evaluation. 
 
-&#x26a0;&#xfe0f; Please note that CogStack is an index of documents and **not** an index of patients, so much of the data's worth will be focused in the free text of each document and will consequently require further analysis.
+⚠️ Please note that CogStack is an index of documents and **not** an index of patients, so much of the data's worth will be focused in the free text of each document and will consequently require further analysis.
 
 To gain access to CogStack, your request will need to be issue via your line manager to the CogStack team. This request should indicate which level of access you require, i.e. reader and/or admin. 
 If you are granted reader access, you will be able to search CogStack but not export any data. 

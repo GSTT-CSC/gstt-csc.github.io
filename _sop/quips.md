@@ -5,7 +5,7 @@ image:
 shorthand: qips
 ---
 
-**Before proceeding with the following steps**, please ensure:
+⚠️ **Before proceeding with the following steps**, please ensure:
 1. Your project falls under "Service Development" and **not** "Research", e.g. via [this decision tool](https://www.hra-decisiontools.org.uk/research/).
 2. The Clinical Lead is happy to be added as a collaborator on the QIPS system.
 
