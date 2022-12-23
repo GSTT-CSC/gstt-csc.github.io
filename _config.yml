@@ -32,4 +32,6 @@ collections:
     output: true
   communities:
     output: true
+  guides:
+    output: true
 markdown: kramdown
