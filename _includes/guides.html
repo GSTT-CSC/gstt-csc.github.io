@@ -1,0 +1,50 @@
+<!-- Guides -->
+<style>
+.scrollspy-example {
+  position: relative;
+  /*height: 200px;*/
+  overflow: auto;
+}
+</style>
+<div class="container-fluid">
+    <div class="row">
+
+  <!--  Define variable which sorts order of _guides .md files -->
+  {% assign items_ordered = site.guides | sort %}
+
+  <div class="col-md-4 col-lg-3 pb-3">
+    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+      <ul class="nav flex-column nav-pills menu-sidebar" id="guidesNav">
+          {% for item in items_ordered  %}
+              <li class="nav-item">
+                <a data-toggle="pill" class="nav-link" href="#guides-entry-{{item.shorthand}}">{{ item.title }}</a>
+              </li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  {% assign guides_content = site.guides %}
+
+  <div class="col-md-8 col-lg-9">
+      <div class="tab-content">
+          <div id="guides-entry-guides" class="tab-pane fade show active">
+              <p>
+                  We've created several guides and standard operating procedures (SOPs), as well as collected helpful
+                  bits of information for use by the team, as well as our internal and external collaborators, in our
+                  work. Click on the sections in the left-hand sidebar to learn more.<br><br>
+
+                  These are updated as and when necessary, so we recommend keeping an eye on this page, as well as
+                  <a href="mailto:CSCTeam@gstt.nhs.uk">reach out to us</a> if you need any further information.
+              </p>
+          </div>
+        {% for item in items_ordered %}
+        <div id="guides-entry-{{item.shorthand}}" class="tab-pane fade">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.content }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
