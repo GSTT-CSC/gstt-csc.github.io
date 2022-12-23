@@ -81,4 +81,4 @@ Communicate the outcome of the hackathon to the clinical team and ask them to re
 - It is important each day ends with a show and tell where some piece of work or progress is demonstrated - not only described. Hyper-focus should be on _showing_ a tangible step of progress towards the final solution. This will help at the end too when tying loose ends. 
 - It is always easier to improve an existing solution that works than create a perfect solution from scratch. 
 
-You can find a handy checklist here to keep tabs of your preparation. Each section corresponds to the advice above. 
+You can find a handy checklist [here](../assets/docs/hackathon-planning-checklist.docx) to keep tabs of your preparation. Each section corresponds to the advice above. 
