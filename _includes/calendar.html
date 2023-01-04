@@ -6,6 +6,7 @@
       <th scope="col">Date</th>
       <th scope="col">Title</th>
       <th scope="col" class="d-none d-lg-block">Description</th>
+      <th scope="col">Location</th>
       <th scope="col">Links</th>
     </tr>
   </thead>
@@ -15,6 +16,7 @@
     <td> {{ item.date }}</td>
     <td>{{ item.title }}</td>
     <td class="d-none d-lg-block">{{ item.description }}</td>
+    <td>{{ item.location }}</td>
     <td>{{ item.links }}</td>
   </tr>
   {% endfor %}

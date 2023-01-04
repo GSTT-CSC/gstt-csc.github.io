@@ -1,5 +1,5 @@
-# Add your calendar item here by filling in the titel date type description and links as below.
-# Add you calender Item in the correct position to maintain chronology : most recent first
+# Add your calendar item here by filling in the title date type description and links as below.
+# Add you calendar Item in the correct position to maintain chronology : most recent first
 
 #  title:
 #  date:
@@ -7,26 +7,56 @@
 #  description:
 #  link
 
-
-- title: <b>Health Excellence Through Technology</b>
-  date: 27-28 September 2022
-  location: ExCEL London
-  description: Delivering better patient experience and operational efficiencies through education and networking opportunities.
-  links: <a href= "https://register.hettshow.co.uk/hett-show-2022-registration?utm_referrer=https%3A%2F%2Fhettshow.co.uk%2F">Registration</a>
-
-- title: <b>European Society Of Medical Imaging Informatics</b>
-  date: 14-15 October 2022
-  location: Valencia, Spain
-  description: European Society of Medical Imaging Informatics, a society promoting the integration of InformationTechnology with diagnostic and therapeutic medical imaging. Annual meeting.
-  links: <a href= "https://www.eusomii.org/">EuSoMII</a>
+- title: <b> European Congress of Radiology</b>
+  date: 1-5 March 2023
+  description: The ECR is one of the largest medical meetings in Europe and the second-largest radiological meeting in the world.
+  location: Vienna, Austria
+  links: <a href="https://www.myesr.org/congress"> ESR23 </a>
 
 - title: <b>ReWIRED</b>
   date: 14-15 March 2023
   description: Digital Health Rewired is for anyone wanting to make a difference in UK digital health including NHS and social care, private healthcare, suppliers, start-ups, innovators, policy makers and patients. Annual meeting.
+  location: London, UK
   links: <a href= "https://digitalhealthrewired.com/register/"> Registration</a>
+
+- title: <b>BIR AI Congress</b>
+  date: 23-24 March 2023
+  description: Topics will include; Use of AI data platforms, real world evidence of AI in clinical practice - head to toe, ecosystem of AI - regulations & procurement and future gazing.
+  location: London, UK
+  links: <a href="https://birorgukportal.force.com/l/s/community-event?id=a173Y00000FkWVrQAN#/Overview"> BIR AI Congress </a>
+
+- title: <b>Intelligent Health UK</b>
+  date: 24-25 May 2023
+  description: Bringing together the global AI and healthcare community – clinicians, hospital heads, data scientists, start-ups, academics, and investors – to advance discussions on how to apply AI and drive technological collaboration in healthcare.
+  location: London, UK
+  links: <a href="https://london.intelligenthealth.ai/"> Intelligent Health UK </a>
 
 - title: <b>Society for Imaging Informatics in Medicine</b>
   date: 14-16 June 2023
-  location: Austin, TX
   description: SIIM is a professional organization at the nexus of medical imaging informatics and healthcare technologies. Annual meeting.
+  location: Austin, Texas, USA
   links: <a href= "https://siim.org/page/22m_overview"> SIIM23</a>
+
+- title: <b>HETT</b>
+  date: 26 September 2023
+  description: HETT 2023 will explore the systems and infrastructure that underpin and enable a data-driven NHS, supporting the ecosystem to deliver patient outcomes through the meaningful implementation of technology.
+  location: London, UK
+  links: <a href= "https://hettshow.co.uk/"> HETT23 </a>
+
+- title: <b>MICCAI23</b>
+  date: 8-12 October 2023
+  description: The 26th International Conference on Medical Image Computing and Computer Assisted Intervention
+  location: Vancouver, Canada
+  links: <a href="https://conferences.miccai.org/2023/en/"> MICCAI23</a>
+
+- title: <b>RSNA23</b>
+  date: 26-30 November 2023
+  description: The Radiological Society of North America (RSNA) is a non-profit organization that represents 31 radiologic subspecialties from 145 countries around the world.
+  location: Chicago, Illinois, USA
+  links: <a href="https://www.rsna.org/annual-meeting"> RSNA23 </a>
+
+- title: <b>Implementation of UK MDR</b>
+  date: July 2024
+  description: Updated version of Medical Device Regulation will come into force in the UK.
+  location: UK
+  links: <a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices-and-extension-of-standstill-period/implementation-of-the-future-regulations"> UK MDR </a>
