@@ -10,7 +10,7 @@ CSC hackathons are an internal event where the CSC team and collaborators work t
 
 This guide aims to provide the hackathon organiser with the tools to set up and carry out a multi-day hackathon. 
  
-
+***
 <h2>Before the hackathon</h2>
 <h3>Consider your problem</h3>
 The clinical problem being solved must be appropriate for the hackathon format. For example, training an AI model is an appropriate problem to solve as a team, whereas ingesting data into XNAT is not.  
@@ -38,6 +38,9 @@ If your objectives aim to improve or affect a clinical pathway, you must underst
 <br>
 Finally, once the user requirements are gathered, you must translate those into technical requirements and establish a traceable pathway between your goals during the hackathon and the user requirements. This can be done in the form of a pre-hackathon meeting or it can be performed in group at the start of the hackathon.
 <br>
+
+***
+
 <h2>During the hackathon</h2>
 Your hackathon should begin with an introduction at the start of the day and a clearly set out agenda. The agenda should include the summary of the clinical problem including the affected clinical pathway, it should include the summary of your data and the clearly stated purpose and aims of the hackathon. It should state the expected deliverables.
 <br>
@@ -63,6 +66,9 @@ There should be a scrum master whose task is to ensure team members are on track
 <br>
 <br>
 If the team members writing the documentation are separate from those doing the programming or training, it is essential they work together closely to ensure the documentation reflects the solution which reflects the user and CSC requirements. There must be traceability of every feature in the solution to the CSC or user requirement.
+
+***
+
 <h2>After the hackathon</h2>
 Immediately after the hackathon it is useful to gather feedback on the process. Best time to do so is immediately after the hackathon is done. It's also worth considering organising a celebration of completing the hackathon.
 <br>
@@ -74,11 +80,63 @@ Set out a plan with your team on how to continue the development and how to cont
 <br>
 <br>
 Communicate the outcome of the hackathon to the clinical team and ask them to review any relevant work (such as reports or similar). 
+
+***
+
 <h2>Other things to consider</h2>
+
+The following are other pieces of advice collected from feedback from previous hackathons:
 - Setting up tiers of achievement / milestones - this helps teams understand where they are in the process and brings a sense of achievement as progress is made
 - Consider asking for creative input such as AI model naming
 - Consider the optimal ways of working: some people thrive in paired work, some thrive in tackling problems solo. The best way to get most out of your team is to facilitate both.
 - It is important each day ends with a show and tell where some piece of work or progress is demonstrated - not only described. Hyper-focus should be on _showing_ a tangible step of progress towards the final solution. This will help at the end too when tying loose ends. 
 - It is always easier to improve an existing solution that works than create a perfect solution from scratch. 
 
-You can find a handy checklist [here](../assets/docs/hackathon-planning-checklist.docx) to keep tabs of your preparation. Each section corresponds to the advice above. 
+Below is a handy checklist to keep tabs of your preparation. Each section corresponds to the advice above. 
+
+***
+
+<h2>CSC hackathon planning checklist</h2>
+<br>
+<h4>Before the hackathon: preparation</h4>
+<input type="checkbox"> Clinical problem to solve is clear and defined<br>
+<input type="checkbox"> Project has all relevant approvals<br>
+<input type="checkbox"> Key objectives have been defined in writing<br>
+<input type="checkbox"> Ensured clinical pathway is well understood<br>
+<input type="checkbox"> Data is ready, it has been:
+- <input type="checkbox"> collected / identified<br>
+- <input type="checkbox"> labelled<br>
+- <input type="checkbox"> imported into XNAT<br>
+
+<input type="checkbox"> Participants have been identified
+- <input type="checkbox"> Participants include key staff<br>
+
+<h4>Before the hackathon: pre-hackathon meetings</h4>
+<input type="checkbox"> Organised all pre-hackathon meetings needed<br>
+<input type="checkbox"> Wrote the agenda for each pre-hackathon meeting<br>
+<input type="checkbox"> Sent out meeting invite to all participants for pre-hackathon meetings<br>
+<h4>Before the hackathon: organisation</h4>
+<input type="checkbox"> Duration of the hackathon agreed<br>
+<input type="checkbox"> Dates of the hackathon agreed<br>
+<input type="checkbox"> Rooms for the hackathon booked<br>
+<input type="checkbox"> GitHub repository for project created<br>
+<input type="checkbox"> QMS templates added to the GitHub repository<br>
+<br>
+<input type="checkbox"> User requirements gathering meeting organised<br>
+<input type="checkbox"> Written the agenda for the meeting<br>
+<input type="checkbox"> Written a list of specific questions for the clinical team (you can use the CSC template)<br>
+<input type="checkbox"> Made the user requirements identified in meeting into GitHub issues<br>
+<input type="checkbox"> Translated user requirements into technical requirements<br>
+<input type="checkbox"> Made technical requirements into GitHub issues<br>
+<br>
+<input type="checkbox"> Wrote the hackathon agenda for each day and included:<br>
+1. <input type="checkbox"> Start and end times<br>
+2. <input type="checkbox"> Check points<br>
+3. <input type="checkbox"> Stand ups<br>
+4. <input type="checkbox"> Break times<br>
+5. <input type="checkbox"> Team photo time<br>
+6. <input type="checkbox"> Synchronisation time (if multiple teams)<br>
+
+<input type="checkbox"> Prepared an introduction presentation<br>
+<input type="checkbox"> Sent a final reminder of the hackathon to all participants<br>
+<br>
