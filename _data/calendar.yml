@@ -1,5 +1,5 @@
 # Add your calendar item here by filling in the title date type description and links as below.
-# Add you calender Item in the correct position to maintain chronology : most recent first
+# Add you calendar Item in the correct position to maintain chronology : most recent first
 
 #  title:
 #  date:
@@ -27,7 +27,7 @@
 
 - title: <b>Intelligent Health UK</b>
   date: 24-25 May 2023
-  description: Bringing together the global AI and healthcare community – clinicians, hospital heads, data scientists, startups, academics, and investors – to advance discussions on how to apply AI and drive technological collaboration in healthcare.
+  description: Bringing together the global AI and healthcare community – clinicians, hospital heads, data scientists, start-ups, academics, and investors – to advance discussions on how to apply AI and drive technological collaboration in healthcare.
   location: London, UK
   links: <a href="https://london.intelligenthealth.ai/"> Intelligent Health UK </a>
 
@@ -55,8 +55,8 @@
   location: Chicago, Illinois, USA
   links: <a href="https://www.rsna.org/annual-meeting"> RSNA23 </a>
 
-- title: <b>Implementation of MDRUK</b>
+- title: <b>Implementation of UK MDR</b>
   date: July 2024
-  description: Updated version of Medical Device Regulation will come into force.
+  description: Updated version of Medical Device Regulation will come into force in the UK.
   location: UK
-  links: <a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices-and-extension-of-standstill-period/implementation-of-the-future-regulations"> MDRUK </a>
+  links: <a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices-and-extension-of-standstill-period/implementation-of-the-future-regulations"> UK MDR </a>
