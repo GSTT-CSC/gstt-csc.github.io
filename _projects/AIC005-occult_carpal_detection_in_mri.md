@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: MRI Occult Carpal Detection
-status: Data Curating
+status: Developing
 image: /assets/img/projects/MRI wrist.jpg
 summary: AI application to interpret MRI scans to increase sensitivity and confidence of diagnosis.
 csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
