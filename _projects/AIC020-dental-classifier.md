@@ -16,6 +16,8 @@ success-criteria: Improvement in diagnostic accuracy and diagnostic speed.
 alternatives: Currently no commercial products identified 
 ---
 
+<b>Clinical lead</b>: Christopher Platais <br>
+
 <b>Project Overview</b>
 Dental panoramic tomograms (DPTs) are common radiographs performed as first-line imaging for a broad range of maxillofacial disease. Within both primary and secondary care, DPTs are interpreted by the requesting dentist, typically without input from a specialist in dental and maxillofacial radiology (DMFR). Specialist reporting is not currently commissioned by the NHS and there are less than 30 registered DMFR specialists nationally, so there is limited scope for second opinion within primary care. Published service evaluations indicate that DPTs referred for specialist opinion contain diagnoses ranging from normal anatomy to malignancy, suggesting that confidence in interpreting DPTs is variable for non-specialists.
 
