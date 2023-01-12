@@ -6,7 +6,7 @@ image: /assets/img/projects/dental_tomograph_wikipedia.jpg
 summary: AI enabled detection and classification of lesions in dental panoramic tomograms
 csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
 modality: Dental radiograph
-pathology: Osseous diseases 
+pathology: Jaw tumours and cysts
 rationale: DPTs are particularly prone to incidental findings and technical errors, which can obscure interpretation and contribute to misdiagnosis.
 patient-pathway: Within both primary and secondary care, DPTs are interpreted by the requesting dentist, typically without input from a specialist in dental and maxillofacial radiology (DMFR). Specialist reporting is not currently commissioned by the NHS.
 training-data: N/A
