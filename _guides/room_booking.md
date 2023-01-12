@@ -48,6 +48,6 @@ You can now close the website.
 
 #### Visitors
 
-If you've invited colleagues who do not usually have access to BH, you will need to collect them from 
-reception. Each daily visitor and contractors must do the online BH training available [here](https://forms.office.com/Pages/ResponsePage.aspx?id=g5k9SjbpN0iVUp2RJqkusKnSgjC8bPJBr_4Ws8XbUAlUOUtDNEU3SFhPT1JURllMSVFUSTdXTEQ4Uy4u). 
+If you've invited colleagues who do not usually have access to BH, you will need to collect them from the reception. 
+Each daily visitor and contractors must do the online BH training available [here](https://forms.office.com/Pages/ResponsePage.aspx?id=g5k9SjbpN0iVUp2RJqkusKnSgjC8bPJBr_4Ws8XbUAlUOUtDNEU3SFhPT1JURllMSVFUSTdXTEQ4Uy4u). 
 It's handy if they can fill it in in advance else they'll have to do it when they arrive.
