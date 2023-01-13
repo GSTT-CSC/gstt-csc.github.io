@@ -4,6 +4,12 @@
 #  description:
 #  link:
 
+- name: Pycharm Professional Edition
+  description: |
+    Integrated Development Environment of choice for the CSC team. 
+    Log in to Jetbrains using your KCL login details on https://www.jetbrains.com/community/education/#students
+  link: https://www.jetbrains.com/community/education/#students
+
 - name: Free-for.dev
   description: |
     This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
