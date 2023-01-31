@@ -26,11 +26,11 @@ CRIS and EPR.
 The CSC team develops medical software within a quality management system (QMS) that is ISO 13485:2016 compliant. The 
 scope of our QMS is for the development of medical software application that are deployed within the Trust. 
 
-We have gained ISO13485:2016 certification for our QMS from the UK notified body [Scarlet Comply](https://www.ukas.com/wp-content/uploads/schedule_uploads/1001534/23422Management-Systems.pdf) in 2022. 
+We have gained ISO13485:2016 certification for our QMS from the UK Certification body [Scarlet](https://www.ukas.com/wp-content/uploads/schedule_uploads/1001534/23422Management-Systems.pdf) in 2022. 
 <br>
-<div style="text-align: center"><img src="assets/img/policy/scarlet-iso-badge-full-dark.svg" width="20%"/></div>
+<div style="text-align: center"><img src="assets/img/policy/scarlet_accredited_logo_dark.png" width="30%"/></div>
 <br>
-It sits within the GSTT Medical Physics Department and utilises key departmental processes and resources for audits, 
+The QMS sits within the GSTT Medical Physics Department and utilises key departmental processes and resources for audits, 
 management review, HR, and purchasing. It incorporates all aspects of the standards and regulations listed on the page 
 below, as relevant to the scope. 
 
