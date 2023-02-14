@@ -1,6 +1,7 @@
 ---
 layout: platform_page
 platform-name: XNAT
+title: XNAT
 platform-image: /assets/img/platforms/xnat_logo.png
 ---
 
