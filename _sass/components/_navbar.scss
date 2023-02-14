@@ -34,6 +34,10 @@
   {
     .nav-item
     {
+      &.active
+      {
+        text-decoration: underline;
+      }
       .nav-link
       {
         font-size: 100%;
@@ -163,6 +167,10 @@
   // SubNavbar Items
   .navbar-nav {
     .nav-item {
+      &.active
+      {
+        text-decoration: underline;
+      }
       .nav-link
       {
         font-size: 90%;
