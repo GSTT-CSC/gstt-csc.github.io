@@ -30,14 +30,14 @@
       var menuItems = document.querySelectorAll('.navbar-nav .nav-item');
       console.log(menuItems)
       for (var i = 0, len = menuItems.length; i < len; i++) {
-
-        if (menuItems[i].getElementsByTagName('a')[0].getAttribute("href").indexOf(path) !== -1) {
-          menuItems[i].className += " active";
-
+        if (path === '/'){
+          continue
         }
-    }
-    }
-    );
+        if (menuItems[i].getElementsByTagName('a')[0].getAttribute("href").indexOf(path) !== -1) {
+          console.log(menuItems[i].getElementsByTagName('a')[0].getAttribute("href").indexOf(path))
+          menuItems[i].className += " active";
+        }
+      }});
   </script>
 
   <!-- Bootstrap core CSS -->

@@ -1,6 +1,7 @@
 ---
 layout: platform_page
 platform-name: MLOps
+title: MLOps
 platform-image: /assets/img/platforms/mlops_logo.png
 ---
 

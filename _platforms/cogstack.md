@@ -1,6 +1,7 @@
 ---
 layout: platform_page
 platform-name: CogStack
+title: CogStack
 platform-image: /assets/img/platforms/cogstack_logo.png
 ---
 

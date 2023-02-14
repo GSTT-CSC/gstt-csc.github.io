@@ -1,6 +1,7 @@
 ---
 layout: platform_page
 platform-name: FLIP
+title: FLIP
 platform-image: /assets/img/platforms/FLIP_light.png
 ---
 
