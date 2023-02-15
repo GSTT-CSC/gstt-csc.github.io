@@ -1,9 +1,10 @@
+
 $(document).ready(() => {
   let url = location.href.replace(/\/$/, "");
 
   if (location.hash) {
     const hash = url.split("#");
-    $('#guides-navbar a[href="#'+hash[1]+'"]').tab("show");
+    $('#navbar a[href="#'+hash[1]+'"]').tab("show");
     url = location.href.replace(/\/#/, "#");
     history.replaceState(null, null, url);
     setTimeout(() => {
