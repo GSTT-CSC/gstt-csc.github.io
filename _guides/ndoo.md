@@ -1,8 +1,6 @@
 ---
 title: National Data Opt-Out (NDOO)
-order: 
-image:
-shorthand: ndoo
+shorthand: NDOO
 ---
 
 The [National Data Opt Out (NDOO)](https://digital.nhs.uk/services/national-data-opt-out) ensures that patients have a right to withdraw their consent to any of their data being used for research or service development, i.e. secondary/indirect care purposes. Therefore, if they do have a recorded opt-out status, their data must therefore be excluded.

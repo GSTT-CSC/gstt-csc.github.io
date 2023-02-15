@@ -1,8 +1,6 @@
 ---
 title: Quality Improvement Projects (QIPS)
-order: 
-image:
-shorthand: qips
+shorthand: QIPS
 ---
 
 ⚠️ **Before proceeding with the following steps**, please ensure:

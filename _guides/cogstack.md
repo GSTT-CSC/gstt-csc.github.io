@@ -1,8 +1,6 @@
 ---
 title: CogStack
-order: 
-image:
-shorthand: cogstack
+shorthand: CogStack
 ---
 
 
