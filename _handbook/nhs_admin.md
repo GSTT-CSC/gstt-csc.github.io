@@ -33,5 +33,5 @@ If you require a work travel budget to be authorised and paid for by the NHS, th
 Once it has been authorised by Haris, you will then need to book your travel arrangements with Clarity BT by either:
 
 * Their booking system [Clarity Booking System](https://ctmcrown.sabscorp.com/js/clarity/current/#/logonl)
-* Emailing their [online](mailto:gsttonline@claritybt.com) or [offline](mailto:gstt@claritbt.com) support teams
+* Emailing their online support team at [gsttonline@claritybt.com](mailto:gsttonline@claritybt.com) or offline support team at [gstt@claritbt.com](mailto:gstt@claritbt.com) 
 * Contacting their [online](mailto:gsttonline@claritybt.com) or [offline](mailto:gstt@claritbt.com) support teams by phoning +44 (0)333 230 9194
