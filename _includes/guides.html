@@ -4,16 +4,15 @@
   position: relative;
   /*height: 200px;*/
   overflow: auto;
-}
+}</style>
 
-</style>
 <div class="container-fluid">
     <div class="row">
         <!--  Gets array of _guides/ files and sorts them alphabetically -->
         {% assign items_ordered = site.guides | sort %}
         <div class="col-md-4 col-lg-3 pb-3">
             <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
-                <ul class="nav flex-column nav-pills menu-sidebar" id="guides-navbar" role="tablist">
+                <ul class="nav flex-column nav-pills menu-sidebar" id="navbar" role="tablist">
                     <li class="nav-item">
                         <!--  Adds Home tab at the top which will serve as the base tab -->
                         <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
@@ -31,32 +30,32 @@
 
         <div class="col-md-8 col-lg-9">
             <div class="tab-content">
-                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                        <p>
-                            We've created several guides and standard operating procedures (SOPs), which include
-                            required steps,
-                            our recommended best practices, and helpful bits of information, for use by the team, and
-                            our internal
-                            and external collaborators. Click on the sections in the left-hand sidebar to learn
-                            more.<br><br>
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <p>
+                        We've created several guides and standard operating procedures (SOPs), which include
+                        required steps,
+                        our recommended best practices, and helpful bits of information, for use by the team, and
+                        our internal
+                        and external collaborators. Click on the sections in the left-hand sidebar to learn
+                        more.<br><br>
 
-                            These guides are updated as and when necessary, so we recommend both keeping an eye on this
-                            page, as
-                            well as <a href="mailto:CSCTeam@gstt.nhs.uk">reach out to us</a> if you need any further
-                            information.
-                        </p>
-                    </div>
-
-                    {% for item in items_ordered %}
-                    <div class="tab-pane fade" id="{{item.shorthand}}" role="tabpanel"
-                         aria-labelledby="{{item.shorthand}}-tab">
-                       <h3>{{ item.title }}</h3>
-                        <p>{{ item.content }}</p>
-                    </div>
-                    {% endfor %}
+                        These guides are updated as and when necessary, so we recommend both keeping an eye on this
+                        page, as
+                        well as <a href="mailto:CSCTeam@gstt.nhs.uk">reach out to us</a> if you need any further
+                        information.
+                    </p>
                 </div>
+
+                {% for item in items_ordered %}
+                <div class="tab-pane fade" id="{{item.shorthand}}" role="tabpanel"
+                     aria-labelledby="{{item.shorthand}}-tab">
+                    <h3>{{ item.title }}</h3>
+                    <p>{{ item.content }}</p>
+                </div>
+                {% endfor %}
             </div>
         </div>
+    </div>
     <!--  JS scripts which enable deep linking i.e., guides.html#<reference to the specific tab> -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
