@@ -7,47 +7,55 @@
 }
 </style>
 
-<div class="row">
+<div class="container-fluid">
+    <div class="row">
+        <!--  Gets array of _handbook/ files and sorts them by descending "order" number -->
+        {% assign items_ordered = site.handbook | sort: "order", "last" %}
+        <p> {{ items_shorthands }}</p>
+        <div class="col-md-4 col-lg-3 pb-3">
+            <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar" id="navbar" role="tablist">
+                    <li class="nav-item">
+                        <!--  Adds Home tab at the top which will serve as the base tab -->
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                           aria-controls="home" aria-selected="true">Using this Handbook</a>
+                    </li>
+                    {% for item in items_ordered %}
+                    <li class="nav-item">
+                        <a class="nav-link" id="{{ item.shorthand }}-tab" data-toggle="tab" href="#{{item.shorthand}}"
+                           role="tab" aria-controls="#{{item.shorthand}}" aria-selected="false">{{ item.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
 
-  <!--  Define variable which sorts order of _comunities .md files -->
-  {% assign items_ordered = site.handbook | sort: "order" %}
+        <div class="col-md-8 col-lg-9">
+            <div class="tab-content">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <p>
+                        The CSC Handbook is intended to act as an encyclopedia for all activities inside CSC. If you
+                        work in CSC, if you're new to the CSC Team, if you're a CSC collaborator, or if you're
+                        interested in joining CSC then the information you seek should be in here somewhere.
+                    </p>
+                </div>
 
-  <div class="col-md-4 col-lg-3 pb-3">
-    <!-- Handbook Scrollspy -->
-    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
-
-      <ul class="nav flex-column nav-pills menu-sidebar" id="handbookNav">
-      <h4 class="text-center pt-2">Handbook Contents</h4>
-          {% for item in items_ordered | sort: "order" %}
-              <li class="nav-item">
-                <a class="nav-link" href="#handbook-entry-{{item.order}}">{{ item.title }}</a>
-              </li>
-          {% endfor %}
-      </ul>
+                {% for item in items_ordered %}
+                <div class="tab-pane fade" id="{{item.shorthand}}" role="tabpanel"
+                     aria-labelledby="{{item.shorthand}}-tab">
+                    <h3>{{ item.title }}</h3>
+                    <p>{{ item.content }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-    <!-- Handbook Scrollspy -->
-  </div>
-
-  {% assign item_order = site.handbook | sort: "order" %}
-
-  <div class="col-md-8 col-lg-9">
-    <!-- Handbook Text (spied element) -->
-    <div
-      data-mdb-spy="scroll"
-      data-mdb-target="#scrollspy1"
-      data-mdb-offset="0"
-      class="scrollspy-example"
-    >
-        {% for item in items_ordered %}
-        <h3 id="handbook-entry-{{item.order}}">{{ item.title }}</h3>
-        {% if item.image %}
-            <p>{{ item.image }}</p>
-        {% endif %}
-        <p>{{ item.content }}</p>
-        {% endfor %}
-    </div>
-    <!-- Handbook Text (spied element) -->
-  </div>
-
+    <!--  JS scripts which enable deep linking i.e., guides.html#<reference to the specific tab> -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="assets/js/deeplinking.js"></script>
 </div>
-<!-- End Handbook -->
