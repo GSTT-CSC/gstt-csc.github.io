@@ -1,7 +1,9 @@
 ---
 title: Standups
-order: 6
-image:
+category: Ways of Working
+categoryorder: 2
+shorthand: Standups
+order: 5
 ---
 
 The CSC Team hosts Standup meetings every **Tuesday and Thursday** from **9.30–10.00am**. 

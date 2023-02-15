@@ -1,7 +1,9 @@
 ---
 title: Working in the CSC Team
-order: 4
-image:
+category: Background
+categoryorder: 1
+shorthand: Working-in-CSC
+order: 3
 ---
 
 The CSC Team is small group of individuals from a variety of backgrounds. The team is made up of 7 full time members 

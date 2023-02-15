@@ -1,7 +1,9 @@
 ---
 title: Our Mission
-order: 2
-image:
+category: Background
+categoryorder: 1
+shorthand: Our-Mission
+order: 1
 ---
 
 The CSC mission statement is: developing people, platforms and policy for digital health. Our objectives are to
