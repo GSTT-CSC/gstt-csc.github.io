@@ -3,7 +3,7 @@ layout: project_page
 title: Perioperative complexity stratification and optimisation 
 status: Developing
 image: /assets/img/blog/nhs_logo.png
-summary: AI enabled detection and classification of lesions in dental panoramic tomograms
+summary: AI-powered algorithm for categorizing patients based on their perioperative risk, enabling appropriate pathway planning and optimization in elective surgeries.
 csc-lead: <a href="/team_member/Haleema.html">Haleema</a>
 modality: Perioperative patient complexity assessment
 pathology: Patient risk stratification for elective surgery
