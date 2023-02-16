@@ -10,7 +10,7 @@ pathology: Patient risk stratification for elective surgery
 rationale: The current process for determining patient suitability for elective surgery is fragmented and occurs close to the procedure date, leading to cancellations and delays for high-risk patients.
 patient-pathway: Currently, suitability for surgery is determined at the pre-assessment stage, which occurs 1-2 days before the scheduled procedure. This process is not optimised and lacks information from various sources.
 training-data: N/A
-errors:  Delayed optimisation for high-risk patients can lead to increased morbidity, mortality, and reduced patient outcomes. Inappropriate stratification can also lead to increased waiting times for low-risk patients. 
+errors:  Delayed optimisation of surgery planning for high-risk patients can lead to increased morbidity, mortality, and negative patient outcomes. Inappropriate stratification can also lead to increased waiting times for both low and high-risk patients, and inefficient allocation of clinical resources.
 goals: Develop an algorithm that categorises patients into three groups based on their perioperative risk, enabling appropriate pathway planning and optimisation.
 success-criteria: Reduction in cancellations, reduced waiting times for low-risk patients, and optimised management for high-risk patients.
 alternatives: Currently no commercial products identified 
