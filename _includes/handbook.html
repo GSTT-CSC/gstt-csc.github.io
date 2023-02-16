@@ -5,13 +5,14 @@
   /*height: 200px;*/
   overflow: auto;
 }
+
 </style>
 
 <div class="container-fluid">
     <div class="row">
         <!--  Gets array of _handbook/ files and sorts them by descending "order" number -->
         {% assign items_ordered = site.handbook | sort: "order", "last" %}
-        <p> {{ items_shorthands }}</p>
+
         <div class="col-md-4 col-lg-3 pb-3">
             <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
                 <ul class="nav flex-column nav-pills menu-sidebar" id="navbar" role="tablist">
