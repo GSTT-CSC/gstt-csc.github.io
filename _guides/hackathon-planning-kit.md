@@ -1,8 +1,6 @@
 ---
 title: Hackathon Planning Kit
-order: 
-image:
-shorthand: hackathon
+shorthand: Hackathon-Planning
 ---
 
 

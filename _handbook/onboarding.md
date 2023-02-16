@@ -1,7 +1,9 @@
 ---
 title: Onboarding
-order: 5
-image:
+category: Admin
+categoryorder: 3
+shorthand: Onboarding
+order: 4
 ---
 
 **Access to Becket House**

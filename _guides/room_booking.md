@@ -1,8 +1,6 @@
 ---
 title: Room Booking
-order: 
-image:
-shorthand: roombooking
+shorthand: Room-Booking
 ---
 
 This SOP describes how to book a room in Beckett House, specifically for 5th and 9th floor.

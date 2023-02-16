@@ -1,8 +1,6 @@
 ---
 title: XNAT
-order: 
-image:
-shorthand: xnat
+shorthand: XNAT
 ---
 
 For the full list of SOPs available for XNAT at Guy's and St Thomas' NHS Foundation Trust (GSTT), please refer to our dedicated XNAT GitHub repository [here](https://github.com/GSTT-CSC/XNAT).

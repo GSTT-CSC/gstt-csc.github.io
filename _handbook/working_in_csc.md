@@ -1,7 +1,9 @@
 ---
 title: Working in the CSC Team
-order: 4
-image:
+category: Background
+categoryorder: 1
+shorthand: Working-in-CSC
+order: 3
 ---
 
 The CSC Team is small group of individuals from a variety of backgrounds. The team is made up of 7 full time members 
@@ -19,7 +21,7 @@ pathway. We can support projects of varying sizes and at various stages of the p
 engaged in projects for their entire lifecycle and a CSC member would be assigned to individual projects(as the CSC 
 Lead) to provide a single point of contact clinical leads on the project
 
-The general purpose CSC Team email address is: **cscteam@gstt.nhs.uk**.
+The general purpose CSC Team email address is [cscteam@gstt.nhs.uk](mailto:cscteam@gstt.nhs.uk).
 
 The diagram below illustrates the structure of the CSC Team within Medical Physics at GSTT.
 

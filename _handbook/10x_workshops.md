@@ -1,8 +1,11 @@
 ---
 title: 10x Workshops
-order: 8
-image:
+category: Ways of Working
+categoryorder: 2
+shorthand: Workshops
+order: 7
 ---
+
 
 <img src="assets/img/handbook/workshop_3.21.jpg" class="img-fluid">
 
