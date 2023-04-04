@@ -5,14 +5,30 @@ title: XNAT
 platform-image: /assets/img/platforms/xnat_logo.png
 ---
 
-[XNAT](https://xnat.org/) is an open source imaging informatics platform capable of storing and managing medical images and associated data. Developed by the Neuroinformatics Research Group at Washington University, XNAT can be used to support a wide range of imaging-based projects.
+[XNAT](https://xnat.org/) is an open-source imaging informatics platform for storing and managing medical 
+images and associated data for research purposes. At GSTT we used XNAT to retrieve, anonymise and manage medical imaging 
+and non-imaging data for purposes of AI development, AI evaluation, and for data provision for various research projects 
+which are run at GSTT or in collaboration with GSTT. 
 
-Data is ingested from the Picture Archiving and Communications Systems (PACS), the industry-standard storage system for different medical imaging types, into XNAT where it is anonymised (or more accurately, de-identified) and sorted into relevant projects, which ensures the data:
+XNAT at GSTT is currently connected to 3 PACS systems (radiology, foetal cardiology and radiotherapy PACS). Data anonymisation
+processes include DICOM meta-data removal, face blurring and removal of burnt-in data. Data used for AI evaluation are pushed 
+to relevant DICOM nodes using a Python script; data used for AI development are fetched by [MLOPs](https://gstt-csc.github.io/platforms/mlops.html) via
+XNAT's REST-API, and data are sent to external collaborators via pathways agreed in ethics approval of each individual project.
 
-- Is only visible to those who need it
-- Can be deleted upon project completion
-- Is compliant with the [DICOM Standards Supplement 142](https://www.dicomstandard.org/News-dir/ftsup/docs/sups/sup142.pdf)
+<figure>
+<img src="https://github.com/GSTT-CSC/XNAT/blob/main/assets/anon-flowchart.jpg?raw=true" width="100%">
+<figcaption>Schematic representation of XNAT setup at GSTT.</figcaption>
+</figure>
 
-Within Guy’s and St Thomas’ NHS Foundation Trust (GSTT), XNAT forms a part of the local secure enclave for the purpose of [federated learning in artificial intelligence projects](../platforms/flip.html). For access to GSTT's XNAT, please contact the <a href="mailto:CSCTeam@gstt.nhs.uk?subject=XNAT%20Access&body=Hi%20All%2C%0A%0AI%20would%20like%20to%20have%20access%20to%20XNAT%20for%20%3Cinsert%20your%20project%20details%2Fpurpose%20for%20access%20here%3E.%20For%20more%20information%2C%20please%20see%20the%20attached%20documentation%20and%20associated%20approvals.">CSC team</a>.
+Using XNAT for data anonymisation and management allows fast and automated retrieval of research data, allows for good quality 
+control and application of highest standards of anonymisation to protect patient privacy. Data visibility is granted explicitly, so 
+only collaborators on a certain project have data visibility. Lastly, access to XNAT is strictly controlled and regularly reviewed. 
 
-For more information, please refer to the [XNAT GitHub repository](https://github.com/GSTT-CSC/XNAT).
+XNAT is only available to GSTT employees with access to GSTT network and before access can be granted an online teaching and 
+training session is held. If you need access to XNAT, please contact the <a href="mailto:CSCTeam@gstt.nhs.uk">CSC team</a>.
+
+A wealth of information, including our SOPs, anonymisation scripts, data retrieval and fetching scripts and similar, please visit our [XNAT GitHub repository](https://github.com/GSTT-CSC/XNAT).
+
+If you would like to us to retrieve data for your project and perform the relevant anonymisation process, please fill in the [data
+request form](../../assets/docs/CSC-XNATdataRequestForm-V1.docx) and <a href="mailto:CSCTeam@gstt.nhs.uk">email</a> us with your data request. Please attach appropriate ethics approvals to the
+email.
