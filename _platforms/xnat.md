@@ -6,7 +6,7 @@ platform-image: /assets/img/platforms/xnat_logo.png
 ---
 
 [XNAT](https://xnat.org/) is an open-source imaging informatics platform for storing and managing medical 
-images and associated data for research purposes. At GSTT we used XNAT to retrieve, anonymise and manage medical imaging 
+images and associated data for research purposes. At GSTT, we use XNAT to retrieve, anonymise, and manage medical imaging 
 and non-imaging data for purposes of AI development, AI evaluation, and for data provision for various research projects 
 which are run at GSTT or in collaboration with GSTT. 
 
