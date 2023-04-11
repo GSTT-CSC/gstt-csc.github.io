@@ -2,6 +2,7 @@
 title: Getting started
 order: 1
 image:
+shorthand: Getting-started
 ---
 
 <!-- Resources -->

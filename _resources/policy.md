@@ -2,6 +2,7 @@
 title: Policy
 order: 4
 image:
+shorthand: Policy
 ---
 
 <!-- Resources -->

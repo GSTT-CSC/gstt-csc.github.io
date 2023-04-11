@@ -2,6 +2,7 @@
 title: Platforms
 order: 4
 image:
+shorthand: Platforms
 ---
 
 <!-- Resources -->
