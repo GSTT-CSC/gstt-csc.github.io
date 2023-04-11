@@ -7,24 +7,6 @@
 #  description:
 #  link
 
-- title: <b> European Congress of Radiology</b>
-  date: 1-5 March 2023
-  description: The ECR is one of the largest medical meetings in Europe and the second-largest radiological meeting in the world.
-  location: Vienna, Austria
-  links: <a href="https://www.myesr.org/congress"> ESR23 </a>
-
-- title: <b>ReWIRED</b>
-  date: 14-15 March 2023
-  description: Digital Health Rewired is for anyone wanting to make a difference in UK digital health including NHS and social care, private healthcare, suppliers, start-ups, innovators, policy makers and patients. Annual meeting.
-  location: London, UK
-  links: <a href= "https://digitalhealthrewired.com/register/"> Registration</a>
-
-- title: <b>BIR AI Congress</b>
-  date: 23-24 March 2023
-  description: Topics will include; Use of AI data platforms, real world evidence of AI in clinical practice - head to toe, ecosystem of AI - regulations & procurement and future gazing.
-  location: London, UK
-  links: <a href="https://birorgukportal.force.com/l/s/community-event?id=a173Y00000FkWVrQAN#/Overview"> BIR AI Congress </a>
-
 - title: <b>Intelligent Health UK</b>
   date: 24-25 May 2023
   description: Bringing together the global AI and healthcare community – clinicians, hospital heads, data scientists, start-ups, academics, and investors – to advance discussions on how to apply AI and drive technological collaboration in healthcare.
@@ -48,6 +30,12 @@
   description: The 26th International Conference on Medical Image Computing and Computer Assisted Intervention
   location: Vancouver, Canada
   links: <a href="https://conferences.miccai.org/2023/en/"> MICCAI23</a>
+
+- title: <b>BIR AI in NM&PET 2023</b>
+  date: 9 October 2023
+  description: This event showcases a range of AI use in nuclear medicine and PET.
+  location: Richard Doll Building, Oxford
+  links: <a href="https://www.mybir.org.uk/l/s/community-event?id=a173Y00000GQQnxQAH"> BIR AI NM&PET</a>
 
 - title: <b>RSNA23</b>
   date: 26-30 November 2023
