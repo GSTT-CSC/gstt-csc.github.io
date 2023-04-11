@@ -2,6 +2,7 @@
 title: NHS AI Lab Skunkworks
 order: 2
 image:
+shorthand: NHS-AI-Lab-Skunkworks
 ---
 
 The <a href="https://nhsx.github.io/skunkworks/" > NHS AI Lab Skunkworks </a> runs short-term projects to investigate the use of AI for improving efficiency and accuracy in health and care.

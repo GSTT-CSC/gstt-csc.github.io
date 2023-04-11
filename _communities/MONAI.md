@@ -2,6 +2,7 @@
 title: MONAI
 order: 8
 image:
+shorthand: MONAI
 ---
 
 

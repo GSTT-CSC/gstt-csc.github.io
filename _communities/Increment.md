@@ -2,6 +2,7 @@
 title: Increment
 order: 7
 image:
+shorthand: Increment
 ---
 
 <a href="https://increment.com/about/"> Increment </a> is a print and digital magazine about how teams build and operate software systems at scale.

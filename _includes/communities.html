@@ -1,55 +1,64 @@
-<!-- Handbook -->
+<!-- Guides -->
 <style>
 .scrollspy-example {
   position: relative;
   /*height: 200px;*/
   overflow: auto;
-}
-</style>
+}</style>
 
-<div class="row">
+<div class="container-fluid">
+    <div class="row">
+        <!--  Gets array of _guides/ files and sorts them alphabetically -->
+        {% assign items_ordered = site.communities | sort %}
+        <div class="col-md-4 col-lg-3 pb-3">
+            <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar" id="navbar" role="tablist">
+                    <li class="nav-item">
+                        <!--  Adds Home tab at the top which will serve as the base tab -->
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                           aria-controls="home" aria-selected="true">Home</a>
+                    </li>
+                    {% for item in items_ordered %}
+                    <li class="nav-item">
+                        <a class="nav-link" id="{{ item.shorthand }}-tab" data-toggle="tab" href="#{{item.shorthand}}"
+                           role="tab" aria-controls="#{{item.shorthand}}" aria-selected="false">{{ item.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
 
-  <!--  Define variable which sorts order of _comunities .md files -->
+        <div class="col-md-8 col-lg-9">
+            <div class="tab-content">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <p>
+                        As part of the CSC's <b>People</b>, <b>Platforms</b>, and <b>Policy</b> guiding principles,
+                        we've collected links to several forums, blogs, mailing lists, newsletters to be connected and
+                        contribute to interesting projects. Click on the sections in the left-hand sidebar to learn
+                        more.<br><br>
 
+                        These links are updated as and when necessary, so we recommend both keeping an eye on this
+                        page, as well as <a href="mailto:CSCTeam@gstt.nhs.uk">reach out to us</a> if you need any further
+                        information and/or would like to propose future additions.
+                    </p>
+                </div>
 
-  {% assign items_ordered = site.communities | sort: "order" %}
-
-  <div class="col-md-4 col-lg-3 pb-3">
-    <!-- Handbook Scrollspy -->
-    <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
-
-      <ul class="nav flex-column nav-pills menu-sidebar" id="communitiesNav">
-      <h4 class="text-center pt-2">Handbook Contents</h4>
-          {% for item in items_ordered  %}
-              <li class="nav-item">
-                <a class="nav-link" href="#communities-entry-{{item.order}}">{{ item.title }}</a>
-              </li>
-          {% endfor %}
-      </ul>
+                {% for item in items_ordered %}
+                <div class="tab-pane fade" id="{{item.shorthand}}" role="tabpanel"
+                     aria-labelledby="{{item.shorthand}}-tab">
+                    <h3>{{ item.title }}</h3>
+                    <p>{{ item.content }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-    <!-- Handbook Scrollspy -->
-  </div>
-
-  {% assign item_order = site.communities | sort: "order" %}
-
-  <div class="col-md-8 col-lg-9">
-    <!-- Handbook Text (spied element) -->
-    <div
-      data-mdb-spy="scroll"
-      data-mdb-target="#scrollspy1"
-      data-mdb-offset="0"
-      class="scrollspy-example"
-    >
-  {% for item in items_ordered %}
-        <h3 id="communities-entry-{{item.order}}">{{ item.title }}</h3>
-        {% if item.image %}
-            <p>{{ item.image }}</p>
-        {% endif %}
-        <p>{{ item.content }}</p>
-        {% endfor %}
-    </div>
-    <!-- Handbook Text (spied element) -->
-  </div>
-
+    <!--  JS scripts which enable deep linking i.e., guides.html#<reference to the specific tab> -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="assets/js/deeplinking.js"></script>
 </div>
-<!-- End Handbook -->
