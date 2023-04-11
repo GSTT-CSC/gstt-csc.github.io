@@ -2,6 +2,7 @@
 title: Reading List
 order: 5
 image:
+shorthand: Reading-List
 ---
 
 <!-- Resources -->

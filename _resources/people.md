@@ -2,6 +2,7 @@
 title: People
 order: 2
 image:
+shorthand: People
 ---
 
 <!-- Resources -->
