@@ -13,7 +13,7 @@ which are run at GSTT or in collaboration with GSTT.
 XNAT at GSTT is currently connected to 3 PACS systems (radiology, foetal cardiology and radiotherapy PACS). Data anonymisation
 processes include DICOM meta-data removal, face blurring and removal of burnt-in data. Data used for AI evaluation are pushed 
 to relevant DICOM nodes using a Python script; data used for AI development are fetched by [MLOPs](https://gstt-csc.github.io/platforms/mlops.html) via
-XNAT's REST-API, and data are sent to external collaborators via pathways agreed in ethics approval of each individual project.
+XNAT's [REST API](https://wiki.xnat.org/display/XAPI), and data are sent to external collaborators via pathways agreed in ethics approval of each individual project.
 
 <figure>
 <img src="https://github.com/GSTT-CSC/XNAT/blob/main/assets/anon-flowchart.jpg?raw=true" width="100%">
