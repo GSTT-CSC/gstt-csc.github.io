@@ -2,6 +2,7 @@
 title: IPEM
 order: 8
 image:
+shorthand: IPEM
 ---
 
 
