@@ -17,7 +17,7 @@ order: 4
    - Enter the doors titled 'Big Ben side'
 
 
-**10th floor York Road Booking Instructions**
+**10th Floor York Road Booking Instructions**
 
 The CSC team has desk availability at the 10th floor of the Education Center in York Road. In order to get there you 
 will need to:
@@ -62,7 +62,7 @@ GSTT-CSC organisation on GitHub.
 The joiner should search for issues with the "Good First Issue" tag to contribute to current projects and to become 
 familiar with CSC software development process.  
 
-**Arrange 1-2-1's with all CSC staff**
+**Arrange 1-2-1's With All CSC staff**
 
 New starters will be expected to arrange 30 min meetings with each staff member of the CSC, on Teams or in-person, for 
 introductions as early familiarity with the team encourages a supportive working culture. The meetings should discuss:
@@ -74,7 +74,7 @@ introductions as early familiarity with the team encourages a supportive working
 - experiences you wish to gain with the CSC.
 - competencies that could be completed
 
-**Create Team member profile on this website**
+**Create Team Member Website Profile**
 All new staff and trainees must create a new page and profile on the website, along with a picture (250x250px) and socials links. 
 
 **Meeting invites**
@@ -87,7 +87,7 @@ Organise with the Head of CSC or CSC staff to be added to the following meetings
 - Interesting project meetings
 - Conferences 
 
-#### STP Trainee on-boarding tasks
+**STP Trainee On-boarding Tasks**
 
 In addition to all the above, STP trainees must:
 
