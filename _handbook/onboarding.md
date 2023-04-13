@@ -23,8 +23,12 @@ The CSC team has desk availability at the 10th floor of the Education Center in 
 will need to:
 Access is granted from the security desk at York Road after they receive an email from line manager. After this is done,
 you can just swipe your card at the entrance.
-  
- 
+
+<p align="center">
+<img src="/assets/img/handbook/newstart.jpg" class="img-fluid" title="https://www.vecteezy.com/free-photos">
+</p>
+
+
 **Booking meeting rooms in GSTT (not KCL)** 
 
 There is a central room booking service allowing GSTT staff to book a variety of
@@ -62,7 +66,7 @@ GSTT-CSC organisation on GitHub.
 The joiner should search for issues with the "Good First Issue" tag to contribute to current projects and to become 
 familiar with CSC software development process.  
 
-**Arrange 1-2-1's With All CSC staff**
+**Arrange 1-2-1's with all CSC Staff**
 
 New starters will be expected to arrange 30 min meetings with each staff member of the CSC, on Teams or in-person, for 
 introductions as early familiarity with the team encourages a supportive working culture. The meetings should discuss:
@@ -74,7 +78,7 @@ introductions as early familiarity with the team encourages a supportive working
 - experiences you wish to gain with the CSC.
 - competencies that could be completed
 
-**Create Team Member Website Profile**
+**Create "Team-Member" Website Profile**
 All new staff and trainees must create a new page and profile on the website, along with a picture (250x250px) and socials links. 
 
 **Meeting invites**
