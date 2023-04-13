@@ -12,12 +12,12 @@ order: 4
    - Collect card at reception on ground-floor
    - Get a local tour of Becket House 5th and 9th floor from a CSC Team Member
 
-**CSC Desk area**
+**CSC Desk Area**
    - The CSC team resides on level 5 of Becket House
    - Enter the doors titled 'Big Ben side'
 
 
-**10th Floor York Road Booking Instructions**
+**10th-floor York Road Booking Instructions**
 
 The CSC team has desk availability at the 10th floor of the Education Center in York Road. In order to get there you 
 will need to:
@@ -95,12 +95,12 @@ Organise with the Head of CSC or CSC staff to be added to the following meetings
 
 In addition to all the above, STP trainees must:
 
-- **Create 2 blog posts** - outlining an interesting project completed or 10X, and an account of the experience of their duration with the CSC Team, with feedback. E.g.  
-  - [Bioinformatics Trainee](/blogs/2021-08-25-STP_blog_Igor.html)
-  - [Clinical Engineering Trainee](/blogs/2022_07-01-STP_blog_Isabella.html)
+- **Create blog posts** - outlining an interesting project completed or 10X, and an account of the experience of their duration with the CSC Team, with feedback. E.g.  
+  - [Bioinformatics Trainee](blogs/articles/2021/08/25/STP_blog_Igor.html)
+  - [Clinical Engineering Trainee](/blogs/articles/2022/07/01/STP_blog_Isabella.html)
 - **Communicate *wanted* experience** - as opposed to *needed* experience, separating out the trainees interests from tasks required by the competencies/CSC workload.
 - **Get assigned 1st and 2nd Supervisor**
-- **Organise weekly check in sessions with supervisors**
-- **Confirm project schedule for completing competencies, DOPS, ICE's**
+- **Organise weekly check-in sessions with supervisors**
+- **Confirm a schedule for completing projects, competencies, DOPS, ICE's**
 
-[**Get Involved!**](/pages/getinvolved.html) - How to join the CSC Team at GSTT
+[**Get Involved!**](/getinvolved.html) - How to join the CSC Team at GSTT
