@@ -10,7 +10,7 @@ order: 4
    - Email Karon Galvin for access
    - Fill out risk form and complete training
    - Collect card at reception on ground-floor
-   - Get a local tour from a CSC Team Member
+   - Get a local tour of Becket House 5th and 9th floor from a CSC Team Member
 
 **CSC Desk area**
    - The CSC team resides on level 5 of Becket House
@@ -91,10 +91,12 @@ Organise with the Head of CSC or CSC staff to be added to the following meetings
 
 In addition to all the above, STP trainees must:
 
-- **Create 2 blog posts** - outlining an interesting project completed or 10X, and an account of the experience of their duration with the CSC Team, with feedback. 
-- **Communicate *Wanted* experience** - as opposed to *needed* experience, separating out the trainees interests from tasks required by the competencies/CSC workload.
+- **Create 2 blog posts** - outlining an interesting project completed or 10X, and an account of the experience of their duration with the CSC Team, with feedback. E.g.  
+  - [Bioinformatics Trainee](/blogs/2021-08-25-STP_blog_Igor.html)
+  - [Clinical Engineering Trainee](/blogs/2022_07-01-STP_blog_Isabella.html)
+- **Communicate *wanted* experience** - as opposed to *needed* experience, separating out the trainees interests from tasks required by the competencies/CSC workload.
 - **Get assigned 1st and 2nd Supervisor**
 - **Organise weekly check in sessions with supervisors**
 - **Confirm project schedule for completing competencies, DOPS, ICE's**
 
-[**Get Involved!**](/pages/getinvolved.html) - How to join the CSC Team at GSTT!
+[**Get Involved!**](/pages/getinvolved.html) - How to join the CSC Team at GSTT
