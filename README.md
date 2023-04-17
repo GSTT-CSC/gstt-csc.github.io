@@ -10,8 +10,10 @@ _Please flag any issues with these instructions as I have mostly written from me
    - The master branch is called `gh-pages`.
 4. `bundle install`
    - This builds the website locally on your machine.
+   - For Apple Silicon (ARM) e.g., M1 Mac users, you may need to run `arch -arch x86_64 bundle install` if the above does not work.
 5. `bundle exec jekyll serve --livereload`
    - This runs the website locally on your machine.
+   - For Apple Silicon (ARM) e.g., M1 Mac users, you may need to run `arch -arch x86_64 bundle exec jekyll serve` if the above does not work.
    - The `--livereload` option enables you to see changes to your code automatically in your browser, without rebuilding the code.
    - NB: the `--livereload` option does not work with changes to the `config.yml` file. In this case, you will need to re-run `bundle exec jekyll serve --livereload`.
 6. View in your browser with the URL: [http://localhost:4000](http://localhost:4000/)
