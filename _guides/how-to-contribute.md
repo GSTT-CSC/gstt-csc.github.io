@@ -8,7 +8,7 @@ shorthand: Contributing
 If you would like to contribute to the development of this website, we suggest you:
 
 1. If there isn't already an [existing Issue](https://github.com/GSTT-CSC/gstt-csc.github.io) that covers the bug fix and/or feature(s) you want to fix and/or add, [create a new Issue](https://github.com/GSTT-CSC/gstt-csc.github.io/issues/new/choose).
-2. Fork or clone the repository (see the GitHub documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for more information on how to do so).
+2. Go to the GitHub repository [here](https://github.com/GSTT-CSC/gstt-csc.github.io) and fork or clone the repository (see the GitHub documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for more information on how to do so).
 3. Checkout the main i.e., ``gh-pages`` branch first by running ``git checkout -b gh-pages``.
 4. Create your Bugfix or Feature Branch off of ``gh-pages`` (``git checkout -b bug/BugFix`` or ``git checkout -b feature/AmazingFeature``).
 5. Commit your changes (``git commit -m 'Fixes a SmallBug'`` or ``git commit -m 'Adds some AmazingFeature'``).
