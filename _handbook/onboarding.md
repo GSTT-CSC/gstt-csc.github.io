@@ -24,10 +24,6 @@ will need to:
 Access is granted from the security desk at York Road after they receive an email from line manager. After this is done,
 you can just swipe your card at the entrance.
 
-<p align="center">
-<img src="/assets/img/handbook/newstart.jpg" class="img-fluid" title="https://www.vecteezy.com/free-photos">
-</p>
-
 
 **Booking meeting rooms in GSTT (not KCL)** 
 
