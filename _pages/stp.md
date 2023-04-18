@@ -71,7 +71,7 @@ We're committed to continuously improving the experience for each new STP traine
 
 - Confirm the trainee's STP requirements at the start of the rotation/placement.
 - Assign useful CSC tasks; no fake work for the sake of an exercise.
-- Undertake addition [Educator training](https://portal.e-lfh.org.uk/myElearning/Index?HierarchyId=0_54104_54116&programmeId=54104)
+- Undertake additional [Educator training](https://portal.e-lfh.org.uk/myElearning/Index?HierarchyId=0_54104_54116&programmeId=54104)
 - Identify the experiences trainees **_need_**, and things they _**want**_ - _we map projects to ensure both are achieved._
 - Have weekly 1-2-1 check-ins with each trainee.
 - Review trainee work in an agile method, rather than a waterfall, to encourage trainees to show working and pick up issues and misunderstandings early. 

@@ -9,7 +9,7 @@ If what we do sounds exciting, get involved and work with us! There are several 
 ### Temporary Posts
 ##### Scientists
 - Interested applicants can apply through any one of the several options available as part of the National School of 
-- Healthcare Science (NSHCS) Scientist Training Programme (STP). The NSHCS STP allows trainees to allocate part of the 
+Healthcare Science (NSHCS) Scientist Training Programme (STP). The NSHCS STP allows trainees to allocate part of the 
 programme time to working with us, and we've summarised the options and the different timeframes below. For the most 
 up-to-date information, we recommend applicants refer to the [NSHCS STP page](https://www.nshcs.hee.nhs.uk/programmes/stp/) 
 and our dedicated [STP page](../stp.html). 

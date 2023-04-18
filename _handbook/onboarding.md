@@ -47,8 +47,7 @@ In order to check payslips, p60, pension contributions etc. you need to get acce
    - Browse https://my.esr.nhs.uk/dashboard/web/esrweb
    - Go to login to ESR
    - Click Unlock Account if is your first time
-   - Fill in details and wait for an email with instructions. It will usually be your username and a link to set up 
-   - your password
+   - Fill in details and wait for an email with instructions. It will usually be your username and a link to set up your password
 
 **Citrix Access**
 
