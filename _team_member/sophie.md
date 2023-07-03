@@ -10,4 +10,4 @@ Sophie joined the CSC team in June 2023. Previously she worked as a Clinical Sci
 
 
 ### CSC Team Role
-Sophie is currently working on improvements to Hazen, a quality assurance framework for MR imaging, and its web app version. She is also being trained to build, train, evaluate and deploy machine learning models. As her first project, Sophie is working on the MRI wrist fracture detection model with Laurence and Dika.
+Sophie is currently working on improvements to Hazen, a quality assurance framework for MR imaging, and its web app version. She is also involved in building, training, evaluating and deploying machine learning models, leading on the MRI wrist fracture detection model.
