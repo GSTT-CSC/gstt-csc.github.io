@@ -125,7 +125,7 @@ en: &DEFAULT_EN
       - name: "Sophie Ratkai"
         role: "Clinical Scientist"
         team-member-page: /team_member/sophie.html
-        image: assets/img/team/SophieR.png
+        image: assets/img/team/SophieR.jpeg
         social:
           - url: https://github.com/sophie22
             icon: fab fa-github
