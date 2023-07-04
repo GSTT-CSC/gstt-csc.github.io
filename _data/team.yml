@@ -101,7 +101,6 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
             icon: fab fa-linkedin-in
-
       - name: "Aysha Luis"
         role: "Fellow in Clinical AI"
         team-member-page: /team_member/aysha.html
@@ -109,7 +108,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/ayshaluis
             icon: fab fa-twitter
-
       - name: "Beatrix Fletcher"
         role: "Programme Manager for Fellowships in Clinical AI"
         team-member-page: /team_member/beatrix.html
@@ -117,13 +115,21 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
             icon: fab fa-linkedin-in
-    
       - name: "Agathe Zecevic"
         role: "Data Scientist"
         team-member-page: /team_member/agathe.html
         image: assets/img/team/Agathe.jpg
         social:
           - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
+            icon: fab fa-linkedin-in
+      - name: "Sophie Ratkai"
+        role: "Clinical Scientist"
+        team-member-page: /team_member/sophie.html
+        image: assets/img/team/SophieR.png
+        social:
+          - url: https://github.com/sophie22
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/zsofia-ratkai-05b51b119
             icon: fab fa-linkedin-in
 
 en-US:
