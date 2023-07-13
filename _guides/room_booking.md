@@ -3,25 +3,49 @@ title: Room Booking
 shorthand: Room-Booking
 ---
 
-This guide describes how to book a room for CSC meetings, 10x workshops, etc., specifically for the following two main GSTT locations:
+This SOP describes how to book a room in Beckett House, specifically for 5th and 9th floor.
 
-- **Tabard House** ([near Guy's Hospital](https://goo.gl/maps/oXe43wbJMX93rLi69))
-- Education Centre (also referred to as **York Road**) ([near St Thomas' Hospital](https://goo.gl/maps/UcAy7bYhy8YNsNq88)) 
+Below is the list of rooms which can be booked:
 
-**⚠️ If you do not have access to either of the above locations, please email the [Security Access Authorisation](mailto:SecurityAccessAuthorisation@gstt.nhs.uk) team with your line manager copied to request this be granted.**
+BH 5th Floor:
+- Large Meeting Room (10 max)
+- North Meeting Room (4 max)
+- Room 3 (1 max)
+- Room 14 (1 max)
+ 
+BH 9th Floor:
+- Meeting Room 1 & 2 (12 max)
+- Meeting Room 3 (6 max)
+- cubicle one (1 max)
+- cubicle two (1 max)
+- Room 5 (1 max)
 
-To book a room, you will need to provide the required:
+***
 
-- Date(s)
-- Time slot(s)
-- Seating capacity
-- Technical setup e.g., monitor(s), if applicable
+# Room Booking
 
-For **Tabard House**, the preferred room is the **Library** on the ground floor* and booking requests should be sent via email to the Medical Physics department's Assistant Service Manager.
+- Becket House has an online booking system and you will need to request access using your KCL email.
+You can do this here: [room booking system](https://www.isd.kcl.ac.uk/internal/roombooking/login.php).
 
-For **York Road**, the preferred room is the **Glass Meeting Pod** on the 10th Floor and booking requests should be sent via email to the Executive Assistant (EA) to the Deputy Chief Executive's Office.
+- If you do not have an account, you can request one on the link above. It takes a day or so to be granted access.
 
-\* _You will need an access code to enter this floor in Tabard House. If this has not already been provided, please email the [CSC Team](mailto:CSCTeam@gstt.nhs.uk)._
+Once logged in with your credentials:
+
+1. click on 'Room Booking and Equipment booking'
+2. find the room you need from the drop-down menu
+3. put in your date and then click on 'visual search' - this will show the whole calendar
+4. Find the slot you need
+5. If it is free, click on the link in that slot - it will take you back to the form.
+6. Write in your reason for the room booking - this will later be visible to all users in the visual search.
+7. Click 'insert' and confirm you wish to proceed with the booking. 
+8. Re-run the visual search to confirm your booking has been successful. 
+
+You can now close the website.
+
+***
 
 #### Visitors
-If you have invited colleagues who do not usually have access to either location, you will need to collect them from the reception.
+
+If you've invited colleagues who do not usually have access to BH, you will need to collect them from the reception. 
+Each daily visitor and contractors must do the online BH training available [here](https://forms.office.com/Pages/ResponsePage.aspx?id=g5k9SjbpN0iVUp2RJqkusKnSgjC8bPJBr_4Ws8XbUAlUOUtDNEU3SFhPT1JURllMSVFUSTdXTEQ4Uy4u). 
+It's handy if they can fill it in in advance else they'll have to do it when they arrive.
