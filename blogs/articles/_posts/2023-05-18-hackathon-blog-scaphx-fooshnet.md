@@ -6,7 +6,7 @@ date: "18 May 2023"
 read-time-mins: "8 mins"
 image: /assets/img/blog/Hackathon-pic-1.jpg
 author: Dika Vilic
-author-image: /assets/img/team/dika.jpg
+author-image: /assets/img/team/Dika.jpg
 author-role: 
 ---
 
