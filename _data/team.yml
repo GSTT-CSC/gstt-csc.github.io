@@ -65,13 +65,6 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
-      - name: "Lucrezia Cester"
-        role: "AI Engineer"
-        team-member-page: /team_member/lucrezia.html
-        image: assets/img/team/Lucrezia.jpeg
-        social:
-          - url: https://github.com/Lucrezia-Cester
-            icon: fab fa-github
       - name: "Tom Roberts"
         role: "AI Engineer"
         team-member-page: /team_member/tom.html
