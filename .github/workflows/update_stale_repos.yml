@@ -16,7 +16,7 @@ jobs:
     - name: Run stale_repos tool
       uses: github/stale-repos@v1
       env:
-        GH_TOKEN: ${{ secrets.PUB_GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ORGANIZATION: 'GSTT-CSC'
         INACTIVE_DAYS: 180
     - name: get csc_github.md and append updated stale repos
