@@ -6,4 +6,11 @@ shorthand: CSC-GitHub
 order: 8
 ---
 
-The CSC GitHub can be found here – <a href="https://github.com/GSTT-CSC/">CSC Github</a>.
+The CSC GitHub can be found here – <a href="https://github.com/GSTT-CSC/">CSC Github</a>.# Inactive Repositories
+
+The following repos have not had a push event for more than 180 days:
+
+| Repository URL | Days Inactive | Last Push Date |
+| --- | --- | ---: |
+| https://github.com/GSTT-CSC/Flask_BarrettsNLP | 637 | 2021-11-21 |
+| https://github.com/GSTT-CSC/gstt-csc-old | 462 | 2022-05-16 |
