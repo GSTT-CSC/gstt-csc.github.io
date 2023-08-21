@@ -1,0 +1,33 @@
+name: Update Stale Repos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'
+
+jobs:
+  build:
+    name: Update Stale Repos
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+    - name: Run stale_repos tool
+      uses: github/stale-repos@v1
+      env:
+        GH_TOKEN: ${{ secrets.PUB_GH_TOKEN }}
+        ORGANIZATION: 'GSTT-CSC'
+        INACTIVE_DAYS: 180
+    - name: get csc_github.md and append updated stale repos
+      run: |
+        head -9 _handbook/csc_github.md > ./temp.md
+        rm _handbook/csc_github.md
+        cat ./temp.md ./stale_repos.md > _handbook/csc_github.md
+    - name: Commit and push
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add _handbook/csc_github.md
+        git commit -m "Update stale repos" || echo "No changes"
+        git push
