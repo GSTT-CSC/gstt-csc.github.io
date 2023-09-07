@@ -14,5 +14,5 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date |
 | --- | --- | ---: |
-| https://github.com/GSTT-CSC/Flask_BarrettsNLP | 653 | 2021-11-21 |
-| https://github.com/GSTT-CSC/gstt-csc-old | 477 | 2022-05-16 |
+| https://github.com/GSTT-CSC/Flask_BarrettsNLP | 654 | 2021-11-21 |
+| https://github.com/GSTT-CSC/gstt-csc-old | 478 | 2022-05-16 |
