@@ -29,7 +29,7 @@ WhiteRabbit creates a scan of the source data and creates a report which include
 This report gives you a good idea of the general structure of the source data and can help with mapping of the data later on. The Rabbit-in-a-Hat software shows both the source data and the CDM. This is useful during the data mapping process as it shows how tables interlink.
 
 ##### Creating the Code Mappings
-For the next stage of the process people with medical knowledge will help create the code mappings. There is often a use of standard vocabularies such as the OHDSI vocabularies, RxNorm and SNOMED. Mapping is a big task, often to make the process easier it is best to focus on the most frequently used codes. Codes which come up less often usually aren’t worth mapping as there can’t be significant conclusions from something which comes up once or twice versus a code coming up several times.
+For the next stage of the process, people with medical and clinical coding knowledge will help create the code mappings. There is often a use of standard vocabularies such as the OHDSI vocabularies, RxNorm, ICD, and SNOMED. Data mapping is a big task and can be complex depending on the original source data format and quality. To make the process easier, it is best to focus on the most frequently used codes and either (1) exclude or (2) group codes which come up less often i.e., due to their relatively limited individual significance.
 
 ##### Implementing the ETL Design 
 After receiving the design of the ETL with the complete code mappings, a technical person can use this information to implement the ETL via a coding language such as Java. 
