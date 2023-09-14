@@ -20,7 +20,7 @@ An Extract, Transform, and Load (ETL) approach is used to convert source data in
 #### Designing the ETL 
 In the first stage of the process, both data experts and CDM experts work together to design the ETL. It helps to have prior experience in the implementation of ETLs to improve efficiency during this process, which requires an in-depth knowledge of  the source data. Softwares such as [WhiteRabbit](https://www.ohdsi.org/analytic-tools/whiterabbit-for-etl-design/) and [Rabbit-in-a-Hat](https://ohdsi.github.io/WhiteRabbit/RabbitInAHat.html) can be used during the ETL design stage.
 
-White-Rabbit creates a scan of the source data and creates a report which includes:
+WhiteRabbit creates a scan of the source data and creates a report which includes:
 - a list of tables in the source database 
 - a list of fields per table
 - a list of distinct values found in a field,
