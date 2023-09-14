@@ -15,7 +15,7 @@ OHDSI developed the OMOP Common Data Model (CDM), which is a global standard for
 To build the Standardised Vocabularies, all vocabularies are consolidated into a common format, simplifying the researchers' work by eliminating the need to understand multiple formats and conventions. The OHDSI Vocabulary Team manages and updates the vocabularies regularly using the Pallas system. Researchers can access the Standardised Vocabularies from ATHENA, where they can select and download the vocabularies needed for their OMOP CDM. OHDSI prefers adopting existing vocabularies instead of building new ones due to their complexity and the existence of well-utilised vocabularies in the community. Concepts, representing the semantic notion of each clinical event in the OMOP CDM, are stored in the CONCEPT table, forming the foundation of the data records.
 
 #### Converting into OMOP data model 
-For converting the source data into the OMOP CDM an ETL based approach is used, this stands for Extract, Transform, Load.
+An Extract, Transform, and Load (ETL) approach is used to convert source data into the OMOP CDM.
 
 #### Designing the ETL 
 In the first stage of the process both data experts and CDM experts work together to design the ETL. It helps to have prior experience in the implementation of ETLs to improve efficiency during this process which requires an in-depth knowledge of  the source data. Softwares such as White-Rabbit and Rabbit-in-a-Hat are used during the ETL design stage.
