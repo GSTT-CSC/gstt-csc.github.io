@@ -22,7 +22,7 @@ For **Tabard House**, the preferred room is the **Library** on the ground floor*
 For **York Road**, you can either book:
 
 - The **Glass Meeting Pod** on the 10th Floor via a request emailed to the Executive Assistant (EA) to the Deputy Chief Executive's Office.
-- Other rooms in the building via the [MICAD room booking website](https://gstt.nhs.micadipr.net/pages/roomMonitoringClients/rmSignIN.asp?return=%2Fpages%2FroomMonitoringClients%2FrmRoomSearchForClients%2Easp%3F), which **must be accessed via the Trust VPN i.e., Citrix, if not on-site**.
+- Other rooms in the building, as well as other sites such as Minerva House and Great Dover Street, via the [MICAD room booking website](https://gstt.nhs.micadipr.net/pages/roomMonitoringClients/rmSignIN.asp?return=%2Fpages%2FroomMonitoringClients%2FrmRoomSearchForClients%2Easp%3F), which **must be accessed via the Trust VPN i.e., Citrix, if not on-site**.
 
 \* _You will need an access code to enter this floor in Tabard House. If this has not already been provided, please email the [CSC Team](mailto:CSCTeam@gstt.nhs.uk)._
 
