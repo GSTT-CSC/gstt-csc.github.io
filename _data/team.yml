@@ -142,6 +142,15 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/mike-woodward-b29083204/
             icon: fab fa-linkedin-in
+      - name: "Annabelle Painter"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/annabelle.html
+        image: assets/img/team/Annabelle.jpg
+        social:
+         - url: https://github.com/annabelle-painter
+           icon: fab fa-github
+         - url: https://www.linkedin.com/in/dr-annabelle-painter-4401b334/
+           icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
