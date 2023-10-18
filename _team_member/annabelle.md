@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Annabelle Painter
-team-member-photo: /assets/img/team/Annabelle.jpg
+team-member-photo: /assets/img/team/Annabelle.png
 job-role: Fellow in Clinical Artificial Intelligence
 ---
 
