@@ -14,16 +14,13 @@ en: &DEFAULT_EN
   buttons:
     - text: "STP Scheme"
       link: "stp.html"
-      img: "assets/img/policy/build_img.png"
+      img: "assets/img/people/stp.svg"
     - text: "Fellowships in Clinical AI"
       link: "fellowships.html"
-      img: "assets/img/policy/buy_img.jpg"
-    - text: "Resources"
-      link: "resources.html"
-      img: "assets/img/policy/buy_img.jpg"
+      img: "assets/img/people/fellowship.svg"
     - text: "Other Programmes"
       link: "signposting.html"
-      img: "assets/img/policy/buy_img.jpg"
+      img: "assets/img/people/sign.svg"
 
 
 en-US:
