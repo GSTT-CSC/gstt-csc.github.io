@@ -9,3 +9,5 @@ The Clinical Scientific Computing (CSC) team at Guy's and St Thomas' Foundation 
 The team provides support through continuous learning, professional development, and a supportive work environment - nurturing a culture of excellence and collaboration. This is provided in various ways:  
 
 {% include people_buttons.html %}
+
+There are additional resources available [here](http://localhost:4000/resources.html#People/).
