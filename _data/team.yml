@@ -142,6 +142,15 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/mike-woodward-b29083204/
             icon: fab fa-linkedin-in
+      - name: "Eleanor Stylianides"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/eleanor.html
+        image: assets/img/team/Eleanor.jpg
+        social:
+          - url: https://github.com/estyli
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/eleanor-stylianides/
+            icon: fab fa-linkedin-in
       - name: "Annabelle Painter"
         role: "Fellow in Clinical AI"
         team-member-page: /team_member/annabelle.html
