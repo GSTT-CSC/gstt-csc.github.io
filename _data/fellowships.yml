@@ -12,18 +12,18 @@
 en: &DEFAULT_EN
 
   buttons:
-    - text: "Cohort 3 Applications"
-      link: "applications.html"
-      img: "assets/img/policy/build_img.png"
-    - text: "Current Cohort"
-      link: "current_cohort.html"
-      img: "assets/img/policy/buy_img.jpg"
     - text: "Previous Cohorts"
       link: "fellowships_previous_cohorts.html"
-      img: "assets/img/policy/buy_img.jpg"
+      img: "assets/img/people/previous.svg"
+    - text: "Current Cohort"
+      link: "current_cohort.html"
+      img: "assets/img/people/current.svg"
+    - text: "Cohort 3 Applications"
+      link: "applications.html"
+      img: "assets/img/people/next_cohort.svg"
     - text: "Further General Information"
       link: "fellowships_general.html"
-      img: "assets/img/policy/buy_img.jpg"
+      img: "assets/img/people/general_information.svg"
 
 en-US:
   <<: *DEFAULT_EN
