@@ -1,0 +1,36 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  buttons:
+    - text: "STP Scheme"
+      link: "stp.html"
+      img: "assets/img/policy/build_img.png"
+    - text: "Fellowships in Clinical AI"
+      link: "fellowships.html"
+      img: "assets/img/policy/buy_img.jpg"
+    - text: "Resources"
+      link: "resources.html"
+      img: "assets/img/policy/buy_img.jpg"
+    - text: "Other Programmes"
+      link: "signposting.html"
+      img: "assets/img/policy/buy_img.jpg"
+
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
