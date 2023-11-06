@@ -21,9 +21,7 @@ en: &DEFAULT_EN
     - text: "Cohort 3 Application"
       link: "fellowship_application.html"
       img: "assets/img/people/next_cohort.svg"
-    - text: "Further General Information"
-      link: "fellowship_general.html"
-      img: "assets/img/people/general_information.svg"
+
 
 en-US:
   <<: *DEFAULT_EN
