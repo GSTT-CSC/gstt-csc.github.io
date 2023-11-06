@@ -1,7 +1,7 @@
 ---
 layout: people
-permalink: /fellowships_general.html
-title: Fellowships General Information
+permalink: /fellowship_general.html
+title: About the Fellowship in Clinical AI
 ---
 
 About the programme: 

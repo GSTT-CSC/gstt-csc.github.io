@@ -1,7 +1,7 @@
 ---
 layout: people
-title: Fellowships in Clinical Artifical Intelligence
-permalink: /fellowships.html
+title: Fellowship in Clinical Artifical Intelligence
+permalink: /fellowship.html
 description:
 ---
 
@@ -15,7 +15,7 @@ Fellows are recruited competitively in the participating regions.
 
 Updates and announcements will be posted here, social media and participating collaborators channels.  
 
-Our team also hosts fellows from the Fellowships in Clinical Artificial Intelligence, with Director Harish Shuaib actively Supervising Fellows to develop, deploy, and evaluate clinical AI models. 
+Our team also hosts fellows from the Fellowship in Clinical Artificial Intelligence, with Director Harish Shuaib actively Supervising Fellows to develop, deploy, and evaluate clinical AI models. 
 
 Our team members were instrumental in the development of the fellowship and curriculum: 
 - [Haris Shuaib](/team_member/haris.html) is the Director
