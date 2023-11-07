@@ -1,10 +1,10 @@
 ---
 layout: people
 permalink: /fellowship_application.html
-title: Fellowship in Clinical AI Cohort 3 (2024-25) 
+title: Fellowship in Clinical AI: Cohort 3 Application (2024-25) 
 ---
 Applications for Cohort 3 of the Fellowship in Clinical AI are now open.
-Successful applicants will be fellows in clinical AI from August 2024- August 2025.
+Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 
 <h3 style>How to apply</h3> 
 
@@ -14,12 +14,14 @@ Successful applicants will be fellows in clinical AI from August 2024- August 20
 
 3. Applicants must have evidence of approval in principle to take up the role of a fellow in clinical AI due to the integration alongside existing clinical work. Approvers of applicants need to submit an [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) to meet this essential requirement (applications cannot progress to interview without this evidence). 
 
+<h3 style>List of AI project placements</h3> 
+This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Applicant Webinar </h3> 
 
 [Sign up here](https://teams.microsoft.com/registration/FM9wg_MWFky4PHJAcWVDVg,D7l7GDKcw0SIOCh3WJ1wFg,qfOAxp27gkO3USgsOAFj3A,fsqMJhRurkmWpEBf_MWh4g,FeNRBEg04UGKg7GUeSSeMA,0_vnalzLEUCGl52kuuWXBg?mode=read&tenantId=8370cf14-16f3-4c16-b83c-724071654356) 
 
-Teh faculty will host a webinar on Wednesday 22 November 2023 at 1700-1800.
+The faculty will host a webinar on Wednesday 22 November 2023 at 1700-1800.
 This will present the features and curriculum of the fellowship, address frequently asked questions, and allow applicants to ask follow-up questions.
 
 <h3 style>Key Dates</h3> 
@@ -225,3 +227,5 @@ Individual situations will be considered on a case-by-case basis at the discreti
 
 
 </details>
+
+{% include fellowship_buttons.html %}

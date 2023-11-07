@@ -1,7 +1,7 @@
 ---
 layout: people
-permalink: fellowship_previous.html
-title: Fellowship in Clinical AI Previous Cohorts
+permalink: /fellowship_previous.html
+title: Fellowship in Clinical AI: Previous Cohorts
 ---
 <h3 style>Fellowship Cohort 1 (2022-23) </h3> 
 
@@ -60,3 +60,4 @@ Cohort 2 of the Fellowship in Clinical AI runs from July 2023 to July 2024.
 
 </details>
 
+{% include fellowship_buttons.html %}

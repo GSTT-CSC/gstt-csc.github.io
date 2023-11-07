@@ -18,9 +18,6 @@ en: &DEFAULT_EN
     - text: "STP Scheme"
       link: "stp.html"
       img: "assets/img/people/stp.svg"
-    - text: "Other Programmes"
-      link: "signposting.html"
-      img: "assets/img/people/sign.svg"
 
 
 en-US:
