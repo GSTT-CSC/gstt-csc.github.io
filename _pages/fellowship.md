@@ -34,6 +34,8 @@ The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific
 - [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
 - [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
 
+[Contact the faculty](mailto:ai4vbh@kcl.ac.uk)
+
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
 * [Digital Clinical Safety Informatics team](https://digital.nhs.uk/services/clinical-safety), NHS Digital

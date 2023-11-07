@@ -34,6 +34,7 @@ This will present the features and curriculum of the fellowship, address frequen
 
 
 <h3 style>Frequently Asked Questions</h3> 
+If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).
 <details>
 
 <summary>Eligibility</summary>
