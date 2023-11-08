@@ -3,7 +3,7 @@ layout: people
 permalink: /fellowship_general.html
 title: Fellowship General Information
 ---
-<h3 style>Participating NHS Regions and AI Project Host Trusts</h3>
+<h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
 
 * England
   * East of England
