@@ -6,6 +6,9 @@ title: Fellowship in Clinical AI - Cohort 3 Application (2024-25)
 Applications for Cohort 3 of the Fellowship in Clinical AI are now open.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 
+<h3 style>Recruitment Regions</h3>
+![Recruitment region map](/assets/img/people/FCAI_Cohort3_map.png)
+
 <h3 style>How to apply</h3> 
 
 1. Review the eligibility requirements, person specification, and other details of the role in the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf)
