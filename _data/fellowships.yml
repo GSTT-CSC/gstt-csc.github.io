@@ -1,0 +1,35 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  buttons:
+    - text: "Previous Cohorts"
+      link: "fellowship_previous_cohorts.html"
+      img: "assets/img/people/previous.svg"
+    - text: "Current Cohort"
+      link: "fellowship_current_cohort.html"
+      img: "assets/img/people/current.svg"
+    - text: "Cohort 3 Applications"
+      link: "fellowship_cohort_applications.html"
+      img: "assets/img/people/next_cohort.svg"
+    - text: "Further General Information"
+      link: "fellowship_general.html"
+      img: "assets/img/people/general_information.svg"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
