@@ -4,4 +4,5 @@ permalink: /signposting.html
 title: Other Programmes
 ---
 
-This page will have a table with point of career x AI experience x programme
+For healthcare professional at different career stages and with different levels of AI experience, the list below will
+provide sign posts to helpful resources.

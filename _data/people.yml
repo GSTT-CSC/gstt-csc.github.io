@@ -12,12 +12,12 @@
 en: &DEFAULT_EN
 
   buttons:
+    - text: "Fellowship in Clinical AI"
+      link: "fellowship.html"
+      img: "assets/img/people/fellowship.svg"
     - text: "STP Scheme"
       link: "stp.html"
       img: "assets/img/people/stp.svg"
-    - text: "Fellowships in Clinical AI"
-      link: "fellowships.html"
-      img: "assets/img/people/fellowship.svg"
     - text: "Other Programmes"
       link: "signposting.html"
       img: "assets/img/people/sign.svg"
