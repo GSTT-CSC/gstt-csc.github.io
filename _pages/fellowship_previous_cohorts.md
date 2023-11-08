@@ -1,7 +1,7 @@
 ---
 layout: people
 permalink: fellowship_previous_cohorts.html
-title: Fellowships in Clinical AI Previous Cohorts
+title: Fellowship in Clinical AI Previous Cohorts
 ---
 
 Cohort 1 of the Fellowship in Clinical AI ran from June 2022 to June 2023
