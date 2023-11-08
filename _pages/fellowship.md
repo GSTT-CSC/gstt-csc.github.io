@@ -5,10 +5,12 @@ permalink: /fellowship.html
 description:
 ---
 The Fellowship in Clinical AI is a year-long programme which is integrated part-time alongside clinical work.
-This unique programme is featured in the [NHS Long Term Workforce Plan](https://www.england.nhs.uk/publication/nhs-long-term-workforce-plan/) as an exemplar of upskilling staff to maximise the transformational benefit of AI technologies in the NHS.
 
 Our fellows are smart and energetic individuals who will lead the charge to revolutionise clinical workflows with AI.
-Fellows are recruited competitively from various clinical workforce groups across participating regions of the NHS, including doctors, dentists, nurses & midwives, AHPs, and pharmacy professionals.
+Fellows are recruited competitively from various clinical workforce groups across participating regions of the NHS, including medical and dental specialty trainees, nurses & midwives, AHPs, and pharmacy professionals.
+
+
+This unique programme is featured in the [NHS Long Term Workforce Plan](https://www.england.nhs.uk/publication/nhs-long-term-workforce-plan/) as an exemplar of upskilling staff to maximise the transformational benefit of AI technologies in the NHS.
 
 {% include fellowships_buttons.html %}
 
