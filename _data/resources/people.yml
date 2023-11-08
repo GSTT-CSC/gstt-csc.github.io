@@ -15,6 +15,33 @@
     and to provide examples for early career scientists writing grants. This is a list of some of these proposals to help you find them.
   link: https://www.ogrants.org
 
-- name: NHS Jobs
-  description: NHS jobs listings
-  link: https://www.jobs.nhs.uk/
+- name: Topol Digital Fellowships
+  description: |
+    The Topol Digital Fellowship provides health and social care professionals with time, support and 
+    training to lead digital health transformations and innovations in their organisations.
+  link: https://topol.hee.nhs.uk/digital-fellowships/
+
+- name: Digital, Artificial Intelligence and Robotics (DART-Ed) programme
+  description: |
+    The Digital, Artificial Intelligence and Robotics Technologies in Education (DART-Ed) programme is delivered by 
+    Health Education England (HEE) and explores the educational needs of the health and care workforce to enable use of 
+    Artificial Intelligence (AI) and Robotic technologies to improve healthcare.
+  link: https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed/about-the-dart-ed-programme
+
+- name: Turing Institute clinical AI
+  description: |
+    The Clinical AI interest group seeks to bring together health professionals from diverse healthcare fields and data scientists who have a shared interest in clinical AI and to foster this network through
+    interactive events on up-to-date developments in the field and cultivate innovative research projects.
+  link: https://www.turing.ac.uk/research/interest-groups/clinical-ai
+
+- name: Revolutionizing healthcare - engagement sessions for clinicians
+  description: |
+    A series of engagement sessions for clinicians, aiming to share ideas and discuss topics that will define the future
+    of machine learning in healthcare.
+  link: https://www.vanderschaar-lab.com/engagement-sessions/revolutionizing-healthcare/
+
+- name: Evidence standards framework (ESF) for digital health technologies
+  description: |
+    NICE has developed evidence standards frameworks that ensure new digital health technologies are clinically 
+    effective and offer value to the health and care system.
+  link: https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies

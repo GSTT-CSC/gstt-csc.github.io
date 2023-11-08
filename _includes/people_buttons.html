@@ -1,0 +1,10 @@
+<div class="row pt-3 justify-content-center">
+    {% for button in site.data.people[site.locale].buttons %}
+        <div class="col-3 text-center">
+            <a href="{{ button.link }}">
+              <img style="width: 250px; height: 150px;" src="{{ button.img }}" alt="{{ platform.name }}">
+            </a>
+            <h4 >{{ button.text }}</h4>
+        </div>
+    {% endfor %}
+</div>
