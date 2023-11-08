@@ -217,9 +217,7 @@ The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 
 </p>
 <strong>What if I am promoted to a higher pay banding during the fellowship? </strong>
 
-<p>If your higher pay banding is still within the eligible pay bands (band 7, band 8a, band 8b) for the fellowship, then we anticipate that this will be reflected in the reimbursement to your Employer. 
-If the higher pay banding is beyond the eligible pay bands for the fellowship, the situation will be considered on a case-by-case basis at the discretion of the faculty, your Employer, and funding bodies. 
-</p>
+<p>The pay banding you receive throughout the fellowship year is the same as your pay banding at the start of the fellowship in August 2024.</p>
 <strong>What if I go on sick leave or maternity during the fellowship year? </strong>
 
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
