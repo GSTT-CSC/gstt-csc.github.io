@@ -3,6 +3,38 @@ layout: people
 permalink: /fellowship_general.html
 title: Fellowship General Information
 ---
+<h3 style>Participating NHS Regions and AI Project Host Trusts</h3>
+
+* England
+  * East of England
+    * Cambridge University Hospitals
+  * London
+    * Guy's and St Thomas's
+    * Barts Health
+    * Great Ormond Street Hospital
+    * Imperial College Healthcares 
+    * King's College Hospitals
+    * Moorfields Eye Hospital
+    * South London and Maudsley 
+    * The Royal Marsden 
+    * University College London Hospitals
+  * Midlands
+    * University Hospitals Birmingham
+    * Nottingham University Hospitals
+  * South East
+    * Oxford University Hospitals
+    * University Hospitals Sussex
+    * East Kent Hospitals University
+    * University Hospital Southampton
+  * South West
+    * University Hospitals Bristol
+* Wales
+  * Cardiff and Vale University Health Board 
+  * Swansea Bay University Health Board 
+  * Betsi Cadwaladr University Health Board
+* Scotland
+  * NHS Grampian
+  * NHS Greater Glasgow and Clyde
 
 <h3 style>Fellowship Faculty</h3>
 The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
