@@ -8,6 +8,7 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 
 <h3 style>Recruitment Regions</h3>
 ![Recruitment region map](/assets/img/people/FCAI_Cohort3_map.png)
+Please note that workforce eligibility varies by region, see below for further details.
 
 <h3 style>How to apply</h3> 
 
