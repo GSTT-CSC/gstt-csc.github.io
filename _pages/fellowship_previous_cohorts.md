@@ -21,4 +21,5 @@ Cohort 1 of the Fellowship in Clinical AI ran from June 2022 to June 2023
 | [Jack Ross](https://www.linkedin.com/in/jack-ross-b3673154/)                         | Clinical Pharmacology & General Internal Medicine    | https://doi.org/10.1016/j.crad.2022.09.132 <br/> https://doi.org/10.1111/bcp.15930 <br /> https://arxiv.org/abs/2212.08072
 | [Amit Samani](https://www.linkedin.com/in/amit-samani-561331189/)                    | Medical Oncology                                     |
 | [Kavitha Vimalesvaran](https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/)   | Cardiology                                           | https://healthcare-digital.com/technology-and-ai/ai-software-to-improve-hospital-patient-turnaround-times <br/> https://www.youtube.com/watch?v=Rh_Q0tzl8wc
+| Salah Hammouche                                                                      | Orthopaedic Surgery                                  |
 
