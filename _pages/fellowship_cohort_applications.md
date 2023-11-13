@@ -54,7 +54,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 
 <p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification and previous fellows have been recruited without such experience. 
 </p>
-<strong>Can I apply if I ***almost*** meet the eligibility criteria? </strong>
+<strong>Can I apply if I almost meet the eligibility criteria? </strong>
 
 <p>Applicants who believe they are borderline eligible should contact the faculty directly (ai4vbh@kcl.ac.uk) to clarify before applying to avoid disappointment. 
 </p>
@@ -129,7 +129,7 @@ The scores from interview are used to match successful applicants to their choic
 <strong>What is the format of the interview?  </strong>
 
 <p>Interviews are conducted remotely.
-The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the [role description document](/assets/docs/FCAI%20Fellowship%20Role%20Description%20Cohort%203.pdf). 
+The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "How to apply", Step 1). 
 The interview panel consists of fellowship faculty, AI supervisors, and regional education leads. 
 </p>
 <strong>When will the interviews happen?  </strong>
