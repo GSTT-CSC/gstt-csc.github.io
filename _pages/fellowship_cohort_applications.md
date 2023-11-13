@@ -34,7 +34,7 @@ This will present the features and curriculum of the fellowship, address frequen
 
 
 <h3 style>Frequently Asked Questions</h3> 
-If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).
+If your question is not answered below, please [contact the faculty](mailto:ai.fellowship@kcl.ac.uk).
 <details>
 
 <summary>Eligibility</summary>
@@ -43,7 +43,7 @@ If your question is not answered below, please [contact the faculty](mailto:ai4v
 
 <p>Workforce and geographical eligibility are not decided by the faculty of this fellowship. 
 This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
-If you wished to apply this cohort but were ineligible, please email the fellowship faculty so that we can identify priority areas for recruitment in future cohorts at ai4vbh@kcl.ac.uk
+If you wished to apply this cohort but were ineligible, please email the fellowship faculty so that we can identify priority areas for recruitment in future cohorts at ai.fellowship@kcl.ac.uk
 </p>
 <strong>Why are only certain career stages eligible?  </strong>
 
@@ -56,7 +56,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 </p>
 <strong>Can I apply if I ***almost*** meet the eligibility criteria? </strong>
 
-<p>Applicants who believe they are borderline eligible should contact the faculty directly (ai4vbh@kcl.ac.uk) to clarify before applying to avoid disappointment. 
+<p>Applicants who believe they are borderline eligible should contact the faculty directly (ai.fellowship@kcl.ac.uk) to clarify before applying to avoid disappointment. 
 </p>
 </details>
 <details>
