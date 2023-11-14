@@ -23,6 +23,7 @@ This will be populated during the application cycle, please check back for updat
 
 The faculty will host a webinar on Wednesday 22 November 2023 at 1700-1800.
 This will present the features and curriculum of the fellowship, address frequently asked questions, and allow applicants to ask follow-up questions.
+The webinar will be recorded and accessible from this webpage afterwards.
 
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
