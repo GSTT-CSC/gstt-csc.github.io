@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Fellowship in Clinical Artifical Intelligence
+title: Fellowship in Clinical Artificial Intelligence
 permalink: /fellowship.html
 description:
 ---
