@@ -40,7 +40,7 @@ the PERT, therefore speeding up the CTPA reporting and subsequent PERT engagemen
 <b>Project Plan</b>: 
 1. <b>Clinician Scoping</b> - Pathway mapping to identify key points for optimisation/automation through AI. 
 Understanding dataflows, and data availability for risk stratification. 
-2. <b>Trust Levels Approvals</b>
+2. <b>Trust Approvals</b>
    - Information Governance
    - Information Security
    - IT Architecture Review Board
