@@ -18,7 +18,7 @@ and our dedicated [STP page](../stp.html).
 
 ##### Clinicians
 - Our team hosts fellows from the Fellowships in Clinical Artificial Intelligence. Please refer to the 
-[Fellowships page](../fellowships.html) for further information.
+[Fellowships page](../fellowship.html) for further information.
 
 ### Permanent Posts
 For open positions within our team and the wider organisation, please refer to the  
