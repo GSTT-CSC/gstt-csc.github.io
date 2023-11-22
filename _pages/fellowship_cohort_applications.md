@@ -216,11 +216,20 @@ The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 
 <strong>What if I am promoted to a higher pay banding during the fellowship? </strong>
 
 <p>The salary that your Employer is reimbursed for your time on the fellowship is determined by your pay banding at the start of the fellowship in August 2024 and does not change.</p>
-<strong>What if I go on sick leave or maternity during the fellowship year? </strong>
+<strong>What if I go on sick leave or parental leave during the fellowship year? </strong>
 
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
 The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. 
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
+
+<strong>Can I do the fellowship role at a different time commitment i.e. not 0.4 FTE?</strong>
+<p>The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
+Having a lower time commitment is not suitable for the learning objectives of the programme.
+One eligibility criterion is that your Approver(s) confirm you will be released for 0.4FTE for this programme.
+If your Approver(s) cannot confirm that this time can be released, your application is not eligible.
+Having a higher time commitment is technically possible if your circumstances allow it, however your Employer will still only be reimbursed 0.4FTE unbanded salary for your participation in the fellowship.
+
+</p>
 
 </details>
