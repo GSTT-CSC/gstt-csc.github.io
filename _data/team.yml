@@ -55,7 +55,7 @@ en: &DEFAULT_EN
           - url: https://github.com/AnilMistry
             icon: fab fa-github
       - name: "Alexander T Deng"
-        role: "Programme Lead for Fellowships in Clinical AI"
+        role: "Programme Lead for the Fellowship in Clinical AI"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
         social:
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
           - url: https://twitter.com/ayshaluis
             icon: fab fa-twitter
       - name: "Beatrix Fletcher"
-        role: "Programme Manager for Fellowships in Clinical AI"
+        role: "Programme Manager for the Fellowship in Clinical AI"
         team-member-page: /team_member/beatrix.html
         image: assets/img/team/Beatrix1.jpg
         social:
