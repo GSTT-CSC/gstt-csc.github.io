@@ -3,6 +3,14 @@ layout: people
 permalink: /fellowship_general.html
 title: Fellowship General Information
 ---
+<h3 style>Background to the Fellowship</h3>
+
+Clinical leaders with expertise in Artificial Intelligence are essential to the integration and rollout of AI software in NHS trusts. 
+To fully deliver the UK government's goal of being a [global AI superpower](https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf), the NHS must provide dedicated training for clinicians in cutting-edge skills required for clinical AI deployment.
+This fellowship is the first systematic route in the UK to acquire the relevant skills in clinical AI deployment. Fellows  gain expertise in clinical AI alongside their existing roles and implement state-of-the-art AI software in live hospital environments.
+
+Fellows are matched with an expert AI supervisor and team to gain experience in real-world applications of clinical AI. Fellows gain skills and knowledge relevant to the full life cycle of healthcare AI from a bespoke programme of teaching aligned with the Clinical AI Curriculum developed by the faculty.
+As a lasting legacy of the fellowship, fellows become part of a uniquely networked community of interest within the healthcare AI community.
 
 <h3 style>Fellowship Faculty</h3>
 The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
@@ -18,7 +26,6 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 [Read the curriculum](/assets/docs/FCAI_Curriculum_v2.7.pdf)
 
 
-
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
 * [Digital Clinical Safety Informatics team](https://digital.nhs.uk/services/clinical-safety), NHS Digital
@@ -28,7 +35,7 @@ The educational materials of this fellowship have been co-developed with partner
 * [Health Innovation Network](https://healthinnovationnetwork.com/), which independently evaluated of the fellowship pilot
 
 The fellowship is funded through:
-* NHS England (NHSE)
+* [NHS England Workforce, Training and Education (NHSE WTE)](https://linktr.ee/NHSE_WTE)
 * [Health Education and Improvement Wales (HEIW)](https://heiw.nhs.wales/education-and-training/)
 * [NHS Education for Scotland (NES)](https://www.nes.scot.nhs.uk/)
 * [British Society for Haematology](https://b-s-h.org.uk/)
@@ -36,4 +43,9 @@ The fellowship is funded through:
 The fellowship gratefully acknowledges the support of:
 * Dr Hatim Abdulhussein, [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed)- NHS England
 * James Freed, Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
+
+<h3 style>Testimonials</h3>
+>"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>Professor Eric Topol (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
+
+>"The launch of the Fellowship in Clinical AI is an unprecedented step towards integrating experiential learning into postgraduate training pathways, and we hope to learn from and scale opportunities like this to help prepare the future clinical AI specialist workforce" <br/>Dr Hatim Abdulhussein (2022), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed), NHS England
 
