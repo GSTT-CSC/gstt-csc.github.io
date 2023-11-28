@@ -33,8 +33,13 @@ This will present the features and curriculum of the fellowship, address frequen
 *  Aug 2024: Fellowship cohort 3 begins
 
 <h3 style>Recruitment Regions</h3>
-<div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div><br><br>
-Please note that workforce eligibility varies by region, see the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) or [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) for more details.
+<div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div>
+
+Please note that within each region, eligibility varies by workforce. See the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) or [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) for more details.
+<br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
+If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:ai4vbh@kcl.ac.uk) so that we can identify priority areas for recruitment in future cohorts.
+
+
 
 <h3 style>List of AI project placements</h3> 
 This will be populated during the application cycle, please check back for updates.
