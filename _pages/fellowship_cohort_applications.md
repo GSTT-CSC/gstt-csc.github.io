@@ -6,9 +6,6 @@ title: Fellowship in Clinical AI - Cohort 3 Application (2024-25)
 Applications for Cohort 3 of the Fellowship in Clinical AI are now open.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 
-<h3 style>Recruitment Regions</h3>
-![Recruitment region map](/assets/img/people/FCAI_Cohort3_map.png)
-Please note that workforce eligibility varies by region, see below for further details.
 
 <h3 style>How to apply</h3> 
 
@@ -28,6 +25,7 @@ This will be populated during the application cycle, please check back for updat
 The faculty will host a webinar on Wednesday 22 November 2023 at 1700-1800.
 This will present the features and curriculum of the fellowship, address frequently asked questions, and allow applicants to ask follow-up questions.
 
+
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
 * 22 Nov 2023: Applicant webinar: [Sign up here](https://teams.microsoft.com/registration/FM9wg_MWFky4PHJAcWVDVg,D7l7GDKcw0SIOCh3WJ1wFg,qfOAxp27gkO3USgsOAFj3A,fsqMJhRurkmWpEBf_MWh4g,FeNRBEg04UGKg7GUeSSeMA,0_vnalzLEUCGl52kuuWXBg?mode=read&tenantId=8370cf14-16f3-4c16-b83c-724071654356)
@@ -36,6 +34,9 @@ This will present the features and curriculum of the fellowship, address frequen
 * Feb 2024: Interview outcomes and project matching
 *  Aug 2024: Fellowship cohort 3 begins
 
+<h3 style>Recruitment Regions</h3>
+<div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div><br><br>
+Please note that workforce eligibility varies by region, see the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) or [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) for more details.
 
 <h3 style>Frequently Asked Questions</h3> 
 If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).

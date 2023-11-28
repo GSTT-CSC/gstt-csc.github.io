@@ -3,13 +3,27 @@ layout: people
 permalink: /fellowship_general.html
 title: Fellowship General Information
 ---
+
+<h3 style>Fellowship Faculty</h3>
+The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
+- [Haris Shuaib](/team_member/haris.html),  Director
+- [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
+- [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
+
+[Contact the faculty](mailto:ai4vbh@kcl.ac.uk)
+
+<h3 style>Curriculum</h3>
+The bespoke curriculum of the fellowship was designed by the faculty, and aligns to educational frameworks from the [Faculty of Clinical Informatics](https://fci.org.uk/menu2/professional-competencies/core-competency-framework.html) and  Health Education England.
+
+[Read the curriculum](/assets/docs/FCAI_Curriculum_v2.7.pdf)
+
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
 
 * England
   * East of England
     * Cambridge University Hospitals
   * London
-    * Guy's and St Thomas's
+    * Guy's and St Thomas'
     * Barts Health
     * Great Ormond Street Hospital
     * Imperial College Healthcares 
@@ -35,21 +49,6 @@ title: Fellowship General Information
 * Scotland
   * NHS Grampian
   * NHS Greater Glasgow and Clyde
-
-<h3 style>Fellowship Faculty</h3>
-The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
-- [Haris Shuaib](/team_member/haris.html),  Director
-- [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
-- [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
-
-[Contact the faculty](mailto:ai4vbh@kcl.ac.uk)
-
-<h3 style>Curriculum</h3>
-The bespoke curriculum of the fellowship was designed by the faculty, and aligns to educational frameworks from the [Faculty of Clinical Informatics](https://fci.org.uk/menu2/professional-competencies/core-competency-framework.html) and  Health Education England.
-
-[Read the curriculum](/assets/docs/FCAI_Curriculum_v2.7.pdf)
-
-
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
