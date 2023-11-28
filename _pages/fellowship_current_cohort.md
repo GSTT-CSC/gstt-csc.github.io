@@ -1,7 +1,7 @@
 ---
 layout: people
 permalink: /fellowship_current_cohort.html
-title: Fellowships Cohort 2 (2023-24) 
+title: Fellowship Cohort 2 (2023-24) 
 ---
 
 Cohort 2 of the Fellowship in Clinical AI runs from July 2023 to July 2024.
