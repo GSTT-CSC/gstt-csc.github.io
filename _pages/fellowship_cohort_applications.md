@@ -15,8 +15,6 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 
 3. Applicants must have evidence of approval in principle to take up the role of a fellow in clinical AI due to the integration alongside existing clinical work. Approvers of applicants need to submit an [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) to meet this essential requirement (applications cannot progress to interview without this evidence). 
 
-<h3 style>List of AI project placements</h3> 
-This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Applicant Webinar </h3> 
 
@@ -37,6 +35,9 @@ This will present the features and curriculum of the fellowship, address frequen
 <h3 style>Recruitment Regions</h3>
 <div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div><br><br>
 Please note that workforce eligibility varies by region, see the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) or [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) for more details.
+
+<h3 style>List of AI project placements</h3> 
+This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Frequently Asked Questions</h3> 
 If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).
