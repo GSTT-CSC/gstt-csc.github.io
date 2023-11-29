@@ -6,6 +6,7 @@ title: Fellowship in Clinical AI - Cohort 3 Application (2024-25)
 Applications for Cohort 3 of the Fellowship in Clinical AI are now open.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 
+
 <h3 style>How to apply</h3> 
 
 1. Review the eligibility requirements, person specification, and other details of the role in the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf)
@@ -14,8 +15,6 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 
 3. Applicants must have evidence of approval in principle to take up the role of a fellow in clinical AI due to the integration alongside existing clinical work. Approvers of applicants need to submit an [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) to meet this essential requirement (applications cannot progress to interview without this evidence). 
 
-<h3 style>List of AI project placements</h3> 
-This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Applicant Webinar </h3> 
 
@@ -23,6 +22,7 @@ This will be populated during the application cycle, please check back for updat
 The faculty hosted a webinar on Wednesday 22 November 2023 at 1700-1800.
 This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
  
+
 
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
@@ -32,6 +32,17 @@ This covered the features and curriculum of the fellowship, addressed frequently
 * Feb 2024: Interview outcomes and project matching
 *  Aug 2024: Fellowship cohort 3 begins
 
+<h3 style>Recruitment Regions</h3>
+<div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div>
+
+Please note that within each region, eligibility varies by workforce. See the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) or [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) for more details.
+<br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
+If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:ai4vbh@kcl.ac.uk) so that we can identify priority areas for recruitment in future cohorts.
+
+
+
+<h3 style>List of AI project placements</h3> 
+This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Frequently Asked Questions</h3> 
 If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).

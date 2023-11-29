@@ -25,6 +25,40 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 
 [Read the curriculum](/assets/docs/FCAI_Curriculum_v2.7.pdf)
 
+<h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
+
+
+* England
+  * East of England
+    * Cambridge University Hospitals
+  * London
+    * Guy's and St Thomas'
+    * Barts Health
+    * Great Ormond Street Hospital
+    * Imperial College Healthcares 
+    * King's College Hospitals
+    * Moorfields Eye Hospital
+    * South London and Maudsley 
+    * The Royal Marsden 
+    * University College London Hospitals
+  * Midlands
+    * University Hospitals Birmingham
+    * Nottingham University Hospitals
+  * South East
+    * Oxford University Hospitals
+    * University Hospitals Sussex
+    * East Kent Hospitals University
+    * University Hospital Southampton
+  * South West
+    * University Hospitals Bristol
+* Wales
+  * Cardiff and Vale University Health Board 
+  * Swansea Bay University Health Board 
+  * Betsi Cadwaladr University Health Board
+* Scotland
+  * NHS Grampian
+  * NHS Greater Glasgow and Clyde
+
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
