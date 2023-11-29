@@ -18,7 +18,7 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 
 <h3 style>Applicant Webinar </h3> 
 
-[Watch the video recording here](https://youtu.be/LlVa9WXXI-Y)
+[Watch the video recording here](https://youtu.be/LlVa9WXXI-Y).<br>
 The faculty hosted a webinar on Wednesday 22 November 2023 at 1700-1800.
 This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
  
@@ -26,7 +26,7 @@ This covered the features and curriculum of the fellowship, addressed frequently
 
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
-* 22 Nov 2023: Applicant webinar: [Sign up here](https://teams.microsoft.com/registration/FM9wg_MWFky4PHJAcWVDVg,D7l7GDKcw0SIOCh3WJ1wFg,qfOAxp27gkO3USgsOAFj3A,fsqMJhRurkmWpEBf_MWh4g,FeNRBEg04UGKg7GUeSSeMA,0_vnalzLEUCGl52kuuWXBg?mode=read&tenantId=8370cf14-16f3-4c16-b83c-724071654356)
+* 22 Nov 2023: Applicant webinar: [Watch the video recording here](https://youtu.be/LlVa9WXXI-Y)
 * 20 Dec 2023: Application deadline
 * 22 Jan 2024: Remote interviews this week
 * Feb 2024: Interview outcomes and project matching
