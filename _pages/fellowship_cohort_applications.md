@@ -18,16 +18,16 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 
 <h3 style>Applicant Webinar </h3> 
 
-[Sign up here](https://teams.microsoft.com/registration/FM9wg_MWFky4PHJAcWVDVg,D7l7GDKcw0SIOCh3WJ1wFg,qfOAxp27gkO3USgsOAFj3A,fsqMJhRurkmWpEBf_MWh4g,FeNRBEg04UGKg7GUeSSeMA,0_vnalzLEUCGl52kuuWXBg?mode=read&tenantId=8370cf14-16f3-4c16-b83c-724071654356) 
-
-The faculty will host a webinar on Wednesday 22 November 2023 at 1700-1800.
-This will present the features and curriculum of the fellowship, address frequently asked questions, and allow applicants to ask follow-up questions.
+[Watch the video recording here](https://youtu.be/LlVa9WXXI-Y)
+The faculty hosted a webinar on Wednesday 22 November 2023 at 1700-1800.
+This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
+ 
 
 
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
 * 22 Nov 2023: Applicant webinar: [Sign up here](https://teams.microsoft.com/registration/FM9wg_MWFky4PHJAcWVDVg,D7l7GDKcw0SIOCh3WJ1wFg,qfOAxp27gkO3USgsOAFj3A,fsqMJhRurkmWpEBf_MWh4g,FeNRBEg04UGKg7GUeSSeMA,0_vnalzLEUCGl52kuuWXBg?mode=read&tenantId=8370cf14-16f3-4c16-b83c-724071654356)
-* 20 Dec 2024: Application deadline
+* 20 Dec 2023: Application deadline
 * 22 Jan 2024: Remote interviews this week
 * Feb 2024: Interview outcomes and project matching
 *  Aug 2024: Fellowship cohort 3 begins
@@ -65,7 +65,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 
 <p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification and previous fellows have been recruited without such experience. 
 </p>
-<strong>Can I apply if I ***almost*** meet the eligibility criteria? </strong>
+<strong>Can I apply if I almost meet the eligibility criteria? </strong>
 
 <p>Applicants who believe they are borderline eligible should contact the faculty directly (ai4vbh@kcl.ac.uk) to clarify before applying to avoid disappointment. 
 </p>
@@ -89,13 +89,10 @@ In cohort 3, BSH-badged projects are clustered around the London region.
 
 <p>No. BSH applicants also need to meet the professional eligibility criteria for workforce groups as specified in the job description. 
 </p>
-<strong>Can BSH applicants apply from any NHS region? </strong>
 
-<p>Yes. BSH applicants can apply from any NHS region. 
-</p>
 <strong>Can BSH applicants from any region apply for BSH-badged projects in any other region? </strong>
 
-<p>Yes. 
+<p>Yes. BSH applicants can apply from any NHS region. 
 However, in practice, it is the applicant's responsibility to ensure that they are able to commute to their project location through the fellowship year, and this is not resourced by the BSH or by the fellowship itself. The offer for a fellowship post may be withdrawn if the potential BSH Fellow in Clinical AI is unable to demonstrate a feasible plan for commuting to their project location. 
 In cohort 3, BSH-badged projects are clustered around the London region.
 </p>
@@ -143,7 +140,7 @@ The scores from interview are used to match successful applicants to their choic
 <strong>What is the format of the interview?  </strong>
 
 <p>Interviews are conducted remotely.
-The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the [role description document](/assets/docs/FCAI%20Fellowship%20Role%20Description%20Cohort%203.pdf). 
+The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "How to apply", Step 1). 
 The interview panel consists of fellowship faculty, AI supervisors, and regional education leads. 
 </p>
 <strong>When will the interviews happen?  </strong>
@@ -228,12 +225,21 @@ The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 
 </p>
 <strong>What if I am promoted to a higher pay banding during the fellowship? </strong>
 
-<p>The pay banding you receive throughout the fellowship year is the same as your pay banding at the start of the fellowship in August 2024.</p>
-<strong>What if I go on sick leave or maternity during the fellowship year? </strong>
+<p>The salary that your Employer is reimbursed for your time on the fellowship is determined by your pay banding at the start of the fellowship in August 2024 and does not change.</p>
+<strong>What if I go on sick leave or parental leave during the fellowship year? </strong>
 
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
 The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. 
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
+
+<strong>Can I do the fellowship role at a different time commitment i.e. not 0.4 FTE?</strong>
+<p>The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
+Having a lower time commitment is not suitable for the learning objectives of the programme.
+One eligibility criterion is that your Approver(s) confirm you will be released for 0.4FTE for this programme.
+If your Approver(s) cannot confirm that this time can be released, your application is not eligible.
+Having a higher time commitment is technically possible if your circumstances allow it, however your Employer will still only be reimbursed 0.4FTE unbanded salary for your participation in the fellowship.
+
+</p>
 
 </details>
