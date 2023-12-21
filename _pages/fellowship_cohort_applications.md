@@ -69,6 +69,11 @@ The eligible career stages have been agreed by consensus with the digital workfo
 
 <p>Applicants who believe they are borderline eligible should contact the faculty directly (ai4vbh@kcl.ac.uk) to clarify before applying to avoid disappointment. 
 </p>
+
+strong>Can I do this fellowship more than once?</strong>
+
+<p>No. Current fellows and alumni are not eligible. 
+</p>
 </details>
 <details>
 <summary>British Society for Haematology Fellows in Clinical AI</summary>
