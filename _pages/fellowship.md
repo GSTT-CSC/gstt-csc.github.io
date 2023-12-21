@@ -14,7 +14,7 @@ This unique programme is featured in the [NHS Long Term Workforce Plan](https://
 
 
 <h3 style>Navigate</h3>
-* [Cohort 3 Applications](/fellowship_cohort_applications.html)
 * [General Information](/fellowship_general.html)
-* [Cohort 1 Fellows](/fellowship_previous_cohorts.html)
+* [Cohort 3 Applications (closed)](/fellowship_cohort_applications.html)
 * [Cohort 2 Fellows](/fellowship_current_cohort.html)
+* [Cohort 1 Fellows](/fellowship_previous_cohorts.html)
