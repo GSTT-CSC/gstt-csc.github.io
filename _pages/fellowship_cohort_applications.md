@@ -3,15 +3,20 @@ layout: people
 permalink: /fellowship_cohort_applications.html
 title: Fellowship in Clinical AI - Cohort 3 Application (2024-25) 
 ---
-Applications for Cohort 3 of the Fellowship in Clinical AI are now open.
+Applications for Cohort 3 of the Fellowship in Clinical AI are closed.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
+The materials below are a resource for current and future applicants.
+
+<h3 style>Interim information for current applicants</h3> 
+Applicants will be informed of shortlisting decisions after 02 January 2024.
+<br>It is the applicant's responsibility to ensure the [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) has been submitted from their relevant Approver(s). The faculty cannot facilitate this step on behalf of the applicant. Applications cannot progress to interview without this evidence. 
 
 
 <h3 style>How to apply</h3> 
 
 1. Review the eligibility requirements, person specification, and other details of the role in the [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf)
 
-2. Submit [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) by the deadline of 20 December 2023.
+2. Submit [the application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u) by the deadline of 20 December 2023 (deadline passed).
 
 3. Applicants must have evidence of approval in principle to take up the role of a fellow in clinical AI due to the integration alongside existing clinical work. Approvers of applicants need to submit an [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) to meet this essential requirement (applications cannot progress to interview without this evidence). 
 
@@ -19,7 +24,7 @@ Successful applicants will be fellows in clinical AI from August 2024 - August 2
 <h3 style>Applicant Webinar </h3> 
 
 [Watch the video recording here](https://youtu.be/LlVa9WXXI-Y).<br>
-The faculty hosted a webinar on Wednesday 22 November 2023 at 1700-1800.
+The faculty hosted a webinar on Wednesday 22 November 2023.
 This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
  
 
@@ -30,7 +35,7 @@ This covered the features and curriculum of the fellowship, addressed frequently
 * 20 Dec 2023: Application deadline
 * 22 Jan 2024: Remote interviews this week
 * Feb 2024: Interview outcomes and project matching
-*  Aug 2024: Fellowship cohort 3 begins
+* Aug 2024: Fellowship cohort 3 begins
 
 <h3 style>Recruitment Regions</h3>
 <div style="text-align: center"><img src="/assets/img/people/FCAI_Cohort3_map.png" width="70%"/></div>
