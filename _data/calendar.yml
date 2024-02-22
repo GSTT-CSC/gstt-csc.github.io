@@ -7,32 +7,71 @@
 #  description:
 #  link
 
-- title: <b>HETT</b>
-  date: 26 September 2023
-  description: HETT 2023 will explore the systems and infrastructure that underpin and enable a data-driven NHS, supporting the ecosystem to deliver patient outcomes through the meaningful implementation of technology.
-  location: London, UK
-  links: <a href= "https://hettshow.co.uk/"> HETT23 </a>
 
-- title: <b>MICCAI23</b>
-  date: 8-12 October 2023
-  description: The 26th International Conference on Medical Image Computing and Computer Assisted Intervention
-  location: Vancouver, Canada
-  links: <a href="https://conferences.miccai.org/2023/en/"> MICCAI23</a>
+- title: Website update sprint
+  date: 7 March 2024
+  description: Website update sprint - a morning meeting and a day to implement. Room booked in YR but remote work good too.
+  location: York Road / WFH
 
-- title: <b>BIR AI in NM&PET 2023</b>
-  date: 9 October 2023
-  description: This event showcases a range of AI use in nuclear medicine and PET.
-  location: Richard Doll Building, Oxford
-  links: <a href="https://www.mybir.org.uk/l/s/community-event?id=a173Y00000GQQnxQAH"> BIR AI NM&PET</a>
+- title: CSC DQR Sprint part 1
+  date: 12-14 March 2024
+  description: First part of a 6 day sprint working on CSC DQR project
+  location: York Road / WFH
 
-- title: <b>RSNA23</b>
-  date: 26-30 November 2023
-  description: The Radiological Society of North America (RSNA) is a non-profit organization that represents 31 radiologic subspecialties from 145 countries around the world.
-  location: Chicago, Illinois, USA
-  links: <a href="https://www.rsna.org/annual-meeting"> RSNA23 </a>
+- title: CSC DQR Sprint part 2
+  date: 19-21 March 2024
+  description: Second part of a 6 day sprint working on CSC DQR project
+  location: York Road / WFH
+
+- title: RSNA Abstract submission deadline
+  date: 1 May 2024
+  description: RSNA abstract submission is now open and closes on 1st May. Submit relevant work if you have some!
+  location: N/A
+
+- title: CSC Retrospective
+  date: 1 May 2024
+  description: CSC Retrospective
+  location: York Road, Seminar room 1
+
+- title: CSC Show and Tell
+  date: 12 June 2024
+  description: CSC quarterly show and tell update
+  location: York Road, Glass Meeting Pod
+
+- title: <b>SIIM 2024 </b>
+  date: 27-29 June 2024
+  description: SIIM annual meeting; 6 members of CSC attending
+  location: Gaylord National Harbor Resort & Convention Center, National Harbour, MD 20745
+  links: <a href="https://annualmeeting.siim.org/">SIIM 2024</a>
 
 - title: <b>Implementation of UK MDR</b>
   date: July 2024
   description: Updated version of Medical Device Regulation will come into force in the UK.
   location: UK
   links: <a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices-and-extension-of-standstill-period/implementation-of-the-future-regulations"> UK MDR </a>
+
+- title: CSC Retrospective
+  date: 7 August 2024
+  description: CSC Retrospective
+  location: York Road, Seminar room 1
+
+- title: CSC Show and Tell
+  date: 18 September 2024
+  description: CSC Show and Tell
+  location: York Road, Seminar room 1
+
+- title: CSC Retrospective
+  date: 13 November 2024
+  description: CSC Retrospective
+  location: York Road, Seminar room 1
+
+- title: CSC Show and Tell
+  date: 27 November 2024
+  description: CSC Show and Tell
+  location: York Road, Seminar room 1
+
+- title: <b>RSNA 2024</b>
+  date: 1-5 December 2024
+  description: Radiological Society of North America Annual Meeting
+  location: TBC
+  links: <a href="https://www.rsna.org/annual-meeting">RSNA 2024</a>
