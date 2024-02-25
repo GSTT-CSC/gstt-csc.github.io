@@ -9,6 +9,7 @@ modality: CT first, then x-ray, then MRI.
 pathology: Vertebral compression fractures (spine)
 rationale: 77% of scans with vertebral compression fractures are correctly identified and 43% scans recommend referrals – both of these numbers can be improved with AI tool.
 patient-pathway: Incidental findings, patients present for imaging for other reasons
+
 training-data: Clinical datasets are available (CT, MRI, x-rays). Imaging usually performed for other indications.
 errors: A timely identification of vertebral compression fractures which indicate osteoporosis allows the clinicians to refer the patient for osteoporosis treatment. If the osteoporosis signs are missed and the patient sustains a fracture, the fracture is complex and carries a high rate of mortality in older patients
 goals: Increased rates of identification and treatment referrals after identification to reduce occurrence of complex fractures in other sites.
