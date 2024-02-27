@@ -232,12 +232,11 @@ The educational activities and project placements hosted by AI supervisors are s
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
 
-<strong>Can I do the fellowship role at a different time commitment i.e. not 0.4 FTE?</strong>
-<p>The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
-Having a lower time commitment is not suitable for the learning objectives of the programme.
+<strong>Is the time commitment (0.4FTE) negotiable??</strong>
+<p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
 One eligibility criterion is that your Approver(s) confirm you will be released for 0.4FTE for this programme.
 If your Approver(s) cannot confirm that this time can be released, your application is not eligible.
-Having a higher time commitment is technically possible if your circumstances allow it, however your Employer will still only be reimbursed 0.4FTE unbanded salary for your participation in the fellowship.
+A fellow should not have a total working pattern >1.0FTE in total.
 
 </p>
 
