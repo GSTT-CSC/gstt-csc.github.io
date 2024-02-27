@@ -5,15 +5,6 @@ layout: default
 {% include about.html %}
 {% include whatwedo.html %}
 
-<!--Milestones-->
-<section class="page-section" id="{{ site.data.milestones.section }}">
-<div class="container">
-    <h2 class="section-heading pb-3">{{ site.data.milestones.title | markdownify | default: "Milestones" }}</h2>
-    {% include milestones.html %}
-</div>
-</section>
-<!--End Milestones-->
-
 <!--Calendar & Twitter-->
 <section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
 <div class="container">
@@ -21,10 +12,6 @@ layout: default
     <div class="col-lg-7">
        <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
        {% include calendar.html %}
-    </div>
-    <div class="col-md-12 col-lg-5">
-       <h2 class="py-4">Twitter</h2>
-       {% include twitter.html %}
     </div>
   </div>
 </div>

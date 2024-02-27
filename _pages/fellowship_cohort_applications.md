@@ -6,10 +6,7 @@ title: Fellowship in Clinical AI - Cohort 3 Application (2024-25)
 Applications for Cohort 3 of the Fellowship in Clinical AI are closed.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 The materials below are a resource for current and future applicants.
-
-<h3 style>Interim information for current applicants</h3> 
-Applicants will be informed of shortlisting decisions after 02 January 2024.
-<br>It is the applicant's responsibility to ensure the [Approval In Principle form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVna-AjRANzBFqNJ3-Y3fS4VUMDhZRkE3UFE5SUs1RFRYNVVKM05PNTM2Ni4u) has been submitted from their relevant Approver(s). The faculty cannot facilitate this step on behalf of the applicant. Applications cannot progress to interview without this evidence. 
+Cohort 4 recruitment is planned to open in November 2024.
 
 
 <h3 style>How to apply</h3> 
@@ -26,13 +23,13 @@ Applicants will be informed of shortlisting decisions after 02 January 2024.
 [Watch the video recording here](https://youtu.be/LlVa9WXXI-Y).<br>
 The faculty hosted a webinar on Wednesday 22 November 2023.
 This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
- 
 
 
 <h3 style>Key Dates</h3> 
 * 08 Nov 2023: Applications open: [Application form](https://forms.microsoft.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVgtI1cKjzvtMhA-9pyDNyrJUOFgxNklOWUpXNk1KNzExWFpaUVBDRjRIUS4u)
 * 22 Nov 2023: Applicant webinar: [Watch the video recording here](https://youtu.be/LlVa9WXXI-Y)
 * 20 Dec 2023: Application deadline
+* 02 Jan 2024: Indicative deadline for receipt of Approval In Principle forms
 * 22 Jan 2024: Remote interviews this week
 * Feb 2024: Interview outcomes and project matching
 * Aug 2024: Fellowship cohort 3 begins
@@ -44,10 +41,6 @@ Please note that within each region, eligibility varies by workforce. See the [r
 <br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
 If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:ai4vbh@kcl.ac.uk) so that we can identify priority areas for recruitment in future cohorts.
 
-
-
-<h3 style>List of AI project placements</h3> 
-This will be populated during the application cycle, please check back for updates.
 
 <h3 style>Frequently Asked Questions</h3> 
 If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).
@@ -231,15 +224,11 @@ This is because we can only offer the fellowship to applicants who have evidence
 <strong>Does the fellowship pay me directly? </strong>
 
 <p>No. The fellowship is not your Employer. 
-The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 months) to release your time for the fellowship role. 
+The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 months) to release your time for the fellowship role.. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship in August 2024.  
 </p>
-<strong>What if I am promoted to a higher pay banding during the fellowship? </strong>
-
-<p>The salary that your Employer is reimbursed for your time on the fellowship is determined by your pay banding at the start of the fellowship in August 2024 and does not change.</p>
 <strong>What if I go on sick leave or parental leave during the fellowship year? </strong>
-
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
-The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. 
+The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. Project supervisors propose projects related to cohort dates and are not required to provide supervision beyond these dates.
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
 
