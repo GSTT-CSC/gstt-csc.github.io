@@ -1,41 +1,41 @@
 ---
 layout: project_page
-title: Pulmonary Embolism Response Team AI  
+title: Radiotherapy Auto Segmentation
 status: Evaluating
-image: /assets/img/projects/pert_image_wikipedia.png
-summary: AI enabled detection and classification of high risk PE patients
-csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a>
-modality: CT Pulmonary Angiogram (CTPA)
-pathology: Pulmonary Embolism
-rationale: Both patients arriving at GSTT, and in patients, with suspected High risk PE will alert the Pulmonary Embolism Response Team to allow multi-disciplinary decisions made for management, triage and treatment. Reduction in time to alert PERT of high-risk PE can result in reduced length of stay, morbidity and the improved outcomes from MDT decisions.    
+image: assets/img/projects/autosegct_logo.png
+summary: Single application for all inhouse autosegmentation contours
+csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a> <a href="/team_member/Tom.html">Tom Roberts</a>
+modality: Radiotherapy planning CT 
+pathology: Cancer
+rationale: Contouring organs on CT's scans for radiotherapy treatments is vital for patient safety, however is very time consuming for Oncologists. AI models have been developed locally to automate the CT image segmentation. 
 patient-pathway: 
-training-data: Retrospective data for evaluating a commercial product 
+training-data: Gold standard dual-labelled CT's and structure sets of patients treated historically at Guy's Cancer Centre. 
 errors:  N/A
-goals: Automated classification of high and intermediate-high risk PE patients by accurately calculating Right Heart Strain (RV/LV ratios) from CTPAs. 
+goals:  Provide an application that can integrate the 
 success-criteria: Improvement in diagnostic accuracy and speed. Increased identification of intermediate risk patients alerting the PERT.
 ---
 
 <b>Clinical lead</b>: Christopher Thomas, Teresa Guerrero Urbano
 <br>
 <br> **Rationale:**
+
 AI auto-contouring tools have improved dramatically in the last few years, and all major treatment planning system vendors are investing in this technology along with independent start-ups and NHS Trusts [NICE, 2023].
 
 GSTT are in a strong position to develop our own auto-contouring pipeline using the AI expertise within RT physics, clinical oncology, and the Clinical Scientific Computing (CSC) team, strong links with King’s College London (KCL) academics and outputs from three KCL PhD students creating AI auto-contouring models.
 
 
 <b>Project Plan</b>: 
-1. <b>Clinician Scoping</b> - Pathway mapping to identify key points for optimisation/automation through AI. 
-Understanding dataflows, and data availability for risk stratification. 
-2. <b>Trust Approvals</b>
-   - Information Governance
-   - Information Security
-   - IT Architecture Review Board
-3. <b>On-prem hardware Deployment</b>
-4. <b>Software Deployment</b>
-6. <b>Retrospective Evaluation</b>
-   - CTPA imaging dataset curation
-   - Dataset enrichment 
-7. <b>Prospective Evaluation</b>
+
+1. **Proposal**
+2. **Requirements gathering** 
+3. **Clinical Risk management**
+4. **Design Specification creation**
+5. **Development**
+6. **Soft deployment**
+6. **Retrospective evaluation** 
+7. **Prospective Evaluation**
+8. **Training**
+9. **Clinical Go Live**
 
 <br>
 <br>
