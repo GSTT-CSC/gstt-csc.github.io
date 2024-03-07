@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Dika Vilic
 team-member-photo: /assets/img/team/Dika.jpg
-job-role: Clinical Scientist
+job-role: Deputy Head, Clinical Scientist in AI
 ---
 
 ### Bio

@@ -27,7 +27,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/haris-shuaib/
             icon: fab fa-linkedin-in
       - name: "Dika Vilic"
-        role: "Clinical Scientist"
+        role: "Deputy Head of Clinical Scientific Computing"
         team-member-page: /team_member/dika.html
         image: assets/img/team/Dika.jpg
         social:
