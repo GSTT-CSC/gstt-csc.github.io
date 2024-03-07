@@ -30,6 +30,9 @@
   highlighting any additional design and development considerations. For SMEs, this report serves as the basis for 
   submitting applications to the Trust procurement team."
 
+- project-status: Concluded
+  description: "Previous projects which are now concluded."
+
 - project-status: Backlog
   description: "Projects which have not been started yet. May be due to lack of project owner engagement,
   missing information relating to the project, or lack of bandwidth within CSC to support the project."
