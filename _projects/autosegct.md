@@ -3,7 +3,7 @@ layout: project_page
 title: Radiotherapy Auto Segmentation
 status: Evaluating
 image: assets/img/projects/autosegct_logo.png
-summary: Single application for all inhouse autosegmentation contours
+summary: Single application for all in-house auto-segmentation contours
 csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a> <a href="/team_member/Tom.html">Tom Roberts</a>
 modality: Radiotherapy planning CT 
 pathology: Cancer
@@ -11,8 +11,8 @@ rationale: Contouring organs on CT's scans for radiotherapy treatments is vital 
 patient-pathway: 
 training-data: Gold standard dual-labelled CT's and structure sets of patients treated historically at Guy's Cancer Centre. 
 errors:  N/A
-goals:  Provide an application that can integrate the 
-success-criteria: Improvement in diagnostic accuracy and speed. Increased identification of intermediate risk patients alerting the PERT.
+goals:  Provide an application that can clinically deploy all locally developed nnUNEt segmentation models successfully into the radiotherapy treatment planning pathway. 
+success-criteria: Reduction in time spent contour by Radiation oncologists. Improves consistency in contouring OAR's. Increased accuracy of OAR contours.  
 ---
 
 <b>Clinical lead</b>: Christopher Thomas, Teresa Guerrero Urbano
@@ -23,25 +23,44 @@ AI auto-contouring tools have improved dramatically in the last few years, and a
 
 GSTT are in a strong position to develop our own auto-contouring pipeline using the AI expertise within RT physics, clinical oncology, and the Clinical Scientific Computing (CSC) team, strong links with King’s College London (KCL) academics and outputs from three KCL PhD students creating AI auto-contouring models.
 
+Segmentation models have been created as output of the extensive research activity generated from Guys Cancer centre. This application will integrate the following models for evaluation in routine clinical care.
+
+| Model             | Creator             | Structures                                                                                             |
+|-------------------|---------------------|--------------------------------------------------------------------------------------------------------|
+| Pelvis Model      | Christopher Thomas  | Rectum <br> Sigmoid <br> Bowel <br> Bladder  <br>                                                      |
+| Prostate Model    | Maram Alquarni      | Prostate <br> Rectum <br> Penile Bulb  <br> Bladder  <br> Femeroal Head Left  <br>  Femoral Head Right |
+| BowelSpace  model | Christopher Thomas  | Bowel space                                                                                            |
+| Head&Neck Model   | Tom Youngs          | TBC                                                                                                    |
+
+In addition, the open source CT segmentation model Totalsegmentator(v2) provides 117 structures which could be clinically useful. The TotalSegmentator structures will be include in the generated structure for clinical evaluation on a site by site basis. 
+<br><br>
+_Wasserthal, J., Breit, H.-C., Meyer, M.T., Pradella, M., Hinck, D., Sauter, A.W., Heye, T., Boll, D., Cyriac, J., Yang, S., Bach, M., Segeroth, M., 2023. TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images. Radiology: Artificial Intelligence. https://doi.org/10.1148/ryai.230024_
+<br><br>
+Each segmentation model is developed using the nnUNet semantic segmentation method: 
+<br><br>
+_Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring 
+method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211._
+<br><br>
 
 <b>Project Plan</b>: 
 
-1. **Proposal**
-2. **Requirements gathering** 
-3. **Clinical Risk management**
-4. **Design Specification creation**
+1. **Proposal** - 
+2. **Requirements Gathering** 
+3. **Clinical Risk Management**
+4. **Design Specification Creation**
 5. **Development**
-6. **Soft deployment**
-6. **Retrospective evaluation** 
+6. **Soft Deployment**
+6. **Retrospective Evaluation** 
 7. **Prospective Evaluation**
 8. **Training**
-9. **Clinical Go Live**
+9. **Clinical Go-Live**
 
 <br>
 <br>
 <b>References</b>: 
 <br><br>
-### Academic papers
+
+**Academic papers**
 
 | Year | Authors                 | Title                                                                                                                                                    | Link                                                          | Key points |
 |------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------|
@@ -59,7 +78,7 @@ GSTT are in a strong position to develop our own auto-contouring pipeline using 
 | 2021 | Jordan Wong et al       | Implementation of deep learning-based auto-segmentation for radiotherapy planning structures: a workflow study at two cancer centers                     |                                                               |            |
 | 2021 | Weijun Chen             | A comparative study of auto‐contouring softwares in delineation of organs at risk in lung cancer and rectal cancer                                       | https://doi.org/10.1038/s41598-021-02330-y                    |            | 
 
-### Commercially available products
+**Commercially available products**
 
 | Manufacturer   | Product name | Details |
 |----------------|--------------|---------|
