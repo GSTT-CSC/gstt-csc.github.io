@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Aysha Luis
 team-member-photo: /assets/img/team/Aysha.jpg
-job-role: Fellow in Clinical AI
+job-role: AI Evaluation Lead
 ---
 
 ### Bio
