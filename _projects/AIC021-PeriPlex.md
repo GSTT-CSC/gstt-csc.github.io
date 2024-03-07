@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Perioperative complexity stratification and optimisation 
-status: Developing
+status: Graveyard
 image: /assets/img/blog/nhs_logo.png
 summary: AI-powered algorithm for categorising patients based on their perioperative risk, enabling appropriate pathway planning and optimisation in elective surgeries.
 csc-lead: <a href="/team_member/Haleema.html">Haleema</a>
@@ -15,6 +15,14 @@ goals: Develop an algorithm that categorises patients into three groups based on
 success-criteria: Reduction in cancellations, reduced waiting times for low-risk patients, and optimised management for high-risk patients.
 alternatives: Currently no commercial products identified 
 ---
+
+---
+
+This project has been removed to the graveyard. Along with stakeholder resource constraints, an exploratory data analysis demonstrated that 
+the data for this project was too complex and too varied in missingness and meaningfulness to proceed at this point in time. There are currently no plans to revisit this project at a later date.
+
+---
+
 
 <b>Clinical lead</b>: Ramai Santhirpala<br>
 
