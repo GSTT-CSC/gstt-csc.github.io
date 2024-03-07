@@ -88,7 +88,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
             icon: fab fa-linkedin-in
       - name: "Aysha Luis"
-        role: "Fellow in Clinical AI"
+        role: "AI Evaluation Lead"
         team-member-page: /team_member/aysha.html
         image: assets/img/team/Aysha.jpg
         social:
