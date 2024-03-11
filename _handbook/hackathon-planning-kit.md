@@ -1,6 +1,9 @@
 ---
 title: Hackathon Planning Kit
+category: Ways of Working
+categoryorder: 2
 shorthand: Hackathon-Planning
+order: 6
 ---
 
 

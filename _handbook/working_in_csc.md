@@ -3,27 +3,34 @@ title: Working in the CSC Team
 category: Background
 categoryorder: 1
 shorthand: Working-in-CSC
-order: 3
+order: 2
 ---
 
-The CSC Team is small group of individuals from a variety of backgrounds. The team is made up of 7 full time members 
-and 3 part-time members. We are based at St Thomas’ Hospital (part of GSTT), however we mostly work remotely 
-via Microsoft Teams, using GitHub and our CSC website.
+**Bi-weekly standups**
 
-New members of the CSC Team are provided with a brand new Apple MacBook Pro to perform their work. If additional 
-equipment or software is required for your work, this can be arranged with the Head of the CSC Team.
+The CSC Team hosts Standup meetings every **Tuesday and Thursday** from **9.30–10.00am**. 
 
-While we have a flexible work schedule, team members should be available to meet during standard working hours, where 
-required, such as for stakeholder meetings, CSC Standups and our 10x Workshops.
+The first part of the meeting is devoted to news pertinent to the entire CSC Team. The second part of the 
+Standup is dedicated to individual members of the team summarising work from the previous days and detailing their plans
+for the next few days. This is also an opportunity to appraise anything noteworthy or raise any concerns which 
+might be a barrier to progress.
 
-The CSC Team supports clinical teams within GSTT to evaluate or develop AI which addresses a clinical need or clinical 
-pathway. We can support projects of varying sizes and at various stages of the project lifecycle. Typically, we will be
-engaged in projects for their entire lifecycle and a CSC member would be assigned to individual projects(as the CSC 
-Lead) to provide a single point of contact clinical leads on the project
+**Fortnightly workshops (10x)**
 
-The general purpose CSC Team email address is [cscteam@gstt.nhs.uk](mailto:cscteam@gstt.nhs.uk).
+<img src="assets/img/handbook/workshop_3.21.jpg" class="img-fluid">
 
-The diagram below illustrates the structure of the CSC Team within Medical Physics at GSTT.
+On **fortnightly Wednesdays**, the CSC Team hosts a 10x Workshop. Within this space, we discuss new topics surrounding the 
+implementation of AI within the healthcare sector, we have group discussions about current practices, and we discuss new 
+AI ideas and AI policies pertinent to the NHS.
 
-<img src="/assets/img/handbook/department-hierarchy-diagram.png" class="img-fluid">
+The 10x Workshops are also an opportunity for CSC Team members to present their projects to the wider Team. We also 
+invite external parties to share knowledge. If you are from an external organisation and you are interested in 
+discussing your work at one of our 10x Workshops, please get in touch!
 
+We also use the 10x Workshops to hold regular Retrospective exercises. These quarterly group exercises allow CSC Team 
+members to raise and discuss positive experiences, as well as any difficulties, barriers or delays to working that they 
+have experienced. We conclude these Retrospective sessions by creating actions focused on improving our working 
+practices moving forward.
+
+A list of previous and forthcoming 10x Workshops can be found on the CSC Team Sharepoint here:
+<a href="https://emckclac.sharepoint.com/:w:/r/sites/MT-CSC-CSC/_layouts/15/Doc.aspx?sourcedoc=%7B70E69FF2-67A4-4D8B-80CA-4DB4C397F614%7D&file=Workshop%20Agenda%20Timetable.docx&action=default&mobileredirect=true">CSC Workshops Agenda</a>
