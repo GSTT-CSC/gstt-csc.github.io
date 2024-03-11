@@ -1,9 +1,9 @@
 ---
 layout: people
-permalink: /fellowship_cohort_applications.html
-title: Fellowship in Clinical AI - Cohort 3 Application (2024-25) 
+permalink: /fellowship_cohort3.html
+title: NHS Fellowship in Clinical AI - Cohort 3 Application (2024-25) 
 ---
-Applications for Cohort 3 of the Fellowship in Clinical AI are closed.
+Applications for Cohort 3 of the NHS Fellowship in Clinical AI are closed.
 Successful applicants will be fellows in clinical AI from August 2024 - August 2025.
 The materials below are a resource for current and future applicants.
 Cohort 4 recruitment is planned to open in November 2024.

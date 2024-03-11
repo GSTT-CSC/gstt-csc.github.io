@@ -1,10 +1,10 @@
 ---
 layout: people
-permalink: fellowship_previous_cohorts.html
-title: Fellowship in Clinical AI Previous Cohorts
+permalink: fellowship_cohort1.html
+title: NHS Fellowship in Clinical AI Cohort 1 (2022-23) 
 ---
 
-Cohort 1 of the Fellowship in Clinical AI ran from June 2022 to June 2023
+Cohort 1 of the NHS Fellowship in Clinical AI ran from June 2022 to June 2023
 
 <h5>List of fellows</h5>
 

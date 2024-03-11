@@ -1,9 +1,9 @@
 ---
 layout: people
-permalink: /fellowship_general.html
-title: Fellowship General Information
+permalink: /fellowship_info.html
+title: NHS Fellowship in Clinical AI Information
 ---
-<h3 style>Background to the Fellowship</h3>
+<h3 style>Background to the NHS Fellowship in Clinical AI</h3>
 
 Clinical leaders with expertise in Artificial Intelligence are essential to the integration and rollout of AI software in NHS trusts. 
 To fully deliver the UK government's goal of being a [global AI superpower](https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf), the NHS must provide dedicated training for clinicians in cutting-edge skills required for clinical AI deployment.
@@ -13,7 +13,7 @@ Fellows are matched with an expert AI supervisor and team to gain experience in 
 As a lasting legacy of the fellowship, fellows become part of a uniquely networked community of interest within the healthcare AI community.
 
 <h3 style>Fellowship Faculty</h3>
-The faculty of the Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
+The faculty of the NHS Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
 - [Haris Shuaib](/team_member/haris.html),  Director
 - [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
 - [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
