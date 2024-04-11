@@ -4,7 +4,7 @@ title: Osteoporosis
 status: Backlog
 image: /assets/img/projects/Osteoporosis.jpg
 summary: Timely identification of vertebral compression fractures to promote early treatment interventions.
-csc-lead: <a href="/team_member/Dika.html">Dika</a>
+csc-lead: <a href="/team_member/haleema.html">Haleema</a>
 modality: CT first, then x-ray, then MRI.
 pathology: Vertebral compression fractures (spine)
 ---
