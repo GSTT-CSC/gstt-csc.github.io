@@ -15,6 +15,7 @@ This unique programme is featured in the [NHS Long Term Workforce Plan](https://
 
 <h3 style>Navigate</h3>
 * [Fellowship information](/fellowship_info.html)
+* [Cohort 4 Applications (open November 2024)](/fellowship_cohort4.html)
 * [Cohort 3 Applications (closed)](/fellowship_cohort3.html)
 * [Cohort 2 Fellows](/fellowship_cohort2.html)
 * [Cohort 1 Fellows](/fellowship_cohort1.html)
