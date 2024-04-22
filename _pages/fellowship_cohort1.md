@@ -4,7 +4,8 @@ permalink: fellowship_cohort1.html
 title: NHS Fellowship in Clinical AI Cohort 1 (2022-23) 
 ---
 
-Cohort 1 of the NHS Fellowship in Clinical AI ran from June 2022 to June 2023
+Cohort 1 of the NHS Fellowship in Clinical AI ran from June 2022 to June 2023.<br>
+Learn more about the fellows and their projects in the [cohort 1 graduation booklet](assets/docs/FCAI_C1_GraduationBooklet.pdf)
 
 <h5>List of fellows</h5>
 
