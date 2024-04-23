@@ -12,6 +12,10 @@ This fellowship is the first systematic route in the UK to acquire the relevant 
 Fellows are matched with an expert AI supervisor and team to gain experience in real-world applications of clinical AI. Fellows gain skills and knowledge relevant to the full life cycle of healthcare AI from a bespoke programme of teaching aligned with the Clinical AI Curriculum developed by the faculty.
 As a lasting legacy of the fellowship, fellows become part of a uniquely networked community of interest within the healthcare AI community.
 
+This unique programme is featured as an exemplar in upskilling clinicians for AI transformation in both the *[NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74)* and the NHS AI Lab report, *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)*. 
+The fellowship builds directly from the recommendation of the *[Topol Review (2019)](https://topol.hee.nhs.uk/wp-content/uploads/HEE-Topol-Review-2019.pdf#page=8)* to create posts for clinicians with dedicated time to implement AI technologies.
+
+
 <h3 style>Fellowship Faculty</h3>
 The faculty of the NHS Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
 - [Haris Shuaib](/team_member/haris.html),  Director
@@ -58,7 +62,10 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 * Scotland
   * NHS Grampian
   * NHS Greater Glasgow and Clyde
-
+  * 
+<h3 style>Literature</h3>
+* Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in a [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
+* [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf).
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
@@ -66,7 +73,7 @@ The educational materials of this fellowship have been co-developed with partner
 * [Software and AI team](https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device), Medicines & Healthcare products Regulatory Agency (MHRA)
 * [AI and digital regulations service](https://www.nice.org.uk/about/what-we-do/digital-health/multi-agency-advisory-service-for-ai-and-data-driven-technologies), National Institute for Health and Care Excellence (NICE) 
 * [Innovations Scholars Programme](https://innovationscholars.er.kcl.ac.uk/), King's College London
-* [Health Innovation Network](https://healthinnovationnetwork.com/), which evaluated the fellowship pilot in a published [independent report](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf).
+
 
 The fellowship is funded through:
 * [NHS England Workforce, Training and Education (NHSE WTE)](https://linktr.ee/NHSE_WTE)
