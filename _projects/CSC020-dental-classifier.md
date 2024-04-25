@@ -4,7 +4,7 @@ title: Detection and classification of lesions in dental panoramic tomograms
 status: Developing
 image: /assets/img/projects/dental_tomograph_wikipedia.jpg
 summary: AI enabled detection and classification of lesions in dental panoramic tomograms
-csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
+csc-lead: <a href="/team_member/Mike.html">Mike</a>
 modality: Dental radiograph
 pathology: Jaw tumours and cysts
 rationale: DPTs are particularly prone to incidental findings and technical errors, which can obscure interpretation and contribute to misdiagnosis.
@@ -16,7 +16,7 @@ success-criteria: Improvement in diagnostic accuracy and diagnostic speed.
 alternatives: Currently no commercial products identified 
 ---
 
-<b>Clinical lead</b>: Christopher Platais <br>
+<b>Clinical lead</b>: Bethan Thomas <br>
 
 <b>Project Overview</b>
 Dental panoramic tomograms (DPTs) are common radiographs performed as first-line imaging for a broad range of maxillofacial disease. Within both primary and secondary care, DPTs are interpreted by the requesting dentist, typically without input from a specialist in dental and maxillofacial radiology (DMFR). Specialist reporting is not currently commissioned by the NHS and there are less than 30 registered DMFR specialists nationally, so there is limited scope for second opinion within primary care. Published service evaluations indicate that DPTs referred for specialist opinion contain diagnoses ranging from normal anatomy to malignancy, suggesting that confidence in interpreting DPTs is variable for non-specialists.
