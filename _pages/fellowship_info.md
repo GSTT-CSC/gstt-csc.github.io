@@ -62,10 +62,10 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 * Scotland
   * NHS Grampian
   * NHS Greater Glasgow and Clyde
-  * 
+
 <h3 style>Literature</h3>
 * Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in a [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
-* [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf).
+* [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
