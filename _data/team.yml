@@ -60,7 +60,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tom-a-roberts/
             icon: fab fa-linkedin-in
-      - name: "Haleema Al Jazzaf"
+      - name: "Haleema Drake"
         role: "AI Engineer"
         team-member-page: /team_member/haleema.html
         image: assets/img/team/Haleema.jpg
