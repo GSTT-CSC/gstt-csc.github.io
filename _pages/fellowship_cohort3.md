@@ -151,6 +151,14 @@ The interview panel consists of fellowship faculty, AI supervisors, and regional
 <p>The interviews are planned for the week commencing 22 January 2024. 
 Applicants proceeding to interview will be sent a link to book their interview slot. 
 </p>
+
+<strong>How should I prepare for the interview?</strong>
+
+<p>
+Interviewees are assessed according to the Essential and Desirable criteria of the role description document.
+Consider how to show evidence of meeting these criteria with real-world examples, particularly through participation in digital transformation projects in healthcare.
+Although the interview is not a knowledge test about clinical artificial intelligence, you may find it helpful to read our [list of clinical AI resources](/resources.html#People)</p>
+
 </details>
 
 <details>
