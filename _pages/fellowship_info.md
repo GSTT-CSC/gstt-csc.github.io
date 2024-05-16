@@ -31,16 +31,17 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
 
+<details>
+<summary><b>England</b></summary>
 
-* England
   * East of England
     * Cambridge University Hospitals
   * London
     * Guy's and St Thomas'
     * Barts Health
     * Great Ormond Street Hospital
-    * Imperial College Healthcares 
-    * King's College Hospitals
+    * Imperial College Healthcare 
+    * King's College Hospital
     * Moorfields Eye Hospital
     * South London and Maudsley 
     * The Royal Marsden 
@@ -48,6 +49,7 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
   * Midlands
     * University Hospitals Birmingham
     * Nottingham University Hospitals
+    * The Royal Wolverhampton
   * South East
     * Oxford University Hospitals
     * University Hospitals Sussex
@@ -55,14 +57,23 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
     * University Hospital Southampton
   * South West
     * University Hospitals Bristol
-* Wales
+
+</details>
+<details>
+<summary><b>Wales</b></summary>
+
   * Cardiff and Vale University Health Board 
   * Swansea Bay University Health Board 
   * Betsi Cadwaladr University Health Board
-* Scotland
+
+</details>
+<details>
+<summary><b>Scotland</b></summary>
+
   * NHS Grampian
   * NHS Greater Glasgow and Clyde
 
+</details>
 <h3 style>Literature</h3>
 * Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in a [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
