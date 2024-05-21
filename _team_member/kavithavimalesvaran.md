@@ -54,5 +54,5 @@ and managing expectations from different
 stakeholders.
 
 ### Links
-[Interview: Healthcare Digital](https://web.archive.org/web/20240220220132/https://healthcare-digital.com/technology-and-ai/ai-software-to-improve-hospital-patient-turnaround-times)<br>
+[Interview: Healthcare Digital](https://healthcare-digital.com/technology-and-ai/ai-software-to-improve-hospital-patient-turnaround-times)<br>
 [Panel discussion video: Health Education England](https://www.youtube.com/watch?v=Rh_Q0tzl8wc)
