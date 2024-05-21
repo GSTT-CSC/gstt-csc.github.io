@@ -1,0 +1,140 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+
+  team:
+    text:
+    section: team
+    people:
+      - name: "Adam Julius"
+        role: "Specialty Trainee Doctor in Anaesthetics"
+        team-member-page: /team_member/adamjulius.html
+        image: assets/img/fellow/adamjulius.jpg
+        social:
+          - url: https://www.linkedin.com/in/adam-julius-764b20275/
+            icon: fab fa-linkedin-in
+
+      - name: "Sarah Blake"
+        role: "Specialty Trainee Doctor in Cardiology"
+        team-member-page: /team_member/sarahblake.html
+        image: assets/img/fellow/sarahblake.jpg
+        social:
+          - url: https://scholar.google.co.uk/citations?hl=en&user=tQrzWmIAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/sarah-blake-571a9618a/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/BlakeSarahR
+            icon: fab fa-twitter
+
+      - name: "Kavitha Vimalesvaran"
+        role: "Specialty Trainee Doctor in Cardiology"
+        team-member-page: /team_member/kavithavimalesvaran.html
+        image: assets/img/team/kavitha.png
+        social:
+          - url: https://orcid.org/0000-0003-2236-7279
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/kavitha_varan
+            icon: fab fa-twitter
+
+      - name: "Jack Ross"
+        role: "Specialty Trainee Doctor in Clinical Pharmacology & General Internal Medicine"
+        team-member-page: /team_member/jackross.html
+        image: assets/img/fellow/jackross.jpg
+        social:
+          - url: https://scholar.google.com/citations?hl=en&user=i3IeTBAAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/jack-ross-b3673154/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/jackfelixross
+            icon: fab fa-twitter
+
+      - name: "Adam Mayers"
+        role: "Specialty Trainee Doctor in Clinical Radiology"
+        team-member-page: /team_member/adammayers.html
+        image: assets/img/fellow/adammayers.jpg
+        social:
+          - url: https://www.linkedin.com/in/adam-mayers-225311272/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/Adam_Mayers
+            icon: fab fa-twitter
+
+      - name: "James Lai"
+        role: "Specialty Trainee Doctor in Emergency Medicine"
+        team-member-page: /team_member/jameslai.html
+        image: assets/img/fellow/jameslai.jpg
+        social:
+          - url: https://scholar.google.com/citations?hl=en&user=8DAlCQsAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/jamestflai/
+            icon: fab fa-linkedin-in
+
+      - name: "Mustafa Khanbhai"
+        role: "Specialty Trainee Doctor in General Surgery"
+        team-member-page: /team_member/mustafakhanbhai.html
+        image: assets/img/fellow/mustafakhanbhai.jpg
+        social:
+          - url: https://orcid.org/0000-0002-4434-1785
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/mustafa-khanbhai-phd-frcs-6a52b4121/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/MusKhanbhai
+            icon: fab fa-twitter
+
+      - name: "Akish Luintel"
+        role: "Specialty Trainee Doctor in Infectious Disease & General Internal Medicine"
+        team-member-page: /team_member/akishluintel.html
+        image: assets/img/fellow/akishluintel.jpg
+        social:
+          - url: https://scholar.google.com/citations?hl=en&user=97AxAKoAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/akish-luintel-652407a2/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/drakishl
+            icon: fab fa-twitter
+
+      - name: "Amit Samani"
+        role: "Specialty Trainee Doctor in Medical Oncology"
+        team-member-page: /team_member/amitsamani.html
+        image: assets/img/fellow/amitsamani.jpg
+        social:
+          - url: https://orcid.org/0000-0001-6570-4912
+            icon: fas fa-book
+          - url: https://www.linkedin.com/in/amit-samani-561331189/
+            icon: fab fa-linkedin-in
+          - url: https://twitter.com/amit_samani1
+            icon: fab fa-twitter
+
+      - name: "Robert Miller"
+        role: "Specialty Trainee Doctor in Plastic Surgery"
+        team-member-page: /team_member/robertmiller.html
+        image: assets/img/fellow/robertmiller.jpg
+        social:
+          - url: https://scholar.google.co.uk/citations?hl=en&user=gDW-DoAAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+
+      - name: "Salah Hammouche"
+        role: "Specialty Trainee Doctor in Trauma and Orthopaedic Surgery"
+        team-member-page: /team_member/salahhammouche.html
+        image: assets/img/fellow/salahhammouche.jpg
+        social:
+          - url: https://scholar.google.co.uk/citations?hl=en&user=tpcMvGMAAAAJ&view_op=list_works&sortby=pubdate
+            icon: fas fa-book
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
