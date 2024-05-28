@@ -31,40 +31,81 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
 
+<details>
+<summary>
+<b>England</b>
+</summary>
+<details><summary>East of England</summary>
+<ul>
+  <li>Cambridge University Hospitals NHS Foundation Trust</li>
+</ul>
+</details>
 
-* England
-  * East of England
-    * Cambridge University Hospitals
-  * London
-    * Guy's and St Thomas'
-    * Barts Health
-    * Great Ormond Street Hospital
-    * Imperial College Healthcares 
-    * King's College Hospitals
-    * Moorfields Eye Hospital
-    * South London and Maudsley 
-    * The Royal Marsden 
-    * University College London Hospitals
-  * Midlands
-    * University Hospitals Birmingham
-    * Nottingham University Hospitals
-  * South East
-    * Oxford University Hospitals
-    * University Hospitals Sussex
-    * East Kent Hospitals University
-    * University Hospital Southampton
-  * South West
-    * University Hospitals Bristol
-* Wales
-  * Cardiff and Vale University Health Board 
-  * Swansea Bay University Health Board 
-  * Betsi Cadwaladr University Health Board
-* Scotland
-  * NHS Grampian
-  * NHS Greater Glasgow and Clyde
+<details><summary>London</summary>
+<ul>
+  <li>Guy's and St Thomas' NHS Foundation Trust</li>
+  <li>Barts Health NHS Trust</li>
+  <li>Great Ormond Street Hospital for Children NHS Foundation Trust</li>
+  <li>Imperial College Healthcare NHS Trust</li>
+  <li>King's College Hospital NHS Foundation Trust</li>
+  <li>Moorfields Eye Hospital NHS Foundation Trust</li>
+  <li>South London and Maudsley NHS Foundation Trust</li>
+  <li>The Royal Marsden NHS Foundation Trust</li>
+  <li>University College London Hospitals NHS Foundation Trust</li>
+</ul>
+</details>
+
+<details><summary>Midlands</summary>
+<ul>
+  <li>University Hospitals Birmingham NHS Foundation Trust</li>
+  <li>Nottingham University Hospitals NHS Trust</li>
+  <li>The Royal Wolverhampton NHS Trust</li>
+</ul>
+</details>
+
+
+<details><summary>South East</summary>
+<ul>
+  <li>Oxford University Hospitals NHS Foundation Trust</li>
+  <li>University Hospitals Sussex NHS Foundation Trust</li>
+  <li>East Kent Hospitals University NHS Foundation Trust</li>
+  <li>University Hospital Southampton NHS Foundation Trust</li>
+</ul>
+</details>
+
+
+<details><summary>South West</summary>
+<ul>
+  <li>University Hospitals Bristol NHS Foundation Trust</li>
+</ul>
+</details>
+
+</details>
+<details>
+<summary>
+<b>Wales</b>
+</summary>
+<ul>
+  <li>Cardiff and Vale University Health Board</li>
+  <li>Swansea Bay University Health Board </li>
+  <li>Betsi Cadwaladr University Health Board</li>
+</ul>
+
+
+</details>
+<details>
+<summary>
+<b>Scotland</b>
+</summary>
+<ul>
+  <li>NHS Grampian</li>
+  <li>NHS Greater Glasgow and Clyde</li>
+</ul>
+
+</details>
 
 <h3 style>Literature</h3>
-* Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in a [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
+* Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
 * The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
 * The [NHS Transformation Directorate](https://transform.england.nhs.uk) report *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)* describes the fellowship's role in training digital and AI specialist clinicians
