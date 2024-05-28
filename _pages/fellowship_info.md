@@ -12,7 +12,7 @@ This fellowship is the first systematic route in the UK to acquire the relevant 
 Fellows are matched with an expert AI supervisor and team to gain experience in real-world applications of clinical AI. Fellows gain skills and knowledge relevant to the full life cycle of healthcare AI from a bespoke programme of teaching aligned with the Clinical AI Curriculum developed by the faculty.
 As a lasting legacy of the fellowship, fellows become part of a uniquely networked community of interest within the healthcare AI community.
 
-This unique programme is featured as an exemplar in upskilling clinicians for AI transformation in both the *[NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74)* and the NHS AI Lab report, *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)*. 
+This unique programme is featured as an exemplar in upskilling clinicians for AI transformation in both the *[NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74)* and the NHS Transformation Directorate report, *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)*. 
 The fellowship builds directly from the recommendation of the *[Topol Review (2019)](https://topol.hee.nhs.uk/wp-content/uploads/HEE-Topol-Review-2019.pdf#page=8)* to create posts for clinicians with dedicated time to implement AI technologies.
 
 
@@ -66,6 +66,8 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 <h3 style>Literature</h3>
 * Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in a [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
+* The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
+* The [NHS Transformation Directorate](https://transform.england.nhs.uk) report *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)* describes the fellowship's role in training digital and AI specialist clinicians
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
