@@ -131,7 +131,7 @@
        - name: "Qasim Malik"
          role: "Specialty Trainee Doctor in Paediatrics"
          team-member-page: /team_member/qasimmalik.html
-         image: assets/img/fellow/qasimmalik.jpg
+         image: assets/img/fellow/qasimmalik.png
          social:
            - url: https://www.linkedin.com/in/qasim-malik-b02109257/
              icon: fab fa-linkedin-in
