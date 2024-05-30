@@ -34,4 +34,6 @@ collections:
     output: true
   guides:
     output: true
+  fellow:
+    output: true
 markdown: kramdown
