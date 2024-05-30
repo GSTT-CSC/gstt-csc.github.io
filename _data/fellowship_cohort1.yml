@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     people:
       - name: "Adam Julius"
         role: "Specialty Trainee Doctor in Anaesthetics"
-        team-member-page: /team_member/adamjulius.html
+        team-member-page: /fellow/adamjulius.html
         image: assets/img/fellow/adamjulius.jpg
         social:
           - url: https://www.linkedin.com/in/adam-julius-764b20275/
@@ -25,7 +25,7 @@ en: &DEFAULT_EN
 
       - name: "Sarah Blake"
         role: "Specialty Trainee Doctor in Cardiology"
-        team-member-page: /team_member/sarahblake.html
+        team-member-page: /fellow/sarahblake.html
         image: assets/img/fellow/sarahblake.jpg
         social:
           - url: https://scholar.google.co.uk/citations?hl=en&user=tQrzWmIAAAAJ&view_op=list_works&sortby=pubdate
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
 
       - name: "Kavitha Vimalesvaran"
         role: "Specialty Trainee Doctor in Cardiology"
-        team-member-page: /team_member/kavithavimalesvaran.html
+        team-member-page: /fellow/kavithavimalesvaran.html
         image: assets/img/team/kavitha.png
         social:
           - url: https://orcid.org/0000-0003-2236-7279
@@ -49,7 +49,7 @@ en: &DEFAULT_EN
 
       - name: "Jack Ross"
         role: "Specialty Trainee Doctor in Clinical Pharmacology & General Internal Medicine"
-        team-member-page: /team_member/jackross.html
+        team-member-page: /fellow/jackross.html
         image: assets/img/fellow/jackross.jpg
         social:
           - url: https://scholar.google.com/citations?hl=en&user=i3IeTBAAAAAJ&view_op=list_works&sortby=pubdate
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
 
       - name: "Adam Mayers"
         role: "Specialty Trainee Doctor in Clinical Radiology"
-        team-member-page: /team_member/adammayers.html
+        team-member-page: /fellow/adammayers.html
         image: assets/img/fellow/adammayers.jpg
         social:
           - url: https://www.linkedin.com/in/adam-mayers-225311272/
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
 
       - name: "James Lai"
         role: "Specialty Trainee Doctor in Emergency Medicine"
-        team-member-page: /team_member/jameslai.html
+        team-member-page: /fellow/jameslai.html
         image: assets/img/fellow/jameslai.jpg
         social:
           - url: https://scholar.google.com/citations?hl=en&user=8DAlCQsAAAAJ&view_op=list_works&sortby=pubdate
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
 
       - name: "Mustafa Khanbhai"
         role: "Specialty Trainee Doctor in General Surgery"
-        team-member-page: /team_member/mustafakhanbhai.html
+        team-member-page: /fellow/mustafakhanbhai.html
         image: assets/img/fellow/mustafakhanbhai.jpg
         social:
           - url: https://orcid.org/0000-0002-4434-1785
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 
       - name: "Akish Luintel"
         role: "Specialty Trainee Doctor in Infectious Disease & General Internal Medicine"
-        team-member-page: /team_member/akishluintel.html
+        team-member-page: /fellow/akishluintel.html
         image: assets/img/fellow/akishluintel.jpg
         social:
           - url: https://scholar.google.com/citations?hl=en&user=97AxAKoAAAAJ&view_op=list_works&sortby=pubdate
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
 
       - name: "Amit Samani"
         role: "Specialty Trainee Doctor in Medical Oncology"
-        team-member-page: /team_member/amitsamani.html
+        team-member-page: /fellow/amitsamani.html
         image: assets/img/fellow/amitsamani.jpg
         social:
           - url: https://orcid.org/0000-0001-6570-4912
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
 
       - name: "Robert Miller"
         role: "Specialty Trainee Doctor in Plastic Surgery"
-        team-member-page: /team_member/robertmiller.html
+        team-member-page: /fellow/robertmiller.html
         image: assets/img/fellow/robertmiller.jpg
         social:
           - url: https://scholar.google.co.uk/citations?hl=en&user=gDW-DoAAAAAJ&view_op=list_works&sortby=pubdate
@@ -125,7 +125,7 @@ en: &DEFAULT_EN
 
       - name: "Salah Hammouche"
         role: "Specialty Trainee Doctor in Trauma and Orthopaedic Surgery"
-        team-member-page: /team_member/salahhammouche.html
+        team-member-page: /fellow/salahhammouche.html
         image: assets/img/fellow/salahhammouche.jpg
         social:
           - url: https://scholar.google.co.uk/citations?hl=en&user=tpcMvGMAAAAJ&view_op=list_works&sortby=pubdate
