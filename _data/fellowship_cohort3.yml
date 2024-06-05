@@ -1,0 +1,291 @@
+ # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+ #
+ # Configuration: Add to _config.yml
+ # locale: "en-US"  [YOUR PREFERRED LOCALE]
+ #
+ # How to use:
+ # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+ # English (default)
+ # -----------------
+ en: &DEFAULT_EN
+
+   team:
+     text:
+     section: team
+     people:
+
+       - name: "Robert Crichton"
+         role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
+         team-member-page: /fellow/
+         image: assets/img/fellow/robertcrichton.jpg
+         social:
+           - url: https://orcid.org/0000-0002-8973-4750
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/robert-crichton-241286113/
+             icon: fab fa-linkedin-in
+
+
+       - name: "Vadir Baktash"
+         role: "Specialty Trainee Doctor in Cardiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/vadirbaktash.jpg
+         social:
+           - url: https://www.researchgate.net/profile/Vadir-Baktash
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/vadir-baktash-5768205a/
+             icon: fab fa-linkedin-in
+
+       - name: "Helen Livesey"
+         role: "Specialty Trainee Doctor in Clinical Genetics"
+         team-member-page: /fellow/
+         image: assets/img/fellow/helenlivesey.jpg
+         social:
+           - url: https://orcid.org/0000-0001-8625-2134
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/helen-livesey-5a88a429a/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/hlivesey7
+             icon: fab fa-twitter
+
+       - name: "Katherine Mackay"
+         role: "Specialty Trainee Doctor in Clinical Oncology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/katherinemackay.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=c__dXJYAAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/katherine-mackay-19218684/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/MackayKatherine
+             icon: fab fa-twitter
+
+       - name: "Rory Maclean"
+         role: "Specialty Trainee Doctor in Specialty Trainee Doctor in Clinical Pharmacology and General Internal Medicine"
+         team-member-page: /fellow/
+         image: assets/img/fellow/rorymaclean.jpg
+         social:
+           - url: https://orcid.org/0000-0002-9686-0501
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/rory-maclean/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/roryHMaclean1
+             icon: fab fa-twitter
+
+       - name: "John Chen"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/johnchen.jpg
+         social:
+           - url: https://www.linkedin.com/in/jlc71/
+             icon: fab fa-linkedin-in
+
+       - name: "Jozef Kamp"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/jozefkamp.png
+         social:
+           - url: https://www.linkedin.com/in/jozef-kamp/
+             icon: fab fa-linkedin-in
+
+
+       - name: "Jesus Perdomo Lampignano"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/jesuslampignano.jpg
+         social:
+           - url: https://orcid.org/0000-0002-7861-0584
+             icon: fas fa-book
+
+       - name: "Dilan Şanli"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/dilansanli.jpg
+         social:
+           - url: https://www.linkedin.com/in/dilan-şanlı-8447921ab/
+             icon: fab fa-linkedin-in
+
+       - name: "James Vaz"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/jamesvaz.jpg
+         social:
+           - url: https://www.linkedin.com/in/james-vaz-1a1600ab/
+             icon: fab fa-linkedin-in
+
+       - name: "Conn McGrath"
+         role: "Specialty Trainee Doctor in Dermatology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/connmcgrath.jpg
+         social:
+           - url: https://orcid.org/0000-0001-5749-0109
+             icon: fas fa-book
+
+
+       - name: "Aoife Fox"
+         role: "Specialty Trainee Doctor in Emergency Medicine and Paediatric Emergency Medicine"
+         team-member-page: /fellow/
+         image: assets/img/fellow/aoifefox.jpg
+         social:
+           - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/EMDocFox
+             icon: fab fa-twitter
+
+       - name: "Bharadwaj Chada"
+         role: "Specialty Trainee Doctor in General Practice"
+         team-member-page: /fellow/
+         image: assets/img/fellow/venkatachada.jpg
+         social:
+           - url: https://www.researchgate.net/profile/Venkata-Chada
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/bharadwajchada/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/BharadwajChada
+             icon: fab fa-twitter
+
+       - name: "Will Hughes"
+         role: "Specialty Trainee Doctor in General Practice"
+         team-member-page: /fellow/
+         image: assets/img/fellow/williamhughes.jpg
+         social:
+
+       - name: "Anna Fairclough"
+         role: "Specialty Trainee Doctor in General Surgery"
+         team-member-page: /fellow/
+         image: assets/img/fellow/annafairclough.jpg
+         social:
+           - url: https://orcid.org/0000-0002-0039-7939
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/anna-fairclough-82465b246/
+             icon: fab fa-linkedin-in
+
+       - name: "Akriti Nanda"
+         role: "Specialty Trainee Doctor in General Surgery"
+         team-member-page: /fellow/
+         image: assets/img/fellow/akritinanda.jpg
+         social:
+           - url: https://orcid.org/0000-0002-7333-2730
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/akriti-nanda-13aba8109/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/akritinanda
+             icon: fab fa-twitter
+
+       - name: "Timothy Ebsworth"
+         role: "Specialty Trainee Doctor in Haematology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/timothyebsworth.jpg
+         social:
+           - url: https://www.linkedin.com/in/timothy-ebsworth-34512337/
+             icon: fab fa-linkedin-in
+
+       - name: "Juan Tan"
+         role: "Specialty Trainee Doctor in Haematology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/juantan.jpg
+         social:
+
+
+       - name: "Alistair Heath"
+         role: "Specialty Trainee Doctor in Histopathology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/alistairheath.jpg
+         social:
+
+
+       - name: "Michael Mackay"
+         role: "Specialty Trainee Doctor in Neurology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/michaelmackay.jpg
+         social:
+
+
+       - name: "Sunil Mamtora"
+         role: "Specialty Trainee Doctor in Ophthalmology"
+         team-member-page: /fellow/
+         image: assets/img/fellow/sunilmamtora.jpg
+         social:
+           - url: https://www.researchgate.net/profile/Sunil-Mamtora
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/sunil-mamtora-97579020/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/mamtora_sunil
+             icon: fab fa-twitter
+
+
+       - name: "Iblal Rakha"
+         role: "Lead Pharmacist in Clinical Trials Informatics"
+         team-member-page: /fellow/
+         image: assets/img/fellow/iblalrakha.jpg
+         social:
+           - url: https://www.linkedin.com/in/iblalrakha/
+             icon: fab fa-linkedin-in
+
+       - name: "Christopher Efford"
+         role: "Physiotherapist in Musculoskeletal therapy"
+         team-member-page: /fellow/
+         image: assets/img/fellow/christopherefford.png
+         social:
+
+       - name: "Charlie Winward"
+         role: "Consultant Physiotherapist in Neurorehabilitation"
+         team-member-page: /fellow/
+         image: assets/img/fellow/charliewinward.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=eQyoeA8AAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/charlie-winward-033aa154/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/Charlie_ConsAHP
+             icon: fab fa-twitter
+
+       - name: "Karol Basta"
+         role: "Specialty Trainee Doctor in Public Health"
+         team-member-page: /fellow/
+         image: assets/img/fellow/karolbasta.jpg
+         social:
+           - url: https://www.linkedin.com/in/karol-basta-7a55a61b1/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/karolbasta
+             icon: fab fa-twitter
+
+       - name: "Natalie Davison"
+         role: "Specialty Trainee in Public Health"
+         team-member-page: /fellow/
+         image: assets/img/fellow/nataliedavison.jpg
+         social:
+
+
+       - name: "Joshua Khan"
+         role: "Specialty Trainee Doctor in Public Health"
+         team-member-page: /fellow/
+         image: assets/img/fellow/joshuakhan.jpg
+         social:
+           - url: https://www.linkedin.com/in/joshua-khan-517b241b3/
+             icon: fab fa-linkedin-in
+
+       - name: "Rachel Thomson"
+         role: "Specialty Trainee Doctor in Public Health"
+         team-member-page: /fellow/
+         image: assets/img/fellow/rachelthomson.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=YY1uNvoAAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://twitter.com/Rachel_Thomson
+             icon: fab fa-twitter
+
+
+       - name: "Thomas Evans"
+         role: "Specialty Trainee Dentist in Special Care Dentistry"
+         team-member-page: /fellow/
+         image: assets/img/fellow/thomasevans.jpg
+         social:
+ en-US:
+   <<: *DEFAULT_EN
+ en-CA:
+   <<: *DEFAULT_EN
+ en-GB:
+   <<: *DEFAULT_EN
+ en-AU:
+   <<: *DEFAULT_EN
