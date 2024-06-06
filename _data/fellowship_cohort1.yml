@@ -38,7 +38,7 @@ en: &DEFAULT_EN
       - name: "Kavitha Vimalesvaran"
         role: "Specialty Trainee Doctor in Cardiology"
         team-member-page: /fellow/kavithavimalesvaran.html
-        image: assets/img/team/kavitha.png
+        image: assets/img/fellow/kavithavimalesvaran.png
         social:
           - url: https://orcid.org/0000-0003-2236-7279
             icon: fas fa-book

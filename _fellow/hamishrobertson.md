@@ -1,0 +1,24 @@
+---
+layout: fellow
+team-member-name: Hamish Robertson
+team-member-photo: /assets/img/fellow/hamishrobertson.jpg
+job-role: Fellow in Clinical AI, Cohort 2
+social:
+           - url: https://www.linkedin.com/in/hamishr/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/hamdev
+             icon: fab fa-twitter
+---
+
+### Fellowship Bio
+I'm a Paediatrics Trainee in North Central London, my AI project is based at the UCL Institute of Neurology. I love paediatrics for its spontaneity, humour, and the resilience of children. I'm passionate about AI's potential to enhance patient care and personalise evidence-based medicine for everyone.
+
+
+### Fellowship Project
+##### _Cytospace – beyond the blood count_
+##### University College Hospitals London NHS Foundation Trust
+
+Our AI project aims to unlock new clinical insights from full blood count (FBC) tests, going beyond the traditional haematological parameters. By leveraging rich flow cytometric data, we aim to infer pathological findings not typically represented in FBC results. This includes inferring non-haematological parameters like ferritin, CRP, and HbA1c, with the ultimate goal of predicting clinical diagnoses, treatment responses, or patient outcomes. I have been involved in exploratory analysis, as well as designing and testing our initial models. We've developed models that utilise both spatial flow cytometry data and tabular data. Creating these models from scratch was challenging due to the limited existing literature, but a significant milestone for me was learning to train models using our novel image data - a process that was both challenging and rewarding. We're working with a large dataset of healthy blood donors, though the groups with pathology are relatively small, making the dataset imbalanced. To address this, we've explored innovative techniques to generate synthetic data, helping to rebalance the dataset and improve model performance. So far, our findings indicate that the FBC can predict a variety of biophysical and biochemical parameters. Our next step involves accessing a large dataset of FBCs linked with clinical outcomes. Training with this dataset could enable us to predict diagnoses directly from FBC results. Given that the FBC is the most commonly ordered and one of the cheapest pathology tests, extracting richer insights from it could revolutionise early disease detection and monitoring. Although this project isn't directly related to paediatrics, it holds promising implications for reducing blood tests and predicting diseases earlier in children. As we move forward, we aim to validate our model's predictions with larger and more diverse datasets to ensure robustness. The prospect of integrating AI directly into pathology reporting systems is exciting, as it could provide broader insights from routine patient tests.
+
+### Fellowship Testimonial
+Reflecting on my fellowship experience, I can't overstate how much I've learned from my fellow participants. Their diverse knowledge has been invaluable, and it's been a pleasure to count myself among them. I've gained new friends and honed my technical skills in data science and AI modelling. The monthly workshops were a highlight for me. We learned extensively from numerous leaders in the industry and regulation. Some memorable moments included inspiring conversations with Prof Eric Topol and Dr Chris Kelly, and critically appraising industry presentations. I also enjoyed participating in healthcare hackathons—opportunities I wouldn’t have discovered without this program. One of the most impactful experiences was working on a challenging project that required designing AI models from scratch. This pushed me to apply my technical skills and think creatively. It was frustrating at times but ultimately rewarding, as it helped me push the boundaries of my knowledge and skills. In every area of my practice, I now consider how AI could enhance our care. I am excited to see how this field evolves and am eager to support its integration. My new technical skills have transformed my approach to clinical problems, allowing me to consider innovative solutions that integrate AI. For anyone considering this fellowship, I strongly encourage you to participate. It has been rewarding in many ways. Make the most of the contacts you meet; there is a wealth of knowledge around, and everyone has been keen to share their experiences. I am particularly grateful to my supervisor for guiding me through the program, helping me work through challenges, and nurturing my development of new skills. Looking ahead, I hope to continue the research initiated during the fellowship, working on larger and richer datasets with clinical outcomes. As my career progresses, I aspire to become a champion of AI in healthcare, enabling clinicians to practice better and improving the care and lives of our patients.
