@@ -1,6 +1,6 @@
 ---
 layout: people
-title: The NHS Fellowship in Clinical AI Cohort 1
+title: NHS Fellowship in Clinical AI Cohort 1
 permalink: /fellowship_cohort1.html
 ---
 
