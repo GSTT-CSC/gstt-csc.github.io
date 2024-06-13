@@ -6,24 +6,24 @@ title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26)
 Applications for Cohort 4 of the NHS Fellowship in Clinical AI are planned to open in November 2024.
 Successful applicants will be fellows in clinical AI from August 2025 - August 2026.
 
-For more information, prospective applicants can read our [list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
+Prospective applicants can read our [list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
 The materials below are a planning resource for future applicants.
 
 <h3 style>Key Dates</h3> 
 This list will be updated when the application window is finalised.
-* Nov 2024: Applications open- Application form  live, Approval in Principle form live
+* Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
 * Nov 2024: Applicant webinar and Q&A
 * Dec 2024: Application form deadline
 * Jan 2025: Approval in Principle form deadline
 * Jan 2025: Remote interviews
 * Feb 2025: Interview outcomes and project matching
-* Aug 2025: Fellowship cohort 3 begins
+* Aug 2025: Fellowship cohort 4 begins
 
 <h3 style>Application process</h3> 
 
 1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 3 [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) for reference (criteria subject to change between cohorts).
-2. Applicant submits  online application form (live in November 2024)
-3. Applicant's Approver submits online Approval in Principle form. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
+2. Applicant submits online *Application Form* (live in November 2024)
+3. Applicant's Approver submits online *Approval in Principle Form*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
 4. Applicants are shortlisted for remote interview
 5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
@@ -79,15 +79,15 @@ The eligible career stages have been agreed by consensus with the digital workfo
 
 <strong>What is a BSH Fellow in Clinical AI? </strong>
 
-<p>The BSH is sponsoring posts for BSH members in Cohort 3 of the Fellowship in Clinical AI. 
-There are 2 sponsored posts in Cohort 3, and the appointees will be designated BSH Fellows in Clinical AI. 
+<p>The British Society for Haematology (BSH) is sponsoring posts for BSH members in Cohort 4 of the Fellowship in Clinical AI. 
+There are 2 sponsored posts in Cohort 4, and the appointees will be designated BSH Fellows in Clinical AI. 
 These posts are reserved exclusively for applicants who are BSH members, and will link to projects relating to Haematology. 
 </p>
 <strong>Are there Haematology themed AI projects available?  </strong>
 
-<p>Yes. The BSH has identified projects relevant to the specialty theme of AI in Haematology and details will be released during the recruitment cycle.  
+<p>Yes. The BSH and fellowship faculty have identified projects relevant to the specialty theme of AI in Haematology and details will be released during the recruitment cycle.  
 These are “BSH-badged projects”, and first priority for them is reserved exclusively for BSH Fellows in Clinical AI. 
-In cohort 3, BSH-badged projects are clustered around the London region.
+In Cohort 3, BSH-badged projects are clustered around the London and the South East. Geographical availability is anticipated to expand in Cohort 4.
 </p>
 <strong>Can any member of the BSH apply? </strong>
 
@@ -98,7 +98,7 @@ In cohort 3, BSH-badged projects are clustered around the London region.
 
 <p>Yes. BSH applicants can apply from any NHS region. 
 However, in practice, it is the applicant's responsibility to ensure that they are able to commute to their project location through the fellowship year, and this is not resourced by the BSH or by the fellowship itself. The offer for a fellowship post may be withdrawn if the potential BSH Fellow in Clinical AI is unable to demonstrate a feasible plan for commuting to their project location. 
-In cohort 3, BSH-badged projects are clustered around the London region.
+
 </p>
 <strong>How will BSH membership be checked? </strong>
 
@@ -136,20 +136,20 @@ It is possible to be matched to a BSH-badged project through this route, dependi
 
 <strong>How many stages of recruitment are there? </strong>
 
-<p>There are 2 stages of recruitment shortlist and interview. 
-In the shortlisting stage, eligible applicants are scored according to their responses on the online application form. 
+<p>There are 2 stages of recruitment: shortlist and interview. 
+In the shortlisting stage, eligible applicants are scored according to their responses on the online <i>Application Form</i>. 
 The highest scoring applicants from the shortlisting stage are then invited to a remote interview. 
 The scores from interview are used to match successful applicants to their choice of project. 
 </p>
 <strong>What is the format of the interview?  </strong>
 
 <p>Interviews are conducted remotely.
-The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "How to apply", Step 1). 
+The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "Application Process", Step 1). 
 The interview panel consists of fellowship faculty, AI supervisors, and regional education leads. 
 </p>
 <strong>When will the interviews happen?  </strong>
 
-<p>The interviews are planned for the week commencing 22 January 2024. 
+<p>The interviews are planned for mid/late January 2025. 
 Applicants proceeding to interview will be sent a link to book their interview slot. 
 </p>
 
@@ -160,6 +160,20 @@ Interviewees are assessed according to the Essential and Desirable criteria of t
 Consider how to show evidence of meeting these criteria with real-world examples, particularly through participation in digital transformation projects in healthcare.
 </p>
 
+</details>
+<details>
+
+<summary>Approval in principle</summary>
+
+<strong>Does the <i>Approval In Principle Form</i> need to be submitted at the same time as my <i>Application Form</i>? </strong>
+
+<p>No. However, if the <i>Approval In Principle Form</i> is not received by the time the shortlist stage is complete (indicative deadline: early January 2025), your application cannot proceed to interview, regardless of your shortlist score. 
+</p>
+<strong>What if I cannot get the appropriate person to submit my <i>Approval In Principle Form</i>?  </strong>
+
+<p>Applicants who do not have the relevant submitted <i>Approval In Principle Form</i> cannot proceed to the interview stage, regardless of their shortlist score. 
+This is because we can only make offers to applicants who have evidence of being able to take up the post. 
+</p>
 </details>
 
 <details>
@@ -203,20 +217,7 @@ The experience from any project will involve significant amounts of transferable
 </p>
 </details>
 
-<details>
 
-<summary>Approval in principle</summary>
-
-<strong>Does the “Approval In Principle” form need to be submitted at the same time as my application? </strong>
-
-<p>No. However, if it is not received by the time the shortlist stage is complete (indicative date 02 January 2024), your application cannot proceed to interview, regardless of your shortlist score. 
-</p>
-<strong>What if I cannot get the appropriate person(s) to submit my Approval In Principle form?  </strong>
-
-<p>Applicants who do not have the relevant submitted Approval In Principle form cannot proceed to the interview stage, regardless of their shortlist score. 
-This is because we can only offer the fellowship to applicants who have evidence of being able to take up the role. 
-</p>
-</details>
 
 <details>
 
@@ -232,8 +233,7 @@ This is because we can only offer the fellowship to applicants who have evidence
 </p>
 <strong>Does the fellowship pay me directly? </strong>
 
-<p>No. The fellowship is not your Employer. 
-The fellowship reimburses your existing Employer for your salary (0.4FTE for 12 months) to release your time for the fellowship role.. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship in August 2024.  
+<p>No. The fellowship is not your Employer. Your existing Employer is reimbursed for your salary (0.4FTE for 12 months) to release your time for the fellowship post by the regional or professional sponsoring organisation for your post. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship.  
 </p>
 <strong>What if I go on sick leave or parental leave during the fellowship year? </strong>
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
@@ -241,10 +241,10 @@ The educational activities and project placements hosted by AI supervisors are s
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
 
-<strong>Is the time commitment (0.4FTE) negotiable??</strong>
+<strong>Can I do the fellowship at a lower time commitment (0.4FTE)?</strong>
 <p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
-One eligibility criterion is that your Approver(s) confirm you will be released for 0.4FTE for this programme.
-If your Approver(s) cannot confirm that this time can be released, your application is not eligible.
+One eligibility criterion is that your Approver confirms you will be released for 0.4FTE for this programme.
+If your Approver cannot confirm that this time can be released, your application is not eligible.
 A fellow should not have a total working pattern >1.0FTE in total.
 
 </p>
