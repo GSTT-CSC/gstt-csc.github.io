@@ -1,7 +1,7 @@
 ---
 layout: people
 permalink: /fellowship_info.html
-title: NHS Fellowship in Clinical AI Information
+title: NHS Fellowship in Clinical Artificial Intelligence
 ---
 <h3 style>Background to the NHS Fellowship in Clinical AI</h3>
 
@@ -103,6 +103,7 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 </ul>
 
 </details>
+<br>
 
 <h3 style>Literature</h3>
 * Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
