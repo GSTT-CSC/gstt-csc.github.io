@@ -3,7 +3,7 @@ layout: people
 permalink: /fellowship_cohort4.html
 title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26) 
 ---
-Applications for Cohort 4 of the NHS Fellowship in Clinical AI are planned to open in November 2024.
+Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are planned to open in November 2024.
 Successful applicants will be fellows in clinical AI from August 2025 - August 2026.
 
 Prospective applicants can read our [list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
