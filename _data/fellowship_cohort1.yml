@@ -64,6 +64,8 @@ en: &DEFAULT_EN
         team-member-page: /fellow/adammayers.html
         image: assets/img/fellow/adammayers.jpg
         social:
+          - url: https://github.com/adam-mayers
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/adam-mayers-225311272/
             icon: fab fa-linkedin-in
           - url: https://twitter.com/Adam_Mayers
