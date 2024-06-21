@@ -4,6 +4,8 @@ team-member-name: Adam Mayers
 team-member-photo: /assets/img/fellow/adammayers.jpg
 job-role: Fellow in Clinical AI, Cohort 1
 social:
+          - url: https://github.com/adam-mayers
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/adam-mayers-225311272/
             icon: fab fa-linkedin-in
           - url: https://twitter.com/Adam_Mayers

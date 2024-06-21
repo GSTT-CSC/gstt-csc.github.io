@@ -11,8 +11,7 @@ social:
 ---
 
 ### Fellowship Bio
-Qasim is a paediatrics postgraduate registrar in training at Birmingham Children's Hospital. 
-
+Qasim is a paediatrics postgraduate registrar in training at Birmingham Children's Hospital. Following this AI fellowship, he has been successfully appointed to the NIHR Academic Clinical Fellowship Programme from September 2024 in AI research. He also volunteers as an executive director of a volunteer organisation and fellow for BMJ Leader. His interests are in the intersections of advocacy and innovation addressing the health needs of underserved communities alongside medical leadership.
 ### Fellowship Project
 ##### _Medical Algorithmic Audit of skin cancer detection tool_
 ##### University Hospitals Birmingham NHS Foundation Trust
