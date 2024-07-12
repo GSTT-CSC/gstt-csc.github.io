@@ -69,17 +69,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/heyhaleema
             icon: fab fa-linkedin-in
-      - name: "Kavitha Vimalesvaran"
-        role: "Fellow in Clinical AI"
-        team-member-page: /team_member/kavitha.html
-        image: assets/img/team/Kavitha.png
-        social:
-          - url: https://github.com/kavithavaran
-            icon: fab fa-github
-          - url: https://twitter.com/kavitha_varan
-            icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
-            icon: fab fa-linkedin-in
       - name: "Aysha Luis"
         role: "AI Evaluation Lead"
         team-member-page: /team_member/aysha.html
@@ -110,15 +99,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/zsofia-ratkai-05b51b119
             icon: fab fa-linkedin-in
-      - name: "Robert Dunk"
-        role: "Fellow in Clinical AI"
-        team-member-page: /team_member/rob.html
-        image: assets/img/team/Rob.jpg
-        social:
-          - url: https://github.com/robd78
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/robert-dunk-15a280228/
-            icon: fab fa-linkedin-in 
       - name: "Mike Woodward"
         role: "Clinical Scientist"
         team-member-page: /team_member/mike.html
