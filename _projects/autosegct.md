@@ -38,7 +38,7 @@ Segmentation models have been created as output of the extensive research activi
 * Bowel space             
 
 
-4.  **Head&Neck Model** -  _Tom Youngs_    
+4.  **Head&Neck Model** -  _Tom Young_    
 * TBC
 
 
