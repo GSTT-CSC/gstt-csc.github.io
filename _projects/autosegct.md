@@ -4,7 +4,7 @@ title: Radiotherapy Auto Segmentation
 status: Evaluating
 image: /assets/img/projects/autosegct_logo.png
 summary: Single application for all in-house auto-segmentation contours
-csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a> <a href="/team_member/Tom.html">Tom Roberts</a>
+csc-lead: <a href="/team_member/anil.html">Anil Mistry</a> and <a href="/team_member/tom.html">Tom Roberts</a>
 modality: Radiotherapy planning CT 
 pathology: Cancer
 rationale: Contouring organs on CT's scans for radiotherapy treatments is vital for patient safety, however is very time consuming for Oncologists. AI models have been developed locally to automate the CT image segmentation. 
