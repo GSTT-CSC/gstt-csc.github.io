@@ -33,13 +33,6 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/dangerdika
             icon: fab fa-github
-      - name: "Laurence Jackson"
-        role: "Clinical Scientist"
-        team-member-page: /team_member/laurence.html
-        image: assets/img/team/Laurence.png
-        social:
-          - url: https://github.com/laurencejackson
-            icon: fab fa-github
       - name: "Anil Mistry"
         role: "Clinical Scientist"
         team-member-page: /team_member/anil.html
@@ -67,7 +60,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tom-a-roberts/
             icon: fab fa-linkedin-in
-      - name: "Haleema Al Jazzaf"
+      - name: "Haleema Drake"
         role: "AI Engineer"
         team-member-page: /team_member/haleema.html
         image: assets/img/team/Haleema.jpg
@@ -75,17 +68,6 @@ en: &DEFAULT_EN
           - url: https://github.com/heyhaleema
             icon: fab fa-github
           - url: https://www.linkedin.com/heyhaleema
-            icon: fab fa-linkedin-in
-      - name: "Kavitha Vimalesvaran"
-        role: "Fellow in Clinical AI"
-        team-member-page: /team_member/kavitha.html
-        image: assets/img/team/Kavitha.png
-        social:
-          - url: https://github.com/kavithavaran
-            icon: fab fa-github
-          - url: https://twitter.com/kavitha_varan
-            icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
             icon: fab fa-linkedin-in
       - name: "Aysha Luis"
         role: "AI Evaluation Lead"
@@ -117,15 +99,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/zsofia-ratkai-05b51b119
             icon: fab fa-linkedin-in
-      - name: "Robert Dunk"
-        role: "Fellow in Clinical AI"
-        team-member-page: /team_member/rob.html
-        image: assets/img/team/Rob.jpg
-        social:
-          - url: https://github.com/robd78
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/robert-dunk-15a280228/
-            icon: fab fa-linkedin-in 
       - name: "Mike Woodward"
         role: "Clinical Scientist"
         team-member-page: /team_member/mike.html

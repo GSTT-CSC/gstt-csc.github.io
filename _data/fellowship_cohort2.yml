@@ -1,0 +1,187 @@
+ # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+ #
+ # Configuration: Add to _config.yml
+ # locale: "en-US"  [YOUR PREFERRED LOCALE]
+ #
+ # How to use:
+ # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+ # English (default)
+ # -----------------
+ en: &DEFAULT_EN
+
+   team:
+     text:
+     section: team
+     people:
+       - name: "Robert Dunk"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/robertdunk.html
+         image: assets/img/fellow/robertdunk.jpg
+         social:
+           - url: https://www.linkedin.com/in/robert-dunk-15a280228/
+             icon: fab fa-linkedin-in
+
+       - name: "Maredudd Harris"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/mareduddharris.html
+         image: assets/img/fellow/mareduddharris.jpg
+         social:
+           - url: https://www.linkedin.com/in/maredudd-harris
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/maredudd_harris
+             icon: fab fa-twitter
+
+       - name: "Paulette Kumi"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/paulettekumi.html
+         image: assets/img/fellow/paulettekumi.jpg
+         social:
+
+       - name: "Ruchir Shah"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/ruchirshah.html
+         image: assets/img/fellow/ruchirshah.jpg
+         social:
+
+       - name: "Sonam Vadera"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+         team-member-page: /fellow/sonamvadera.html
+         image: assets/img/fellow/sonamvadera.jpg
+         social:
+           - url: https://www.linkedin.com/in/sonam-vadera-33871a292/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/drsonamvadera
+             icon: fab fa-twitter
+
+       - name: "William Pritchard"
+         role: "Specialty Trainee Doctor in Emergency Medicine"
+         team-member-page: /fellow/williampritchard.html
+         image: assets/img/fellow/williampritchard.jpg
+         social:
+           - url: https://www.linkedin.com/in/wjpritchard
+             icon: fab fa-linkedin-in
+
+       - name: "Annabelle Painter"
+         role: "Specialty Trainee Doctor in General Practice"
+         team-member-page: /fellow/annabellepainter.html
+         image: assets/img/fellow/annabellepainter.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=ToidwbUAAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/dr-annabelle-painter
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/p_annabelle
+             icon: fab fa-twitter
+
+       - name: "Ashiv Patel"
+         role: "Specialty Trainee Doctor in General Practice"
+         team-member-page: /fellow/ashivpatel.html
+         image: assets/img/fellow/ashivpatel.jpg
+         social:
+           - url: https://www.linkedin.com/in/ashivpatel/
+             icon: fab fa-linkedin-in
+
+       - name: "Andrew Soltan"
+         role: "Specialty Trainee Doctor in Medical Oncology"
+         team-member-page: /fellow/andrewsoltan.html
+         image: assets/img/fellow/andrewsoltan.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=TvJWyVcAAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/andrewsoltan
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/andrewsoltan
+             icon: fab fa-twitter
+
+       - name: "Nikunj Davda"
+         role: "Specialty Trainee Doctor in Neurology"
+         team-member-page: /fellow/nikunjdavda.html
+         image: assets/img/fellow/nikunjdavda.jpg
+         social:
+           - url: https://orcid.org/0009-0001-6763-5436
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/nikunj-davda-a0878787
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/nikunjdavda6
+             icon: fab fa-twitter
+
+       - name: "Rishi Ramessur"
+         role: "Specialty Trainee Doctor in Ophthalmology"
+         team-member-page: /fellow/rishiramessur.html
+         image: assets/img/fellow/rishiramessur.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=C1PMG-QAAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/rishi-ramessur
+             icon: fab fa-linkedin-in
+
+       - name: "Taha Soomro"
+         role: "Specialty Trainee Doctor in Ophthalmology"
+         team-member-page: /fellow/tahasoomro.html
+         image: assets/img/fellow/tahasoomro.jpg
+         social:
+           - url: https://scholar.google.com/citations?hl=en&user=pEWQ-Y4AAAAJ&view_op=list_works&sortby=pubdate
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/taha-soomro-b6120973
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/soomrotaha
+             icon: fab fa-twitter
+
+       - name: "Qasim Malik"
+         role: "Specialty Trainee Doctor in Paediatrics"
+         team-member-page: /fellow/qasimmalik.html
+         image: assets/img/fellow/qasimmalik.png
+         social:
+           - url: https://www.linkedin.com/in/qasim-malik-b02109257/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/qasimmalikmed
+             icon: fab fa-twitter
+
+       - name: "Caolan Roberson"
+         role: "Specialty Trainee Doctor in Paediatrics"
+         team-member-page: /fellow/caolanroberson.html
+         image: assets/img/fellow/caolanroberson.jpg
+         social:
+           - url: https://www.linkedin.com/in/caolan-roberson-a24bab266
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/robersoncaolan
+             icon: fab fa-twitter
+
+       - name: "Hamish Robertson"
+         role: "Specialty Trainee Doctor in Paediatrics"
+         team-member-page: /fellow/hamishrobertson.html
+         image: assets/img/fellow/hamishrobertson.jpg
+         social:
+           - url: https://www.linkedin.com/in/hamishr/
+             icon: fab fa-linkedin-in
+           - url: https://twitter.com/hamdev
+             icon: fab fa-twitter
+
+       - name: "Yash Verma"
+         role: "Specialty Trainee Doctor in Plastic Surgery"
+         team-member-page: /fellow/yashverma.html
+         image: assets/img/fellow/yashverma.jpg
+         social:
+           - url: https://orcid.org/0000-0003-1215-9513
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/yash-verma-a370731a4
+             icon: fab fa-linkedin-in
+
+       - name: "Luis Ribeiro"
+         role: "Specialty Trainee Doctor in Urology"
+         team-member-page: /fellow/luisribeiro.html
+         image: assets/img/fellow/luisribeiro.jpg
+         social:
+           - url: https://orcid.org/0000-0003-1828-2117
+             icon: fas fa-book
+           - url: https://www.linkedin.com/in/luis-ribeiro-16815374
+             icon: fab fa-linkedin-in
+ en-US:
+   <<: *DEFAULT_EN
+ en-CA:
+   <<: *DEFAULT_EN
+ en-GB:
+   <<: *DEFAULT_EN
+ en-AU:
+   <<: *DEFAULT_EN

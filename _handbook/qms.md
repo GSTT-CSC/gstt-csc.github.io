@@ -3,7 +3,7 @@ title: Quality Management System
 category: Ways of Working
 categoryorder: 2
 shorthand: QMS
-order: 6
+order: 3
 ---
 
 The CSC Quality Management System has been developed in-house and applies to all standalone software medical devices developed by the Clinical Scientific Computing team at Guy's & St Thomas' NHS Foundation Trust.
