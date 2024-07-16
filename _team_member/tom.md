@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Tom Roberts
 team-member-photo: /assets/img/team/TomR.jpeg
-job-role: Senior AI Engieer <br>HEE Topol Digital Fellow
+job-role: Senior AI Engineer <br>HEE Topol Digital Fellow
 ---
 
 ### Bio
