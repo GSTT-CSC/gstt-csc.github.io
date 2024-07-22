@@ -11,12 +11,7 @@ social:
 ---
 
 ### Fellowship Bio
-I am an Ophthalmologist Registrar specialising in corneal and ocular surface disease. Before joining the Clinical AI Fellowship, I completed a Digital Fellowship at Moorfields Eye Hospital, where I facilitated the deployment of new technologies within our clinical services. with a strong foundation in clinical care, technical
-expertise, and leadership. I have implemented
-tablet-based learning for medical students,
-tackled VR-assisted regional anaesthesia projects
-and delivered digital professional development
-during COVID-19. 
+I am an Ophthalmologist Registrar specialising in corneal and ocular surface disease. Before joining the Clinical AI Fellowship, I completed a Digital Fellowship at Moorfields Eye Hospital, where I facilitated the deployment of new technologies within our clinical services.
 
 
 ### Fellowship Project
