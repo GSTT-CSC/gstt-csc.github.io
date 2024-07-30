@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: X-Ray Occult Carpal Detection
-status: Developing
+status: Evaluating
 image: /assets/img/projects/xray_carpel.jpg
 summary: A computer aided diagnosis tool which would automatically run when a scaphoid fracture is suspected.
 csc-lead: <a href="/team_member/Dika.html">Dika</a>

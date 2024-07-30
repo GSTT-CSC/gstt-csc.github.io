@@ -1,10 +1,10 @@
 ---
 layout: project_page
 title: NLP for optimisation of endoscopic resources
-status: Evaluating
+status: Reporting
 image: /assets/img/blog/nhs_logo.png
 summary: Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources
-csc-lead: <a href="team_member/Laurence.html">Laurence</a>
+csc-lead: <a href="team_member/Agathe.html">Agathe</a>
 modality: Endoscopy, EPR
 pathology: Premalignant disease of the upper gastrointestinal tract
 rationale: Patients with premalignant disease of the upper gastrointestinal tract need to undergo regular endoscopic surveillance to prevent malignancy. The timing of endoscopic procedures is often inaccurate and many patients are either surveyed endoscopically late or inappropriately which becomes a healthcare resource burden. Using natural language processing to automatically caluclate follow up timings based on information in the EPR system

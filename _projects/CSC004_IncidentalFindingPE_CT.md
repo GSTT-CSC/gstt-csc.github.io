@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Incidental Pulmonary Embolism
-status: Evaluating
+status: Contracting
 image: /assets/img/projects/lung_pe.jpg
 summary: An automated tool for identifying and prioritising patients with Pulmonary Emboli.
 csc-lead: <a href="/team_member/Simone.html">Simone</a>

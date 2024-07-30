@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Pulmonary Embolism Response Team AI  
-status: Evaluating
+status: Contracting
 image: /assets/img/projects/pert_image_wikipedia.png
 summary: AI enabled detection and classification of high risk PE patients
 csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a>
