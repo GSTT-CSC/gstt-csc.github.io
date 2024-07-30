@@ -11,14 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
 
-  title: "The Landscape"
-  intro-text: "Or, click on the links below to find out more about the software platforms:"
+  title: "The landscape"
   section: platforms
   platforms:
-    - name: "AIDE"
-      platform-page: /platforms/aide.html
-      platform-image: assets/img/platforms/AIDE_light.png
-      platform-verb: "Deploy AI Models"
+    - name: "MLOps"
+      platform-page: /platforms/mlops.html
+      platform-image: assets/img/platforms/mlops_logo.png
+      platform-verb: "Develop AI applications"
     - name: "CogStack"
       platform-page: /platforms/cogstack.html
       platform-image: assets/img/platforms/cogstack_logo.png
@@ -27,10 +26,14 @@ en: &DEFAULT_EN
       platform-page: /platforms/xnat.html
       platform-image: assets/img/platforms/xnat_logo.png
       platform-verb: "Retrieve and Anonymize Imaging Data"
-    - name: "MLOps"
-      platform-page: /platforms/mlops.html
-      platform-image: assets/img/platforms/mlops_logo.png
-      platform-verb: "Develop AI applications"
+    - name: "AIDE"
+      platform-page: /platforms/aide.html
+      platform-image: assets/img/platforms/AIDE_light.png
+      platform-verb: "Deploy AI Models"
+    - name: "QMS"
+      platform-page: /policy_build.html
+      platform-image: assets/img/platforms/qms-logo.png
+      platform-verb: "Inform model design"
 
 en-US:
   <<: *DEFAULT_EN

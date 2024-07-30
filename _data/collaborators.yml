@@ -3,11 +3,3 @@ section: collaborators
 collaborators:
   - image: assets/img/collaborators/aicentre_logo.png
     image-page: https://www.aicentre.co.uk/
-  - image: assets/img/collaborators/nvidia_logo.png
-    image-page: https://www.nvidia.com/en-gb/
-  - image: assets/img/collaborators/innersight_logo.svg
-    image-page: https://innersightlabs.com/
-  - image: assets/img/collaborators/aidence_logo.svg
-    image-page: https://www.aidence.com/
-  - image: assets/img/collaborators/qure_logo.png
-    image-page: https://www.qure.ai/

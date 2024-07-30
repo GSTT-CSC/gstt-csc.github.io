@@ -16,25 +16,11 @@ document.getElementById("page-top").className="bg-light";
 
     <!--Landscape Wheel-->
     <h3 class="lead">
-    The Landscape wheel below shows the software platforms that the CSC team uses in order to bring AI models from data collection all the way through to deployment.
+    The key components needed for development of AI models in NHS are three: the data, the machine learning environment, and the quality management system that informs design to ensure patient safety.
+        For data retrieval from the clinical systems, we use XNAT (imaging data), our data warehousing solutions (structured data) and Cogstack (unstructured data). For machine learning activities we use MLOPs.
+        The system design is informed by the SOPs in our QMS. Finally, our models are deployed through AIDE. Click on the logos below to find out more about our platforms.
     </h3>
-
-    <p>Click on the platform names to find out more about each one:</p>
-
-    <div style="text-align: center;" class="pt-4">
-        <img src="assets/img/platforms/platforms-wheel.png" class="w-50" usemap="#workmap">
-    </div>
-
- <map name="workmap">
-        <area shape="rect" coords="400,440,480,500" alt="Computer" href="/platforms/mlops.html">
-        <area shape="rect" coords="130,400,200,440" alt="Computer" href="/platforms/aide.html">
-        <area shape="rect" coords="180,110,280,140" alt="Computer" href="/platforms/cogstack.html">
-        <area shape="rect" coords="300,70,370,100" alt="Computer" href="/platforms/xnat.html">
-    </map>
-
     <!--Landscape Grid-->
-    <br />
-    <br />
     <p>{{ site.data.platforms[site.locale].intro-text }}</p>
 
       <div class="row pt-3 text-center text-md-left">
@@ -42,7 +28,7 @@ document.getElementById("page-top").className="bg-light";
         <div class="mx-auto col-md-6 col-lg-4 p-4 ">
             <h4>{{ platform.name }}</h4>
             <a href="{{ platform.platform-page }}">
-              <img style="width: 300px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
+              <img style="height: 170px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
             </a>
             <p>{{ platform.platform-verb }}</p>
         </div>
