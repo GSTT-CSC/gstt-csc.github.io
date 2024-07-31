@@ -4,6 +4,8 @@ team-member-name: Robert Dunk
 team-member-photo: /assets/img/fellow/robertdunk.jpg
 job-role: Fellow in Clinical AI, Cohort 2
 social:
+            - url: https://github.com/robd78
+            icon: fab fa-github
            - url: https://www.linkedin.com/in/robert-dunk-15a280228/
              icon: fab fa-linkedin-in
 ---
