@@ -5,16 +5,3 @@ layout: default
 {% include about.html %}
 {% include whatwedo.html %}
 
-<!--Calendar & Twitter-->
-<section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].calendar.title | default: "CSC Calendar" }}">
-<div class="container">
-  <div class="row justify-content-md-center">
-    <div class="col-lg-7">
-       <h2 class="pb-4">{{ site.data.sitetext[site.locale].calendar.title }}</h2>
-       {% include calendar.html %}
-    </div>
-  </div>
-</div>
-</section>
-<!--End Calendar & Twitter-->
-{% include collaborators.html %}

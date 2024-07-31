@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Motion-corrected 3D Fetal Brain MRI
-status: Developing
+status: Concluded
 image: /assets/img/projects/3d_fetal_mri_project_image.jpg
 summary: An automated software workflow for reconstruction of motion-corrected 3D fetal MRI images 
 csc-lead: <a href="/team_member/Tom.html">Tom</a>

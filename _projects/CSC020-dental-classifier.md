@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Detection and classification of lesions in dental panoramic tomograms  
-status: Developing
+status: Reporting
 image: /assets/img/projects/dental_tomograph_wikipedia.jpg
 summary: AI enabled detection and classification of lesions in dental panoramic tomograms
 csc-lead: <a href="/team_member/Mike.html">Mike</a>

@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Rotational Profiles
-status: Backlog
+status: Graveyard
 image: /assets/img/projects/rotational_profiles.png
 summary: An AI tool to measure degrees of misalignment of lower limb rotation in pre-surgical planning assessments .  
 csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a>

@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Smart brain MRI protocols 
-status: Governance
+status: Concluded
 image: /assets/img/blog/nhs_logo.png
 summary: Evaluation of brain MRI smart protocoling software
 csc-lead: <a href="/team_member/Laurence.html">Laurence</a>

@@ -27,8 +27,6 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com/CSC_GSTT
-        icon: "fab fa-twitter"
       - url: https://github.com/GSTT-CSC
         icon: "fab fa-github"
 

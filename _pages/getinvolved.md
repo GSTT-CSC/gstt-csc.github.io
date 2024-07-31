@@ -35,7 +35,7 @@ We also welcome interested applicants to work with us on:
 
 For new projects within Guy's and St Thomas' NHS Foundation Trust (GSTT), please submit the
 [Project Initiation Document (PID)](../assets/docs/CSC-SubmissionForm-V3.docx) via email to
-[CSC Team](mailto:CSCTeam@gstt.nhs.uk).
+[CSC Team](mailto:ClinicalScientificComputing@gstt.nhs.uk).
 
 ### Outreach
 We also aim to regularly engage with potential STP applicants and students via:

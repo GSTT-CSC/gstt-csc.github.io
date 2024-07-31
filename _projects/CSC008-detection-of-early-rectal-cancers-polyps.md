@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Early detection of rectal cancer
-status: Data Curating
+status: Graveyard
 image: /assets/img/projects/polyps.jpg
 summary: An application that identifies areas of concern on MRI images for the detection of rectal cancers/polyps
 csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
