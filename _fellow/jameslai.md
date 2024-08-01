@@ -18,7 +18,7 @@ risk stratification in emergency care.
 
 
 ### Fellowship Project
-#### _Novel predictive algorithm development for high-cost early mental health care_
+#### _[Novel predictive algorithm development for high-cost early mental health care](assets/docs/posters/FCAI C1 Grad Poster JamesLai.pdf)_
 #### South London and Maudsley NHS Foundation Trust
 
 The goal of the project was to develop a predictive

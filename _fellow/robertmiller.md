@@ -19,7 +19,7 @@ in hand surgery.
 
 
 ### Fellowship Project
-##### _Development & deployment of artificial intelligence radiology platforms_
+##### _[Development & deployment of artificial intelligence radiology platforms](assets/docs/posters/FCAI C1 Grad Poster RobertMiller.pdf)_
 ##### King's College Hospitals NHS Foundation Trust
 The project goals were to understand the theory,
 development, implementation, and evaluation of

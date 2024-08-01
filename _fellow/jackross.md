@@ -24,7 +24,7 @@ as with any medical intervention.
 
 
 ### Fellowship Project
-#### _Radiomic evaluation of non-small cell lung cancer_
+#### _[Radiomic evaluation of non-small cell lung cancer](assets/docs/posters/FCAI C1 Grad Poster JackRoss.pdf)_
 #### Imperial College Healthcare NHS Foundation Trust
 The main aim of the project is to train and test
 radiomic and machine learning models for analyzing

@@ -22,7 +22,7 @@ Fellow in Clinical AI, he has been involved in developing clinical decision supp
 
 
 ### Fellowship Project
-#### _Developing an AI based clinical decision support system for streamlining breast cancer multidisciplinary meetings through evidence integration_
+#### _[Developing an AI based clinical decision support system for streamlining breast cancer multidisciplinary meetings through evidence integration](assets/docs/posters/FCAI C1 Grad Poster MustafaKhanbhai.pdf)_
 #### Guy's and St Thomas' NHS Foundation Trust
 
 The project’s goals were to develop a process map
