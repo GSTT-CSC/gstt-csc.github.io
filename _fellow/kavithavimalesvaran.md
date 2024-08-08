@@ -1,7 +1,7 @@
 ---
 layout: fellow
 team-member-name: Kavitha Vimalesvaran
-team-member-photo: assets/img/fellow/kavithavimalesvaran.png
+team-member-photo: /assets/img/fellow/kavithavimalesvaran.jpg
 job-role: Fellow in Clinical AI, Cohort 1
 social:
           - url: https://orcid.org/0000-0003-2236-7279
