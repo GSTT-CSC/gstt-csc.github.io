@@ -1,7 +1,7 @@
 ---
 layout: fellow
 team-member-name: Kavitha Vimalesvaran
-team-member-photo: assets/img/fellow/kavithavimalesvaran.png
+team-member-photo: /assets/img/fellow/kavithavimalesvaran.jpg
 job-role: Fellow in Clinical AI, Cohort 1
 social:
           - url: https://orcid.org/0000-0003-2236-7279
@@ -24,7 +24,7 @@ Healthcare Doctoral Training Programme.
 
 
 ### Fellowship Project
-#### _Assess the clinical effectiveness in prioritising CT heads using AI (ACCEPT-AI)_
+#### _[Assess the clinical effectiveness in prioritising CT heads using AI (ACCEPT-AI)](assets/docs/posters/FCAI C1 Grad Poster KavithaVimalesvaran.pdf)_
 #### Guy's and St Thomas' NHS Foundation Trust
 The primary goal of this national, multi-centre
 randomised clinical trial is to evaluate the impact of

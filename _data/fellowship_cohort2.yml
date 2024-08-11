@@ -19,14 +19,20 @@
          team-member-page: /fellow/robertdunk.html
          image: assets/img/fellow/robertdunk.jpg
          social:
-           - url: https://www.linkedin.com/in/robert-dunk-15a280228/
-             icon: fab fa-linkedin-in
+          - url: https://github.com/robd78
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/robert-dunk-15a280228/
+            icon: fab fa-linkedin-in
+
+
 
        - name: "Maredudd Harris"
          role: "Specialty Trainee Doctor in Clinical Radiology"
          team-member-page: /fellow/mareduddharris.html
          image: assets/img/fellow/mareduddharris.jpg
          social:
+           - url: https://github.com/mareduddharris/
+             icon: fab fa-github
            - url: https://www.linkedin.com/in/maredudd-harris
              icon: fab fa-linkedin-in
            - url: https://twitter.com/maredudd_harris
@@ -143,6 +149,8 @@
          team-member-page: /fellow/caolanroberson.html
          image: assets/img/fellow/caolanroberson.jpg
          social:
+           - url: https://github.com/kiwiroberson
+             icon: fab fa-github
            - url: https://www.linkedin.com/in/caolan-roberson-a24bab266
              icon: fab fa-linkedin-in
            - url: https://twitter.com/robersoncaolan

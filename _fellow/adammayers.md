@@ -20,7 +20,7 @@ experience in computer science.
 
 
 ### Fellowship Project
-#### _Automated extractionof dementia related volumetric assessments from radiology reports_
+#### _[Automated extractionof dementia related volumetric assessments from radiology reports](assets/docs/posters/FCAI C1 Grad Poster AdamMayers.pdf)_
 #### South London and Maudsley NHS Foundation Trust
 
 The aim for the project was to develop a

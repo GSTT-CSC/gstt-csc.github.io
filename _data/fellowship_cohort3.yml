@@ -17,7 +17,7 @@
 
        - name: "Robert Crichton"
          role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
-         team-member-page: /fellow/
+         team-member-page: /fellow/robertcrichton.html
          image: assets/img/fellow/robertcrichton.jpg
          social:
            - url: https://orcid.org/0000-0002-8973-4750
@@ -28,7 +28,7 @@
 
        - name: "Vadir Baktash"
          role: "Specialty Trainee Doctor in Cardiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/vadirbaktash.html
          image: assets/img/fellow/vadirbaktash.jpg
          social:
            - url: https://www.researchgate.net/profile/Vadir-Baktash
@@ -38,7 +38,7 @@
 
        - name: "Helen Livesey"
          role: "Specialty Trainee Doctor in Clinical Genetics"
-         team-member-page: /fellow/
+         team-member-page: /fellow/helenlivesey.html
          image: assets/img/fellow/helenlivesey.jpg
          social:
            - url: https://orcid.org/0000-0001-8625-2134
@@ -50,7 +50,7 @@
 
        - name: "Katherine Mackay"
          role: "Specialty Trainee Doctor in Clinical Oncology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/katherinemackay.html
          image: assets/img/fellow/katherinemackay.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=c__dXJYAAAAJ&view_op=list_works&sortby=pubdate
@@ -62,7 +62,7 @@
 
        - name: "Rory Maclean"
          role: "Specialty Trainee Doctor in Specialty Trainee Doctor in Clinical Pharmacology and General Internal Medicine"
-         team-member-page: /fellow/
+         team-member-page: /fellow/rorymaclean.html
          image: assets/img/fellow/rorymaclean.jpg
          social:
            - url: https://orcid.org/0000-0002-9686-0501
@@ -74,7 +74,7 @@
 
        - name: "John Chen"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/johnchen.html
          image: assets/img/fellow/johnchen.jpg
          social:
            - url: https://www.linkedin.com/in/jlc71/
@@ -82,7 +82,7 @@
 
        - name: "Jozef Kamp"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/jozefkamp.html
          image: assets/img/fellow/jozefkamp.png
          social:
            - url: https://www.linkedin.com/in/jozef-kamp/
@@ -91,7 +91,7 @@
 
        - name: "Jesus Perdomo Lampignano"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/jesuslampignano.html
          image: assets/img/fellow/jesuslampignano.jpg
          social:
            - url: https://orcid.org/0000-0002-7861-0584
@@ -99,7 +99,7 @@
 
        - name: "Dilan Şanli"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/dilansanli.html
          image: assets/img/fellow/dilansanli.jpg
          social:
            - url: https://www.linkedin.com/in/dilan-şanlı-8447921ab/
@@ -107,7 +107,7 @@
 
        - name: "James Vaz"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/jamesvaz.html
          image: assets/img/fellow/jamesvaz.jpg
          social:
            - url: https://www.linkedin.com/in/james-vaz-1a1600ab/
@@ -115,7 +115,7 @@
 
        - name: "Conn McGrath"
          role: "Specialty Trainee Doctor in Dermatology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/connmcgrath.html
          image: assets/img/fellow/connmcgrath.jpg
          social:
            - url: https://orcid.org/0000-0001-5749-0109
@@ -124,7 +124,7 @@
 
        - name: "Aoife Fox"
          role: "Specialty Trainee Doctor in Emergency Medicine and Paediatric Emergency Medicine"
-         team-member-page: /fellow/
+         team-member-page: /fellow/aoifefox.html
          image: assets/img/fellow/aoifefox.jpg
          social:
            - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
@@ -134,7 +134,7 @@
 
        - name: "Bharadwaj Chada"
          role: "Specialty Trainee Doctor in General Practice"
-         team-member-page: /fellow/
+         team-member-page: /fellow/bharadwajchada.html
          image: assets/img/fellow/venkatachada.jpg
          social:
            - url: https://www.researchgate.net/profile/Venkata-Chada
@@ -146,13 +146,13 @@
 
        - name: "Will Hughes"
          role: "Specialty Trainee Doctor in General Practice"
-         team-member-page: /fellow/
+         team-member-page: /fellow/williamhughes.html
          image: assets/img/fellow/williamhughes.jpg
          social:
 
        - name: "Anna Fairclough"
          role: "Specialty Trainee Doctor in General Surgery"
-         team-member-page: /fellow/
+         team-member-page: /fellow/annafairclough.html
          image: assets/img/fellow/annafairclough.jpg
          social:
            - url: https://orcid.org/0000-0002-0039-7939
@@ -162,7 +162,7 @@
 
        - name: "Akriti Nanda"
          role: "Specialty Trainee Doctor in General Surgery"
-         team-member-page: /fellow/
+         team-member-page: /fellow/akritinanda.html
          image: assets/img/fellow/akritinanda.jpg
          social:
            - url: https://orcid.org/0000-0002-7333-2730
@@ -174,7 +174,7 @@
 
        - name: "Timothy Ebsworth"
          role: "Specialty Trainee Doctor in Haematology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/timothyebsworth.html
          image: assets/img/fellow/timothyebsworth.jpg
          social:
            - url: https://www.linkedin.com/in/timothy-ebsworth-34512337/
@@ -182,28 +182,28 @@
 
        - name: "Juan Tan"
          role: "Specialty Trainee Doctor in Haematology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/juantan.html
          image: assets/img/fellow/juantan.jpg
          social:
 
 
        - name: "Alistair Heath"
          role: "Specialty Trainee Doctor in Histopathology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/alistairheath.html
          image: assets/img/fellow/alistairheath.jpg
          social:
 
 
        - name: "Michael Mackay"
          role: "Specialty Trainee Doctor in Neurology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/michaelmackay.html
          image: assets/img/fellow/michaelmackay.jpg
          social:
 
 
        - name: "Sunil Mamtora"
          role: "Specialty Trainee Doctor in Ophthalmology"
-         team-member-page: /fellow/
+         team-member-page: /fellow/sunilmamtora.html
          image: assets/img/fellow/sunilmamtora.jpg
          social:
            - url: https://www.researchgate.net/profile/Sunil-Mamtora
@@ -216,7 +216,7 @@
 
        - name: "Iblal Rakha"
          role: "Lead Pharmacist in Clinical Trials Informatics"
-         team-member-page: /fellow/
+         team-member-page: /fellow/iblalrakha.html
          image: assets/img/fellow/iblalrakha.jpg
          social:
            - url: https://www.linkedin.com/in/iblalrakha/
@@ -224,13 +224,13 @@
 
        - name: "Christopher Efford"
          role: "Physiotherapist in Musculoskeletal therapy"
-         team-member-page: /fellow/
+         team-member-page: /fellow/christopherefford.html
          image: assets/img/fellow/christopherefford.png
          social:
 
        - name: "Charlie Winward"
          role: "Consultant Physiotherapist in Neurorehabilitation"
-         team-member-page: /fellow/
+         team-member-page: /fellow/charliewinward.html
          image: assets/img/fellow/charliewinward.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=eQyoeA8AAAAJ&view_op=list_works&sortby=pubdate
@@ -242,7 +242,7 @@
 
        - name: "Karol Basta"
          role: "Specialty Trainee Doctor in Public Health"
-         team-member-page: /fellow/
+         team-member-page: /fellow/karolbasta.html
          image: assets/img/fellow/karolbasta.jpg
          social:
            - url: https://www.linkedin.com/in/karol-basta-7a55a61b1/
@@ -252,14 +252,14 @@
 
        - name: "Natalie Davison"
          role: "Specialty Trainee in Public Health"
-         team-member-page: /fellow/
+         team-member-page: /fellow/nataliedavison.html
          image: assets/img/fellow/nataliedavison.jpg
          social:
 
 
        - name: "Joshua Khan"
          role: "Specialty Trainee Doctor in Public Health"
-         team-member-page: /fellow/
+         team-member-page: /fellow/joshuakhan.html
          image: assets/img/fellow/joshuakhan.jpg
          social:
            - url: https://www.linkedin.com/in/joshua-khan-517b241b3/
@@ -267,7 +267,7 @@
 
        - name: "Rachel Thomson"
          role: "Specialty Trainee Doctor in Public Health"
-         team-member-page: /fellow/
+         team-member-page: /fellow/rachelthomson.html
          image: assets/img/fellow/rachelthomson.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=YY1uNvoAAAAJ&view_op=list_works&sortby=pubdate
@@ -278,7 +278,7 @@
 
        - name: "Thomas Evans"
          role: "Specialty Trainee Dentist in Special Care Dentistry"
-         team-member-page: /fellow/
+         team-member-page: /fellow/thomasevans.html
          image: assets/img/fellow/thomasevans.jpg
          social:
  en-US:

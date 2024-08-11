@@ -19,7 +19,7 @@ during COVID-19.
 
 
 ### Fellowship Project
-##### _High-dimensional modelling of the focally injured human brain_
+##### _[High-dimensional modelling of the focally injured human brain](assets/docs/posters/FCAI C1 Grad Poster AdamJulius.pdf)_
 ##### University College Hospitals London NHS Foundation Trust
 
 Adam has been working on various projects in
