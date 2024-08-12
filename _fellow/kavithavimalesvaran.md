@@ -24,7 +24,7 @@ Healthcare Doctoral Training Programme.
 
 
 ### Fellowship Project
-#### _[Assess the clinical effectiveness in prioritising CT heads using AI (ACCEPT-AI)](assets/docs/posters/FCAI C1 Grad Poster KavithaVimalesvaran.pdf)_
+#### _[Assess the clinical effectiveness in prioritising CT heads using AI (ACCEPT-AI)](/assets/docs/posters/FCAI C1 Grad Poster KavithaVimalesvaran.pdf)_
 #### Guy's and St Thomas' NHS Foundation Trust
 The primary goal of this national, multi-centre
 randomised clinical trial is to evaluate the impact of
