@@ -17,7 +17,7 @@ I am passionate about leveraging digital technologies to enhance clinician exper
 
 
 ### Fellowship Project
-##### _[Implementation of artificial intelligence based autosegmentation to aid the contouring of clinical target volumes and organs at risk for patients undergoing pelvic radiotherapy](assets/docs/posters/FCAI C2 Grad Poster LuisRibeiro_London.pdf)_
+##### _[Implementation of artificial intelligence based autosegmentation to aid the contouring of clinical target volumes and organs at risk for patients undergoing pelvic radiotherapy](/assets/docs/posters/FCAI C2 Grad Poster LuisRibeiro_London.pdf)_
 ##### Guy's and St Thomas's NHS Foundation Trust
 
 The project aimed to implement an AI-based program to assist clinicians in mapping organs on patient scans before radiotherapy, a task currently done manually to ensure precise targeting of cancerous tissues. As part of my role within the team, I evaluated the clinician time saved during the CT scan model rollout and curated data for the MRI-based model, which is set for future deployment. The team successfully launched the CT model clinically for use on patients and completed prospective outcome data collection. We also finished data curation for the MRI model and are now assessing its accuracy on retrospective scans.

@@ -23,7 +23,7 @@ Representative for the BJCA.
 
 
 ### Fellowship Project
-#### _[Artificial intelligence in chest X-ray interpretation](assets/docs/posters/FCAI C1 Grad Poster SarahBlake.pdf)_
+#### _[Artificial intelligence in chest X-ray interpretation](/assets/docs/posters/FCAI C1 Grad Poster SarahBlake.pdf)_
 #### East Kent Hospitals NHS Foundation Trust
 The goal of the project was to validate, deploy
 and monitor a deep learning algorithm which generates automated reports for CXR and categorises the scan as
