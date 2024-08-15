@@ -130,7 +130,8 @@ The fellowship gratefully acknowledges the support of:
 * James Freed, Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
 
 <h3 style>Testimonials</h3>
->"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>Professor Eric Topol (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
+>"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>[Professor Eric Topol](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/eric-topol/) (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
 
 >"The launch of the Fellowship in Clinical AI is an unprecedented step towards integrating experiential learning into postgraduate training pathways, and we hope to learn from and scale opportunities like this to help prepare the future clinical AI specialist workforce" <br/>Dr Hatim Abdulhussein (2022), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed), NHS England
 
+>"It has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishiramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
