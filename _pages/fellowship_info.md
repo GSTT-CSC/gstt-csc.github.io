@@ -134,4 +134,4 @@ The fellowship gratefully acknowledges the support of:
 
 >"The launch of the Fellowship in Clinical AI is an unprecedented step towards integrating experiential learning into postgraduate training pathways, and we hope to learn from and scale opportunities like this to help prepare the future clinical AI specialist workforce" <br/>Dr Hatim Abdulhussein (2022), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed), NHS England
 
->"It has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishiramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
+>"The NHS Fellowship in Clinical AI has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishiramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
