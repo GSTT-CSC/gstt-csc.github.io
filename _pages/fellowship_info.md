@@ -126,8 +126,9 @@ The fellowship is funded through:
 * [British Society for Haematology](https://b-s-h.org.uk/)
 
 The fellowship gratefully acknowledges the support of:
-* Dr Hatim Abdulhussein, [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed)- NHS England
-* James Freed, Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
+* [Dr Hatim Abdulhussein](https://www.linkedin.com/in/drhatz/), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed)- NHS England
+* [James Freed](https://www.linkedin.com/in/james-freed-digital/), Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
+* [Dr Claire Mallinson](https://www.linkedin.com/in/claire-mallinson-01808212a/), Director of Education- [King's Health Partners](https://www.kingshealthpartners.org/our-work/khp-education)
 
 <h3 style>Testimonials</h3>
 >"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>Professor Eric Topol (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
