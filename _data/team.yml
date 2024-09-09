@@ -117,6 +117,13 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/eleanor-stylianides/
             icon: fab fa-linkedin-in
+      - name: "Aoife Fox"
+        role: "Clinical AI Fellow"
+        team-member-page: /team_member/aoife.html
+        image: assets/img/team/aoife.jpeg
+        social:
+          - url: https://www.linkedin.com/in/dr-aoife-f-28a9aa150/
+            icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
