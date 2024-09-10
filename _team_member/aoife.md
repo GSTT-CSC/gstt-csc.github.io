@@ -6,6 +6,6 @@ job-role: Clinical AI Fellow
 ---
 
 ### Bio
-Aoife joined Guy's and St Thomas' NHS Foundation Trust Clinical Scientific Computing Team as a Clinical AI fellow in August 2024 as part of the fellowship administered by the AI Centre for Value Based Healthcare. 
+Aoife joined Guy's and St Thomas' NHS Foundation Trust Clinical Scientific Computing Team as a Clinical AI fellow in August 2024. 
 
 She has a background in Paediatric and Adult Emergency Medicine and is working with the ScaphX project team. 
