@@ -217,7 +217,7 @@
        - name: "Iblal Rakha"
          role: "Lead Pharmacist in Clinical Trials Informatics"
          team-member-page: /fellow/iblalrakha.html
-         image: assets/img/fellow/iblalrakha.jpg
+         image: assets/img/fellow/iblalrakha.png
          social:
            - url: https://www.linkedin.com/in/iblalrakha/
              icon: fab fa-linkedin-in
