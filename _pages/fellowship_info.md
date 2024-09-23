@@ -106,10 +106,12 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 <br>
 
 <h3 style>Literature</h3>
-* Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
-* [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
-* The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
 * The [NHS Transformation Directorate](https://transform.england.nhs.uk) report *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)* describes the fellowship's role in training digital and AI specialist clinicians
+* The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
+* [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
+* Salisbury et al. described how our fellows 'learn how to safely deploy, maintain, and evaluate AI software in real clinical workflows' in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
+* Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the Royal College of Physcians' [Future Healthcare Journal (2024)](https://doi.org/10.1016/j.fhj.2024.100162)
+
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
