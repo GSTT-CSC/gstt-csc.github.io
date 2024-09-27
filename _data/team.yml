@@ -124,6 +124,15 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/dr-aoife-f-28a9aa150/
             icon: fab fa-linkedin-in
+      - name: "Keri Anderson"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/keri.html
+        image: assets/img/team/KeriA.jpeg
+        social:
+          - url: https://github.com/keriand
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/keri-anderson-b80468141/
+            icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
