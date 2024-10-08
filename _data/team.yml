@@ -127,7 +127,7 @@ en: &DEFAULT_EN
       - name: "Keri Anderson"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/keri.html
-        image: assets/img/team/KeriA.jpeg
+        image: assets/img/team/KeriA.jpg
         social:
           - url: https://github.com/keriand
             icon: fab fa-github
