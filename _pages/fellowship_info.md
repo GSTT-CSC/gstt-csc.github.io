@@ -22,12 +22,12 @@ The faculty of the NHS Fellowship in Clinical AI is based in the Clinical Scient
 - [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
 - [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
 
-[Contact the faculty](mailto:ai4vbh@kcl.ac.uk)
+[Contact the faculty](mailto:gstt.aifellowship@nhs.net)
 
 <h3 style>Curriculum</h3>
 The bespoke curriculum of the fellowship was designed by the faculty, and aligns to educational frameworks from the [Faculty of Clinical Informatics](https://fci.org.uk/menu2/professional-competencies/core-competency-framework.html) and  Health Education England.
 
-[Read the curriculum](/assets/docs/FCAI_Curriculum_v3.1.pdf)
+[Read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf)
 
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
 

@@ -11,5 +11,5 @@ do not have capacity to support medical electives, and can currently only suppor
 as obtaining honorary contracts is a lengthy process and most of our work requires permission to work with medical data. 
 
 
-For the Fellowship in Clinical AI, please [email](mailto:ai4vbh@kcl.ac.uk) instead.
+For the Fellowship in Clinical AI, please [email](mailto:gstt.aifellowship@nhs.net) instead.
 

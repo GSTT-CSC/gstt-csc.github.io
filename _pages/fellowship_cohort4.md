@@ -28,7 +28,7 @@ This list will be updated when the application window is finalised.
 5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Non-NHS and International Applicants</h3> 
-Please [contact the faculty directly](mailto:ai4vbh@kcl.ac.uk) for further details.
+Please [contact the faculty directly](mailto:gstt.aifellowship@nhs.net) for further details.
 
 <h3 style>Applicant Webinar </h3> 
 
@@ -40,11 +40,11 @@ This covered the features and curriculum of the fellowship, addressed frequently
 
 Within each region, eligibility varies by workforce. For the previous year, see the [Cohort 3 role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) for more details.
 <br><br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
-If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:ai4vbh@kcl.ac.uk) so that we can identify priority areas for recruitment in future cohorts.
+If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
 
 
 <h3 style>Frequently Asked Questions</h3> 
-If your question is not answered below, please [contact the faculty](mailto:ai4vbh@kcl.ac.uk).
+If your question is not answered below, please [contact the faculty](mailto:gstt.aifellowship@nhs.net).
 <details>
 
 <summary>Eligibility</summary>
@@ -53,7 +53,7 @@ If your question is not answered below, please [contact the faculty](mailto:ai4v
 
 <p>Workforce and geographical eligibility are not decided by the faculty of this fellowship. 
 This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
-If you wished to apply this cohort but were ineligible, please email the fellowship faculty so that we can identify priority areas for recruitment in future cohorts at ai4vbh@kcl.ac.uk
+If you wished to apply this cohort but were ineligible, please email the fellowship faculty so that we can identify priority areas for recruitment in future cohorts at gstt.aifellowship@nhs.net
 </p>
 <strong>Why are only certain career stages eligible?  </strong>
 
@@ -66,7 +66,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 </p>
 <strong>Can I apply if I almost meet the eligibility criteria? </strong>
 
-<p>Applicants who believe they are borderline eligible should contact the faculty directly (ai4vbh@kcl.ac.uk) to clarify before applying to avoid disappointment. 
+<p>Applicants who believe they are borderline eligible should contact the faculty directly (gstt.aifellowship@nhs.net) to clarify before applying to avoid disappointment. 
 </p>
 
 <strong>Can I do this fellowship more than once?</strong>
