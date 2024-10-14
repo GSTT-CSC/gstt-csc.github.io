@@ -4,15 +4,20 @@
 #  description:
 #  link:
 
-- name: Scientist Training Programme
-  description: The Scientist Training Programme (STP) is a three-year programme of work-based learning, supported by a University accredited master's degree.
-  link: https://nshcs.hee.nhs.uk/programmes/stp/
-
-- name: Topol Digital Fellowships
+- name: NHS AI and Digital Regulations Service for health and social care
   description: |
-    The Topol Digital Fellowship provides health and social care professionals with time, support and 
-    training to lead digital health transformations and innovations in their organisations.
-  link: https://topol.hee.nhs.uk/digital-fellowships/
+    Developed by NICE, the MHRA, the CQC, and the HRA for both adopters of AI in healthcare and developers.
+  link: https://www.digitalregulations.innovation.nhs.uk/
+
+- name: KCL Innovation Scholars- AI modules
+  description: |
+    These three e-learning modules are aimed at those interested in evidence-based medicine, extracting knowledge from large-scale data and applying AI to improve patient care.
+  link: https://innovationscholars.er.kcl.ac.uk/training/pillar-three-ai/
+
+- name: NHS Digital Academy AI Learning Hub
+  description: |
+    NHS Digital Academy's collection of curated learning resources, mapped to their an Artificial Intelligence (AI) capability framework.
+  link: https://learninghub.nhs.uk/catalogue/ai/about#catalogue-details
 
 - name: Turing Institute, Clinical AI interest group
   description: |
@@ -20,21 +25,21 @@
     interactive events on up-to-date developments in the field and cultivate innovative research projects.
   link: https://www.turing.ac.uk/research/interest-groups/clinical-ai
 
+- name: Topol Digital Fellowships
+  description: |
+    The Topol Digital Fellowship provides health and social care professionals with time, support and 
+    training to lead digital health transformations and innovations in their organisations.
+  link: https://topol.hee.nhs.uk/digital-fellowships/
+
+- name: Scientist Training Programme
+  description: The Scientist Training Programme (STP) is a three-year programme of work-based learning, supported by a University accredited master's degree.
+  link: https://nshcs.hee.nhs.uk/programmes/stp/
+
 - name: Van Der Schaar lab- Revolutionizing healthcare clinician engagement sessions
   description: |
     A series of engagement sessions for clinicians and medical students, aiming to share ideas and discuss topics that will define the future
     of machine learning in healthcare.
   link: https://www.vanderschaar-lab.com/engagement-sessions/revolutionizing-healthcare/
-
-- name: KCL Innovation Scholars- AI modules
-  description: |
-    These three e-learning modules are aimed at those interested in evidence-based medicine, extracting knowledge from large-scale data and applying AI to improve patient care.
-  link: https://innovationscholars.er.kcl.ac.uk/training/pillar-three-ai/
-
-- name: NHS AI and Digital Regulations Service for health and social care
-  description: |
-    Developed by NICE, the MHRA, the CQC, and the HRA for both adopters of AI in healthcare and developers.
-  link: https://www.digitalregulations.innovation.nhs.uk/
 
 - name: Digital, Artificial Intelligence and Robotics (DART-Ed) programme
   description: |
