@@ -133,6 +133,14 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/keri-anderson-b80468141/
             icon: fab fa-linkedin-in
+      - name: "Elise Pather"
+        role: "Clinical Scientist"
+        team-member-page: /team_member/elise.html
+        image: assets/img/team/standard_user.jpg
+        social:
+          - url: https://github.com/ElisePather
+            icon: fab fa-github
+            
 en-US:
   <<: *DEFAULT_EN
 en-CA:
