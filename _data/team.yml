@@ -136,7 +136,7 @@ en: &DEFAULT_EN
       - name: "Elise Pather"
         role: "Clinical Scientist"
         team-member-page: /team_member/elise.html
-        image: assets/img/team/standard_user.jpg
+        image: assets/img/team/elise.jpg
         social:
           - url: https://github.com/ElisePather
             icon: fab fa-github

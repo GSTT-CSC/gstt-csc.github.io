@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Elise Pather
-team-member-photo: /assets/img/team/standard_user.jpg
+team-member-photo: /assets/img/team/elise.jpg
 job-role: Clinical Scientist in AI 
 ---
 
