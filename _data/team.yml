@@ -133,6 +133,15 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/keri-anderson-b80468141/
             icon: fab fa-linkedin-in
+      - name: "David De Mola"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/david.html
+        image: assets/img/team/daviddm.jpg
+        social:
+          - url: https://github.com/ddemola
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/ddemola/
+            icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
