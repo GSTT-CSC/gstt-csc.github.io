@@ -1,21 +1,94 @@
 <!-- What We Do -->
 <section class="page-section bg-light" id="{{ site.data.whatwedo.section | markdownify | default: "What we do" }}">
   <div class="container">
-    <h2>{{ site.data.whatwedo.title }}</h2>
+    <h2 class="text-center">{{ site.data.whatwedo.title }}</h2>
 
     <div class="row pt-5">
       {% for aspect in site.data.whatwedo.aspects %}
-      <div class="mx-auto col-6 col-sm-3 col-lg-1 pb-3">
-        <img src="{{ aspect.image }}"  style="width: inherit">
-      </div>
-      <div class="col-12 col-sm-9 col-lg-3 pb-5">
-        <h3 style="color:{{ aspect.colour }}">{{ aspect.title }}</h3>
-        <p class="text-muted">{{ aspect.text }}</p>
+      <div class="col-12 col-md-6 col-lg-4 pb-5 card-container">
+        <div class="card h-100 shadow-sm border-0 flex-row">
+          <img class="card-img-left custom-card-img" src="{{ aspect.image }}" alt="{{ aspect.title }}">
+          <div class="card-body d-flex flex-column justify-content-between">
+            <div>
+              <h3 class="card-title" style="color: '{{ aspect.colour | default: '#000' }}'">{{ aspect.title }}</h3>
+              <p class="card-text text-muted text-justify">{{ aspect.text }}</p>
+            </div>
+          </div>
+        </div>
+        <!-- Line connecting card to workstream -->
+        <div class="line"></div>
+        <!-- Workstream items -->
+        <div class="flow-chart">
+          {% if aspect.title == "AI" %}
+            <div class="flow-item">
+              Evaluation
+              <div class="hidden-content">Support with retrospective, prospective and fairness evaluation of AI products in market.</div>
+            </div>
+            <div class="flow-item">
+              Deployment infrastructure
+              <div class="hidden-content">Support with procuring new infrastructure or using CSC GPUs.</div>
+            </div>
+            <div class="flow-item">
+              Build
+              <div class="hidden-content">Helping clinicians and departments by developing in-house software as a medical device, tailored to GSTT.</div>
+            </div>
+          {% elsif aspect.title == "Safety" %}
+            <div class="flow-item">
+              QMS
+              <div class="hidden-content">Providing consultancy on ISO 13485 based Quality Management System for Software and open source QMS.</div>
+            </div>
+          {% elsif aspect.title == "Data" %}
+            <div class="flow-item">
+              Data
+              <div class="hidden-content">Helping researchers get anonymised patient data.</div>
+            </div>
+          {% endif %}
+        </div>
       </div>
       {% endfor %}
     </div>
-
   </div>
-
 </section>
 <!-- End What We Do -->
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cards = document.querySelectorAll('.card-container .card');
+    const lines = document.querySelectorAll('.line');
+    const flowItems = document.querySelectorAll('.flow-item');
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('slide-in');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 1
+    });
+
+    cards.forEach(card => {
+      observer.observe(card);
+    });
+
+    const lineObserver = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('line-animate');
+          lineObserver.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.5
+    });
+
+    lines.forEach(line => {
+      lineObserver.observe(line);
+    });
+
+    flowItems.forEach(item => {
+      observer.observe(item);
+    });
+  });
+</script>

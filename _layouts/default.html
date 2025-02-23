@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
+<html lang="en">
+<head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+    {{ content }}
 
-  {% include head.html %}
+    {% include footer.html %}
 
-  <body id="page-top">
-      {{ content }}
+    <!-- Bootstrap core JavaScript -->
+    <script src="{{ "/assets/js/jquery.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
 
+    <!-- Plugin JavaScript -->
+    <script src="{{ "/assets/js/jquery.easing.min.js" | relative_url }}"></script>
 
-	  {% include footer.html %}
+    <!-- Contact form JavaScript -->
+    <script src="{{ "/assets/js/jqBootstrapValidation.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/contact_me.js" | relative_url }}"></script>
 
-	  <!-- Bootstrap core JavaScript -->
-	  <script src="{{ "/assets/js/jquery.min.js" | relative_url }}"></script>
-	  <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
+    <!-- Custom scripts for this template -->
+    <script src="{{ "/assets/js/agency.min.js" | relative_url }}"></script>
 
-	  <!-- Plugin JavaScript -->
-	  <script src="{{ "/assets/js/jquery.easing.min.js" | relative_url }}"></script>
-
-	  <!-- Contact form JavaScript -->
-	  <script src="{{ "/assets/js/jqBootstrapValidation.js" | relative_url }}"></script>
-	  <script src="{{ "/assets/js/contact_me.js" | relative_url }}"></script>
-
-	  <!-- Custom scripts for this template -->
-	  <script src="{{ "/assets/js/agency.min.js" | relative_url }}"></script>
-
-  </body>
+</body>
 </html>
