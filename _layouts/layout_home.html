@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
-
+<html lang="en">
+<head>
     {% include head.html %}
-
-<body id="page-top">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
     {{ content }}
 
     {% include footer.html %}
