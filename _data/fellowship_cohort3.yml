@@ -151,6 +151,8 @@
          team-member-page: /fellow/williamhughes.html
          image: assets/img/fellow/williamhughes.jpg
          social:
+           - url: https://www.linkedin.com/in/drwillhughes/
+             icon: fab fa-linkedin-in
 
        - name: "Anna Fairclough"
          role: "Specialty Trainee Doctor in General Surgery"
@@ -202,6 +204,8 @@
          team-member-page: /fellow/michaelmackay.html
          image: assets/img/fellow/michaelmackay.jpg
          social:
+           - url: https://www.linkedin.com/in/mhsmackay/
+             icon: fab fa-linkedin-in
 
 
        - name: "Sunil Mamtora"
@@ -230,6 +234,8 @@
          team-member-page: /fellow/christopherefford.html
          image: assets/img/fellow/christopherefford.png
          social:
+           - url: https://www.linkedin.com/in/chris-efford-b85876331/
+             icon: fab fa-linkedin-in
 
        - name: "Charlie Winward"
          role: "Consultant Physiotherapist in Neurorehabilitation"
@@ -284,6 +290,11 @@
          team-member-page: /fellow/thomasevans.html
          image: assets/img/fellow/thomasevans.jpg
          social:
+           - url: https://www.linkedin.com/in/thomas-evans-904286b3/
+             icon: fab fa-linkedin-in
+
+           
+
  en-US:
    <<: *DEFAULT_EN
  en-CA:
