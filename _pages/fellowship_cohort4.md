@@ -11,7 +11,7 @@ Successful applicants from this application cycle will be fellows in clinical AI
 Applications for Cohort 5 will open in late 2025. The information on this page is kept to serve as a guide for prospective applicants.<br>
 Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf), [a suggested list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
 
-<h3 style>Key Dates</h3>
+<h3 style>Key Dates and application process</h3>
 * 08 Nov 2024: Applications open- *[Application Form](https://forms.office.com/e/WZDF73wwa8)* is live, *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)* is live
 * 13 Nov 2024: Webinar and Q&A (recording below)
 * 18 Dec 2024: *Application Form* and *Approval In Principle Form* deadline at 23:45 GMT
@@ -20,23 +20,34 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 * Feb 2025: Outcomes of interviews, project matching
 * Aug 2025: Fellowship cohort 4 begins
 
-<h3 style>Application process for NHS applicants</h3> 
-1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_v2.1.pdf)
-2. Applicant submits *[Application Form](https://forms.office.com/e/WZDF73wwa8)*
-3. Applicant's Approver submits *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)*. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence. 
-4. Applicants are shortlisted 
-5. Shortlisted applicants are offered a remote interview
-6. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
+<details>
+<summary><b>Application process for NHS applicants</b></summary>
+    <ol>
+      <li>Applicant reviews eligibility and person specification in the <a href="/assets/docs/FCAI_C4_Role_Description_v2.1.pdf">role description document</a>.</li>
+      <li>Applicant submits <a href="https://forms.office.com/e/WZDF73wwa8"><em>Application Form</em></a>.</li>
+      <li>Applicant's Approver submits <a href="https://forms.office.com/e/aeTa9pRyR4"><em>Approval In Principle Form</em></a>. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence.</li>
+      <li>Applicants are shortlisted.</li>
+      <li>Shortlisted applicants are offered a remote interview.</li>
+      <li>Successful applicants are matched to an AI project and join the fellowship in Cohort 4.</li>
+    </ol>
 
-<h3 style>Application process for international applicants</h3>
-The Fellowship in Clinical AI and the [GSTT International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) are offered jointly in an exclusive dual fellowship programme in London, UK.
-<br>Dual fellows have an integrated programme of 2 parallel placements in world-class London hospitals, which includes the full programme of the Fellowship in Clinical AI plus a clinical attachment to hone complementary clinical skills and knowledge.
-1. Applicant reviews  dual fellowship [information sheet](/assets/docs/FCAI_C4_Sponsor_info_v1.2.pdf) and confirms meeting the [entry requirements of the clinical programme](https://www.guysandstthomasevents.co.uk/vpp/icfp/#entry-requirements)
-2. Applicant confirms their application with their Sponsor
-3. Applicant submits *[International Application Form](https://forms.office.com/e/6xuc0A1qAj)* (*Approval In Principle* form not required at this stage)
-4. Applicants are shortlisted 
-5. Shortlisted applicants are offered a remote interview 
-6. Successful applicants are matched to an AI project and enter a dual fellowship with a clinical attachment
+</details>
+<details>
+<summary><b>Application process for international applicants</b></summary>
+    The NHS Fellowship in Clinical AI and the <a href="https://www.guysandstthomasevents.co.uk/vpp/icfp/">GSTT International Clinical Fellowship</a> are offered jointly in an exclusive dual fellowship programme in London, UK.  
+    <br>Dual fellows have an integrated programme of two parallel placements in world-class London hospitals, which includes the full programme of the NHS Fellowship in Clinical AI plus a clinical attachment to hone complementary clinical skills and knowledge.
+    <br>
+<br>
+<ol>
+      <li>Applicant reviews the dual fellowship <a href="/assets/docs/FCAI_C4_Sponsor_info_v1.2.pdf">information sheet</a> and confirms meeting the <a href="https://www.guysandstthomasevents.co.uk/vpp/icfp/#entry-requirements">entry requirements of the clinical programme</a>.</li>
+      <li>Applicant confirms their application with their Sponsor.</li>
+      <li>Applicant submits <a href="https://forms.office.com/e/6xuc0A1qAj"><em>International Application Form</em></a>.</li>
+      <li>Applicants are shortlisted.</li>
+      <li>Shortlisted applicants are offered a remote interview.</li>
+      <li>Successful applicants are matched to an AI project and join the fellowship in Cohort 4.</li>
+    </ol>
+</details>
+<br>
 
 <h3 style>Applicant Webinar </h3> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3BwaGeKHpg" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
