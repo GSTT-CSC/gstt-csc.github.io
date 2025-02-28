@@ -96,6 +96,8 @@
          social:
            - url: https://orcid.org/0000-0002-7861-0584
              icon: fas fa-book
+           - url: https://www.linkedin.com/in/jesusper/
+             icon: fab fa-linkedin-in
 
        - name: "Dilan Şanli"
          role: "Specialty Trainee Doctor in Clinical Radiology"
@@ -185,7 +187,8 @@
          team-member-page: /fellow/juantan.html
          image: assets/img/fellow/juantan.jpg
          social:
-
+           - url: https://www.linkedin.com/in/juan-tan-13738232b/
+             icon: fab fa-linkedin-in
 
        - name: "Alistair Heath"
          role: "Specialty Trainee Doctor in Histopathology"
