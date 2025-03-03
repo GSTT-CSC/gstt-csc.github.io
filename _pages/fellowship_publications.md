@@ -6,7 +6,7 @@ display_title: NHS Fellowship in Clinical AI<br>Fellows' Publications
 ---
 
 Fellows have opportunities to publish academically during NHS Fellowship in Clinical AI, particularly relating to their AI project.
-Explore the publications of our fellows below.
+Explore the fellowship-related publications of our fellows below.
 
 
 <!-- Fellows' Publications -->
