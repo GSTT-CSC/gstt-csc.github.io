@@ -61,12 +61,14 @@ The list below is indicative and may vary between cohorts.
   <li>University Hospitals Birmingham NHS Foundation Trust</li>
   <li>Nottingham University Hospitals NHS Trust</li>
   <li>The Royal Wolverhampton NHS Trust</li>
+  <li>University Hospitals of Leicester NHS Trust</li>
 </ul>
 </details>
 <details><summary>North West</summary>
 <ul>
   <li>Alder Hey Children's Hospital Trust</li>
   <li>Manchester University NHS Foundation Trust</li>
+  <li>The Christie NHS Foundation Trust</li>
 </ul>
 </details>
 
@@ -83,6 +85,9 @@ The list below is indicative and may vary between cohorts.
 <details><summary>South West</summary>
 <ul>
   <li>University Hospitals Bristol NHS Foundation Trust</li>
+  <li>University Hospitals Plymouth NHS Trust</li>
+  <li>Royal Devon University Healthcare NHS Foundation Trust</li>
+  <li>Royal Cornwall Hospitals NHS Trust</li>
 </ul>
 </details>
 
@@ -106,6 +111,7 @@ The list below is indicative and may vary between cohorts.
 <ul>
   <li>NHS Grampian</li>
   <li>NHS Greater Glasgow and Clyde</li>
+  <li>NHS Tayside</li>
 </ul>
 
 </details>
