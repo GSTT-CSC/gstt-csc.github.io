@@ -89,6 +89,13 @@ The eligible career stages have been agreed by consensus with our sponsor organi
 
 <summary>Recruitment and interview</summary>
 
+<strong>How competitive is recruitment? </strong>
+
+<p>In cohort 4, there were 235 eligible applicants for 32 competitively allocated posts. The global competition ratio for posts was therefore roughly 7.3:1.
+Regional competition ratios differed from this figure.
+At the interview stage, the competition ratio is 2:1, i.e. 2 eligible applicants are interviewed for each competitively allocated post.
+</p>
+
 <strong>How many stages of recruitment are there? </strong>
 
 <p>There are 2 stages of recruitment: shortlist and interview. 
@@ -99,13 +106,8 @@ The scores from interview are used to match successful applicants to their choic
 <strong>What is the format of the interview?  </strong>
 
 <p>Interviews are conducted remotely.
-The interview is a structured series of questions or problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "Application Process", Step 1). 
+The interview is a structured series of questions and problem-solving tasks designed to assess an applicant’s suitability for the fellowship per the role description document (see above: "Application Process", Step 1). 
 The interview panel consists of fellowship faculty, AI supervisors, and regional education leads. 
-</p>
-<strong>When will the interviews happen?  </strong>
-
-<p>The interviews are planned for 22-29 January 2025. 
-Applicants proceeding to interview will be sent a link to book their interview slot. 
 </p>
 
 <strong>How should I prepare for the interview?</strong>
@@ -114,6 +116,13 @@ Applicants proceeding to interview will be sent a link to book their interview s
 Interviewees are assessed according to the Essential and Desirable criteria of the role description document.
 Consider how to show evidence of meeting these criteria with real-world examples, particularly through participation in digital transformation projects in healthcare.
 </p>
+
+<strong>When will the interviews happen?  </strong>
+
+<p>The interviews are planned for 22-29 January 2025. 
+Applicants proceeding to interview will be sent a link to book their interview slot. 
+</p>
+
 
 </details>
 <details>
