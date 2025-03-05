@@ -1,0 +1,127 @@
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar with Bootstrap Tabs -->
+        <div class="col-md-4 col-lg-3 pb-3">
+            <div id="scrollspy1" style="background-color: #eee" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar" id="navbar" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="fcaiinfo-tab" data-toggle="tab" href="#fcaiinfo" role="tab"
+                           data-url="/fellowship_info.html">Further information</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="cohort4-tab" data-toggle="tab" href="#cohort4" role="tab"
+                           data-url="/fellowship_cohort4.html">Cohort 4</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="cohort3-tab" data-toggle="tab" href="#cohort3" role="tab"
+                           data-url="/fellowship_cohort3.html">Cohort 3</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="cohort2-tab" data-toggle="tab" href="#cohort2" role="tab"
+                           data-url="/fellowship_cohort2.html">Cohort 2</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="cohort1-tab" data-toggle="tab" href="#cohort1" role="tab"
+                           data-url="/fellowship_cohort1.html">Cohort 1</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="fellowspublications-tab" data-toggle="tab" href="#fellowspublications" role="tab"
+                           data-url="/fellowship_publications.html">Fellows' publications</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Tab Content Area -->
+        <div class="col-md-8 col-lg-9">
+            <div class="tab-content">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <p>
+                        The NHS Fellowship in Clinical AI is a 12-month programme integrated part-time alongside clinical work.
+                        Clinical AI fellows are recruited competitively from across the NHS, drawn from a diverse clinical workforce
+                        including medical and dental specialty trainees, nurses & midwives, allied health professionals, pharmacy
+                        professionals, and optometrists.
+                    </p>
+                    <p>
+                        Our fellows are smart and energetic individuals who will be equipped to adopt clinical artificial intelligence technology
+                        through our <a href="/assets/docs/FCAI_Curriculum_v3.2.pdf">focused clinical AI curriculum</a>. Fellows gain experience
+                        deploying AI in clinical workflows in 12-month project placements, under expert supervision in multidisciplinary teams.
+                    </p>
+                    <p>
+                        This unique programme is featured as an exemplar in upskilling clinicians for AI transformation in both the
+                        <a href="/assets/docs/nhs-long-term-workforce-plan-v1.2.pdf#page=74"><em>NHS Long Term Workforce Plan (2023)</em></a>
+                        and the NHS Transformation Directorate report,
+                        <a href="/assets/docs/developingconfidenceinai-oct2022.pdf#page=68"><em>Developing Healthcare Workers' Confidence in AI (2022)</em></a>.
+                        The fellowship builds directly from the recommendation of the
+                        <a href="https://topol.hee.nhs.uk/wp-content/uploads/HEE-Topol-Review-2019.pdf#page=8"><em>Topol Review (2019)</em></a>
+                        to create posts for clinicians with dedicated time to implement AI technologies.
+                    </p>
+                </div>
+                <div class="tab-pane fade" id="fcaiinfo" role="tabpanel" aria-labelledby="fcaiinfo-tab"></div>
+                <div class="tab-pane fade" id="cohort4" role="tabpanel" aria-labelledby="cohort4-tab"></div>
+                <div class="tab-pane fade" id="cohort3" role="tabpanel" aria-labelledby="cohort3-tab"></div>
+                <div class="tab-pane fade" id="cohort2" role="tabpanel" aria-labelledby="cohort2-tab"></div>
+                <div class="tab-pane fade" id="cohort1" role="tabpanel" aria-labelledby="cohort1-tab"></div>
+                <div class="tab-pane fade" id="fellowspublications" role="tabpanel" aria-labelledby="fellowspublications-tab"></div>
+            </div>
+        </div>
+    </div>
+
+
+<!-- jQuery (Full Version, Not Slim) -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+<!-- Bootstrap 4 JS (Matches the Working Page) -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+<!-- Deep Linking (Optional, If Used in the Working Page) -->
+<script src="assets/js/deeplinking.js"></script>
+
+<!-- JavaScript to Fix Tab Loading -->
+<script>
+    $(document).ready(function () {
+        console.log("Bootstrap 4 tabs initialized.");
+
+        $('.nav-link[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+            var target = $(e.target).attr('href'); // Get the target tab ID
+            var url = $(e.target).data('url'); // Get the static page URL
+
+            console.log("Tab clicked:", target, "URL:", url);
+
+            // If URL exists and tab is empty, fetch content safely
+            if (url && $(target).is(':empty')) {
+                console.log("Fetching content from:", url);
+
+                fetch(url)
+                    .then(response => {
+                        if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                        return response.text();
+                    })
+                    .then(html => {
+                        // Extract only the content inside <body> to avoid wiping out the entire page
+                        var tempDiv = $("<div>").html(html);
+                        var newContent = tempDiv.find("body").length ? tempDiv.find("body").html() : html;
+
+                        $(target).html(newContent);
+                        console.log("Content loaded successfully into", target);
+                    })
+                    .catch(error => {
+                        console.error("Error loading", url, error);
+                        $(target).html(`<p>Error loading content. <a href='${url}'>Click here</a> to view the full page.</p>`);
+                    });
+            }
+        });
+
+        // Preserve tab selection across refreshes
+        if (window.location.hash) {
+            $('a[href="' + window.location.hash + '"]').tab('show');
+        }
+    });
+</script>
+
+    </div>

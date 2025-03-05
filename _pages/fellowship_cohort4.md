@@ -1,8 +1,8 @@
 ---
-layout: education
+layout:
 permalink: /fellowship_cohort4.html
 title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26)
-display_title: NHS Fellowship in Clinical AI<br>Cohort 4 Applications (2025-26)
+display_title: Cohort 4 Applications (2025-26)
 ---
 Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are closed.<br>
 Shortlisting and interview information for applicants is communicated directly by email. <br>
