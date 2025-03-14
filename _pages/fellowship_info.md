@@ -1,10 +1,10 @@
 ---
-layout: education
+layout:
 permalink: /fellowship_info.html
 title: NHS Fellowship in Clinical AI Further Information
 display_title: NHS Fellowship in Clinical AI<br>Further Information
 ---
-<h3 style>Background to the NHS Fellowship in Clinical AI</h3>
+<h3 style>Background</h3>
 
 Clinical leaders with expertise in Artificial Intelligence are essential to the integration and rollout of AI software in NHS trusts. 
 To fully deliver the UK government's goal of being a [global AI superpower](https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf), the NHS must provide dedicated training for clinicians in cutting-edge skills required for clinical AI deployment.

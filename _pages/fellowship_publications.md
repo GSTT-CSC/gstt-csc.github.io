@@ -1,5 +1,5 @@
 ---
-layout: education
+layout:
 permalink: /fellowship_publications.html
 title: Fellows' Publications
 display_title: NHS Fellowship in Clinical AI<br>Fellows' Publications
