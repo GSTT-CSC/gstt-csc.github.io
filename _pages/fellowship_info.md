@@ -124,7 +124,8 @@ The list below is indicative and may vary between cohorts.
 * Salisbury et al. described how our fellows 'learn how to safely deploy, maintain, and evaluate AI software in real clinical workflows' in an [editorial in *npj Digital Medicine* (2023)](/assets/docs/s41746-023-00922-8.pdf#page=2)
 * Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the [*Future Healthcare Journal* (2024)](/assets/docs/j.fhj.2024.100162.pdf#page=3) of the Royal College of Physicians
 * The fellowship and its fellows were [profiled in the *The Doctor* magazine (2024)](/assets/docs/BMA_TheDoctor_Nov2024.pdf#page=16) of the British Medical Association
-
+* The fellowship was showcased as an opportunity to acquire 'skills to implement and adopt AI safely and effectively' in [NHS OneLondon's *Framework for the safe, efficient and effective
+implementation, use and maintenance of AI in health and care in London* (2025)](assets/docs/ONELondonFramework2025.pdf#page=41)
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
