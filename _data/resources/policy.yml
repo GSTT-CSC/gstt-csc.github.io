@@ -4,6 +4,10 @@
 #  description:
 #  link:
 
+- name: Planning and implementing real-world artificial intelligence (AI) evaluations- lessons from the AI in Health and Care Award
+  description: This document looks at what was learned from deployment and rea-world evaluation of AI tools in the NHS. It provides lessons on the practical ‘how to’ of designing and implementing real-world evaluations of AI.
+  link: https://www.england.nhs.uk/long-read/planning-and-implementing-real-world-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/
+
 - name: British Standards Institute
   description: |
     The BSI publish standards relevant to our work in medical devices. Use KCL institutional login for access.
