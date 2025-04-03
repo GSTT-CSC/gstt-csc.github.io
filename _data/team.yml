@@ -99,6 +99,16 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
             icon: fab fa-linkedin-in
+      - name: "Zainab Qazi"
+        role: "Programme Support Officer"
+        team-member-page: /team_member/Zainab.html
+        image: assets/img/team/Zainab.png
+        subgroup: "Fellowship in Clinical AI Faculty"        
+        social:
+          - url: https://uk.linkedin.com/in/zainab-q-a881a1179/
+            icon: fab fa-linkedin-in 
+          - url: https://github.com/ZzzQazi
+            icon: fab fa-github
       - name: "Eleanor Stylianides"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/eleanor.html
