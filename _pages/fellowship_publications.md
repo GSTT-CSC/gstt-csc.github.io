@@ -28,4 +28,4 @@ Explore the fellowship-related publications of our fellows below.
 </table>
 <!-- Fellows' Publications -->
 
-<i> Last updated: March 2025 </i>
+<i> Last updated: April 2025 </i>
