@@ -4,7 +4,7 @@ team-member-name: Paulette Kumi
 team-member-photo: /assets/img/fellow/paulettekumi.jpg
 job-role: Fellow in Clinical AI, Cohort 2
 social:
-          - url: https://www.linkedin.com/in/adam-julius-764b20275/
+          - url: https://www.linkedin.com/in/paulette-kumi-abb21329
             icon: fab fa-linkedin-in
 ---
 
