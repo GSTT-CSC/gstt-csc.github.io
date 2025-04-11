@@ -3,11 +3,6 @@ layout: fellow
 team-member-name: Hamish Robertson
 team-member-photo: /assets/img/fellow/hamishrobertson.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://www.linkedin.com/in/hamishr/
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/hamdev
-             icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

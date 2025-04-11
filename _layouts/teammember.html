@@ -10,15 +10,37 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+{% comment %}
+  Convert team member's name into a slug to match keys in _data/social_links.yml
+{% endcomment %}
+{% assign slug = page.team-member-name | downcase | replace: " ", "-" | replace: "’", "" | replace: "'", "" %}
+{% assign socials = site.data.social_links_team[slug] %}
+
 <div class="container" id="pagecontainer">
-    <div class="row">
-        <div class="col-12 col-lg-4 text-center">
-            <img class="mx-auto rounded-circle p-1" style="width: 250px;" src={{ page.team-member-photo }} alt="">
-		    <h4 class="pt-2 text-center">{{ page.team-member-name }}</h4>
-            <p class="text-center text-muted">{{ page.job-role }}</p>
-        </div>
-        <div class="col-12 col-lg-8">
-            {{ content }}
-        </div>
+  <div class="row">
+    <div class="col-12 col-lg-4 text-center">
+      <img class="mx-auto p-1" style="width: 250px;" src={{ page.team-member-photo }} alt="">
+      <h4 class="pt-2 text-center">{{ page.team-member-name }}</h4>
+      <p class="text-center text-muted">{{ page.job-role }}</p>
+
+      {% comment %}
+        If the person has entries in _data/social_links.yml, render them here
+      {% endcomment %}
+      {% if socials %}
+      <ul class="list-inline social-buttons">
+        {% for network in socials %}
+        <li class="list-inline-item text-center">
+          <a href="{{ network.url }}">
+            <i class="{{ network.icon }}"></i>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </div>
+
+    <div class="col-12 col-lg-8">
+      {{ content }}
+    </div>
+  </div>
 </div>

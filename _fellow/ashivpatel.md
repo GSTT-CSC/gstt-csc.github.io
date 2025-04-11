@@ -3,9 +3,6 @@ layout: fellow
 team-member-name: Ashiv Patel
 team-member-photo: /assets/img/fellow/ashivpatel.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://www.linkedin.com/in/ashivpatel/
-             icon: fab fa-linkedin-in
 ---
 
 ### Fellowship Bio

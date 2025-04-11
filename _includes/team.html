@@ -7,6 +7,14 @@
       <h3 class="text-secondary">{{ subgroup.name }}</h3>
       <div class="row pt-3">
         {% for person in subgroup.items %}
+
+          {% comment %}
+            Slugify the person's name to use as a key in _data/social_links.yml
+            Example: "Clark Kent" → "clark-kent"
+          {% endcomment %}
+          {% assign slug = person.name | downcase | replace: " ", "-" | replace: "’", "" | replace: "'", "" %}
+          {% assign socials = site.data.social_links_team[slug] %}
+
           <div class="col-md-6 col-lg-4 pb-4 text-center text-lg-left">
             <div class="team-member">
               <a href="{{ person.team-member-page }}">
@@ -14,8 +22,13 @@
               </a>
               <h4>{{ person.name }}</h4>
               <p class="text-muted">{{ person.role }}</p>
+
+              {% comment %}
+                Render social icons only if the person has entries in social_links.yml
+              {% endcomment %}
+              {% if socials %}
               <ul class="list-inline social-buttons">
-                {% for network in person.social %}
+                {% for network in socials %}
                   <li class="list-inline-item text-center">
                     <a href="{{ network.url }}">
                       <i class="{{ network.icon }}"></i>
@@ -23,6 +36,7 @@
                   </li>
                 {% endfor %}
               </ul>
+              {% endif %}
             </div>
           </div>
         {% endfor %}

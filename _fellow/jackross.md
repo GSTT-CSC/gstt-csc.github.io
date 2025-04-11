@@ -3,13 +3,7 @@ layout: fellow
 team-member-name: Jack Ross
 team-member-photo: /assets/img/fellow/jackross.jpg
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.com/citations?hl=en&user=i3IeTBAAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/jack-ross-b3673154/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/jackfelixross
-            icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

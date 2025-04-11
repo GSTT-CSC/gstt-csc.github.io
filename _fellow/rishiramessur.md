@@ -3,11 +3,7 @@ layout: fellow
 team-member-name: Rishi Ramessur
 team-member-photo: /assets/img/fellow/rishiramessur.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://scholar.google.com/citations?hl=en&user=C1PMG-QAAAAJ&view_op=list_works&sortby=pubdate
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/rishi-ramessur
-             icon: fab fa-linkedin-in
+
 ---
 
 ### Fellowship Bio

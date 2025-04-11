@@ -3,11 +3,7 @@ layout: fellow
 team-member-name: James Lai
 team-member-photo: /assets/img/fellow/jameslai.jpg
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.com/citations?hl=en&user=8DAlCQsAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/jamestflai/
-            icon: fab fa-linkedin-in
+
 ---
 
 ### Fellowship Bio
