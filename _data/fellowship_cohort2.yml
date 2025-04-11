@@ -16,8 +16,6 @@
      people:
        - name: "Robert Dunk"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/robertdunk.html
-         image: assets/img/fellow/robertdunk.jpg
          social:
           - url: https://github.com/robd78
             icon: fab fa-github
@@ -28,8 +26,6 @@
 
        - name: "Maredudd Harris"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/mareduddharris.html
-         image: assets/img/fellow/mareduddharris.jpg
          social:
            - url: https://github.com/mareduddharris/
              icon: fab fa-github
@@ -40,22 +36,18 @@
 
        - name: "Paulette Kumi"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/paulettekumi.html
-         image: assets/img/fellow/paulettekumi.jpg
          social:
+           - url: https://www.linkedin.com/in/paulette-kumi-abb21329
+             icon: fab fa-linkedin-in
 
        - name: "Ruchir Shah"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/ruchirshah.html
-         image: assets/img/fellow/ruchirshah.jpg
          social:
            - url: https://www.linkedin.com/in/ruchir-shah-ba655a341/
              icon: fab fa-linkedin-in
 
        - name: "Sonam Vadera"
          role: "Specialty Trainee Doctor in Clinical Radiology"
-         team-member-page: /fellow/sonamvadera.html
-         image: assets/img/fellow/sonamvadera.jpg
          social:
            - url: https://www.linkedin.com/in/sonam-vadera-33871a292/
              icon: fab fa-linkedin-in
@@ -64,16 +56,12 @@
 
        - name: "William Pritchard"
          role: "Specialty Trainee Doctor in Emergency Medicine"
-         team-member-page: /fellow/williampritchard.html
-         image: assets/img/fellow/williampritchard.jpg
          social:
            - url: https://www.linkedin.com/in/wjpritchard
              icon: fab fa-linkedin-in
 
        - name: "Annabelle Painter"
          role: "Specialty Trainee Doctor in General Practice"
-         team-member-page: /fellow/annabellepainter.html
-         image: assets/img/fellow/annabellepainter.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=ToidwbUAAAAJ&view_op=list_works&sortby=pubdate
              icon: fas fa-book
@@ -84,16 +72,12 @@
 
        - name: "Ashiv Patel"
          role: "Specialty Trainee Doctor in General Practice"
-         team-member-page: /fellow/ashivpatel.html
-         image: assets/img/fellow/ashivpatel.jpg
          social:
            - url: https://www.linkedin.com/in/ashivpatel/
              icon: fab fa-linkedin-in
 
        - name: "Andrew Soltan"
          role: "Specialty Trainee Doctor in Medical Oncology"
-         team-member-page: /fellow/andrewsoltan.html
-         image: assets/img/fellow/andrewsoltan.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=TvJWyVcAAAAJ&view_op=list_works&sortby=pubdate
              icon: fas fa-book
@@ -104,8 +88,6 @@
 
        - name: "Nikunj Davda"
          role: "Specialty Trainee Doctor in Neurology"
-         team-member-page: /fellow/nikunjdavda.html
-         image: assets/img/fellow/nikunjdavda.jpg
          social:
            - url: https://orcid.org/0009-0001-6763-5436
              icon: fas fa-book
@@ -116,8 +98,6 @@
 
        - name: "Rishi Ramessur"
          role: "Specialty Trainee Doctor in Ophthalmology"
-         team-member-page: /fellow/rishiramessur.html
-         image: assets/img/fellow/rishiramessur.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=C1PMG-QAAAAJ&view_op=list_works&sortby=pubdate
              icon: fas fa-book
@@ -126,8 +106,6 @@
 
        - name: "Taha Soomro"
          role: "Specialty Trainee Doctor in Ophthalmology"
-         team-member-page: /fellow/tahasoomro.html
-         image: assets/img/fellow/tahasoomro.jpg
          social:
            - url: https://scholar.google.com/citations?hl=en&user=pEWQ-Y4AAAAJ&view_op=list_works&sortby=pubdate
              icon: fas fa-book
@@ -148,8 +126,6 @@
 
        - name: "Caolan Roberson"
          role: "Specialty Trainee Doctor in Paediatrics"
-         team-member-page: /fellow/caolanroberson.html
-         image: assets/img/fellow/caolanroberson.jpg
          social:
            - url: https://github.com/kiwiroberson
              icon: fab fa-github
@@ -160,8 +136,6 @@
 
        - name: "Hamish Robertson"
          role: "Specialty Trainee Doctor in Paediatrics"
-         team-member-page: /fellow/hamishrobertson.html
-         image: assets/img/fellow/hamishrobertson.jpg
          social:
            - url: https://www.linkedin.com/in/hamishr/
              icon: fab fa-linkedin-in
@@ -170,8 +144,6 @@
 
        - name: "Yash Verma"
          role: "Specialty Trainee Doctor in Plastic Surgery"
-         team-member-page: /fellow/yashverma.html
-         image: assets/img/fellow/yashverma.jpg
          social:
            - url: https://orcid.org/0000-0003-1215-9513
              icon: fas fa-book
@@ -180,8 +152,6 @@
 
        - name: "Luis Ribeiro"
          role: "Specialty Trainee Doctor in Urology"
-         team-member-page: /fellow/luisribeiro.html
-         image: assets/img/fellow/luisribeiro.jpg
          social:
            - url: https://orcid.org/0000-0003-1828-2117
              icon: fas fa-book
