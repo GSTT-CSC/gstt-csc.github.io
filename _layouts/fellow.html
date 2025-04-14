@@ -13,20 +13,37 @@ document.getElementById("page-top").className="bg-light";
 <div class="container" id="pagecontainer">
     <div class="row">
         <div class="col-12 col-lg-4 text-center">
-            <img class="mx-auto p-1" style="width: 250px;" src={{ page.team-member-photo }} alt="">
+
+            {% comment %}
+              Create a URL-safe slug from the team member's name
+              e.g., "Jane Doe" → "jane-doe"
+            {% endcomment %}
+            {% assign slug_name = page.team-member-name | slugify %}
+
+            {% comment %}
+              Construct image path using slugified name
+              e.g., /assets/img/fellow/jane-doe.jpg
+            {% endcomment %}
+            <img class="mx-auto p-1" style="width: 250px;" src="/assets/img/fellow/{{ slug_name }}.jpg" alt="">
+
+            {% comment %} Display the team member’s name and job role {% endcomment %}
 		    <h4 class="pt-2 text-center">{{ page.team-member-name }}</h4>
             <p class="text-center text-muted">{{ page.job-role }}</p>
-		<ul class="list-inline social-buttons">
-		{% for network in page.social %}
-		  <li class="list-inline-item text-center">
-			<a href="{{ network.url }}">
-			  <i class="{{ network.icon }}"></i>
-			</a>
-		  </li>
-		{% endfor %}
-		</ul>
+
+            {% comment %} Optional social media links {% endcomment %}
+		    <ul class="list-inline social-buttons">
+		    {% for network in page.social %}
+		      <li class="list-inline-item text-center">
+			    <a href="{{ network.url }}">
+			      <i class="{{ network.icon }}"></i>
+			    </a>
+		      </li>
+		    {% endfor %}
+		    </ul>
+
         </div>
         <div class="col-12 col-lg-8">
+            {% comment %} Main content area {% endcomment %}
             {{ content }}
         </div>
     </div>

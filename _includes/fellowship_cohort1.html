@@ -5,20 +5,20 @@
 
   {% for person in site.data.fellowship_cohort1[site.locale].team.people %}
     {% comment %}
-      Generate a lowercase, spaceless string from the person's name
-      e.g., "Forename Surname" → "forenamesurname"
+      Generate a URL-safe slug from the person's name
+      e.g., "Forename Surname" → "forename-surname"
     {% endcomment %}
-    {% assign url_name = person.name | downcase | remove: " " %}
+    {% assign url_name = person.name | slugify %}
 
     {% comment %}
-      Construct the fellow's profile page URL based on the name
-      e.g., /fellow/forenamesurname.html
+      Construct the fellow's profile page URL using the slug
+      e.g., /fellow/forename-surname.html
     {% endcomment %}
     {% assign page_url = "/fellow/" | append: url_name | append: ".html" %}
 
     {% comment %}
-      Construct the image path from the name
-      e.g., /assets/img/fellow/forenamesurname.jpg
+      Construct the image path using the slug
+      e.g., /assets/img/fellow/forename-surname.jpg
     {% endcomment %}
     {% assign image_path = "/assets/img/fellow/" | append: url_name | append: ".jpg" %}
 
