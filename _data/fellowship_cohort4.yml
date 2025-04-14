@@ -15,16 +15,92 @@
      section: team
      people:
 
-       - name: "Forename Surname"
-         role: "Specialty Trainee Doctor "
-         social:
-           - url: https://scholar.google.com
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/
-             icon: fab fa-linkedin-in
+       - name: "Katherine Wykes"
+         role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
 
-           
+       - name: "Matthew Lowry"
+         role: "Specialty Trainee Doctor in Cardiology and Internal Medicine"
 
+       - name: "Jonathan Smith"
+         role: "Specialty Trainee Doctor in Cardiology"
+
+       - name: "Karishma Chandarana"
+         role: "Specialty Trainee Doctor in Cardiothoracic Surgery"
+
+       - name: "Girija Agarwal"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+
+       - name: "Shin Kitaoka"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+
+       - name: "Michael Kwakye"
+         role: "Specialty Trainee Doctor in Clinical Radiology"
+       - name: "Carmen Goh"
+         role: "Consultant in Emergency Medicine"
+       - name: "Alaa Alaqeel"
+         role: "Consultant in Family Medicine and Sleep Medicine"
+
+       - name: "Connor Huggins"
+         role: "Specialty Trainee Doctor in General Practice"
+
+       - name: "Christian Okonkwor"
+         role: "Specialty Trainee Doctor in General Practice"
+       - name: "Oluwaseun Ologunja"
+         role: "Specialty Trainee Doctor in General Practice"
+       - name: "Pradeep Ravichandran"
+         role: "Specialty Trainee Doctor in General Practice"
+
+       - name: "Rashi Yadav"
+         role: "Specialty Trainee Doctor in General Practice"
+
+       - name: "Aditya Borakati"
+         role: "Specialty Trainee Doctor in General Surgery"
+       - name: "Gerard McCabe"
+         role: "Specialty Trainee Doctor in General Surgery"
+       - name: "Hesham Mohamed"
+         role: "Specialty Trainee Doctor in General Surgery"
+
+       - name: "Enas bin Araik"
+         role: "Specialty Trainee Doctor in Consultant in Geriatric Medicine
+"
+
+       - name: "Nomathamsanqa Tshuma"
+         role: "Specialty Trainee Doctor in Haematology"
+       - name: "Adrian Cheang"
+         role: "Specialty Trainee Doctor in Histopathology"
+       - name: "William Roach"
+         role: "Higher Specialist Scientist Trainee in Microbiology"
+
+       - name: "Frances Conti-Ramsden"
+         role: "Specialty Trainee Doctor in Obstetrics & Gynaecology"
+
+       - name: "Caroline Kilduff"
+         role: "Specialty Trainee Doctor in Ophthalmology"
+       - name: "Thomas Nash"
+         role: "Specialty Trainee Doctor in Ophthalmology"
+       - name: "Josie Carmichael"
+         role: "Optometrist"
+       - name: "Christian Grimes"
+         role: "Specialty Trainee Doctor in Otolaryngology"
+       - name: "Daniel Simpson"
+         role: "Specialty Trainee Doctor in Paediatrics"
+       - name: "Helena Cooper"
+         role: "Pharmacist in Clinical Informatics"
+
+       - name: "Royce Rajan"
+         role: "Pharmacist in Clinical Informatics"
+       - name: "Varthani Kirupanandan"
+         role: "Specialty Trainee Doctor in Public Health Medicine"
+       - name: "Christopher Morrison"
+         role: "Specialty Trainee Doctor in Public Health Medicine"
+       - name: "David Green"
+         role: "Specialty Trainee Doctor in Renal Medicine"
+       - name: "Rory Ormiston"
+         role: "Specialty Trainee Doctor in Trauma & Orthopaedic Surgery"
+       - name: "Zain Kasmani"
+         role: "Specialty Trainee Doctor in Urology"
+       - name: "Henry Bergman"
+         role: "Specialty Trainee Doctor in Vascular Surgery"
  en-US:
    <<: *DEFAULT_EN
  en-CA:
