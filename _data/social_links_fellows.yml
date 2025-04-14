@@ -7,16 +7,12 @@ sarah-blake:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/sarah-blake-571a9618a/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/BlakeSarahR
-    icon: fab fa-twitter
 
 kavitha-vimalesvaran:
   - url: https://orcid.org/0000-0003-2236-7279
     icon: fas fa-book
   - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/kavitha_varan
-    icon: fab fa-twitter
 
 jack-ross:
   - url: https://scholar.google.com/citations?hl=en&user=i3IeTBAAAAAJ&view_op=list_works&sortby=pubdate
@@ -29,8 +25,6 @@ adam-mayers:
     icon: fab fa-github
   - url: https://www.linkedin.com/in/adam-mayers-225311272/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/Adam_Mayers
-    icon: fab fa-twitter
 
 james-lai:
   - url: https://scholar.google.com/citations?hl=en&user=8DAlCQsAAAAJ&view_op=list_works&sortby=pubdate
@@ -43,24 +37,20 @@ mustafa-khanbhai:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/mustafa-khanbhai-phd-frcs-6a52b4121/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/MusKhanbhai
-    icon: fab fa-twitter
 
 akish-luintel:
   - url: https://scholar.google.com/citations?hl=en&user=97AxAKoAAAAJ&view_op=list_works&sortby=pubdate
     icon: fas fa-book
   - url: https://www.linkedin.com/in/akish-luintel-652407a2/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/drakishl
-    icon: fab fa-twitter
+
 
 amit-samani:
   - url: https://orcid.org/0000-0001-6570-4912
     icon: fas fa-book
   - url: https://www.linkedin.com/in/amit-samani-561331189/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/amit_samani1
-    icon: fab fa-twitter
+
 
 robert-miller:
   - url: https://scholar.google.co.uk/citations?hl=en&user=gDW-DoAAAAAJ&view_op=list_works&sortby=pubdate
@@ -80,8 +70,6 @@ maredudd-harris:
     icon: fab fa-github
   - url: https://www.linkedin.com/in/maredudd-harris
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/maredudd_harris
-    icon: fab fa-twitter
 
 paulette-kumi:
   - url: https://www.linkedin.com/in/paulette-kumi-abb21329
@@ -94,8 +82,6 @@ ruchir-shah:
 sonam-vadera:
   - url: https://www.linkedin.com/in/sonam-vadera-33871a292/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/drsonamvadera
-    icon: fab fa-twitter
 
 william-pritchard:
   - url: https://www.linkedin.com/in/wjpritchard
@@ -106,30 +92,22 @@ annabelle-painter:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/dr-annabelle-painter
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/p_annabelle
-    icon: fab fa-twitter
 
 ashiv-patel:
   - url: https://www.linkedin.com/in/ashivpatel/
     icon: fab fa-linkedin-in
-
-
 
 andrew-soltan:
   - url: https://scholar.google.com/citations?hl=en&user=TvJWyVcAAAAJ&view_op=list_works&sortby=pubdate
     icon: fas fa-book
   - url: https://www.linkedin.com/in/andrewsoltan
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/andrewsoltan
-    icon: fab fa-twitter
 
 nikunj-davda:
   - url: https://orcid.org/0009-0001-6763-5436
     icon: fas fa-book
   - url: https://www.linkedin.com/in/nikunj-davda-a0878787
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/nikunjdavda6
-    icon: fab fa-twitter
 
 rishi-ramessur:
   - url: https://scholar.google.com/citations?hl=en&user=C1PMG-QAAAAJ&view_op=list_works&sortby=pubdate
@@ -142,28 +120,20 @@ taha-soomro:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/taha-soomro-b6120973
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/soomrotaha
-    icon: fab fa-twitter
 
 qasim-malik:
   - url: https://www.linkedin.com/in/qasim-malik-b02109257/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/qasimmalikmed
-    icon: fab fa-twitter
 
 caolan-roberson:
   - url: https://github.com/kiwiroberson
     icon: fab fa-github
   - url: https://www.linkedin.com/in/caolan-roberson-a24bab266
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/robersoncaolan
-    icon: fab fa-twitter
 
 hamish-robertson:
   - url: https://www.linkedin.com/in/hamishr/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/hamdev
-    icon: fab fa-twitter
 
 yash-verma:
   - url: https://orcid.org/0000-0003-1215-9513
@@ -194,24 +164,18 @@ helen-livesey:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/helen-livesey-5a88a429a/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/hlivesey7
-    icon: fab fa-twitter
 
 katherine-mackay:
   - url: https://scholar.google.com/citations?hl=en&user=c__dXJYAAAAJ&view_op=list_works&sortby=pubdate
     icon: fas fa-book
   - url: https://www.linkedin.com/in/katherine-mackay-19218684/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/MackayKatherine
-    icon: fab fa-twitter
 
 rory-maclean:
   - url: https://orcid.org/0000-0002-9686-0501
     icon: fas fa-book
   - url: https://www.linkedin.com/in/rory-maclean/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/roryHMaclean1
-    icon: fab fa-twitter
 
 john-chen:
   - url: https://www.linkedin.com/in/jlc71/
@@ -227,7 +191,7 @@ jesus-perdomo-lampignano:
   - url: https://www.linkedin.com/in/jesusper/
     icon: fab fa-linkedin-in
 
-dilan-sanli:
+dilan-şanli:
   - url: https://www.linkedin.com/in/dilan-şanlı-8447921ab/
     icon: fab fa-linkedin-in
 
@@ -242,16 +206,12 @@ conn-mcgrath:
 aoife-fox:
   - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/EMDocFox
-    icon: fab fa-twitter
 
 bharadwaj-chada:
   - url: https://www.researchgate.net/profile/Venkata-Chada
     icon: fas fa-book
   - url: https://www.linkedin.com/in/bharadwajchada/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/BharadwajChada
-    icon: fab fa-twitter
 
 will-hughes:
   - url: https://www.linkedin.com/in/drwillhughes/
@@ -268,8 +228,6 @@ akriti-nanda:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/akriti-nanda-13aba8109/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/akritinanda
-    icon: fab fa-twitter
 
 timothy-ebsworth:
   - url: https://www.linkedin.com/in/timothy-ebsworth-34512337/
@@ -288,8 +246,6 @@ sunil-mamtora:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/sunil-mamtora-97579020/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/mamtora_sunil
-    icon: fab fa-twitter
 
 iblal-rakha:
   - url: https://www.linkedin.com/in/iblalrakha/
@@ -304,14 +260,10 @@ charlie-winward:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/charlie-winward-033aa154/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/Charlie_ConsAHP
-    icon: fab fa-twitter
 
 karol-basta:
   - url: https://www.linkedin.com/in/karol-basta-7a55a61b1/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/karolbasta
-    icon: fab fa-twitter
 
 joshua-khan:
   - url: https://www.linkedin.com/in/joshua-khan-517b241b3/
@@ -320,9 +272,166 @@ joshua-khan:
 rachel-thomson:
   - url: https://scholar.google.com/citations?hl=en&user=YY1uNvoAAAAJ&view_op=list_works&sortby=pubdate
     icon: fas fa-book
-  - url: https://twitter.com/Rachel_Thomson
-    icon: fab fa-twitter
 
 thomas-evans:
   - url: https://www.linkedin.com/in/thomas-evans-904286b3/
+    icon: fab fa-linkedin-in
+
+katherine-wykes:
+
+matthew-lowry:
+
+jonathan-smith:
+
+
+karishma-chandarana:
+  - url: https://www.researchgate.net/profile/Karishma-Chandarana
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/karishma-chandarana/
+    icon: fab fa-linkedin-in
+
+girija-agarwal:
+  - url: https://www.researchgate.net/profile/Girija-Agarwal
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/girija-agarwal/
+    icon: fab fa-linkedin-in
+
+shin-kitaoka:
+
+michael-kwakye:
+  - url: https://www.linkedin.com/in/michaeladofokwakye/
+    icon: fab fa-linkedin-in
+
+carmen-goh:
+  - url: https://www.researchgate.net/profile/Carmen-Goh
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/carmen-goh-a59379313/
+    icon: fab fa-linkedin-in
+
+alaa-alaqeel:
+  - url: https://orcid.org/0009-0004-0979-0181
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/ala-a-alaqeel-b7537bb1/
+    icon: fab fa-linkedin-in
+
+connor-huggins:
+  - url: https://scholar.google.com/
+    icon: fas fa-book
+
+
+christian-okonkwor:
+
+
+oluwaseun-ologunja:
+
+
+
+pradeep-ravichandran:
+  - url: https://orcid.org/0000-0002-8879-1032
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/drpradravi/
+    icon: fab fa-linkedin-in
+
+rashi-yadav:
+  - url: https://orcid.org/0000-0003-1563-5570
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/rashi-yadav-05334b2b2/
+    icon: fab fa-linkedin-in
+
+aditya-borakati:
+  - url: https://scholar.google.com/citations?hl=en&user=wDPjBe4AAAAJ&view_op=list_works&sortby=pubdate
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/aditya-borakati-84856089/
+    icon: fab fa-linkedin-in
+
+gerard-mccabe:
+  - url: https://www.linkedin.com/in/gerard-mccabe-3a8718242/
+    icon: fab fa-linkedin-in
+
+hesham-mohamed:
+  - url: https://www.linkedin.com/in/hesham-mohamed-95304940/
+    icon: fab fa-linkedin-in
+
+enas-bin-araik:
+
+
+
+nomathamsanqa-tshuma:
+  - url: https://www.linkedin.com/in/noma-tshuma-0289b263/
+    icon: fab fa-linkedin-in
+
+adrian-cheang:
+  - url: https://www.researchgate.net/profile/Adrian-Cheang
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/adrian-wei-ern-cheang-46b90393/
+    icon: fab fa-linkedin-in
+
+william-roach:
+  - url: https://www.linkedin.com/in/william-roach-32244b160/
+    icon: fab fa-linkedin-in
+
+frances-conti-ramsden:
+  - url: https://scholar.google.com/citations?hl=en&user=S2Q9ka0AAAAJ&view_op=list_works&sortby=pubdate
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/frances-conti-ramsden-msc-md-7416469b/
+    icon: fab fa-linkedin-in
+
+caroline-kilduff:
+  - url: https://scholar.google.com/
+    icon: fas fa-book
+  - url: https://www.researchgate.net/profile/Caroline-Kilduff-2
+    icon: fab fa-linkedin-in
+
+thomas-nash:
+
+josie-carmichael:
+  - url: hhttps://www.researchgate.net/profile/Josie-Carmichael
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/josie-carmichael-55b096208/
+    icon: fab fa-linkedin-in
+
+christian-grimes:
+  - url: https://www.linkedin.com/in/christian-grimes-b52559349/
+    icon: fab fa-linkedin-in
+
+daniel-simpson:
+  - url: https://www.linkedin.com/in/danny-simpson-829628247/
+    icon: fab fa-linkedin-in
+
+helena-cooper:
+
+royce-rajan:
+  - url: https://www.linkedin.com/in/royce-rajan/
+    icon: fab fa-linkedin-in
+
+varthani-kirupanandan:
+  - url: https://www.researchgate.net/profile/Varthani-Kirupanandan
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/varthanikiru/
+    icon: fab fa-linkedin-in
+
+christopher-morrison:
+  - url: https://www.linkedin.com/in/christopher-morrison-309706246/
+    icon: fab fa-linkedin-in
+
+david-green:
+
+
+rory-ormiston:
+  - url: https://www.researchgate.net/profile/Rory-Ormiston
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/rory-ormiston-4a93a3a0/
+    icon: fab fa-linkedin-in
+
+zain-kasmani:
+  - url: https://orcid.org/0009-0003-2933-686X
+    icon: fas fa-book
+
+
+henry-bergman:
+  - url: https://github.com/hibergman
+    icon: fab fa-github
+  - url: https://orcid.org/0000-0002-3493-5299
+    icon: fas fa-book
+  - url: https://www.linkedin.com/in/henry-bergman/
     icon: fab fa-linkedin-in
