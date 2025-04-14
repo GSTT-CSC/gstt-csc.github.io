@@ -429,8 +429,6 @@ zain-kasmani:
 
 
 henry-bergman:
-  - url: https://github.com/hibergman
-    icon: fab fa-github
   - url: https://orcid.org/0000-0002-3493-5299
     icon: fas fa-book
   - url: https://www.linkedin.com/in/henry-bergman/
