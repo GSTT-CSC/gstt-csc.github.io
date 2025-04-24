@@ -1,0 +1,77 @@
+dika-vilic:
+  - url: https://github.com/dangerdika
+    icon: fab fa-github
+
+anil-mistry:
+  - url: https://github.com/AnilMistry
+    icon: fab fa-github
+
+elise-pather:
+  - url: https://github.com/ElisePather
+    icon: fab fa-github
+
+agathe-zecevic:
+  - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
+    icon: fab fa-linkedin-in
+
+mike-woodward:
+  - url: https://github.com/mikewoodward94
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/mike-woodward-b29083204/
+    icon: fab fa-linkedin-in
+
+haleema-drake:
+  - url: https://github.com/heyhaleema
+    icon: fab fa-github
+  - url: https://www.linkedin.com/heyhaleema
+    icon: fab fa-linkedin-in
+
+haris-shuaib:
+  - url: https://twitter.com/haris_shuaib
+    icon: fab fa-twitter
+  - url: https://github.com/hshuaib90
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/haris-shuaib/
+    icon: fab fa-linkedin-in
+
+alex-deng:
+  - url: https://twitter.com/alextdeng
+    icon: fab fa-twitter
+  - url: https://www.linkedin.com/in/alexandertdeng
+    icon: fab fa-linkedin-in
+  - url: https://github.com/alexandertdeng
+    icon: fab fa-github
+
+beatrix-fletcher:
+  - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
+    icon: fab fa-linkedin-in
+
+eleanor-stylianides:
+  - url: https://github.com/estyli
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/eleanor-stylianides/
+    icon: fab fa-linkedin-in
+
+keri-anderson:
+  - url: https://github.com/keriand
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/keri-anderson-b80468141/
+    icon: fab fa-linkedin-in
+
+david-de-mola:
+  - url: https://github.com/ddemola
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/ddemola/
+    icon: fab fa-linkedin-in
+
+kathan-sonar:
+  - url: https://github.com/Ksonar262
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/kathan-sonar/
+    icon: fab fa-linkedin-in
+
+aoife-fox:
+  - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
+    icon: fab fa-linkedin-in
+  - url: https://twitter.com/EMDocFox
+    icon: fab fa-twitter

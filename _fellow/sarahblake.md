@@ -3,13 +3,7 @@ layout: fellow
 team-member-name: Sarah Blake
 team-member-photo: /assets/img/fellow/sarahblake.jpg
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=tQrzWmIAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/sarah-blake-571a9618a/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/BlakeSarahR
-            icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

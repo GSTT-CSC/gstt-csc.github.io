@@ -3,11 +3,7 @@ layout: fellow
 team-member-name: Yash Verma
 team-member-photo: /assets/img/fellow/yashverma.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://orcid.org/0000-0003-1215-9513
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/yash-verma-a370731a4
-             icon: fab fa-linkedin-in
+
 ---
 
 ### Fellowship Bio

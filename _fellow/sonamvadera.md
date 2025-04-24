@@ -3,11 +3,7 @@ layout: fellow
 team-member-name: Sonam Vadera
 team-member-photo: /assets/img/fellow/sonamvadera.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://www.linkedin.com/in/sonam-vadera-33871a292/
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/drsonamvadera
-             icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

@@ -3,9 +3,6 @@ layout: fellow
 team-member-name: Adam Julius
 team-member-photo: /assets/img/fellow/adamjulius.jpg
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://www.linkedin.com/in/adam-julius-764b20275/
-            icon: fab fa-linkedin-in
 ---
 
 ### Fellowship Bio

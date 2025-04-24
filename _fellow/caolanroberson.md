@@ -3,13 +3,6 @@ layout: fellow
 team-member-name: Caolan Roberson
 team-member-photo: /assets/img/fellow/caolanroberson.jpg
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://github.com/kiwiroberson
-             icon: fab fa-github
-           - url: https://www.linkedin.com/in/caolan-roberson-a24bab266
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/robersoncaolan
-             icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

@@ -3,9 +3,7 @@ layout: fellow
 team-member-name: Robert Miller
 team-member-photo: /assets/img/fellow/robertmiller.jpg
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=gDW-DoAAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
+
 ---
 
 ### Fellowship Bio
