@@ -9,11 +9,11 @@
         {% for person in subgroup.items %}
 
           {% comment %}
-            Slugify the person's name to use as a key in _data/social_links.yml
+            Slugify the person's name to use as a key in _data/social_links_team.yml
             Example: "Clark Kent" → "clark-kent"
           {% endcomment %}
-          {% assign slug = person.name | downcase | replace: " ", "-" | replace: "’", "" | replace: "'", "" %}
-          {% assign socials = site.data.social_links_team[slug] %}
+          {% assign url_name = person.name | slufigy %}
+          {% assign socials = site.data.social_links_team[url_name] %}
 
           <div class="col-md-6 col-lg-4 pb-4 text-center text-lg-left">
             <div class="team-member">
@@ -24,7 +24,7 @@
               <p class="text-muted">{{ person.role }}</p>
 
               {% comment %}
-                Render social icons only if the person has entries in social_links.yml
+                Render social icons only if the person has entries in social_links_team.yml
               {% endcomment %}
               {% if socials %}
               <ul class="list-inline social-buttons">

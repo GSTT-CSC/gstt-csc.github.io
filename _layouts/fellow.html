@@ -11,20 +11,27 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 {% comment %}
-  Convert team member's name into a slug to match keys in _data/social_links.yml
+  Convert team member's name into a slug to match keys in _data/social_links_fellows.yml
 {% endcomment %}
-{% assign slug = page.team-member-name | downcase | replace: " ", "-" | replace: "’", "" | replace: "'", "" %}
-{% assign socials = site.data.social_links_fellows[slug] %}
+{% assign url_name = page.team-member-name | slugify %}
+{% assign socials = site.data.social_links_fellows[url_name] %}
+{% comment %}
+      Construct the image path using the slug
+      e.g., /assets/img/fellow/forename-surname.jpg
+{% endcomment %}
+{% assign image_path = "/assets/img/fellow/" | append: url_name | append: ".jpg" %}
+
 
 <div class="container" id="pagecontainer">
   <div class="row">
     <div class="col-12 col-lg-4 text-center">
-      <img class="mx-auto p-1" style="width: 250px;" src={{ page.team-member-photo }} alt="">
+      <img class="mx-auto p-1" style="width: 250px;" src={{ image_path }} alt="">
       <h4 class="pt-2 text-center">{{ page.team-member-name }}</h4>
       <p class="text-center text-muted">{{ page.job-role }}</p>
 
+
       {% comment %}
-        If the person has entries in _data/social_links.yml, render them here
+        If the person has entries in _data/social_links_fellows.yml, render them here
       {% endcomment %}
       {% if socials %}
       <ul class="list-inline social-buttons">

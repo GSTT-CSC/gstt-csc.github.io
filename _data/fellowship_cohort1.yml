@@ -17,97 +17,48 @@ en: &DEFAULT_EN
     people:
       - name: "Adam Julius"
         role: "Specialty Trainee Doctor in Anaesthetics"
-        social:
-          - url: https://www.linkedin.com/in/adam-julius-764b20275/
-            icon: fab fa-linkedin-in
+
 
       - name: "Sarah Blake"
         role: "Specialty Trainee Doctor in Cardiology"
-        social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=tQrzWmIAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/sarah-blake-571a9618a/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/BlakeSarahR
-            icon: fab fa-twitter
+
 
       - name: "Kavitha Vimalesvaran"
         role: "Specialty Trainee Doctor in Cardiology"
-        social:
-          - url: https://orcid.org/0000-0003-2236-7279
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/kavitha_varan
-            icon: fab fa-twitter
+
 
       - name: "Jack Ross"
-        role: "Specialty Trainee Doctor in Clinical Pharmacology & General Internal Medicine"
-        social:
-          - url: https://scholar.google.com/citations?hl=en&user=i3IeTBAAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/jack-ross-b3673154/
-            icon: fab fa-linkedin-in
+        role: "Specialty Trainee Doctor in Clinical Pharmacology and General Internal Medicine"
+
 
       - name: "Adam Mayers"
         role: "Specialty Trainee Doctor in Clinical Radiology"
-        social:
-          - url: https://github.com/adam-mayers
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/adam-mayers-225311272/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/Adam_Mayers
-            icon: fab fa-twitter
+
 
       - name: "James Lai"
         role: "Specialty Trainee Doctor in Emergency Medicine"
-        social:
-          - url: https://scholar.google.com/citations?hl=en&user=8DAlCQsAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/jamestflai/
-            icon: fab fa-linkedin-in
+
 
       - name: "Mustafa Khanbhai"
         role: "Specialty Trainee Doctor in General Surgery"
         social:
-          - url: https://orcid.org/0000-0002-4434-1785
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/mustafa-khanbhai-phd-frcs-6a52b4121/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/MusKhanbhai
-            icon: fab fa-twitter
+
 
       - name: "Akish Luintel"
-        role: "Specialty Trainee Doctor in Infectious Disease & General Internal Medicine"
-        social:
-          - url: https://scholar.google.com/citations?hl=en&user=97AxAKoAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/akish-luintel-652407a2/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/drakishl
-            icon: fab fa-twitter
+        role: "Specialty Trainee Doctor in Infectious Disease and General Internal Medicine"
+
 
       - name: "Amit Samani"
         role: "Specialty Trainee Doctor in Medical Oncology"
-        social:
-          - url: https://orcid.org/0000-0001-6570-4912
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/amit-samani-561331189/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/amit_samani1
-            icon: fab fa-twitter
+
 
       - name: "Robert Miller"
         role: "Specialty Trainee Doctor in Plastic Surgery"
-        social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=gDW-DoAAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
+
 
       - name: "Salah Hammouche"
-        role: "Specialty Trainee Doctor in Trauma and Orthopaedic Surgery"
-        social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=tpcMvGMAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
+        role: "Specialty Trainee Doctor in Trauma & Orthopaedic Surgery"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
