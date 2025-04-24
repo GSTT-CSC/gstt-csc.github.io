@@ -126,6 +126,7 @@ The list below is indicative and may vary between cohorts.
 * The fellowship and its fellows were [profiled in the *The Doctor* magazine (2024)](/assets/docs/BMA_TheDoctor_Nov2024.pdf#page=16) of the British Medical Association
 * The fellowship was showcased as an opportunity to acquire 'skills to implement and adopt AI safely and effectively' in [NHS OneLondon's *Framework for the safe, efficient and effective
 implementation, use and maintenance of AI in health and care in London* (2025)](assets/docs/ONELondonFramework2025.pdf#page=41)
+* Insights from the scaling-up of this programme from a local to national scope was [published](assets/docs/Fletcher2024DOI10.3233SHTI240254.pdf) by our Programme Manger [Beatrix Fletcher](/team_member/beatrix.html) 
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
