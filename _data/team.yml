@@ -72,13 +72,13 @@ en: &DEFAULT_EN
         role: "Programme Manager"
         team-member-page: /team_member/beatrix.html
         image: assets/img/team/Beatrix1.jpg
-        subgroup: "Fellowship in Clinical AI Faculty"        
+        subgroup: "NHS Fellowship in Clinical AI Faculty"        
             
       - name: "Zainab Qazi"
         role: "Programme Support Officer"
-        team-member-page: /team_member/Zainab.html
+        team-member-page: /team_member/zainab.html
         image: assets/img/team/Zainab.png
-        subgroup: "Fellowship in Clinical AI Faculty"        
+        subgroup: "NHS Fellowship in Clinical AI Faculty"        
 
       - name: "Eleanor Stylianides"
         role: "Trainee Clinical Scientist"
