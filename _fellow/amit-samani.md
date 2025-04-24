@@ -2,13 +2,6 @@
 layout: fellow
 team-member-name: Amit Samani
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://orcid.org/0000-0001-6570-4912
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/amit-samani-561331189/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/amit_samani1
-            icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

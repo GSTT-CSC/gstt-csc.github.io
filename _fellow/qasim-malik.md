@@ -2,11 +2,7 @@
 layout: fellow
 team-member-name: Qasim Malik
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://www.linkedin.com/in/qasim-malik-b02109257/
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/qasimmalikmed
-             icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

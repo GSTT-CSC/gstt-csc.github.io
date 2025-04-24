@@ -2,13 +2,6 @@
 layout: fellow
 team-member-name: Annabelle Painter
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://scholar.google.com/citations?hl=en&user=ToidwbUAAAAJ&view_op=list_works&sortby=pubdate
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/dr-annabelle-painter
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/p_annabelle
-             icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

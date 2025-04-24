@@ -2,13 +2,7 @@
 layout: fellow
 team-member-name: Taha Soomro
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://scholar.google.com/citations?hl=en&user=pEWQ-Y4AAAAJ&view_op=list_works&sortby=pubdate
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/taha-soomro-b6120973
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/soomrotaha
-             icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

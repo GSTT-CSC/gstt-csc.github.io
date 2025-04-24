@@ -2,13 +2,7 @@
 layout: fellow
 team-member-name: Mustafa Khanbhai
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://orcid.org/0000-0002-4434-1785
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/mustafa-khanbhai-phd-frcs-6a52b4121/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/MusKhanbhai
-            icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

@@ -2,11 +2,7 @@
 layout: fellow
 team-member-name: Luis Ribeiro
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://orcid.org/0000-0003-1828-2117
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/luis-ribeiro-16815374
-             icon: fab fa-linkedin-in
+
 ---
 
 ### Fellowship Bio

@@ -2,13 +2,7 @@
 layout: fellow
 team-member-name: Mareddud Harris
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://github.com/mareduddharris
-             icon: fab fa-github
-           - url: https://www.linkedin.com/in/maredudd-harris
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/maredudd_harris
-             icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio

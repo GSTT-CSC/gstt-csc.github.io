@@ -2,9 +2,7 @@
 layout: fellow
 team-member-name: William Pritchard
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://www.linkedin.com/in/wjpritchard
-             icon: fab fa-linkedin-in
+
 ---
 
 ### Fellowship Bio

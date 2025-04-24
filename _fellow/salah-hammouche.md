@@ -2,9 +2,7 @@
 layout: fellow
 team-member-name: Salah Hammouche
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.co.uk/citations?hl=en&user=tpcMvGMAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
+
 ---
 
 ### Fellowship Bio

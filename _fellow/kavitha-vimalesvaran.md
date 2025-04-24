@@ -2,13 +2,6 @@
 layout: fellow
 team-member-name: Kavitha Vimalesvaran
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://orcid.org/0000-0003-2236-7279
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/kavitha_varan
-            icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

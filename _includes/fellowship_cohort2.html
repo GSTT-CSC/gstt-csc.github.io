@@ -2,54 +2,36 @@
 <h5 class="text-muted">Click on each fellow to find out more</h5>
 <div class="container">
   <div class="row pt-3">
-
   {% for person in site.data.fellowship_cohort2[site.locale].team.people %}
     {% comment %}
-      Generate a URL-safe slug from the person's name
-      e.g., "Forename Surname" → "forename-surname"
+      Generate a slugified name to look up social links
+      e.g., "Clark Kent" → "clark-kent"
     {% endcomment %}
-    {% assign url_name = person.name | slugify %}
-
-    {% comment %}
-      Construct the fellow's profile page URL using the slug
-      e.g., /fellow/forename-surname.html
-    {% endcomment %}
-    {% assign page_url = "/fellow/" | append: url_name | append: ".html" %}
-
-    {% comment %}
-      Construct the image path using the slug
-      e.g., /assets/img/fellow/forename-surname.jpg
-    {% endcomment %}
-    {% assign image_path = "/assets/img/fellow/" | append: url_name | append: ".jpg" %}
+    {% assign key = person.name | downcase | replace: " ", "-" | replace: "’", "" | replace: "'", "" %}
+    {% assign socials = site.data.social_links_fellows[key] %}
 
     <div class="col-md-6 col-lg-4 pb-4 text-center text-lg-left">
       <div class="team-member">
-
-        {% comment %} Link to fellow's auto-generated profile page {% endcomment %}
-        <a href="{{ page_url }}">
-          {% comment %} Fellow's image, auto-generated path {% endcomment %}
-          <img class="mx-auto p-1" style="width: 250px;" src="{{ image_path }}" alt="">
+        <a href="{{ person.team-member-page }}">
+          <img class="mx-auto p-1" style="width: 250px;" src="{{ person.image }}" alt="">
         </a>
-
-        {% comment %} Display name and role {% endcomment %}
         <h4>{{ person.name }}</h4>
         <p class="text-muted">{{ person.role }}</p>
 
-        {% comment %} Optional social media links, if present {% endcomment %}
+        {% if socials %}
         <ul class="list-inline social-buttons">
-        {% for network in person.social %}
-          <li class="list-inline-item text-center">
-            <a href="{{ network.url }}">
-              <i class="{{ network.icon }}"></i>
-            </a>
-          </li>
-        {% endfor %}
+          {% for network in socials %}
+            <li class="list-inline-item text-center">
+              <a href="{{ network.url }}">
+                <i class="{{ network.icon }}"></i>
+              </a>
+            </li>
+          {% endfor %}
         </ul>
-
+        {% endif %}
       </div>
     </div>
   {% endfor %}
-
   </div>
 </div>
 <!-- End Team -->

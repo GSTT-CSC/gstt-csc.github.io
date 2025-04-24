@@ -2,13 +2,6 @@
 layout: fellow
 team-member-name: Akish Luintel
 job-role: Fellow in Clinical AI, Cohort 1
-social:
-          - url: https://scholar.google.com/citations?hl=en&user=97AxAKoAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fas fa-book
-          - url: https://www.linkedin.com/in/akish-luintel-652407a2/
-            icon: fab fa-linkedin-in
-          - url: https://twitter.com/drakishl
-            icon: fab fa-twitter
 ---
 
 ### Fellowship Bio

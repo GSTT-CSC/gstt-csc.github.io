@@ -2,13 +2,7 @@
 layout: fellow
 team-member-name: Nikunj Davda
 job-role: Fellow in Clinical AI, Cohort 2
-social:
-           - url: https://orcid.org/0009-0001-6763-5436
-             icon: fas fa-book
-           - url: https://www.linkedin.com/in/nikunj-davda-a0878787
-             icon: fab fa-linkedin-in
-           - url: https://twitter.com/nikunjdavda6
-             icon: fab fa-twitter
+
 ---
 
 ### Fellowship Bio
