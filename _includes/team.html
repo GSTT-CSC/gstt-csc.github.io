@@ -12,7 +12,7 @@
             Slugify the person's name to use as a key in _data/social_links_team.yml
             Example: "Clark Kent" → "clark-kent"
           {% endcomment %}
-          {% assign url_name = person.name | slufigy %}
+          {% assign url_name = person.name | slugify %}
           {% assign socials = site.data.social_links_team[url_name] %}
 
           <div class="col-md-6 col-lg-4 pb-4 text-center text-lg-left">
