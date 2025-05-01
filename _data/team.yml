@@ -62,7 +62,7 @@ en: &DEFAULT_EN
         subgroup: "NHS Fellowship in Clinical AI Faculty"
         image: assets/img/team/Haris.png
 
-      - name: "Alex Deng"
+      - name: "Alexander Deng"
         role: "Programme Lead"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
