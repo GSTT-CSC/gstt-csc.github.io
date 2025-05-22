@@ -14,7 +14,15 @@
      text:
      section: team
      people:
+       - name: "Josie Carmichael"
+         role: "Optometrist"
+       - name: "Helena Cooper"
+         role: "Pharmacist in Clinical Informatics"
 
+       - name: "Royce Rajan"
+         role: "Pharmacist in Clinical Informatics"
+       - name: "William Roach"
+         role: "Higher Specialist Scientist Trainee in Microbiology"
        - name: "Katherine Wykes"
          role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
 
@@ -66,8 +74,7 @@
          role: "Specialty Trainee Doctor in Haematology"
        - name: "Adrian Cheang"
          role: "Specialty Trainee Doctor in Histopathology"
-       - name: "William Roach"
-         role: "Higher Specialist Scientist Trainee in Microbiology"
+
 
        - name: "Frances Conti-Ramsden"
          role: "Specialty Trainee Doctor in Obstetrics & Gynaecology"
@@ -76,17 +83,12 @@
          role: "Specialty Trainee Doctor in Ophthalmology"
        - name: "Thomas Nash"
          role: "Specialty Trainee Doctor in Ophthalmology"
-       - name: "Josie Carmichael"
-         role: "Optometrist"
+
        - name: "Christian Grimes"
          role: "Specialty Trainee Doctor in Otolaryngology"
        - name: "Daniel Simpson"
          role: "Specialty Trainee Doctor in Paediatrics"
-       - name: "Helena Cooper"
-         role: "Pharmacist in Clinical Informatics"
 
-       - name: "Royce Rajan"
-         role: "Pharmacist in Clinical Informatics"
        - name: "Varthani Kirupanandan"
          role: "Specialty Trainee Doctor in Public Health Medicine"
        - name: "Christopher Morrison"
