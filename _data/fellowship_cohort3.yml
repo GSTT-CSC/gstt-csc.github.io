@@ -14,6 +14,17 @@
      text:
      section: team
      people:
+       - name: "Thomas Evans"
+         role: "Specialty Trainee Dentist in Special Care Dentistry"
+
+       - name: "Iblal Rakha"
+         role: "Lead Pharmacist in Clinical Trials Informatics"
+
+       - name: "Christopher Efford"
+         role: "Physiotherapist in Musculoskeletal Therapy"
+
+       - name: "Charlie Winward"
+         role: "Consultant Physiotherapist in Neurorehabilitation"
 
        - name: "Robert Crichton"
          role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
@@ -102,19 +113,6 @@
          role: "Specialty Trainee Doctor in Ophthalmology"
 
 
-
-       - name: "Iblal Rakha"
-         role: "Lead Pharmacist in Clinical Trials Informatics"
-
-
-       - name: "Christopher Efford"
-         role: "Physiotherapist in Musculoskeletal Therapy"
-
-
-       - name: "Charlie Winward"
-         role: "Consultant Physiotherapist in Neurorehabilitation"
-
-
        - name: "Karol Basta"
          role: "Specialty Trainee Doctor in Public Health"
 
@@ -131,10 +129,6 @@
        - name: "Rachel Thomson"
          role: "Specialty Trainee Doctor in Public Health"
 
-
-
-       - name: "Thomas Evans"
-         role: "Specialty Trainee Dentist in Special Care Dentistry"
 
            
 
