@@ -50,12 +50,6 @@ en: &DEFAULT_EN
         image: assets/img/team/Mike.jpg
         subgroup: "CSC core"        
 
-      - name: "Haleema Drake"
-        role: "Senior AI Engineer & Data Lead"
-        team-member-page: /team_member/haleema.html
-        image: assets/img/team/Haleema.jpg
-        subgroup: "CSC core"
-
       - name: "Haris Shuaib"
         role: "Director"
         team-member-page: /team_member/haris.html
