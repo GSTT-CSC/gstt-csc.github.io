@@ -1,10 +1,9 @@
 ---
 layout: project_page
-title: NLP for optimisation of endoscopic resources
-#status: Reporting
+title: EndominerAI
 status: Current
-image: /assets/img/blog/nhs_logo.png
-summary: Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources
+image: /assets/img/projects/EndoMinerAi_Logo.png
+summary: NLP for surveillance scan scheduling.
 csc-lead: <a href="team_member/Agathe.html">Agathe</a>
 modality: Endoscopy, EPR
 pathology: Premalignant disease of the upper gastrointestinal tract

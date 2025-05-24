@@ -1,10 +1,10 @@
 ---
 layout: project_page
-title: Perioperative complexity stratification and optimisation 
+title: PeriPlex 
 status: Concluded
 #status: Graveyard
-image: /assets/img/blog/nhs_logo.png
-summary: AI-powered algorithm for categorising patients based on their perioperative risk, enabling appropriate pathway planning and optimisation in elective surgeries.
+image: /assets/img/projects/periplex.png
+summary: AI peri-operative risk stratification.
 csc-lead: <a href="/team_member/Haleema.html">Haleema</a>
 modality: Perioperative patient complexity assessment
 pathology: Patient risk stratification for elective surgery

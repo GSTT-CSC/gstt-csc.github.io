@@ -1,10 +1,10 @@
 ---
 layout: project_page
-title: Radiomic features from CT to predict lung cancer
+title: Lung Cancer Radiomics AI
 status: Concluded
 #status: Graveyard
-image: /assets/img/blog/nhs_logo.png
-summary: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer.
+image: /assets/img/projects/lung-radiomics.png
+summary: AI to predict outcome in lung cancer.
 csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: Thorax CT (contrast enhanced)
 pathology: Lung cancer with nodal involvement

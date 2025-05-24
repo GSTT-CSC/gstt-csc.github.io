@@ -1,12 +1,12 @@
 ---
 layout: project_page 
-title: Evaluation of Chest X-Ray AI Engine
+title: CXR Evaluation
 status: Concluded
-image: /assets/img/blog/nhs_logo.png
-summary: An evaluation of an AI Engine that identifies 10 common chest radiograph pathologies 
+image: /assets/img/projects/cxr.png
+summary: Evaluation of chest Xray diagnosis AI. 
 csc-lead: Laurence
-modality: Chest X-Rays
-pathology: Chest X-Ray findings including, effusion, fibrosis, consolidation, atelectasis and pneumothorax 
+modality: Chest Xrays
+pathology: Chest Xray findings including, effusion, fibrosis, consolidation, atelectasis and pneumothorax 
 rationale: In the NHS there is a severe shortage of radiologists, in 2020 1 in 10 NHS consultant posts were unfilled and this is thought to continue to rise. In contrast, the NHS workload is increasing, in 2021-2021 39.9 million images were performed and Chest radiographs (CXR or Chest X-ray) are the most commonly requested imaging study. CXR often go unreported for days, or are never reported. This has the potential to lead to missed or delayed diagnoses, and often means CXR reporting is performed by non-radiologists in the acute setting. A large proportion of CXR are normal, meaning already-stretched radiology departments must make time to analyse data that will not lead to a change in management or diagnosis. AI has the potential to ameliorate some of these challenges through improving accuracy and efficiency of CXR reporting   
 patient-pathway: Patients are referred to radiology for a Chest X-Ray. The X-rays are then reviewed by a radiologists and who reports on any findings, however CXR often go unreported for days, or are never reported. This delay in reporting or not being reported can mean delays in starting treatments or receiving a medical intervention.
 errors: Incorrect pathology detected, requires further investigations by clinical team and time delay to starting appropriate treatments or medical intervention. 

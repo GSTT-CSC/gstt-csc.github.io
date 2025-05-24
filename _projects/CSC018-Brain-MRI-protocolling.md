@@ -2,8 +2,8 @@
 layout: project_page
 title: Smart brain MRI protocols 
 status: Concluded
-image: /assets/img/blog/nhs_logo.png
-summary: Evaluation of brain MRI smart protocoling software
+image: /assets/img/projects/smart-brain-mri.png
+summary: Evaluation of brain MRI protocoling AI.
 csc-lead: <a href="/team_member/Laurence.html">Laurence</a>
 modality: MRI
 pathology: Neurology

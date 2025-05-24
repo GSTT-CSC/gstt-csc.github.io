@@ -1,9 +1,9 @@
 ---
 layout: project_page
-title: Motion-corrected 3D Fetal Brain MRI
+title: 3D Fetal Brain MRI MoCo
 status: Concluded
 image: /assets/img/projects/3d_fetal_mri_project_image.jpg
-summary: An automated software workflow for reconstruction of motion-corrected 3D fetal MRI images 
+summary: SaMD for brain reconstruction of fetal MRIs.
 csc-lead: <a href="/team_member/Tom.html">Tom</a>
 modality: MRI
 pathology: Congenital birth defects

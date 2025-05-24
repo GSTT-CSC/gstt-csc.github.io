@@ -1,10 +1,10 @@
 ---
 layout: project_page
-title: Referral Automated Vetting Engine (RAVE)
+title: RAVE
 status: Current
 #status: Reporting
-image: /assets/img/blog/nhs_logo.png
-summary: A generalisable Large Language Model (LLM) based vetting engine for analysis and management of patient referrals
+image: /assets/img/projects/rave-logo.png
+summary: An LLM-based vetting engine.
 csc-lead: <a href="/team_member/Tom.html">Tom</a>
 modality: N/A
 pathology: N/A

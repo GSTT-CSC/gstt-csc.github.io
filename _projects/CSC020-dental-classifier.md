@@ -1,9 +1,9 @@
 ---
 layout: project_page
-title: Detection and classification of lesions in dental panoramic tomograms  
+title: Dental Disease Classifier  
 status: Current
 image: /assets/img/projects/dental_tomograph_wikipedia.jpg
-summary: AI enabled detection and classification of lesions in dental panoramic tomograms
+summary: AI disease detection & classification.
 csc-lead: <a href="/team_member/Mike.html">Mike</a>
 modality: Dental radiograph
 pathology: Jaw tumours and cysts

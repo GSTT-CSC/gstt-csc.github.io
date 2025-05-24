@@ -1,19 +1,12 @@
 ---
 layout: project_page
-title: Dental Refferals - Automated Referral Processing and Vetting
-#status: Evaluating
-status: Current
+title: Dental Referrals
+status: Concluded
 image: /assets/img/projects/dental_referral_logo.png
-summary: Automated dental referral processing and vetting for South East London secondary dental care
+summary: Dental referral processing for SEL.
 csc-lead: <a href="/team_member/anil.html">Anil</a> and <a href="/team_member/elise.html">Elise</a>
-modality: N/A
-pathology: N/A
-rationale: 
-patient-pathway: 
-training-data:  
-errors: 
-goals:  
-success-criteria:  
+modality: Operational
+pathology: Dental conditions requiring secondary care referrals
 ---
 
 

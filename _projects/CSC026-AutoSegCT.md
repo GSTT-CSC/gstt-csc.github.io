@@ -1,10 +1,10 @@
 ---
 layout: project_page
-title: Radiotherapy Auto Segmentation
+title: AutoSegCT
 #status: Evaluating
 status: Current
 image: /assets/img/projects/autosegct_logo.png
-summary: Single application for all in-house auto-segmentation contours
+summary: OAR segmentation for radiotherapy.
 csc-lead: <a href="/team_member/anil.html">Anil Mistry</a> and <a href="/team_member/tom.html">Tom Roberts</a>
 modality: Radiotherapy planning CT 
 pathology: Cancer

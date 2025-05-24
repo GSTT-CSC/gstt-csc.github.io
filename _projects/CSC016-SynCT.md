@@ -1,9 +1,9 @@
 ---
 layout: project_page
-title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
+title: SynCT 
 status: Concluded
-image: /assets/img/blog/nhs_logo.png
-summary: AI to create a Synthetic CT for MR-Only Prostate Radiotherapy Planning
+image: /assets/img/projects/synct.jpeg
+summary: AI for MR-only prostate treatment planning.
 csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: Radiotherapy CT, MRI
 pathology: T3N0 Prostate Cancer

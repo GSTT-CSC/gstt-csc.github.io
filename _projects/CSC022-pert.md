@@ -1,11 +1,10 @@
 ---
 layout: project_page
-title: Pulmonary Embolism Response Team AI  
+title: PERT  
 status: Current
-#status: Contracting
 image: /assets/img/projects/pert_image_wikipedia.png
-summary: AI enabled detection and classification of high risk PE patients
-csc-lead: <a href="/team_member/Anil.html">Anil Mistry</a>
+summary: AI detection & classification of high-risk PE.
+csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: CT Pulmonary Angiogram (CTPA)
 pathology: Pulmonary Embolism
 rationale: Both patients arriving at GSTT, and in patients, with suspected High risk PE will alert the Pulmonary Embolism Response Team to allow multi-disciplinary decisions made for management, triage and treatment. Reduction in time to alert PERT of high-risk PE can result in reduced length of stay, morbidity and the improved outcomes from MDT decisions.    

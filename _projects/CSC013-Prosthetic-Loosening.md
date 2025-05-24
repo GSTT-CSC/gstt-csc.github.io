@@ -3,8 +3,8 @@ layout: project_page
 title: Prosthetic Loosening
 #status: Graveyard
 status: Concluded
-image: /assets/img/blog/nhs_logo.png
-summary: An AI tool to improve accuracy and increase confidence in reporting of prosthetic loosening.
+image: /assets/img/projects/prosthetic-loosening.jpeg
+summary: AI for reporting of prosthetic loosening.
 csc-lead: <a href="/team_member/Dika.html">Dika</a>
 modality: SPECT/CT
 pathology: Prosthetic loosening – mostly hip and knees, occasional elbow and shoulder.
@@ -12,7 +12,7 @@ pathology: Prosthetic loosening – mostly hip and knees, occasional elbow and s
 
 ---
 
-This project has been removed to the graveyard. An exploratory data analysis demonstrated that 
+This project has been withdrawn. An exploratory data analysis demonstrated that 
 the data for this project is too complex, too varied and too few to proceed at this point in time. This project may be re-visited at a later dat but it is not currently being actively work on.
 
 ---
