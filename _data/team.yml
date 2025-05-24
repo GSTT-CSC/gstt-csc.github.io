@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Dika.jpg
 
       - name: "Anil Mistry"
-        role: "Senior Clinical Scientist in AI & Safety Lead"
+        role: "AI Safety Lead"
         team-member-page: /team_member/anil.html
         subgroup: "CSC core"
         image: assets/img/team/Anil.jpg
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
         subgroup: "CSC core"
       - name: "Agathe Zecevic"
-        role: "Data Scientist & NLP Lead"
+        role: "Senior Data Scientist & NLP Lead"
         team-member-page: /team_member/agathe.html
         image: assets/img/team/Agathe.jpg
         subgroup: "CSC core"
