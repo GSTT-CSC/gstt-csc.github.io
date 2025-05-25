@@ -8,7 +8,7 @@ csc-lead: <a href="/team_member/Dika.html">Dika</a>, <a href="/team_member/Mike.
 modality: X-ray
 pathology: Occult scaphoid fracture
 ---
-MRI imaging is superior in identification of occult carpal fracture, but is not always accessible. Imaging from X-rays can give suboptimal views, and the presentation of arthritis can make small fractures difficult to see. An AI tool to aide clinical diagnosis of occult carpal fractures using x-rays would increase diagnostic sensitivity in areas and situations where MRI is not available. 
+MRI imaging is superior in identification of occult carpal fracture, but is not always accessible. Imaging from X-rays can give suboptimal views, and the presentation of arthritis can make small fractures difficult to see. An AI tool to aid clinical diagnosis of occult carpal fractures using x-rays would increase diagnostic sensitivity in areas and situations where MRI is not available. 
 
 A computer aided diagnosis tool which would automatically run when either a scaphoid fracture is suspected or if a patient is referred for a hand/wrist x-ray from A&E would increase sensitivity and confidence of diagnosis. Carpal fractures can be difficult to identify and patients with high clinical suspicion are put in a splint and referred to the fracture clinic even if a fracture isn’t seen on the x-ray by the clinician. Subtle lucency of an un-displaced fracture and the significance of a small bone fragment is currently easily missed. A successful tool would therefore increase diagnostic confidence and accuracy and reduce repeated x-rays and needless fracture clinic referrals
 <br>
@@ -22,7 +22,7 @@ Training data for ScaphX consists of 3 separate datasets - a set of x-rays of th
 <h3>Testing data</h3>
 The testing data for ScaphX consists of approximately 1000 Xrays which are not a part of the training dataset and are held separately. 
 <h3>Risks</h3> 
-The biggest risks is a negative distruption to the clinical pathway if there are too many false positive results which lead to needless treatment.
+The biggest risks is a negative disruption to the clinical pathway if there are too many false positive results which lead to needless treatment.
 <h3>Goals</h3>
 The reduction of need for further imaging where fractures can be diagnosed from Xrays alone, improving the patient experience and reducing waste.
 <h3>Success criteria</h3>

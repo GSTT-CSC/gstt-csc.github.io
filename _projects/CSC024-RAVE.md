@@ -15,7 +15,7 @@ This project has been withdrawn. After much work, it was determined that the suc
 
 ---
 
-The RAVE project aims to build a generalisable AI-driven software for performing automated vetting of General Practitioner (GP) referrals to make the secondary care referral vetting process more efficient and save clinician time.
+The RAVE project aims to build a generalisable AI-driven software for performing automated vetting of General Practitioner (GP) referrals to make the secondary care referral vetting process more efficient and saves clinician time.
 
 To realise the project's intended benefits of cost savings, gains in resource efficiency, and decrease of waiting times for patients, we've decided to tackle this issue by using a hybrid model. In this context, we use an LLM to extract meaningful information from referral documents using Natural Language Processing (NLP) and evaluate this information using clinical decision trees to output a suggested referral decision.
 

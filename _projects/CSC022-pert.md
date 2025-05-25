@@ -15,7 +15,7 @@ This project is currently on hold due to resource and capacity issues and priori
 ---
 
 The Pulmonary Embolism Response Team (PERT) comprises Interventional Radiologists, Haematology consultants, 
-Cardio-thoracic surgeons, and Respiratory consultants,  
+Cardiothoracic surgeons, and Respiratory consultants,  
 
 Both patients arriving at GSTT, and in patients, with suspected High risk or intermediate-high risk PE will alert the 
 PERT to allow multi-disciplinary decisions to be made for management, triage and treatment.
@@ -24,7 +24,7 @@ Reduction in the time to alert PERT of high-risk PE can result in reduced length
 <b>Clinical lead</b>: Narayan Karunanithy, Karen Breen
 <br>
 <h3>Rationale</h3>
-Triggering PERT, if the patient is not high risk, may benefit intermediate-high risk patients, however the speed of results to assign that risk category to a patient could cause delays in triggering that alert. An AI application is being evaluated to automatically pull CTPA images and calculate the  Right Ventricular/Left Ventricular (RV/LV) ratio as a good indicator of right heart strain, to risk stratify patients above certain threshold as appropriate to alert the PERT, therefore speeding up the CTPA reporting and subsequent PERT engagement towards better patient outcomes. 
+Triggering PERT, if the patient is not high risk, may benefit intermediate-high risk patients, however the speed of results to assign that risk category to a patient could cause delays in triggering that alert. An AI application is being evaluated to automatically pull CTPA images and calculate the right ventricular/left ventricular (RV/LV) ratio as a good indicator of right heart strain, to risk stratify patients above a certain threshold as appropriate to alert the PERT, therefore speeding up the CTPA reporting and subsequent PERT engagement towards better patient outcomes. 
 <br>
 <h3>Patient pathway</h3>
 <img src='/assets/img/projects/Pert_diagram_1.png' width="100%" alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9504600/">

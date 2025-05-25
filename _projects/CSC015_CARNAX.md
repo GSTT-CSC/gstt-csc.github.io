@@ -21,7 +21,7 @@ About one in every ten newborn babies requires support on a neonatal unit. Most 
 <br>
 <br>
 <h3>Rationale</h3> 
-Bowel perforation in neonates is difficult to see on Xrays. Because of radiosensitivity and frequency of other complications, the timely diagnosis and intervention are cruicial. GSTT is a specialist centre where many of these babies have been seen and thus we sit in the unique position of being able to develop a lifesaving tool like this. 
+Bowel perforation in neonates is difficult to see on Xrays. Because of radiosensitivity and frequency of other complications, the timely diagnosis and intervention are crucial. GSTT is a specialist centre where many of these babies have been seen and thus we sit in the unique position of being able to develop a lifesaving tool like this. 
 <h3>Patient pathway</h3> 
 Preterm newborn babies with suspected bowel perforation are referred for an abdominal Xray scan. The Xray is acquired on a mobile Xray machine, with dose optimised for radiation safety of the neonate. The images are reported by dedicated consultant radiologist. Where a consultant is not available (e.g. at night), and the on-call registrar suspects a perforation, a consultant is called. If the bowel perforation is not demonstrated, the registrar makes the report.
 <h3>Training data</h3>

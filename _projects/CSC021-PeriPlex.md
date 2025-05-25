@@ -3,7 +3,7 @@ layout: project_page
 title: PeriPlex 
 status: Concluded
 image: /assets/img/projects/periplex.png
-summary: AI peri-operative risk stratification.
+summary: AI perioperative risk stratification.
 csc-lead: Haleema
 modality: Perioperative patient complexity assessment
 pathology: Patient risk stratification for elective surgery
@@ -25,7 +25,8 @@ The initial platform will cover an initial pilot at GSTT in Gastrointestinal Med
 
 <h3>Rationale</h3> 
 The current process for determining patient suitability for elective surgery is fragmented and occurs close to the procedure date, leading to cancellations and delays for high-risk patients.
-patient-pathway: Currently, suitability for surgery is determined at the pre-assessment stage, which occurs 1-2 days before the scheduled procedure. This process is not optimised and lacks information from various sources.
+<h3>Patient pathway</h3> 
+Currently, suitability for surgery is determined at the pre-assessment stage, which occurs 1-2 days before the scheduled procedure. This process is not optimised and lacks information from various sources.
 <h3>Training data</h3> 
 EHR records, workflow instructions, structured data contained in EDW.
 <h3>Risks</h3>

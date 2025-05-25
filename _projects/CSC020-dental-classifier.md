@@ -29,7 +29,7 @@ Within both primary and secondary care, DPTs are interpreted by the requesting d
 <h3>Training data</h3>
 Approximately 300 DPTs were labelled and used for training of the AI algorithm. The evaluation in clinic has not yet been undertaken.
 <h3>Risks</h3> 
-In cases of missed diagnosis of significant disease, including radiological findings suspicious for malignancy, the the result is delays in appropriate management and subsequent reduced patient outcomes. 
+In cases of missed diagnosis of significant disease, including radiological findings suspicious for malignancy, the result is delays in appropriate management and subsequent reduced patient outcomes. 
 <h3>Goals</h3> 
 Detect and classify a range of dental lesions.
 <h3>Success criteria</h3> 

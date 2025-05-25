@@ -10,7 +10,7 @@ pathology: Occult scaphoid fracture
 ---
 ---
 
-This project has been withdrawn. The benefits of this project would be outweighed by the cost of development as 3D data is complex and varied. Instead, all energies were focussed on [ScaphX](/projects/CSC002-ScaphX.html). This project may be revisited at a later date if capacity permits.
+This project has been withdrawn. The benefits of this project would be outweighed by the cost of development as 3D data is complex and varied. Instead, all energies were focused on [ScaphX](/projects/CSC002-ScaphX.html). This project may be revisited at a later date if capacity permits.
 
 ---
 
@@ -19,7 +19,7 @@ This project has been withdrawn. The benefits of this project would be outweighe
 <b>Clinical lead</b>: Davina Mak <br>
 <br>
 <h3>Rationale</h3> Scaphoid and occult carpal fractures can be difficult to identify in MR images, typically requiring specialist radiologists that are not always available. This project aims to develop an AI application that can automatically identify these fractures.
-<h3>Patient Pathway</h3> Patients with suspected scaphoid or occult carpal fracture are given an x-ray in A&E, if practitioner cannot identify a fracture patient is referred for MRI.
+<h3>Patient Pathway</h3> Patients with suspected scaphoid or occult carpal fracture are given an x-ray in A&E, if practitioner cannot identify a fracture, the patient is referred for MRI.
 <h3>Training data</h3> 
 Approximately 2000 MRIs were collected and labelled to serve as the training data.
 <h3>Testing data</h3>

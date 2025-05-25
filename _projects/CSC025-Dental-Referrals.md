@@ -24,6 +24,6 @@ This application automatically processes dental referral questionnaire responses
 Referrals to the GSTT dental department can represent up to 10% of all secondary care referrals. The manual referral checking, patient EHR (Electronic Health Record) upload, and vetting tasks can represent a significant burden to clinicians and administrative staff. This application assists staff in these tasks to improve speed and efficiency.
 
 This project takes a staged approach to automating the referral vetting process. 
-1. Automatically perform the first checks on the referrals to assist admin staff in the upload of the referrals to the EHR. This includes sending the referrals to the Trust with the shortest wait time (when applicable), and extracting/evaluating each attachment submitted from the referral questionnaires.
+1. Automatically perform the first checks on the referrals to assist administrative staff in the upload of the referrals to the EHR. This includes sending the referrals to the Trust with the shortest wait time (when applicable), and extracting/evaluating each attachment submitted from the referral questionnaires.
 2. Automate the referral vetting process by providing a suggestion and rationale for accepting/rejecting/redirecting the referral for each specialism, implementing local and national vetting guidelines.
 3. Automate the task of uploading the referral to the EHR for each Trust using HL7 or FHIR messaging.

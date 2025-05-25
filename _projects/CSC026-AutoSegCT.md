@@ -45,7 +45,7 @@ Segmentation models have been created as output of the extensive research activi
 
 <h3>TotalSegmentator</h3>
 
-In addition, the open source CT segmentation model Totalsegmentator(v2) provides 117 structures which could be clinically useful. The TotalSegmentator structures will be include in the generated structure for clinical evaluation on a site by site basis. 
+In addition, the open source CT segmentation model TotalSegmentator(v2) provides 117 structures which could be clinically useful. The TotalSegmentator structures will be included in the generated structure for clinical evaluation on a site by site basis. 
 
 * _Wasserthal, J., Breit, H.-C., Meyer, M.T., Pradella, M., Hinck, D., Sauter, A.W., Heye, T., Boll, D., Cyriac, J., Yang, S., Bach, M., Segeroth, M., 2023. TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images. Radiology: Artificial Intelligence. https://doi.org/10.1148/ryai.230024_
 
@@ -58,7 +58,7 @@ method for deep learning-based biomedical image segmentation. Nature methods, 18
 <br><br>
 
 <h3>Alternatives</h3>
-Multiple commercial products exist. Multiple have also been tested locally at GSTT. However, the AutoSegCT solution has been deemed superior to commerical solutions consistently across multople tumour sites
+Multiple commercial products exist. Multiple have also been tested locally at GSTT. However, the AutoSegCT solution has been deemed superior to commercial solutions consistently across multiple tumour sites.
 
 <h3>Academic papers</h3>
 
