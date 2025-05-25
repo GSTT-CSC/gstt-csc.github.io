@@ -1,5 +1,8 @@
 - project-status: Current
   description: "These are some of our current projects. The list is not exhaustive as other projects may be in progress or planned."
 
+- project-status: On hold
+  description: "These projects are currently on hold. The list is not exhaustive as other projects may also be on hold for various reasons."
+
 - project-status: Concluded
   description: "These projects are either completed, on pause, or withdrawn. The list is not exhaustive as other projects have also been undertaken and withdrawn at different stages."

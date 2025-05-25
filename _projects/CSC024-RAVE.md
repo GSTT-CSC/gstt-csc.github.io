@@ -1,20 +1,18 @@
 ---
 layout: project_page
 title: RAVE
-status: Current
-#status: Reporting
+status: Concluded
 image: /assets/img/projects/rave-logo.png
 summary: An LLM-based vetting engine.
-csc-lead: <a href="/team_member/Tom.html">Tom</a>
-modality: N/A
-pathology: N/A
-rationale:
-patient-pathway: 
-training-data: 
-errors: 
-goals: 
-success-criteria: 
-alternatives: 
+csc-lead: Tom
+modality: Multiple
+pathology: Multiple
+
+---
+---
+
+This project has been withdrawn. After much work, it was determined that the success of this product hinges on the ability to integrate the solution with the EHR system which at this point in time is not a possibility at GSTT. Referral and vetting projects are better solved with optimisation of the referral pathway than dedicated processing software after the referrals are received. 
+
 ---
 
 The RAVE project aims to build a generalisable AI-driven software for performing automated vetting of General Practitioner (GP) referrals to make the secondary care referral vetting process more efficient and save clinician time.

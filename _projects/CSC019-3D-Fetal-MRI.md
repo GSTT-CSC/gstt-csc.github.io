@@ -4,22 +4,25 @@ title: 3D Fetal Brain MRI MoCo
 status: Concluded
 image: /assets/img/projects/3d_fetal_mri_project_image.jpg
 summary: SaMD for brain reconstruction of fetal MRIs.
-csc-lead: <a href="/team_member/Tom.html">Tom</a>
+csc-lead: Tom
 modality: MRI
 pathology: Congenital birth defects
-rationale: Fetal MRI is predominantly performed using 2D MRI, but this approach is susceptible to motion artefacts when the baby moves. Motion-corrected 3D MRI produces higher quality images, with the potential to improve diagnosis of abnormalities.
-patient-pathway: 
-training-data: 
-errors: 
-goals: 
-success-criteria: 
-alternatives: 
+
 ---
-<b>Academic Partners</b>
+---
+
+This project has been withdrawn due to issues with local deployment of the software.
+
+---
+
+<h3>Rationale</h3> 
+Fetal MRI is predominantly performed using 2D MRI, but this approach is susceptible to motion artefacts when the baby moves. Motion-corrected 3D MRI produces higher quality images, with the potential to improve diagnosis of abnormalities.
+
+<h3>Academic Partners</h3>
 
 Mary Rutherford, Joseph Hajnal, Maria Deprez, Alena Uus @ Perinatal Imaging & Health, King's College London
 
-<b>Project Overview</b>
+<h3>Project Overview</h3>
 
 Fetal MRI is an important adjunct to ultrasound imaging as it can provide additional confidence and insights when making 
 a prenatal diagnosis. However, fetal motion during MRI scans can cause images to be blurry and not of sufficient 
@@ -39,7 +42,7 @@ fetal brain MRI.
 registration ([SVR – www.svrtk.github.io](https://www.svrtk.github.io)) methods. Now, with the advent of machine 
 learning technologies, it is possible for hospitals to perform 3D fetal brain MRI in a fully automated manner.
 
-<b>References</b>
+<h3>References</h3>
 
 <a href="https://doi.org/10.1259/bjr.20220071">Uus A, et al. 2022. Retrospective motion correction in foetal MRI for 
 clinical applications: existing methods, applications and integration into clinical practice</a>

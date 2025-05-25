@@ -1,28 +1,37 @@
 ---
 layout: project_page
 title: SynCT 
-status: Concluded
+status: On hold
 image: /assets/img/projects/synct.jpeg
 summary: AI for MR-only prostate treatment planning.
 csc-lead: <a href="/team_member/Anil.html">Anil</a>
 modality: Radiotherapy CT, MRI
-pathology: T3N0 Prostate Cancer
-rationale: MRI gives superior soft tissue contrast compared to CT images which allows more accurate contouring of internal organs and tumours for radiotherapy (RT). Only CT images, however, provide the voxel electron density data needed to calculate the dose distribution from radiation beams. Having an MRI with electron density information in the form of a “synthetic CT” (SynCT) would streamline imaging, reduced concomitant imaging dose, and improve contouring tumours and organs, thus reducing unnecessary dose to healthy tissues which is linked to reduced toxicity and complications post-treatment. 
-patient-pathway: Currently, patients receiving radiotherapy for prostate cancer T3N0 undergo CT imaging, where the patient is in the RT treatment position on an identical treatment couch. If MRI is also required for improved soft tissue delineation, then a RT MRI is acquired at Guys Cancer Centre, with an identical treatment couch. The CT and MRI are both imported into the TPS, registered into the same reference frame, then contoured by the clinician.<br>The proposed project would allow the RT MRIs, generated from a set protocol, to be automatically sent to a ML model (in “dicomserver” or “AI Deployment Engine”) that would generate a SynCT which automatically transfers to a input folder for the treatment planning software.
-training-data: 35 patients with MR and CT images, pseudonymised, as part of <a href= "https://clinicaltrials.gov/ct2/show/NCT03238170"> clinical trial (NCT03238170)</a>
-errors: Dose distributions from the RT treatment plans would be incorrectly calculated which could result in poor treatment efficacy and increase toxicity to healthy tissues.
-goals: To implement a model that can assign Hounsfield units (related to electron density) to voxels in MR image sets for prostate RT planning, in a way that provide little to no interaction from radiotherapy staff & clinicians. 
-success-criteria:  Reduction of healthy tissue dose and toxicity risk in patients receiving RT to the prostate.
-alternatives: Philips MRCAT (MR for Calculating ATtenuation) <br><br>Siemens syngo.via RT Image Suite
+pathology: Prostate cancer
+---
+---
+
+This project is currently on hiatus while other projects take precedence. It will be revisited in the future.
+
 ---
 Patients prescribed radiotherapy to the prostate have a CT scan which provides anatomical information used to target the RT, and electron density info required for dose calculation in the treatment planning system (TPS). The patient’s RT plan is generated using the CT scan and the plan is sent to the treatment machine. Prostate RT patients experience toxicity side-effects due to irradiation of healthy tissues including rectum, bladder, urethra and penile bulb. Doses to these tissues are higher than they could be due to uncertainties in defining the prostate treatment volume on CT, where studies show that delineation of the prostate on MR results in 25-40% reduction in prostate volume [2-5] with more consistency between operators [6-9]. <br><br> An in-house study at GSTT has shown that rectal and bladder dose can be reduced, and this should relate to a reduction in toxicity risk. The improved soft-tissue contrast of MRI can be used to better define targets and additional healthy tissue [10]. Ideally an MR-only pathway is used, where the MRI is used for anatomical delineation and for dose calculation. A benefit of MR-only RT is the removal of registration uncertainties [12] present in a combined CT + MRI pathway. MRI data has no inherent electron density information so for an MR-only pathway to be feasible a SynCT must be made for the TPS dose calculation. <br><br> Funding from the National Institute for Health Research and Social Care (NIHR)  (RP-2-16-07-001) has supported Christopher Thomas during his PhD project which involved generating synthetic CT images from MRI images for prostate radiotherapy patients at Guy’s and St Thomas’s NHS FT. An output of the project is a UNET model that has been trained on registered CT and MRI image sets from 24 patients participating in a clinical trial evaluating MR-Only radiotherapy treatment planning (NCT03238170). This trained model is to be deployed into an MR-only clinical pathway via dicomserver.
 <br>
 <br>
 <b>Clinical lead:</b> Christopher Thomas
 <br>
-<br>
-<b>Project Plan</b> <br>
-1.<strike> Meeting of all persons involved to determine AI specifications. <br><br> 2.	Setting technical and system requirements for AI model. <br> <br> 3. Dataset curation (retrospective). <br><br> 4.	Model training<br><br>5.	Model testing </strike> <br><br>6.	Implementation <br><br>7. Audit
+<h3>Rationale</h3>
+MRI gives superior soft tissue contrast compared to CT images which allows more accurate contouring of internal organs and tumours for radiotherapy (RT). Only CT images, however, provide the voxel electron density data needed to calculate the dose distribution from radiation beams. Having an MRI with electron density information in the form of a “synthetic CT” (SynCT) would streamline imaging, reduced concomitant imaging dose, and improve contouring tumours and organs, thus reducing unnecessary dose to healthy tissues which is linked to reduced toxicity and complications post-treatment. 
+<h3>Patient pathway</h3>
+Currently, patients receiving radiotherapy for prostate cancer T3N0 undergo CT imaging, where the patient is in the RT treatment position on an identical treatment couch. If MRI is also required for improved soft tissue delineation, then a RT MRI is acquired at Guys Cancer Centre, with an identical treatment couch. The CT and MRI are both imported into the TPS, registered into the same reference frame, then contoured by the clinician.<br>The proposed project would allow the RT MRIs, generated from a set protocol, to be automatically sent to a ML model (in “dicomserver” or “AI Deployment Engine”) that would generate a SynCT which automatically transfers to a input folder for the treatment planning software.
+<h3>Training data</h3> 
+35 patients with MR and CT images, pseudonymised, as part of <a href= "https://clinicaltrials.gov/ct2/show/NCT03238170"> clinical trial (NCT03238170).</a>
+<h3>Risks</h3> 
+Dose distributions from the RT treatment plans would be incorrectly calculated which could result in poor treatment efficacy and increase toxicity to healthy tissues.
+<h3>Goals</h3>
+To implement a model that can assign Hounsfield units (related to electron density) to voxels in MR image sets for prostate RT planning, in a way that provide little to no interaction from radiotherapy staff & clinicians. 
+<h3>Success criteria</h3>
+Reduction of healthy tissue dose and toxicity risk in patients receiving RT to the prostate.
+<h3>Alternatives</h3>
+Philips MRCAT (MR for Calculating Attenuation) & Siemens syngo.via RT Image Suite
 <br>
 <br>
 <b>References</b><br>
