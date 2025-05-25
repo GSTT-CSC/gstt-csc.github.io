@@ -19,34 +19,27 @@ the data for this project is too complex, too varied and too few to proceed at t
 
 
 Bone scan and SPECT CT are effective ways of assessing loosening as the metal artefact reduces the clarity of other imaging modalities. Patients will also be referred to x-ray and CT, but SPECT/CT supersedes these for accuracy.
-
-Rationale: 
+<br><br>
+<b>Clinical lead: </b>Sanjay Vijayanathan
 <br>
+<h3>Rationale</h3> 
 Prosthetic loosening is definitively diagnosed with a SPECT/CT. Around 40% of cases are not obvious and in 20% of cases the report is changed with further consultation. An AI tool would help in accuracy and increase confidence in reporting.
 <br>
-Patient pathway: 
+<h3>Patient pathway</h3> 
+Patients are referred as a result of 1 – pain in the replacement site and 2 – x-ray investigations suggest loosening. Patients are referred from orthopaedics and surgery to consider replacement of a prosthesis or to revise the replacement. Next steps are decided by SPECT/CT reports. SPECT/CT is also used for surveillance so imaging is repeated in intervals.
 <br>
-Patients are referred as a result of:<br><br>1 – pain in the replacement site<br>2 – x-ray investigations suggest loosening<br><br>Patients are referred from orthopaedics and surgery to consider replacement of a prosthesis or to revise the replacement. Next steps are decided by SPECT/CT reports. SPECT/CT is also used for surveillance so imaging is repeated in intervals.
-<br>
-Training data: 
-<br>
+<h3>Training data</h3> 
 250 patients annually. Data to be gathered retrospectively.
 <br>
-Errors: 
-<br>
+<h3>Risks</h3> 
 When the diagnosis of prosthetic loosening is missed, the patient remains in chronic (severe) pain for a prolonged amount of time. When the diagnosis of prosthetic loosening is incorrect, patient undergoes unnecessary surgery.
 <br>
-Goals: 
-<br>
+<h3>Goals</h3> 
 Reducing patient pain and avoiding unnecessary surgery. Improving diagnosis speed and accuracy.
 success-criteria: Increased diagnostic accuracy and thus reduction in unnecessary surgery, increase in speed with which loosening is diagnosed.
 <br>
-Alternatives: 
-<br>
+<h3>Alternatives</h3> 
 Currently no commercial products identified.
 <br>
 <br>
-<b>Clinical lead: </b>Sanjay Vijayanathan
 <br>
-<br>
-<b>References</b>
