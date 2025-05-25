@@ -1,24 +1,24 @@
 ---
 layout: project_page
-title: Radiotherapy Auto Segmentation
+title: AutoSegCT
 #status: Evaluating
 status: Current
 image: /assets/img/projects/autosegct_logo.png
-summary: Single application for all in-house auto-segmentation contours
+summary: OAR segmentation for radiotherapy.
 csc-lead: <a href="/team_member/anil.html">Anil Mistry</a> and <a href="/team_member/tom.html">Tom Roberts</a>
-modality: Radiotherapy planning CT 
+modality: CT 
 pathology: Cancer
-rationale: Contouring organs on CT's scans for radiotherapy treatments is vital for patient safety, however is very time consuming for Oncologists. AI models have been developed locally to automate the CT image segmentation. 
-patient-pathway: 
-training-data: Gold standard dual-labelled CT's and structure sets of patients treated historically at Guy's Cancer Centre. 
-errors:  N/A
-goals:  Provide an application that can clinically deploy all locally developed nnUNEt segmentation models successfully into the radiotherapy treatment planning pathway. 
-success-criteria: Reduction in time spent contour by Radiation oncologists. Improves consistency in contouring OAR's. Increased accuracy of OAR contours.  
 ---
+---
+
+This project is now live in clinical practice. Further models are being developed and deployed. This will continue until all tumour sites are covered. If you're interested in how we did it and you want to deploy it at your NHS Trust, please contact us!
+
+---
+
 
 <b>Clinical leads</b>: Christopher Thomas, Teresa Guerrero Urbano, Ben Taylor
 <br>
-<br> **Rationale:**
+<h3>Rationale</h3>
 
 AI auto-contouring tools have improved dramatically in the last few years, and all major treatment planning system vendors are investing in this technology along with independent start-ups and NHS Trusts [NICE, 2023].
 
@@ -43,13 +43,13 @@ Segmentation models have been created as output of the extensive research activi
 * TBC
 
 
-**TotalSegmentator**
+<h3>TotalSegmentator</h3>
 
-In addition, the open source CT segmentation model Totalsegmentator(v2) provides 117 structures which could be clinically useful. The TotalSegmentator structures will be include in the generated structure for clinical evaluation on a site by site basis. 
+In addition, the open source CT segmentation model TotalSegmentator(v2) provides 117 structures which could be clinically useful. The TotalSegmentator structures will be included in the generated structure for clinical evaluation on a site by site basis. 
 
 * _Wasserthal, J., Breit, H.-C., Meyer, M.T., Pradella, M., Hinck, D., Sauter, A.W., Heye, T., Boll, D., Cyriac, J., Yang, S., Bach, M., Segeroth, M., 2023. TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images. Radiology: Artificial Intelligence. https://doi.org/10.1148/ryai.230024_
 
-**nnUNet**
+<h3>nnUNet</h3>
 
 Each segmentation model is developed using the nnUNet semantic segmentation method: 
 
@@ -57,29 +57,10 @@ Each segmentation model is developed using the nnUNet semantic segmentation meth
 method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211._
 <br><br>
 
-<b>Project Plan</b>: 
+<h3>Alternatives</h3>
+Multiple commercial products exist. Multiple have also been tested locally at GSTT. However, the AutoSegCT solution has been deemed superior to commercial solutions consistently across multiple tumour sites.
 
-1. **Proposal** 
-2. **Requirements Gathering** 
-3. **Clinical Risk Management**
-4. **Design Specification Creation**
-5. **Development**
-6. **Soft Deployment** 
-7. **Retrospective Evaluation** 
-8. **Prospective Evaluation**
-9. **Training**
-10. **Clinical Go-Live**
-
-
-**Commercially available products**
-- Limbus AI  - Limbus AI    
-- MVision AI - Contour+  
-- Therapanacea - ART Plan    
-- Mirada Medical - DLC Expert  
-- Vysioneer - VBrain       
-
-
-**Academic papers**
+<h3>Academic papers</h3>
 
 * **2023 - K. Mackay et al** - A Review of the Metrics Used to Assess Auto-Contouring Systems in Radiotherapy - https://doi.org/10.1016/j.clon.2023.01.016   
 
