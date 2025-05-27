@@ -433,3 +433,7 @@ henry-bergman:
     icon: fas fa-book
   - url: https://www.linkedin.com/in/henry-bergman/
     icon: fab fa-linkedin-in
+
+john-hartemink:
+  - url: https://www.researchgate.net/profile/John-Hartemink-4
+    icon: fas fa-book
