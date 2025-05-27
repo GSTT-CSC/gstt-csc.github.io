@@ -95,6 +95,8 @@
          role: "Specialty Trainee Doctor in Public Health Medicine"
        - name: "David Green"
          role: "Specialty Trainee Doctor in Renal Medicine"
+       - name: "John Hartemink"
+         role: "Specialty Trainee Doctor in Renal Medicine and Internal Medicine"
        - name: "Rory Ormiston"
          role: "Specialty Trainee Doctor in Trauma & Orthopaedic Surgery"
        - name: "Zain Kasmani"
