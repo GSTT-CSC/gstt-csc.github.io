@@ -3,6 +3,8 @@
 <div class="container">
   {% assign grouped_people = site.data.team[site.locale].team.people | group_by: "subgroup" %}
   {% for subgroup in grouped_people %}
+    {% assign subgroup_id = subgroup.name | slugify %}
+    <div id="{{ subgroup_id }}">
     <div class="subgroup-section">
       <h3 class="text-secondary">{{ subgroup.name }}</h3>
       <div class="row pt-3">

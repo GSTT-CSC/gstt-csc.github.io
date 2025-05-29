@@ -18,12 +18,7 @@ The fellowship builds directly from the recommendation of the *[Topol Review (20
 
 
 <h3 style>Fellowship Faculty</h3>
-The faculty of the NHS Fellowship in Clinical AI is based in the Clinical Scientific Computing team and comprises:
-- [Haris Shuaib](/team_member/haris.html),  Director
-- [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
-- [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
-
-[Contact the faculty](mailto:gstt.aifellowship@nhs.net)
+See the faculty [here](/team.html#nhs-fellowship-in-clinical-ai-faculty), and contact the faculty [here](mailto:gstt.aifellowship@nhs.net).
 
 <h3 style>Curriculum</h3>
 The bespoke curriculum of the fellowship was designed by the faculty, and aligns to educational frameworks from the [Faculty of Clinical Informatics](https://fci.org.uk/menu2/professional-competencies/core-competency-framework.html) and  Health Education England.
@@ -152,4 +147,4 @@ The fellowship gratefully acknowledges the support of:
 
 >"The launch of the Fellowship in Clinical AI is an unprecedented step towards integrating experiential learning into postgraduate training pathways, and we hope to learn from and scale opportunities like this to help prepare the future clinical AI specialist workforce" <br/>Dr Hatim Abdulhussein (2022), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed), NHS England
 
->"The NHS Fellowship in Clinical AI has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishiramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
+>"The NHS Fellowship in Clinical AI has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishi-ramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
