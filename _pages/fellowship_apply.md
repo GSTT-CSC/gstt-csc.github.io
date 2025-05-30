@@ -1,6 +1,6 @@
 ---
 layout:
-permalink: /fellowship_cohort5.html
+permalink: /fellowship_apply.html
 title: NHS Fellowship in Clinical AI Cohort 5 Applications (2026-27)
 display_title: Cohort 5 Applications (2026-27)
 ---
