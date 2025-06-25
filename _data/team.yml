@@ -104,6 +104,12 @@ en: &DEFAULT_EN
         image: assets/img/team/aoife.jpeg
         subgroup: "Trainees & Fellows"
 
+      - name: "Alexis Zecevic"
+        role: "Visiting Intern – Data Science"
+        team-member-page: /team_member/alexis.html
+        image: assets/img/team/Alexis.png
+        subgroup: "Trainees & Fellows"
+
             
 en-US:
   <<: *DEFAULT_EN
