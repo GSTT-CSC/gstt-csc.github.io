@@ -4,7 +4,7 @@ team-member-name: Thomas Evans
 job-role: Fellow in Clinical AI, Cohort 3
 ---
 ### Fellowship Bio
-Dr Thomas Evans is a Specialist in Special Care Dentistry and the first dentist to undertake the Clinical AI Fellowship. He believes in the ability for AI and digital health technologies to revolutionise and personalise healthcare. His fellowship focused on AI readiness within the NHS.
+Dr Thomas Evans is a Specialist in Special Care Dentistry and the first dentist to undertake the NHS Fellowship in Clinical AI. He believes in the ability for AI and digital health technologies to revolutionise and personalise healthcare. His fellowship focused on AI readiness within the NHS.
 ### Fellowship Project
 ##### _AI Readiness in the NHS_
 ##### University Hospitals Birmingham NHS Foundation Trust

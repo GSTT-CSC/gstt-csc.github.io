@@ -4,7 +4,7 @@ team-member-name: Dilan Şanli
 job-role: Fellow in Clinical AI, Cohort 3
 ---
 ### Fellowship Bio
-Dr Dilan Şanli is a Clinical Radiology Resident and Clinical AI Fellow in the UK. She supports international doctors, co-founded Turkish Doctors in the UK, and organised its 2025 symposium. Passionate about digital health, she contributes to advancing Clinical AI and radiology.
+Dr Dilan Şanli is a Clinical Radiology Resident. She supports international doctors, co-founded Turkish Doctors in the UK, and organised its 2025 symposium. Passionate about digital health, she contributes to advancing Clinical AI and radiology.
 ### Fellowship Project
 ##### _BRAIN AI, Real world performance evaluation of a machine learning model_
 ##### University Hospital Southampton NHS Foundation Trust
