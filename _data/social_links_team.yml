@@ -80,3 +80,9 @@ aoife-fox:
     icon: fab fa-linkedin-in
   - url: https://twitter.com/EMDocFox
     icon: fab fa-twitter
+
+alexis-zecevic:
+  - url: https://github.com/Alexiszcv
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/alexis-zecevic
+    icon: fab fa-linkedin-in
