@@ -4,7 +4,7 @@
 #  description:
 #  link:
 
-- name: NHS Fellowship in Clinical AI, Clinical AI Curriculum
+- name: Clinical AI Curriculum- NHS Fellowship in Clinical AI
   description: |
     Developed by the faculty of the <a href="/fellowship.html">NHS Fellowship in Clinical AI</a>, this document specifies the content and outlines the delivery of the knowledge and skills to adopt AI safely and effectively in clinical workflows.
   link: https://gstt-csc.github.io/assets/docs/FCAI_Curriculum_v3.2.pdf
@@ -14,17 +14,17 @@
     Developed by NICE, the MHRA, the CQC, and the HRA for both adopters of AI in healthcare and developers.
   link: https://www.digitalregulations.innovation.nhs.uk/
 
-- name: KCL Innovation Scholars- AI modules
+- name: KCL Innovation Scholars AI modules
   description: |
     These three e-learning modules are aimed at those interested in evidence-based medicine, extracting knowledge from large-scale data and applying AI to improve patient care.
   link: https://innovationscholars.er.kcl.ac.uk/training/pillar-three-ai/
 
-- name: NHS Digital Academy AI Learning Hub
+- name: AI Learning Hub- NHS Digital Academy
   description: |
     NHS Digital Academy's collection of curated learning resources, mapped to their an Artificial Intelligence (AI) capability framework.
   link: https://learninghub.nhs.uk/catalogue/ai/about#catalogue-details
 
-- name: Turing Institute, Clinical AI interest group
+- name: Clinical AI interest group- Turing Institute
   description: |
     The Clinical AI interest group seeks to bring together health professionals from diverse healthcare fields and data scientists who have a shared interest in clinical AI and to foster this network through
     interactive events on up-to-date developments in the field and cultivate innovative research projects.
@@ -35,6 +35,16 @@
     The Topol Digital Fellowship provides health and social care professionals with time, support and 
     training to lead digital health transformations and innovations in their organisations.
   link: https://topol.hee.nhs.uk/digital-fellowships/
+
+- name: AI Knowledge Repository- NHS Digital
+  description: |
+    Resources to enable the responsible adoption of AI in the NHS including articles and case studies.
+  link: https://digital.nhs.uk/services/ai-knowledge-repository
+
+- name: Incubator for AI & Digital Healthcare
+  description: |
+    An initiative that brings together patients, regulators, health professionals, policymakers, and industry leaders to share knowledge, tackle challenges, and develop solutions for better patient outcomes and accelerated innovation. Hosts webinars themed on safety, effectiveness, and equitability.
+  link: https://www.digitalhealthincubator.ai/webinars
 
 - name: Scientist Training Programme
   description: The Scientist Training Programme (STP) is a three-year programme of work-based learning, supported by a University accredited master's degree.
@@ -52,10 +62,3 @@
     Health Education England (HEE) and explores the educational needs of the health and care workforce to enable use of 
     Artificial Intelligence (AI) and Robotic technologies to improve healthcare.
   link: https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed/about-the-dart-ed-programme
-
-- name: Open Grants
-  description: |
-    An increasing number of researchers are sharing their grant proposals openly. 
-    They do this to open up science so that all stages of the process can benefit from better interaction and communication 
-    and to provide examples for early career scientists writing grants. This is a list of some of these proposals to help you find them.
-  link: https://www.ogrants.org

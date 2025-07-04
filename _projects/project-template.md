@@ -15,7 +15,9 @@ Patient pathway:
 
 Training data: 
 
-Errors: 
+Testing data:
+
+Risks: 
 
 Goals: 
 

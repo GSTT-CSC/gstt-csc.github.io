@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Dika.jpg
 
       - name: "Anil Mistry"
-        role: "Senior Clinical Scientist in AI & Safety Lead"
+        role: "AI Safety Lead"
         team-member-page: /team_member/anil.html
         subgroup: "CSC core"
         image: assets/img/team/Anil.jpg
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
         subgroup: "CSC core"
       - name: "Agathe Zecevic"
-        role: "Data Scientist & NLP Lead"
+        role: "Senior Data Scientist & NLP Lead"
         team-member-page: /team_member/agathe.html
         image: assets/img/team/Agathe.jpg
         subgroup: "CSC core"
@@ -49,12 +49,6 @@ en: &DEFAULT_EN
         team-member-page: /team_member/mike.html
         image: assets/img/team/Mike.jpg
         subgroup: "CSC core"        
-
-      - name: "Haleema Drake"
-        role: "Senior AI Engineer & Data Lead"
-        team-member-page: /team_member/haleema.html
-        image: assets/img/team/Haleema.jpg
-        subgroup: "CSC core"
 
       - name: "Haris Shuaib"
         role: "Director"
@@ -108,6 +102,12 @@ en: &DEFAULT_EN
         role: "Clinical AI Fellow"
         team-member-page: /team_member/aoife.html
         image: assets/img/team/aoife.jpeg
+        subgroup: "Trainees & Fellows"
+
+      - name: "Alexis Zecevic"
+        role: "Visiting Intern – Data Science"
+        team-member-page: /team_member/alexis.html
+        image: assets/img/team/Alexis.png
         subgroup: "Trainees & Fellows"
 
             

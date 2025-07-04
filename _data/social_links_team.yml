@@ -46,6 +46,11 @@ beatrix-fletcher:
   - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
     icon: fab fa-linkedin-in
 
+zainab-qazi:
+  - url: https://www.linkedin.com/in/zainab-q-a881a1179/
+    icon: fab fa-linkedin-in
+  
+
 eleanor-stylianides:
   - url: https://github.com/estyli
     icon: fab fa-github
@@ -75,3 +80,9 @@ aoife-fox:
     icon: fab fa-linkedin-in
   - url: https://twitter.com/EMDocFox
     icon: fab fa-twitter
+
+alexis-zecevic:
+  - url: https://github.com/Alexiszcv
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/alexis-zecevic
+    icon: fab fa-linkedin-in

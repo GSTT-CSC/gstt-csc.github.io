@@ -4,6 +4,7 @@ permalink: /fellowship_apply.html
 title: NHS Fellowship in Clinical AI Cohort 5 Applications (2026-27)
 display_title: Cohort 5 Applications (2026-27)
 ---
+<i>Last updated: 22 May 2025</i><br>
 Applications are currently <b>closed</b>.
 Applications for Cohort 5 will open in November 2025. The information on this page is kept from the previous cycle to serve as a guide for prospective applicants.<br>
 Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf), [a suggested list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
@@ -52,6 +53,7 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 The webinar covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
 
 <h3 style>Frequently Asked Questions</h3> 
+<i>Last updated: 22 May 2025</i><br>
 If your question is not answered below, please [contact the faculty](mailto:gstt.aifellowship@nhs.net).
 <details>
 
