@@ -26,7 +26,7 @@ en: &DEFAULT_EN
           region: "London"
           profession: "Optometry"
 
-        - name: "Helena Cooper"
+        - name: "Helena Langford"
           role: "Pharmacist in Clinical Informatics"
           cohort: "4"
           region: "South West"
@@ -83,11 +83,6 @@ en: &DEFAULT_EN
           cohort: "4"
           region: "South East- Kent, Surrey, Sussex"
           profession: "Radiology"
-        - name: "Ala’a AlAqeel"
-          role: "Consultant in Family Medicine and Sleep Medicine"
-          cohort: "4"
-          region: "International"
-          profession: "Medicine"
 
         - name: "Connor Huggins"
           role: "Specialty Trainee Doctor in General Practice"
