@@ -46,7 +46,7 @@ en: &DEFAULT_EN
           role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
           cohort: "4"
           region: "South East- Thames Valley"
-          profession: "Anaesthetics"
+          profession: "Anaesthetics & Intensive Care"
 
         - name: "Matthew Lowry"
           role: "Specialty Trainee Doctor in Cardiology and General Internal Medicine"
@@ -216,24 +216,23 @@ en: &DEFAULT_EN
           region: "South East- Thames Valley"
           profession: "Pharmacy"
 
-
         - name: "Christopher Efford"
           role: "Physiotherapist in Musculoskeletal Therapy"
           cohort: "3"
           region: "South West"
           profession: "Physiotherapy"
 
-
         - name: "Charlie Winward"
           role: "Consultant Physiotherapist in Neurorehabilitation"
           cohort: "3"
           region: "South East- Thames Valley"
           profession: "Physiotherapy"
+
         - name: "Robert Crichton"
           role: "Specialty Trainee Doctor in Anaesthetics and Intensive Care Medicine"
           cohort: "3"
           region: "Midlands"
-          profession: "Anaesthetics"
+          profession: "Anaesthetics & Intensive Care"
 
         - name: "Vadir Baktash"
           role: "Specialty Trainee Doctor in Cardiology"
@@ -241,13 +240,11 @@ en: &DEFAULT_EN
           region: "South East- Wessex"
           profession: "Medicine"
 
-
         - name: "Helen Livesey"
           role: "Specialty Trainee Doctor in Clinical Genetics"
           cohort: "3"
           region: "Wales"
           profession: "Medicine"
-
 
         - name: "Katherine Mackay"
           role: "Specialty Trainee Doctor in Clinical Oncology"
@@ -255,13 +252,11 @@ en: &DEFAULT_EN
           region: "London"
           profession: "Radiology"
 
-
         - name: "Rory Maclean"
           role: "Specialty Trainee Doctor in Clinical Pharmacology and General Internal Medicine"
           cohort: "3"
           region: "London"
           profession: "Medicine"
-
 
         - name: "John Chen"
           role: "Specialty Trainee Doctor in Clinical Radiology"
@@ -269,14 +264,11 @@ en: &DEFAULT_EN
           region: "East of England"
           profession: "Radiology"
 
-
         - name: "Jozef Kamp"
           role: "Specialty Trainee Doctor in Clinical Radiology"
           cohort: "3"
           region: "London"
           profession: "Radiology"
-
-
 
         - name: "Jesus Perdomo Lampignano"
           role: "Specialty Trainee Doctor in Clinical Radiology"
@@ -284,13 +276,11 @@ en: &DEFAULT_EN
           region: "Scotland"
           profession: "Radiology"
 
-
         - name: "Dilan Şanli"
           role: "Specialty Trainee Doctor in Clinical Radiology"
           cohort: "3"
           region: "South East- Wessex"
           profession: "Radiology"
-
 
         - name: "James Vaz"
           role: "Specialty Trainee Doctor in Clinical Radiology"
@@ -298,14 +288,11 @@ en: &DEFAULT_EN
           region: "South East- Thames Valley"
           profession: "Radiology"
 
-
         - name: "Conn McGrath"
           role: "Specialty Trainee Doctor in Dermatology"
           cohort: "3"
           region: "London"
           profession: "Medicine"
-
-
 
         - name: "Aoife Fox"
           role: "Specialty Trainee Doctor in Emergency Medicine and Paediatric Emergency Medicine"
@@ -509,7 +496,7 @@ en: &DEFAULT_EN
           role: "Specialty Trainee Doctor in Anaesthetics"
           cohort: "1"
           region: "London"
-          profession: "Anaesthetics"
+          profession: "Anaesthetics & Intensive Care"
         - name: "Sarah Blake"
           role: "Specialty Trainee Doctor in Cardiology"
           cohort: "1"
