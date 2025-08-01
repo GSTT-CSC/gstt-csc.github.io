@@ -11,4 +11,6 @@ Keri joined the CSC team as a Trainee Clinical Scientist in September 2024 after
 ### CSC Team Role
 Keri hopes that working within the CSC team will help her develop existing skills, whilst gaining hands-on experience with a variety of informatics systems and deploying AI models. She looks forward to understanding how the team improves patient and clinical outcomes within the NHS, all while working towards registration as a clinical scientist.
 
+testing testing
+
 
