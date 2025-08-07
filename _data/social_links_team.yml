@@ -80,3 +80,9 @@ aoife-fox:
     icon: fab fa-linkedin-in
   - url: https://twitter.com/EMDocFox
     icon: fab fa-twitter
+
+molly-buckley:
+  - url: https://github.com/mollybuckley
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/mol-buckley
+    icon: fab fa-linkedin-in

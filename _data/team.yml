@@ -104,6 +104,12 @@ en: &DEFAULT_EN
         image: assets/img/team/aoife.jpeg
         subgroup: "Trainees & Fellows"
 
+      - name: "Molly Buckley"
+        role: "Clinical Scientist in AI"
+        team-member-page: /team_member/molly.html
+        image: assets/img/team/molly.jpg
+        subgroup: "CSC core"
+
             
 en-US:
   <<: *DEFAULT_EN
