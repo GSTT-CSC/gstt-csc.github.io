@@ -8,7 +8,7 @@ image: /assets/img/blog/stock_coding.jpg
 author: Isabella Trujillo-Cortes
 author-image: /assets/img/team/standard_user.jpg
 author-role: STP Trainee Clinical Engineering 
-category: Article
+category: Blog
 ---
 
 Hi everyone! I am a 1st year Clinical Engineering Trainee on the NHS Scientist Training Programme, and the past 5 months

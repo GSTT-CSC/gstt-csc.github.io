@@ -8,7 +8,7 @@ image: /assets/img/blog/Jack_pic_0.jpg
 author: Jack Foulkes
 author-image: /assets/img/team/standard_user.jpg
 author-role: Trainee Clinical Scientist in Imaging with Non-Ionising Radiation, St George's University Hospitals NHS Foundation Trust
-category: Article
+category: Blog
 ---
 I’m a trainee clinical scientist in medical physics, specializing in MRI, currently in my 3rd and final year of study on the NHS Scientist Training Programme (STP). I was slightly nervous to apply to the CSC for my elective placement, as I had very limited experience in coding so far during my career, and no experience whatsoever in professional software development! However, my experience going in was incredibly warm and welcoming. I’ve felt very privileged so far to spend a month with the CSC team at GSTT, during which I was able to spend some time with each member of the team and grill them about the projects they’re involved in. My aims going in were to get more experience in proper software development and testing methodologies, and also to learn more about the new applications of artificial intelligence (AI) and machine learning (ML) within an increasingly digitized healthcare system.
 

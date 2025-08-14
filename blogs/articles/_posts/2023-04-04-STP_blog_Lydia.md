@@ -8,7 +8,7 @@ image: /assets/img/blog/lydia_blog.png
 author: Lydia Davidson
 author-image: /assets/img/team/standard_user.jpg
 author-role: Trainee Clinical Scientist in Imaging with Ionising Radiation, Royal United Hospital Bath
-category: Article
+category: Blog
 ---
 
 As a trainee medical physicist, we’re encouraged to take a few weeks out to do some work experience to stretch ourselves beyond the remit of our day jobs – and I thought what better way to stretch myself than helping create artificial intelligence apps! 
