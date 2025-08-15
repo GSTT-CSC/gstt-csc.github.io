@@ -17,24 +17,13 @@
                            data-url="/fellowship_info.html">Further information</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="cohort5-tab" data-toggle="tab" href="#cohort5" role="tab"
-                           data-url="/fellowship_cohort5.html">Cohort 5 applications</a>
+                        <a class="nav-link" id="apply-tab" data-toggle="tab" href="#apply" role="tab"
+                           data-url="/fellowship_apply.html">Apply</a>
+
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="cohort4-tab" data-toggle="tab" href="#cohort4" role="tab"
-                           data-url="/fellowship_cohort4.html">Cohort 4</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="cohort3-tab" data-toggle="tab" href="#cohort3" role="tab"
-                           data-url="/fellowship_cohort3.html">Cohort 3</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="cohort2-tab" data-toggle="tab" href="#cohort2" role="tab"
-                           data-url="/fellowship_cohort2.html">Cohort 2</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="cohort1-tab" data-toggle="tab" href="#cohort1" role="tab"
-                           data-url="/fellowship_cohort1.html">Cohort 1</a>
+                        <a class="nav-link" id="fellows-tab" data-toggle="tab" href="#fellows" role="tab"
+                           data-url="/fellowship_fellows.html">Fellows & alumni</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="fellowspublications-tab" data-toggle="tab" href="#fellowspublications" role="tab"
@@ -70,11 +59,8 @@
                     </p>
                 </div>
                 <div class="tab-pane fade" id="fcaiinfo" role="tabpanel" aria-labelledby="fcaiinfo-tab"></div>
-                <div class="tab-pane fade" id="cohort5" role="tabpanel" aria-labelledby="cohort5-tab"></div>
-                <div class="tab-pane fade" id="cohort4" role="tabpanel" aria-labelledby="cohort4-tab"></div>
-                <div class="tab-pane fade" id="cohort3" role="tabpanel" aria-labelledby="cohort3-tab"></div>
-                <div class="tab-pane fade" id="cohort2" role="tabpanel" aria-labelledby="cohort2-tab"></div>
-                <div class="tab-pane fade" id="cohort1" role="tabpanel" aria-labelledby="cohort1-tab"></div>
+                <div class="tab-pane fade" id="apply" role="tabpanel" aria-labelledby="apply-tab"></div>
+                <div class="tab-pane fade" id="fellows" role="tabpanel" aria-labelledby="fellows-tab"></div>
                 <div class="tab-pane fade" id="fellowspublications" role="tabpanel" aria-labelledby="fellowspublications-tab"></div>
             </div>
         </div>
@@ -92,7 +78,7 @@
 <!-- Deep Linking (Optional, If Used in the Working Page) -->
 <script src="assets/js/deeplinking.js"></script>
 
-<!-- JavaScript to Fix Tab Loading -->
+<!-- JavaScript to Fix Tab Loading) -->
 <script>
     $(document).ready(function () {
         console.log("Bootstrap 4 tabs initialized.");
@@ -113,11 +99,16 @@
                         return response.text();
                     })
                     .then(html => {
-                        // Extract only the content inside <body> to avoid wiping out the entire page
                         var tempDiv = $("<div>").html(html);
                         var newContent = tempDiv.find("body").length ? tempDiv.find("body").html() : html;
 
                         $(target).html(newContent);
+
+                        // 👇 Insert this line to call initializeFilters
+                        if (document.getElementById('filters')) {
+                            initializeFilters();
+                        }
+
                         console.log("Content loaded successfully into", target);
                     })
                     .catch(error => {
@@ -127,7 +118,6 @@
             }
         });
 
-        // Preserve tab selection across refreshes
         if (window.location.hash) {
             $('a[href="' + window.location.hash + '"]').tab('show');
         }

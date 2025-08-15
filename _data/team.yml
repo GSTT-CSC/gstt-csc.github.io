@@ -110,6 +110,18 @@ en: &DEFAULT_EN
         image: assets/img/team/molly.jpg
         subgroup: "CSC core"
 
+      - name: "Alexis Zecevic"
+        role: "Visiting Intern – Data Science"
+        team-member-page: /team_member/alexis.html
+        image: assets/img/team/Alexis.png
+        subgroup: "Trainees & Fellows"
+
+      - name: "Karol Basta"
+        role: "Clinical AI Fellow"
+        team-member-page: /team_member/karol.html
+        image: assets/img/team/karol.jpeg
+        subgroup: "Trainees & Fellows"
+
             
 en-US:
   <<: *DEFAULT_EN

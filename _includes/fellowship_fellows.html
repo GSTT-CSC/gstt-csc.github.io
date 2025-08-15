@@ -1,0 +1,128 @@
+<!-- Filters -->
+<div id="filters" class="mb-3">
+  <label for="cohort-filter">Cohort:</label>
+  <select id="cohort-filter">
+    <option value="">All</option>
+    <option value="4">4 (2025-26)</option>
+    <option value="3">3 (2024-25)</option>
+    <option value="2">2 (2023-24)</option>
+    <option value="1">1 (2022-23)</option>
+    <!-- Add more cohort options if needed -->
+  </select>
+
+  <label for="region-filter">Region:</label>
+  <select id="region-filter">
+    <option value="">All</option>
+    <option value="East of England">East of England</option>
+    <option value="London">London</option>
+    <option value="Midlands">Midlands</option>
+    <option value="North West">North West</option>
+    <option value="Scotland">Scotland</option>
+    <option value="South East- Kent, Surrey, Sussex">South East- Kent, Surrey, Sussex</option>
+    <option value="South East- Thames Valley">South East- Thames Valley</option>
+    <option value="South East- Wessex">South East- Wessex</option>
+    <option value="South West">South West</option>
+    <option value="Wales">Wales</option>
+    <option value="International">International</option>
+    <!-- Add more region options if needed -->
+  </select>
+    <label for="profession-filter">Profession:</label>
+  <select id="profession-filter">
+    <option value="">All</option>
+    <option value="Anaesthetics & Intensive Care">Anaesthetics & Intensive Care</option>
+    <option value="Dentistry">Dentistry</option>
+    <option value="Emergency Medicine">Emergency Medicine</option>
+    <option value="General Practice">General Practice</option>
+    <option value="Healthcare Science">Healthcare Science</option>
+    <option value="Obstetrics & Gynaecology">Obstetrics & Gynaecology</option>
+    <option value="Ophthalmology">Ophthalmology</option>
+    <option value="Optometry">Optometry</option>
+    <option value="Paediatrics">Paediatrics</option>
+    <option value="Pathology">Pathology</option>
+    <option value="Pharmacy">Pharmacy</option>
+    <option value="Physiotherapy">Physiotherapy</option>
+    <option value="Public Health">Public Health</option>
+    <option value="Medicine">Medicine</option>
+    <option value="Radiology">Radiology</option>
+    <option value="Surgery">Surgery</option>
+    <!-- Add more cohort options if needed -->
+  </select>
+</div>
+
+<!-- Team -->
+<h5 class="text-muted">Click on each fellow to find out more</h5>
+<div class="container">
+  <div class="row pt-3">
+
+    {% for person in site.data.fellowship_fellows.en.team.people %}
+      {% assign url_name = person.name | slugify %}
+      {% assign page_url = "/fellow/" | append: url_name | append: ".html" %}
+      {% assign image_path = "/assets/img/fellow/" | append: url_name | append: ".jpg" %}
+      {% assign socials = site.data.social_links_fellows[url_name] %}
+
+      <div class="col-md-6 col-lg-4 pb-4 text-center text-lg-left team-member"
+           data-cohort="{{ person.cohort }}"
+           data-region="{{ person.region }}"
+           data-profession="{{ person.profession }}">
+
+
+        <a href="{{ page_url }}">
+          <img class="mx-auto p-1" style="width: 250px;" src="{{ image_path }}" alt="">
+        </a>
+
+        <h4>{{ person.name }}</h4>
+        <p class="text-muted">{{ person.role }}</p>
+
+        {% if socials %}
+        <ul class="list-inline social-buttons">
+          {% for network in socials %}
+          <li class="list-inline-item text-center">
+            <a href="{{ network.url }}">
+              <i class="{{ network.icon }}"></i>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+      </div>
+    {% endfor %}
+
+  </div>
+</div>
+<!-- End Team -->
+
+<script>
+function initializeFilters() {
+  const cohortFilter = document.getElementById('cohort-filter');
+  const regionFilter = document.getElementById('region-filter');
+  const professionFilter = document.getElementById('profession-filter');
+  const members = document.querySelectorAll('.team-member');
+
+  if (!cohortFilter || !regionFilter || !professionFilter || members.length === 0) {
+    return;
+  }
+
+  function filterMembers() {
+    const cohort = cohortFilter.value;
+    const region = regionFilter.value;
+    const profession = professionFilter.value;
+
+    members.forEach(member => {
+      const matchCohort = !cohort || member.dataset.cohort === cohort;
+      const matchRegion = !region || member.dataset.region === region;
+      const matchProfession = !profession || member.dataset.profession === profession;
+
+      member.style.display = (matchCohort && matchRegion && matchProfession) ? '' : 'none';
+    });
+  }
+
+  cohortFilter.addEventListener('change', filterMembers);
+  regionFilter.addEventListener('change', filterMembers);
+  professionFilter.addEventListener('change', filterMembers);
+}
+</script>
+<script>
+// Initialize filters when the page loads
+initializeFilters();
+</script>

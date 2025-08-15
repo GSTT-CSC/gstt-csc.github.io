@@ -10,4 +10,4 @@ Please note that we only support electives from trainees on the Science Training
 do not have capacity to support medical electives, and can currently only support volunteer work with us if you are already a GSTT employee 
 as obtaining honorary contracts is a lengthy process and most of our work requires permission to work with medical data. 
 
-<iframe src="https://v2-embednotion.com/1506789535ae8057984ed7afff584658" style="width: 100%; height: 900px;"></iframe>
+<iframe src="https://working-jet-1e8.notion.site/ebd/1506789535ae8057984ed7afff584658" width="100%" height="600" frameborder="0" allowfullscreen />
