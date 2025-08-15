@@ -81,6 +81,12 @@ aoife-fox:
   - url: https://twitter.com/EMDocFox
     icon: fab fa-twitter
 
+molly-buckley:
+  - url: https://github.com/mollybuckley
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/mol-buckley
+    icon: fab fa-linkedin-in
+
 alexis-zecevic:
   - url: https://github.com/Alexiszcv
     icon: fab fa-github
@@ -92,3 +98,4 @@ karol-basta:
     icon: fab fa-github
   - url: https://www.linkedin.com/in/karol-basta/
     icon: fab fa-linkedin-in
+
