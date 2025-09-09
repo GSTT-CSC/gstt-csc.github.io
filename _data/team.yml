@@ -98,6 +98,12 @@ en: &DEFAULT_EN
         image: assets/img/team/KathanS.jpg
         subgroup: "Trainees & Fellows"
 
+      - name: "Anthony Lim"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/anthony.html
+        image: assets/img/team/AnthonyL.jpg
+        subgroup: "Trainees & Fellows"
+
       - name: "Aoife Fox"
         role: "Clinical AI Fellow"
         team-member-page: /team_member/aoife.html

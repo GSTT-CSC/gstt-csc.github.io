@@ -75,6 +75,12 @@ kathan-sonar:
   - url: https://www.linkedin.com/in/kathan-sonar/
     icon: fab fa-linkedin-in
 
+anthony-lim:
+  - url: https://github.com/anthonyljc99
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/anthony-lim-530881184
+    icon: fab fa-linkedin-in
+
 aoife-fox:
   - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
     icon: fab fa-linkedin-in
