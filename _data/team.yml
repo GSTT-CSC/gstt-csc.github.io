@@ -122,6 +122,13 @@ en: &DEFAULT_EN
         image: assets/img/team/karol.jpeg
         subgroup: "Trainees & Fellows"
 
+      - name: "Theodora Osazuwa"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/theodora.html
+        image: assets/img/team/theodora.jpg
+        subgroup: "Trainees & Fellows"
+
+
             
 en-US:
   <<: *DEFAULT_EN
