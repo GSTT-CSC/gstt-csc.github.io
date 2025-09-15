@@ -50,14 +50,8 @@ en: &DEFAULT_EN
         image: assets/img/team/Mike.jpg
         subgroup: "CSC core"        
 
-      - name: "Haris Shuaib"
-        role: "Director"
-        team-member-page: /team_member/haris.html
-        subgroup: "NHS Fellowship in Clinical AI Faculty"
-        image: assets/img/team/Haris.png
-
       - name: "Alexander Deng"
-        role: "Programme Lead"
+        role: "Director"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"
@@ -73,6 +67,12 @@ en: &DEFAULT_EN
         team-member-page: /team_member/zainab.html
         image: assets/img/team/Zainab.png
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
+
+      - name: "Haris Shuaib"
+        role: "Strategic Advisor"
+        team-member-page: /team_member/haris.html
+        subgroup: "NHS Fellowship in Clinical AI Faculty"
+        image: assets/img/team/Haris.png
 
       - name: "Eleanor Stylianides"
         role: "Trainee Clinical Scientist"
