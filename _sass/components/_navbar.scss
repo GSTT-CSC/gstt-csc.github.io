@@ -1,7 +1,7 @@
 // Main NavBar
 #mainNav {
    background-color: #FFFFFF;
-   border-bottom:1px solid $csc-blue;
+   border-bottom:1px solid $nhs-blue;
    //position: relative;
 
   // NavBar Toggle Button
@@ -12,20 +12,20 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $csc-blue;
-    outline: $csc-blue;
+    background-color: $nhs-blue;
+    outline: $nhs-blue;
     box-shadow: none;
     @include heading-font;
-    &:hover { background-color: lighten($csc-blue, 10%); }
+    &:hover { background-color: lighten($nhs-blue, 10%); }
   }
   .navbar-brand {
-    color: $csc-blue;
+    color: $nhs-blue;
     @include heading-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($csc-blue, 20%);
+      color: darken($nhs-blue, 20%);
     }
   }
 
@@ -44,15 +44,15 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: $csc-blue;
+        color: $nhs-blue;
         @include heading-font;
         &.active,
         &:hover
         {
-          color: darken($csc-blue, 20%);
-          background-color: $csc-blue-pastel;
+          color: darken($nhs-blue, 20%);
+          background-color: $nhs-light-gray;
         }
-      }
+      } /*
       .education-link
       {
         color: $people-purple;
@@ -82,7 +82,7 @@
           color: darken($policy-red, 0%);
           background-color: $policy-red-pastel;
         }
-      }
+      }*/
     }
   }
 }
@@ -96,7 +96,7 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    border-bottom:1px solid $csc-blue;
+    border-bottom:1px solid $nhs-blue;
     background-color: white;
     .navbar-brand {
       font-size: 1.75em;
@@ -136,12 +136,12 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $csc-blue;
-    outline: $csc-blue;
+    background-color: $nhs-blue;
+    outline: $nhs-blue;
     @include heading-font;
     &:active,
-    &:hover { background-color: lighten($csc-blue, 10%); }
-  }
+    &:hover { background-color: lighten($nhs-blue, 10%); }
+  }/*
   .people-btn
   {
     background-color: $people-purple;
@@ -162,7 +162,7 @@
     outline: $policy-red;
     &:active,
     &:hover { background-color: lighten($policy-red, 10%); }
-  }
+  }*/
 
   // SubNavbar Items
   .navbar-nav {
@@ -177,15 +177,15 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: $csc-blue;
+        color: $nhs-blue;
         @include heading-font;
         &.active,
         &:hover
         {
-          color: $csc-blue;
+          color: $nhs-blue;
           background-color: #FFFFFF40;
         }
-      }
+      } /*
       .education-link
       {
         color: $people-purple;
@@ -216,7 +216,7 @@
           color: darken($policy-red, 0%);
           background-color: #FFFFFF40;
         }
-      }
+      }*/
     }
   }
 }
@@ -228,7 +228,7 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: $nhs-light-gray;
     .navbar-nav {
       .nav-item {
         .nav-link {
@@ -258,12 +258,12 @@ position: relative;
   {
     .nav-link
     {
-      color: $csc-blue;
+      color: $nhs-blue;
       @include heading-font;
       &.active,
       &:hover
       {
-        background-color: $csc-blue-pastel;
+        background-color: $nhs-light-gray;
       }
     }
   }

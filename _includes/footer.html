@@ -1,13 +1,36 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: white">
+<footer class="footer" id="footer" style="background-color: #E8EDEE">
   <div class="container">
     <div class="row align-items-center">
+      <!--Legal-->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="legal"
+              >{{ site.data.sitetext[site.locale].footer.legal | default:
+              "Privacy Policy" }}</a
+            >
+          </li>
+        </ul>
+      </div>
+      <!--Social Media Links-->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item"> 
+            <a href="https://www.linkedin.com/company/gstt-csc/posts/?feedView=all"><img src="/assets/img/socials/linkedin-logo.png" style="height:1.8rem; filter:contrast(800%) grayscale(100%)"></a>
+          </li>
+          <li class="list-inline-item"> 
+            <a href="https://github.com/GSTT-CSC"><img src="/assets/img/socials/github-logo.png" style="height:1.8rem"></a>
+          </li>
+        </ul>
+      </div>
+      <!--Copyright-->
       <div class="col-md-4">
         <span class="copyright"
           >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
         >
       </div>
-      <!-- Social Media -->
+      <!-- Social Media 
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
@@ -20,9 +43,9 @@
           </li>
           {% endfor %}
         </ul>
-      </div>
-      <!-- Legal -->
-      <div class="col-md-4">
+      </div> -->
+      <!-- Legal 
+      <div class="col-md-6">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
             <a href="legal"
@@ -31,8 +54,8 @@
             >
           </li>
         </ul>
-      </div>
-      <!-- Badges -->
+      </div> -->
+      <!-- Badges - what does this do???? -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
