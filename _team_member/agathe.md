@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Agathe Zecevic
 team-member-photo: /assets/img/team/Agathe.jpg
-job-role: Data Scientist
+job-role: Senior Data Scientist & NLP Lead
 ---
 
 ### Bio
