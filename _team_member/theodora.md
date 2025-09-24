@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Theodora Osazuwa
-team-member-photo: \assets\img\team\theodora.JPG
+team-member-photo: /assets/img/team/theodora.JPG
 job-role: Trainee Clinical Scientist, Clinical Informatics
 ---
 
