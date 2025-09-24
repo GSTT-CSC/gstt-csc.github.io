@@ -104,34 +104,22 @@ en: &DEFAULT_EN
         image: assets/img/team/AnthonyL.jpg
         subgroup: "Trainees & Fellows"
 
-      - name: "Aoife Fox"
-        role: "Clinical AI Fellow"
-        team-member-page: /team_member/aoife.html
-        image: assets/img/team/aoife.jpeg
-        subgroup: "Trainees & Fellows"
-
       - name: "Molly Buckley"
         role: "Clinical Scientist in AI"
         team-member-page: /team_member/molly.html
         image: assets/img/team/molly.jpg
         subgroup: "CSC core"
 
-      - name: "Alexis Zecevic"
-        role: "Visiting Intern – Data Science"
-        team-member-page: /team_member/alexis.html
-        image: assets/img/team/Alexis.png
-        subgroup: "Trainees & Fellows"
-
       - name: "Karol Basta"
         role: "Clinical AI Fellow"
         team-member-page: /team_member/karol.html
         image: assets/img/team/karol.jpeg
-        subgroup: "Trainees & Fellows"
+        subgroup: "CSC core"
 
       - name: "Theodora Osazuwa"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/theodora.html
-        image: assets/img/team/theodora.jpg
+        image: assets/img/team/theodora.JPG
         subgroup: "Trainees & Fellows"
 
 
