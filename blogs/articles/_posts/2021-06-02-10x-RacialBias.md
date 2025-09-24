@@ -8,6 +8,7 @@ image: /assets/img/blog/racial_bias.jpg
 author: Dika Vilic
 author-image: /assets/img/team/Dika.jpg
 author-role: Clinical Scientist in AI
+category: Workshop
 ---
 
 The CSC team held a workshop on racial bias in AI and strategies to combat it on 2nd June 2021. As part of the 

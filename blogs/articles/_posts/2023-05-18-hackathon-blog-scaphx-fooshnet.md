@@ -8,6 +8,7 @@ image: /assets/img/blog/Hackathon-pic-1.jpg
 author: Dika Vilic
 author-image: /assets/img/team/Dika.jpg
 author-role: 
+category: Article
 ---
 
 The CSC tackled the development of two AI models in two 3-day hyper focussed team events which we called hackathons. The first took place in November of 2022, where we focussed on both models in two separate teams, and the second took place in February 2023 where we focussed on only one model.

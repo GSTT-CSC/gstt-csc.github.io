@@ -8,6 +8,7 @@ image: /assets/img/blog/SamTeamCSC.jpg
 author: Sam Salisbury
 author-image: /assets/img/blog/Sam.jpeg
 author-role: Trainee Clinical Biochemist, Royal Devon and Exeter Hospital
+category: Blog
 ---
 I have been mockingly labelled as the "Software Engineer" of the household, something I have made great efforts to hide from my own parents and in-laws lest I be roped into the inevitable de facto Facebook support technician of the family. I can do a decent bit of wizardry with a spreadsheet and Access databases, can navigate through the command line, and have flirted with HTML (thank you Myspace) and Python (Thank you Bioinformatics). I have even set up a Plex server for my music using a Raspberry Pi (Thank you refusal to pay for Spotify). Now, I am aware that the audience reading this will likely not be that impressed with any of this. For real software engineers, this is pretty basic stuff. However, to those in biochemistry (where I work), it is like dabbling in arcane magick. If you ever need a quick ego boost, I recommend showing a biomedical scientist a VLOOKUP function.
 

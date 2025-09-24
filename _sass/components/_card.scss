@@ -112,4 +112,15 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
 .user__info > small {
   color: #666;
 }
+
+.label {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 15px;
+  padding: .25em 0.75em;
+  font-size: .75rem;
+  align-self: flex-start;
+  border-radius: 5px;
+  background-color: lightblue;
+}
 }

@@ -8,6 +8,7 @@ image: /assets/img/blog/nhs_logo.png
 author: Igor Malashchuk
 author-image: /assets/img/team/standard_user.jpg
 author-role: STP Trainee Bioinformatician
+category: Blog
 ---
 
 So, three months of my rotation in the Clinical Scientific Computing (CSC) department have passed as if it was one day,
