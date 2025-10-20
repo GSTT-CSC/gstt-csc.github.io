@@ -44,7 +44,3 @@ We also aim to regularly engage with potential STP applicants and students via:
 - University talks with students interested in the STP programme and gaining work experience with clinical scientific 
 computing, medical physics and/or bioinformatics before submitting their applications
 - Sixth form college talks with students interested in a career in healthcare sciences
-
-### OnBoarding for new starters
-
-Following the link for an overview of your first weeks' tasks: [Onboarding](handbook/onboarding.html) 
