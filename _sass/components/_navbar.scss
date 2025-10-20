@@ -2,14 +2,12 @@
 #mainNav {
    background-color: #FFFFFF;
    border-bottom:1px solid $csc-blue;
-   //position: relative;
 
   // NavBar Toggle Button
   .navbar-toggler {
     font-size: 12px;
     right: 0;
     padding: 13px;
-    text-transform: uppercase;
     color: white;
     border: 0;
     background-color: $csc-blue;
@@ -53,41 +51,23 @@
           background-color: $csc-blue-pastel;
         }
       }
-      .education-link
-      {
-        color: $people-purple;
-        &.active,
-        &:hover
-        {
-          color: darken($people-purple, 0%);
-          background-color: $people-purple-pastel;
-        }
-      }
-      .platforms-link
-      {
-        color: $platform-green;
-        &.active,
-        &:hover
-        {
-          color: darken($platform-green, 0%);
-          background-color: $platform-green-pastel;
-        }
-      }
-      .policy-link
-      {
-        color: $policy-red;
-        &.active,
-        &:hover
-        {
-          color: darken($policy-red, 0%);
-          background-color: $policy-red-pastel;
+      .dropdown-menu{
+        @include heading-font;
+        .dropdown-item{
+          color:$csc-blue;
+          &.active,
+          &:hover
+          {
+            color: darken($csc-blue, 20%);
+            background-color: $csc-blue-pastel;
+          }
         }
       }
     }
   }
 }
 
-// Navbar Font Padding & more... (could be tidier)
+// Navbar Font Padding & more... (could be tidier) - styles only for larger screens
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 10px;
@@ -106,9 +86,17 @@
     }
     .navbar-nav {
       .nav-item {
+        position:unset;
         .nav-link {
           padding: 1.1em 1em !important;
         }
+        .dropdown-menu{
+          width:100vw;
+          position: absolute;
+          top:auto;
+          padding: 1.5%;
+          overflow: scroll;
+      }
       }
     }
     &.navbar-shrink {
@@ -118,152 +106,6 @@
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
-      }
-    }
-  }
-}
-
-// SubNav
-#subNav {
-  min-width: 300px;
-  position: relative;
-
-  // SubNav Toggle Button
-  .navbar-toggler {
-    font-size: 12px;
-    right: 0;
-    padding: 13px;
-    text-transform: uppercase;
-    color: white;
-    border: 0;
-    background-color: $csc-blue;
-    outline: $csc-blue;
-    @include heading-font;
-    &:active,
-    &:hover { background-color: lighten($csc-blue, 10%); }
-  }
-  .people-btn
-  {
-    background-color: $people-purple;
-    outline: $people-purple;
-    &:active,
-    &:hover { background-color: lighten($people-purple, 10%); }
-  }
-  .platforms-btn
-  {
-    background-color: $platform-green;
-    outline: $platform-green;
-    &:active,
-    &:hover { background-color: lighten($platform-green, 10%); }
-  }
-  .policy-btn
-  {
-    background-color: $policy-red;
-    outline: $policy-red;
-    &:active,
-    &:hover { background-color: lighten($policy-red, 10%); }
-  }
-
-  // SubNavbar Items
-  .navbar-nav {
-    .nav-item {
-      &.active
-      {
-        text-decoration: underline;
-      }
-      .nav-link
-      {
-        font-size: 90%;
-        font-weight: 400;
-        padding: 0.75em 0;
-        letter-spacing: 1px;
-        color: $csc-blue;
-        @include heading-font;
-        &.active,
-        &:hover
-        {
-          color: $csc-blue;
-          background-color: #FFFFFF40;
-        }
-      }
-      .education-link
-      {
-        color: $people-purple;
-        &:active,
-        &:hover
-        {
-          color: darken($people-purple, 0%);
-          background-color: #FFFFFF40;
-        }
-      }
-      .platforms-link
-      {
-
-        color: $platform-green;
-        &.active,
-        &:hover
-        {
-          color: darken($platform-green, 0%);
-          background-color: #FFFFFF40;
-        }
-      }
-      .policy-link
-      {
-        color: $policy-red;
-        &.active,
-        &:hover
-        {
-          color: darken($policy-red, 0%);
-          background-color: #FFFFFF40;
-        }
-      }
-    }
-  }
-}
-@media (min-width: 300px) {
-  #subNav {
-    // padding-top: 10px;
-    // padding-bottom: 10px;
-    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
-    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
-    transition: padding-top 0.3s, padding-bottom 0.3s;
-    border: none;
-    background-color: transparent;
-    .navbar-nav {
-      .nav-item {
-        .nav-link {
-          padding: 1.1em 1em !important;
-        }
-      }
-    }
-    &.navbar-shrink {
-      padding-top: 0;
-      padding-bottom: 0;
-      background-color: $gray-900;
-      .navbar-brand {
-        font-size: 1.25em;
-        padding: 12px 0;
-      }
-    }
-  }
-}
-
-
-
-// Styling Handbook Scrollspy
-#handbookNav {
-background-color: #eee;
-position: relative;
-.nav-item
-  {
-    .nav-link
-    {
-      color: $csc-blue;
-      @include heading-font;
-      &.active,
-      &:hover
-      {
-        background-color: $csc-blue-pastel;
       }
     }
   }
