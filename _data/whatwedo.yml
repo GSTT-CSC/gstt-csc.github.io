@@ -6,12 +6,9 @@ aspects:
   - title: "AI"
     text: "We develop, evaluate and deploy AI and digital health technologies for Guy's and St Thomas' NHS Foundation Trust."
     image: assets/img/platforms-icon.svg
-    colour: "#017751"
   - title: "Safety"
     text: "We develop, advise and support the development and usage of SaMD (Software As a Medical Device), centred on patient safety."
     image: assets/img/people-icon.svg
-    colour: "#645EAA"
   - title: "Data"
     text: "We enable safe and efficient data access for testing and development of digital health technologies."
     image: assets/img/policy-icon.svg
-    colour: "#D7472E"

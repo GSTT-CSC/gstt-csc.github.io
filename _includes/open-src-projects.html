@@ -1,0 +1,15 @@
+<section class="page-section" style="padding:4%" id="{{ site.data.open-src-projects.section | markdownify | default: "Open Source Projects" }}">
+    <div class="row justify-content-center">
+        <h1 class="col-12">Open Source Projects</h1>
+        {% for aspect in site.data.open-src.aspects %}
+        <div class="col-12 col-md-6 col-lg-5" style="padding:2%">
+            <img src="{{ aspect.image }}" class="mx-auto d-block" style="height:8rem">
+            <h4>{{ aspect.title }}</h4>
+            <p>{{ aspect.text}}</p>
+            <a class="btn btn-light" href="{{ aspect.link }}">
+                <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" style="height:1.5rem"> Discover on Github
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</section>

@@ -1,0 +1,87 @@
+<head>
+    <style>
+        .page-section {
+            display: block;
+            width: 100%;
+            padding: 4%;
+            height: max-content;
+        }
+        .row {
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
+        .content {
+            background-color: #E8EDEE;
+            border-radius: 5px;
+            padding: 2%;
+        }
+    </style>
+</head>
+
+<section class="page-section" style="background-color:white;">
+    <img src="/assets/img/csc-logo-text.svg" style="height:12rem; margin-left: auto; margin-right: auto; display:block">
+</section>
+
+<section class="page-section" id="{{ site.data.whatwedo.section | markdownify | default: "What we do" }}">
+    <h1>Our Focus</h1>
+    <div class="row">
+        {% for aspect in site.data.whatwedo.aspects %}
+        <div class="col-12 col-md-4" style="padding:1%">
+            <div style="background-color: #E8EDEE; border-radius:8px; padding:4%; height:100%">
+                <img src="{{ aspect.image}}" alt="{{ aspect.title }}" style="height:2.5rem; display:inline">
+                <h3 style="display:inline; padding:3%;">{{ aspect.title }}</h3>
+                <h6 style="padding:5%; height:50%">{{ aspect.text }}</h6>
+                <a class="btn btn-light">More details</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!--
+<section class="page-section" style="background-color:white;"> 
+    <div class="row">
+        <h1 class="col-12">Our Focus</h1>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-5">
+            <h2>AI</h2>
+            <h6>We develop, evaluate and deploy AI for Guy's and St Thomas' NHS Foundation Trust</h6>
+        </div>
+        <div class="col-12 col-md-7">
+            <div class="content">
+                <h6>Evaluation</h6>
+                <p>Support with retrospective, prospective and fairness evaluation of AI products in market.</p>
+                <h6>Deployment Infrastructure</h6>
+                <p>Support with procuring new infrastructure or using CSC GPUs.</p>
+                <h6>Build</h6>
+                <p>Helping clinicians and departments by developing in-house software as a medical device, tailored to GSTT.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-5">
+            <h2>Safety</h2>
+            <h6>We ensure safety around use and development of SaMD</h6>
+        </div>
+        <div class="col-12 col-md-7">
+            <div class="content">
+                <h6>QMS</h6>
+                <p>Providing consultancy on ISO 13485 based Quality Management System for Software and open source QMS.</p>
+                <h6>SaMD</h6>
+                <p>Developing, advising and supporting the development and usage of SaMD (Software As a Medical Device), centred on patient safety.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-5">
+            <h2>Data</h2>
+            <h6>We help researchers get anonymised patient data</h6>
+        </div>
+        <div class="col-12 col-md-7">
+            <div class="content">
+                <h6>Data</h6>
+                <p>Enabling safe and efficient data access for testing and development of digital health technologies.</p>
+            </div>
+        </div>
+    </div> 
+</section> -->

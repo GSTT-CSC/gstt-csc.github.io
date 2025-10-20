@@ -1,0 +1,13 @@
+# This file contains the content for the 'Open Source Projects' section of the homepage.
+section: open-src
+title: ""
+text:
+aspects:
+  - title: "MLOps"
+    text: "A continuous integration and deployment framework for healthcare AI projects"
+    image: assets/img/platforms/mlops_logo.png
+    link: https://github.com/GSTT-CSC/MLOps
+  - title: "QMS"
+    text: "Quality Management Systems (QMS) template for use with AI and software as a medical device"
+    image: assets/img/platforms/csc-qms-logo.png
+    link: https://github.com/GSTT-CSC/QMS-Template
