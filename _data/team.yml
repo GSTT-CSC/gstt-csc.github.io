@@ -36,8 +36,8 @@ en: &DEFAULT_EN
         role: "Senior Clinical Scientist in AI"
         team-member-page: /team_member/elise.html
         image: assets/img/team/elise.jpg
-
         subgroup: "CSC core"
+
       - name: "Agathe Zecevic"
         role: "Senior Data Scientist & NLP Lead"
         team-member-page: /team_member/agathe.html
@@ -56,10 +56,10 @@ en: &DEFAULT_EN
         image: assets/img/team/Alex.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"
 
-      - name: "Beatrix Fletcher"
-        role: "Programme Manager"
-        team-member-page: /team_member/beatrix.html
-        image: assets/img/team/Beatrix1.jpg
+      - name: "Poppy Cohen"
+        role: "Senior Programme Manager"
+        team-member-page: /team_member/poppy.html
+        image: assets/img/team/Poppy.png
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
             
       - name: "Zainab Qazi"
@@ -67,12 +67,6 @@ en: &DEFAULT_EN
         team-member-page: /team_member/zainab.html
         image: assets/img/team/Zainab.png
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
-
-      - name: "Haris Shuaib"
-        role: "Strategic Advisor"
-        team-member-page: /team_member/haris.html
-        subgroup: "NHS Fellowship in Clinical AI Faculty"
-        image: assets/img/team/Haris.png
 
       - name: "Eleanor Stylianides"
         role: "Trainee Clinical Scientist"
