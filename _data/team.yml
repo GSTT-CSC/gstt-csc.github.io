@@ -59,7 +59,7 @@ en: &DEFAULT_EN
       - name: "Poppy Cohen"
         role: "Senior Programme Manager"
         team-member-page: /team_member/poppy.html
-        image: assets/img/team/Poppy.png
+        image: assets/img/team/poppy.png
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
             
       - name: "Zainab Qazi"
