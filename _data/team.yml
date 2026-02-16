@@ -110,6 +110,12 @@ en: &DEFAULT_EN
         image: assets/img/team/karol.jpeg
         subgroup: "CSC core"
 
+      - name: "Sam Porter"
+        role: "Clinical Scientist in AI"
+        team-member-page: /team_member/sam.html
+        image: assets/img/team/sam.jpg
+        subgroup: "CSC core"
+
       - name: "Theodora Osazuwa"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/theodora.html
