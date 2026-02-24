@@ -105,3 +105,9 @@ karol-basta:
   - url: https://www.linkedin.com/in/karol-basta/
     icon: fab fa-linkedin-in
 
+sam-porter:
+  - url: https://github.com/samdporter
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/sam-porter-6974a575/
+    icon: fab fa-linkedin-in
+
