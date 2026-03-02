@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     # with their social profiles using the slugified name (e.g. Clark Kent--> clark-kent)
 
     people:
-      - name: "Dika Vilic"
+      - name: "Dika Vilić"
         role: "Head of Clinical Scientific Computing"
         team-member-page: /team_member/dika.html
         subgroup: "CSC core"        
@@ -31,6 +31,12 @@ en: &DEFAULT_EN
         team-member-page: /team_member/anil.html
         subgroup: "CSC core"
         image: assets/img/team/Anil.jpg
+
+      - name: "Mike Woodward"
+        role: "AI & Development Lead"
+        team-member-page: /team_member/mike.html
+        image: assets/img/team/Mike.jpg
+        subgroup: "CSC core"            
 
       - name: "Elise Pather"
         role: "Senior Clinical Scientist in AI"
@@ -44,11 +50,23 @@ en: &DEFAULT_EN
         image: assets/img/team/Agathe.jpg
         subgroup: "CSC core"
 
-      - name: "Mike Woodward"
-        role: "Senior Clinical Scientist in AI & Development Lead"
-        team-member-page: /team_member/mike.html
-        image: assets/img/team/Mike.jpg
-        subgroup: "CSC core"        
+      - name: "James Clark Ross"
+        role: "Senior Clinical Scientist"
+        team-member-page: /team_member/james.html
+        image: assets/img/team/james.jpeg
+        subgroup: "CSC core"
+
+      - name: "Molly Buckley"
+        role: "Clinical Scientist in AI"
+        team-member-page: /team_member/molly.html
+        image: assets/img/team/molly.jpg
+        subgroup: "CSC core"
+
+      - name: "Sam Porter"
+        role: "Clinical Scientist in AI"
+        team-member-page: /team_member/sam.html
+        image: assets/img/team/sam.jpg
+        subgroup: "CSC core"
 
       - name: "Alexander Deng"
         role: "Director"
@@ -98,22 +116,10 @@ en: &DEFAULT_EN
         image: assets/img/team/AnthonyL.jpg
         subgroup: "Trainees & Fellows"
 
-      - name: "Molly Buckley"
-        role: "Clinical Scientist in AI"
-        team-member-page: /team_member/molly.html
-        image: assets/img/team/molly.jpg
-        subgroup: "CSC core"
-
       - name: "Karol Basta"
         role: "Clinical AI Fellow"
         team-member-page: /team_member/karol.html
         image: assets/img/team/karol.jpeg
-        subgroup: "CSC core"
-
-      - name: "Sam Porter"
-        role: "Clinical Scientist in AI"
-        team-member-page: /team_member/sam.html
-        image: assets/img/team/sam.jpg
         subgroup: "CSC core"
 
       - name: "Theodora Osazuwa"
@@ -121,7 +127,6 @@ en: &DEFAULT_EN
         team-member-page: /team_member/theodora.html
         image: assets/img/team/theodora.JPG
         subgroup: "Trainees & Fellows"
-
 
             
 en-US:
