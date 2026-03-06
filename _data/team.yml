@@ -50,6 +50,24 @@ en: &DEFAULT_EN
         image: assets/img/team/Agathe.jpg
         subgroup: "CSC core"
 
+      - name: "Mikaël Simard"
+        role: "Senior Clinical Scientist in AI"
+        team-member-page: /team_member/mikael.html
+        image: assets/img/team/mikael.jpg
+        subgroup: "CSC core"
+
+      - name: "Kristina Zeljić"
+        role: "Senior Data Engineer"
+        team-member-page: /team_member/kristina.html
+        image: assets/img/team/kristina.jpg
+        subgroup: "CSC core"
+
+      - name: "Kristin Kostka"
+        role: "Senior Health Data Scientist"
+        team-member-page: /team_member/kristin.html
+        image: assets/img/team/kristin.jpeg
+        subgroup: "CSC core"
+
       - name: "James Clark Ross"
         role: "Senior Clinical Scientist"
         team-member-page: /team_member/james.html
