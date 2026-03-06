@@ -1,6 +1,6 @@
 ---
 layout: teammember
-team-member-name: Kristina Željić
+team-member-name: Kristina Zeljić
 team-member-photo: /assets/img/team/kristina.jpg
 job-role: Senior Data Engineer
 ---
