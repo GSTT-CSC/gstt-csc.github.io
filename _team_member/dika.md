@@ -1,6 +1,6 @@
 ---
 layout: teammember
-team-member-name: Dika Vilic
+team-member-name: Dika Vilić
 team-member-photo: /assets/img/team/Dika.jpg
 job-role: Head of Clinical Scientific Computing
 ---

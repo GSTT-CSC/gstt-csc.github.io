@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Anil.jpg
 
       - name: "Mike Woodward"
-        role: "AI & Development Lead"
+        role: "AI Development Lead"
         team-member-page: /team_member/mike.html
         image: assets/img/team/Mike.jpg
         subgroup: "CSC core"            
