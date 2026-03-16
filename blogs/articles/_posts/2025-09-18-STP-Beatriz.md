@@ -2,12 +2,13 @@
 layout: blogpost
 title: "CSC Elective: Keeping up with the future" 
 tag-line: "Beatriz describes her five week STP elective with CSC"
-date: "18th Sept 2025"
+date: "18 September 2025"
 read-time-mins: "5 mins"
 image: /assets/img/blog/beatriz_blog_pic.jpg
 author: "Beatriz Laureano" 
 author-image: /assets/img/team/standard_user.jpg
 author-role: "Trainee Clinical Scientist in Imaging with Non-Ionising Radiation, Guys and St Thomas's NHS Foundation Trust"
+category: Blog
 ---
 I’ve always been interested in computational practice and software development, and in exploring how new technologies can be applied in healthcare. AI is now integrated into almost every aspect of life, and as a 3rd-year trainee clinical scientist my particular interest is in how it can transform medical and clinical practice. As the world evolves, I’ve been keen to understand how, from a technical and computational point of view, the NHS is keeping up with these advances, and how we can shape services to take advantage of these opportunities.
 
