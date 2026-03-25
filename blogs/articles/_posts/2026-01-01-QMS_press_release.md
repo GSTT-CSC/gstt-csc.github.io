@@ -18,7 +18,7 @@ This QMS was developed over several years by CSC and is currently in use at Guy'
 
 To help others navigate medical-device regulatory requirements, we have made this QMS publicly available. It can be found at [this location](https://github.com/GSTT-CSC/QMS-Template), where you will find a GitHub repository containing a template as well as instructions for its use.
 
-Our AI Safety Lead, [Anil Mistry](https://gstt-csc.github.io/team_member/anil.html), who led the project as the Quality Management Officer (QMO), had this to say upon its release:
+Our AI Safety Lead, [Anil Mistry](/team_member/anil.html), who led the project as the Quality Management Officer (QMO), had this to say upon its release:
 <blockquote style="border-left:4px solid #ccc; padding-left:1rem; margin:1.5rem 0;">
 <p>Adhering to regulatory aspects of software development is necessary to ensure patient safety. However, in terms of product development, meeting the relevant standards can add months—even years—to reaching the deployment and evaluation stages, let alone market access through CE/UKCA certification.</p>
 <p>With the release of this QMS, we are targeting NHS institutions that are looking to create their CSC teams (this is whom we initially built it for), start-ups, small and medium enterprises, and academic institutions.</p>
