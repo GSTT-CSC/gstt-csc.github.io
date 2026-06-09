@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Kristin Kostka
-team-member-photo: /assets/img/team/Kristin.jpeg
+team-member-photo: /assets/img/team/kristin.jpeg
 job-role: Senior Health Data Scientist
 ---
 
