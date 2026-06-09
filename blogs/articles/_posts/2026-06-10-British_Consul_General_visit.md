@@ -4,7 +4,7 @@ title: "British Consul General to Toronto Visits GSTT"
 tag-line: "Fouzia Younis MBE visits GSTT to learn about AI"
 date: "9 June 2026"
 read-time-mins: "3 mins"
-image: /assets/img/blog/consul_general-featured.jpeg
+image: /assets/img/blog/consul_general-featured.JPEG
 author: "James Clark Ross" 
 author-image: /assets/img/team/james.jpeg
 author-role: "Senior Clinical Scientist"
