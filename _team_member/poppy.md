@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Poppy Cohen
-team-member-photo: /assets/img/team/poppy.png
+team-member-photo: /assets/img/team/poppy-cohen.jpg
 job-role: Senior Programme Manager <br>
 ---
 

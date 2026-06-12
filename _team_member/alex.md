@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Alexander Deng
-team-member-photo: /assets/img/team/Alex.jpg
+team-member-photo: /assets/img/team/alexander-deng.jpg
 job-role: Director
 ---
 
