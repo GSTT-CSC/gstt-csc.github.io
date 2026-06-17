@@ -89,19 +89,19 @@ en: &DEFAULT_EN
       - name: "Alexander Deng"
         role: "Director"
         team-member-page: /team_member/alex.html
-        image: assets/img/team/Alex.jpg
+        image: assets/img/team/alexander-deng.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"
 
       - name: "Poppy Cohen"
         role: "Senior Programme Manager"
         team-member-page: /team_member/poppy.html
-        image: assets/img/team/poppy.png
+        image: assets/img/team/poppy-cohen.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
             
       - name: "Zainab Qazi"
         role: "Programme Support Officer"
         team-member-page: /team_member/zainab.html
-        image: assets/img/team/Zainab.png
+        image: assets/img/team/zainab-qazi.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
 
       - name: "Eleanor Stylianides"

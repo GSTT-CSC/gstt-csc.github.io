@@ -1,7 +1,7 @@
 ---
 layout: teammember
 team-member-name: Zainab Qazi
-team-member-photo: /assets/img/team/Zainab.png
+team-member-photo: /assets/img/team/zainab-qazi.jpg
 job-role: Programme Support Officer
 ---
 
