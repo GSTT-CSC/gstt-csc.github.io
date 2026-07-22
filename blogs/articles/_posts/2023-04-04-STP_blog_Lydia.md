@@ -11,7 +11,7 @@ author-role: Trainee Clinical Scientist in Imaging with Ionising Radiation, Roya
 category: Blog
 ---
 
-As a trainee medical physicist, we’re encouraged to take a few weeks out to do some work experience to stretch ourselves beyond the remit of our day jobs – and I thought what better way to stretch myself than helping create artificial intelligence apps! 
+<span class="dropcap">A</span>s a trainee medical physicist, we’re encouraged to take a few weeks out to do some work experience to stretch ourselves beyond the remit of our day jobs – and I thought what better way to stretch myself than helping create artificial intelligence apps! 
 
 My first week in the CSC team was an exciting one, where I was thrown into a three-day hackathon event in London. A hackathon, I soon found out, is an event that brings programmers and other interested parties together to improve upon or build a new software program. This form of working is novel in the NHS and so it was exciting to be part of one of the first groups paving the way on this front. The focus of the hackathon was to further develop a scaphoid fracture diagnostic tool the CSC team had been working on, ‘ScaphX’ (read more about the app [here](https://gstt-csc.github.io/projects/AIC002-occult-carpal-detection-xray.html)). We were split into three teams covering software development, app design and integration, and documentation. The attendees were an eclectic mix of people, from radiologists and surgeons to software developers, quality managers and physicists, with each bringing their own unique expertise and insights.  
 
