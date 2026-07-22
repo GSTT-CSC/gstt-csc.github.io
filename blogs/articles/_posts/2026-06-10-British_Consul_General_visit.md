@@ -12,7 +12,7 @@ category: News
 ---
 _Featured image: A photo taken during Fouzia Younis MBE’s visit to GSTT on Thursday 14 May 2026. Back row (L-R): Asif Mazumder, [Kristin Kostka](/team_member/kristin.html), [Anil Mistry](/team_member/anil.html), Anastasia Alcock, [Mikaël Simard](/team_member/mikael.html), [Molly Buckley](/team_member/molly.html), [Alexander Deng](/team_member/alex.html), [Poppy Cohen](/team_member/poppy.html). Front row (L-R): Claire Mallinson, Fouzia Younis, [Dika Vilić](/team_member/dika.html)._
 
-British Consul General to Toronto, [Fouzia Younis MBE](https://www.gov.uk/government/people/fouzia-younis), recently visited Guy’s and St Thomas’ (GSTT) in an event organised by Clinical Scientific Computing (CSC). We were delighted to have Fouzia with us to discuss, among other things, our ongoing collaborations with colleagues in Canada.
+<span class="dropcap">B</span>ritish Consul General to Toronto, [Fouzia Younis MBE](https://www.gov.uk/government/people/fouzia-younis), recently visited Guy’s and St Thomas’ (GSTT) in an event organised by Clinical Scientific Computing (CSC). We were delighted to have Fouzia with us to discuss, among other things, our ongoing collaborations with colleagues in Canada.
 
 The British Consul General [recently kickstarted a partnership](https://www.sickkids.ca/en/news/archive/2026/six-uk-hospitals-partner-with-sickkids-ai-program-to-advance-paediatric-care-using-ai/) between six paediatric hospitals in the UK, including GSTT’s Evelina London Children’s Hospital, and the Hospital for Sick Children (SickKids) in Toronto. SickKids is a world-class teaching hospital that is dedicated to improving children's health in Canada.
 

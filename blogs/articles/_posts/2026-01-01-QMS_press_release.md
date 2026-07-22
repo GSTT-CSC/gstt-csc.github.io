@@ -10,7 +10,7 @@ author-image: /assets/img/team/james.jpeg
 author-role: "Senior Clinical Scientist"
 category: News
 ---
-The Clinical Scientific Computing (CSC) team is pleased to announce that it has open-sourced its ISO 13485 quality management system (QMS).
+<span class="dropcap">T</span>he Clinical Scientific Computing (CSC) team is pleased to announce that it has open-sourced its ISO 13485 quality management system (QMS).
 
 The Medicines and Healthcare products Regulatory Agency (MHRA) requires organisations that manufacture medical devices to comply with ISO 13485. CSC builds, deploys, and evaluates software as a medical device (SaMD) and AI as a medical device (AIaMD), operating as an ISO 13485-certified body within a QMS.
 
