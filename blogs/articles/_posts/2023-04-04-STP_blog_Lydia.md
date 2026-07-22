@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: My elective with the CSC Team
+title: My Elective with the CSC Team
 tag-line: "Lydia describes her time with CSC on her 2-week-long STP elective."
 date: "4 April 2023"
 read-time-mins: "3 mins"

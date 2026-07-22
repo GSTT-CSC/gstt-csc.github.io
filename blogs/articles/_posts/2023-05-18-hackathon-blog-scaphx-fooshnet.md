@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Developing ScaphX and FOOSHnet, a 2-part hackathon
+title: Developing ScaphX and FOOSHnet, a Two-Part Hackathon
 tag-line: "Developing AI in focussed-work events"
 date: "18 May 2023"
 read-time-mins: "8 mins"

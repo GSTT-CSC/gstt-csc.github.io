@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Working with CSC as an NHS STP trainee
+title: Working with CSC as an NHS STP Trainee
 tag-line: "Igor describes his experiences as the very first STP trainee with the CSC"
 date: "25 August 2021"
 read-time-mins: "5 mins"

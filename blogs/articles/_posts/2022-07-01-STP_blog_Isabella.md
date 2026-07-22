@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "My 5-month placement with the CSC team" 
+title: "My Five-Month Placement with the CSC Team" 
 tag-line: "Isabella talks about her time as a Clinical Engineering STP trainee with the CSC team"
 date: "1 July 2022"
 read-time-mins: "5 mins"

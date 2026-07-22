@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Jack Foulkes 4 week STP elective
+title: Jack Foulkes' Four-Week STP Elective
 tag-line: "Jack describes his time with CSC on his 4-week-long STP elective."
 date: "15 May 2023"
 read-time-mins: "3 mins"

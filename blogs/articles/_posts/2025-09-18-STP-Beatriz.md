@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "CSC Elective: Keeping up with the future" 
+title: "CSC Elective: Keeping up with the Future" 
 tag-line: "Beatriz describes her five week STP elective with CSC"
 date: "18 September 2025"
 read-time-mins: "5 mins"
