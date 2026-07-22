@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "Pulse Sequences to Pull Requests: My Month with GSTT-CSC" 
+title: "Pulse Sequences to Pull Requests: My Month with GSTT CSC" 
 tag-line: "Mario Nicola discusses his recent elective"
 date: "19 May 2026"
 read-time-mins: "7 mins"
@@ -12,12 +12,12 @@ category: Blog
 ---
 _Mario Nicola is a trainee clinical scientist in medical physics, but he is particularly interested in computer science._
 
-Alongside studying physics and training as a clinical scientist, I have been interested in software development, especially in clinical use cases. In my MSc project at Nottingham, I built a traditional machine learning classifier for excised suspected skin cancer samples. In my MSc project at King's (right before my elective), I built a super-resolution network for real-time speech MRI. However, both of these projects lacked proper version control and modular code because the codebase was either solely written by me, or by me and one other person.
+<span class="dropcap">A</span>longside studying physics and training as a clinical scientist, I have been interested in software development, especially in clinical use cases. In my MSc project at Nottingham, I built a traditional machine learning classifier for excised suspected skin cancer samples. In my MSc project at King's (right before my elective), I built a super-resolution network for real-time speech MRI. However, both of these projects lacked proper version control and modular code because the codebase was either solely written by me, or by me and one other person.
 
 From speaking to past trainees who had spent time here and reading other blog posts, I decided that undertaking an elective at CSC would be the perfect way to gain a better understanding of how to build and maintain software collaboratively. After meeting [Elise](/team_member/elise.html) and [Molly](/team_member/molly.html) over Teams, we scheduled a month-long elective for April. Soon after, I found out that I would be joining GSTT in the MRI Physics team in September, with a secondary focus on computing, making the elective even more suitable for my professional development.
 
 Before starting, I set out a few goals:
-1. Understand how GSTT-CSC structure projects and maintain their Quality Management System.
+1. Understand how GSTT CSC structure projects and maintain their Quality Management System.
 2. Write a few unit tests and understand their importance.
 3. Open at least one pull request, no matter how small the contribution is.
 4. Understand how to use GitHub for version control.
