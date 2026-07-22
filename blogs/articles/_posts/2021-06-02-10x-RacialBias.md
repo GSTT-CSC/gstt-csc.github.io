@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "Workshop: The Problem of Bias in AI"
-date: 2nd June 2021
+date: 2 June 2021
 tag-line: "Outcomes of a 10X workshop on managing racial bias."
 read-time-mins: "15 mins"
 image: /assets/img/blog/racial_bias.jpg
@@ -11,7 +11,7 @@ author-role: Clinical Scientist in AI
 category: Workshop
 ---
 
-The CSC team held a workshop on racial bias in AI and strategies to combat it on 2nd June 2021. As part of the 
+<span class="dropcap">T</span>he CSC team held a workshop on racial bias in AI and strategies to combat it on 2nd June 2021. As part of the 
 preparation the team watched the Netflix documentary Coded Bias which discusses facial recognition bias in AI technology
 as experienced and published by Joy Buolamwini. More on her and her team’s work can be found 
 <a href="https://www.ajl.org">here</a>. 

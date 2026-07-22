@@ -1,8 +1,8 @@
 ---
 layout: blogpost
-title: "My 5-month placement with the CSC team" 
+title: "My Five-Month Placement with the CSC Team" 
 tag-line: "Isabella talks about her time as a Clinical Engineering STP trainee with the CSC team"
-date: "1st July 2022"
+date: "1 July 2022"
 read-time-mins: "5 mins"
 image: /assets/img/blog/stock_coding.jpg
 author: Isabella Trujillo-Cortes
@@ -11,7 +11,7 @@ author-role: STP Trainee Clinical Engineering
 category: Blog
 ---
 
-Hi everyone! I am a 1st year Clinical Engineering Trainee on the NHS Scientist Training Programme, and the past 5 months
+<span class="dropcap">H</span>i everyone! I am a 1st year Clinical Engineering Trainee on the NHS Scientist Training Programme, and the past 5 months
 or so I have had the privilege to spend a couple of days a week with the CSC team. Whilst completing the MSc portion of 
 the STP, Haris Shuaib delivered a lecture where he introduced his team and the work they do – I did not think I would 
 have the unique opportunity to be joining them a couple of months later. I left the introductory lecture very inspired,

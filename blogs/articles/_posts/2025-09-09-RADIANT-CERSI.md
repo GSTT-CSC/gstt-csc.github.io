@@ -10,7 +10,7 @@ author-image: /assets/img/team/james.jpeg
 author-role: "Senior Clinical Scientist"
 category: News
 ---
-The Clinical Scientific Computing (CSC) at Guy’s and St Thomas’ NHS Foundation Trust (GSTT) is delighted to announce that it has won a RADIANT–CERSI award in recognition of its goal of delivering a free and open-source [Quality Management System (QMS)](/blogs/articles/news/2026/01/01/QMS_press_release.html).
+<span class="dropcap">T</span>he Clinical Scientific Computing (CSC) at Guy’s and St Thomas’ NHS Foundation Trust (GSTT) is delighted to announce that it has won a RADIANT–CERSI award in recognition of its goal of delivering a free and open-source [Quality Management System (QMS)](/blogs/articles/news/2026/01/01/QMS_press_release.html).
 
 [RADIANT](https://radiant-cersi.org/) is the UK’s Centre of Excellence for Regulatory Science and Innovation (CERSI) in Transformative Digital Health and AI, dedicated to making the regulation of digital health and AI products more business-friendly, user-centred, and sustainable. Its support and funding come from various government agencies, including the Medicines and Healthcare products Regulatory Agency (MHRA), the Office for Life Sciences (OLS), the Medical Research Council (MRC), and Innovate UK.
 

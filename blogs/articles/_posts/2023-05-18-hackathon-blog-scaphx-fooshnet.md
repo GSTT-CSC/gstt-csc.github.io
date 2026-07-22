@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Developing ScaphX and FOOSHnet, a 2-part hackathon
+title: Developing ScaphX and FOOSHnet, a Two-Part Hackathon
 tag-line: "Developing AI in focussed-work events"
 date: "18 May 2023"
 read-time-mins: "8 mins"
@@ -11,7 +11,7 @@ author-role:
 category: Article
 ---
 
-The CSC tackled the development of two AI models in two 3-day hyper focussed team events which we called hackathons. The first took place in November of 2022, where we focussed on both models in two separate teams, and the second took place in February 2023 where we focussed on only one model.
+<span class="dropcap">T</span>he CSC tackled the development of two AI models in two 3-day hyper focussed team events which we called hackathons. The first took place in November of 2022, where we focussed on both models in two separate teams, and the second took place in February 2023 where we focussed on only one model.
 
 Both projects had been worked on in isolation before by two or three people at a time and were at model development stage. The projects tackled are described [here](https://gstt-csc.github.io/projects/AIC002-occult-carpal-detection-xray.html) and [here](https://gstt-csc.github.io/projects/AIC005-occult_carpal_detection_in_mri.html), and both aim to facilitate faster diagnosis of scaphoid fractures. 
 

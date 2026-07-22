@@ -1,8 +1,8 @@
 ---
 layout: blogpost
-title: Working with CSC as an NHS STP trainee
+title: Working with CSC as an NHS STP Trainee
 tag-line: "Igor describes his experiences as the very first STP trainee with the CSC"
-date: "25th August 2021"
+date: "25 August 2021"
 read-time-mins: "5 mins"
 image: /assets/img/blog/nhs_logo.png
 author: Igor Malashchuk
@@ -11,7 +11,7 @@ author-role: STP Trainee Bioinformatician
 category: Blog
 ---
 
-So, three months of my rotation in the Clinical Scientific Computing (CSC) department have passed as if it was one day,
+<span class="dropcap">S</span>o, three months of my rotation in the Clinical Scientific Computing (CSC) department have passed as if it was one day,
 and here I am, writing a blog (my first one). I came to the CSC during my first year of the STP in Clinical
 Bioinformatics (Genomics) training. My expectations when starting my rotation were not high, considering that almost 
 all staff that do not have direct patient contact still work remotely because of COVID-19. 
