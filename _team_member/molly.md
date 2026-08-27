@@ -6,7 +6,7 @@ job-role: Clinical Scientist in AI
 ---
 
 ### Bio
-Molly has a background in Physics and Medical Physics. She completed the STP in 2023, specialising in Imaging with Non-Ionising Radiation, and subsequently worked as an MRI Physicist at GSTT for two years, before joining the CSC.
+Molly is an HCPC registered Clinical Scientist with a background in physics. She has been part of the CSC team since May 2025.
 
 ### CSC Team Role
-Molly is involved in the XNAT data ingestion service, is contributing to the AI Fairness Toolkit, leads on a web app for research data ethics management, and is also involved in trainee and intern supervision. 
+Molly contributes to the development and deployment of in-house software, including software as a medical device. She also contributes to the QMS, helping to ensure ISO-13485 compliance across the software development lifecycle.
