@@ -2,7 +2,7 @@
 layout: blogpost
 title: "The Case for In-House Autocontouring" 
 tag-line: "Why one size doesn't fit all for radiotherapy treatment planning"
-date: "28 August 2026"
+date: "1 September 2026"
 read-time-mins: "3 mins"
 image: /assets/img/blog/linac-large.jpg
 author: "Mike Woodward" 
