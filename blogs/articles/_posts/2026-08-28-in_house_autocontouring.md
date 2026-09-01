@@ -4,13 +4,13 @@ title: "The Case for In-House Autocontouring"
 tag-line: "Why one size doesn't fit all for radiotherapy treatment planning"
 date: "1 September 2026"
 read-time-mins: "3 mins"
-image: /assets/img/blog/linac-large.jpg
+image: /assets/img/blog/clinac.jpg
 author: "Mike Woodward" 
 author-image: /assets/img/team/Mike.jpg
 author-role: "AI Development Lead & Senior Clinical Scientist in AI"
 category: Article
 ---
-_Featured image: 'Inaugurazione Centro Radioterapia' by Università Campus Bio-Medico di Roma, licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en)._ 
+_Photo by <a href="https://unsplash.com/@craigcpcb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Craig Cameron</a> on <a href="https://unsplash.com/photos/white-and-black-water-dispenser-zKrchLhLm1E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>._ 
 
 <span class="dropcap">C</span>ontouring is a crucial component of patient care within the radiotherapy pathway, partly involving outlining the organs at risk to ensure that a treatment plan doesn’t deliver avoidable harmful doses of radiation to these critical regions. As you can imagine, manually performing this for each patient is a time-intensive task, often performed by a consultant clinician, that is ripe for automation. However, the idea of this article isn’t to sell you on the value of autocontouring; I’ll let others do that. Autocontouring has been described as 'game-changing' by the UK Government, who in 2024 [allocated £15.5 million](https://www.gov.uk/government/news/ai-technology-to-help-cut-cancer-waiting-lists) for it to be rolled out to all NHS radiotherapy departments. This [funding was subsequently cut](https://www.theguardian.com/politics/2025/mar/31/ridiculous-cuts-to-ai-cancer-tech-funding-in-england-could-cost-lives-experts-warn), leading to outrage amongst clinicians who were already utilising the tools. Rather, I'm hoping to sell you on the value of *in-house* autocontouring solutions.
 
