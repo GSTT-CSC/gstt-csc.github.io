@@ -1,10 +1,9 @@
 ---
 layout: blog
-title: Articles and Blogs
+title: Blog
 permalink: /articles.html
 ---
 
-Articles on topics we believe are interesting relating to digital healthcare. These articles are written by 
-the core CSC team and our colleagues.
+The following articles are written by members of the CSC team and colleagues. 
 
 {% include blog-articles.html %}

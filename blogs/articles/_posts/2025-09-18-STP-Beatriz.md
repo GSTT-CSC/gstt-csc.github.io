@@ -6,7 +6,7 @@ date: "18 September 2025"
 read-time-mins: "5 mins"
 image: /assets/img/blog/beatriz_blog_pic.jpg
 author: "Beatriz Laureano" 
-author-image: /assets/img/team/standard_user.jpg
+author-image: /assets/img/blog/beatriz.jpeg
 author-role: "Trainee Clinical Scientist in Imaging with Non-Ionising Radiation, Guys and St Thomas's NHS Foundation Trust"
 category: Blog
 ---

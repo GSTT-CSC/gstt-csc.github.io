@@ -4,7 +4,7 @@ title: "CSC Open-Sources Its ISO 13485 QMS"
 tag-line: "A link to the QMS and instructions for its use can be found within this short article"
 date: "1 January 2026"
 read-time-mins: "2 mins"
-image: /assets/img/blog/qms-featured.png
+image: /assets/img/blog/pexels-qmicertification.jpg
 author: "James Clark Ross" 
 author-image: /assets/img/team/james.jpeg
 author-role: "Senior Clinical Scientist"
