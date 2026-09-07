@@ -6,7 +6,7 @@ date: "19 May 2026"
 read-time-mins: "7 mins"
 image: /assets/img/blog/mario.png
 author: "Mario Nicola" 
-author-image: /assets/img/team/standard_user.jpg
+author-image: /assets/img/blog/mario.jpeg
 author-role: "Trainee Clinical Scientist"
 category: Blog
 ---
