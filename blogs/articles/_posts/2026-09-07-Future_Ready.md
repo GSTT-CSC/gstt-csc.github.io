@@ -1,7 +1,7 @@
 ---
 layout: blogpost
-title: "CSC Recognised by GSTT for Being ‘Future Ready’" 
-tag-line: "CSC wins award"
+title: "CSC Wins the Trust's 'Future Ready' Award" 
+tag-line: "CSC's contribution to patient care has been recognised by GSTT"
 date: "7 September 2026"
 read-time-mins: "2 mins"
 image: /assets/img/blog/future_ready-feat.jpg
