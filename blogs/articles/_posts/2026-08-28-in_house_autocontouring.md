@@ -8,7 +8,7 @@ image: /assets/img/blog/clinac.jpg
 author: "Mike Woodward" 
 author-image: /assets/img/team/Mike.jpg
 author-role: "AI Development Lead & Senior Clinical Scientist in AI"
-category: Blog
+category: Article
 ---
 _Photo by <a href="https://unsplash.com/@craigcpcb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Craig Cameron</a> on <a href="https://unsplash.com/photos/white-and-black-water-dispenser-zKrchLhLm1E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>._ 
 
