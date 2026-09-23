@@ -22,7 +22,7 @@ We’re continuously looking to improve the way we do things, which speaks to wh
 Chief Executive of Integrated and Specialist Medicine, Louise Dark, along with Deputy General Manager of Specialist Ambulatory Services, Zubair Mustafa, visited CSC on Wednesday 2 September 2026 to present July’s award to the team. This included several Future Ready badges.
 
 During the meeting, various CSC projects that are driving efficiency savings within the Trust were discussed, including the following:
-* CSC has developed and deployed a suite of neural networks to [automate the segmentation of organs at risk for radiotherapy treatment planning](/blogs/articles/article/2026/09/01/in_house_autocontouring.html). ‘Autoseg’ modernises a time-consuming clinical process and improves consistency.
+* CSC has developed and deployed a suite of neural networks to [automate the segmentation of organs at risk for radiotherapy treatment planning](/blogs/articles/article/2026/09/01/in_house_autocontouring.html). ‘AutoSegCT’ modernises a time-consuming clinical process and improves consistency.
 * ‘EndominerAI’ uses a combination of natural language processing of endoscopy and pathology reports to optimise the timings of endoscopy follow-ups for patients with pre-cancerous conditions.
 * ‘OsteoHand’ aims to opportunistically detect low bone density from hand X-rays in order to treat osteoporosis earlier and prevent fractures.
 * ‘OsteoAI’, which is currently under development, is a neural network model that detects vertebral compression fractures and flags them to fracture liaison services.
