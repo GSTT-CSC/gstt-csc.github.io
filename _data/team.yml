@@ -104,12 +104,6 @@ en: &DEFAULT_EN
         image: assets/img/team/zainab-qazi.jpg
         subgroup: "NHS Fellowship in Clinical AI Faculty"        
 
-      - name: "Eleanor Stylianides"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/eleanor.html
-        image: assets/img/team/Eleanor.jpg
-        subgroup: "Trainees & Fellows"
-
       - name: "Keri Anderson"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/keri.html
@@ -146,6 +140,11 @@ en: &DEFAULT_EN
         image: assets/img/team/theodora.JPG
         subgroup: "Trainees & Fellows"
 
+      - name: "Saad Yonis"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/saad.html
+        image: assets/img/team/saad.jpeg
+        subgroup: "Trainees & Fellows"
             
 en-US:
   <<: *DEFAULT_EN
