@@ -5,7 +5,6 @@ permalink: /team.html
 description: The CSC Team
 ---
 
-The CSC team has expertise covering all aspects of developing AI for digital health. We are variously clinical
-scientists, medical physicists, AI engineers, software developers and clinicians. 
+CSC has expertise covering all aspects of safely developing, deploying, and evaluating AI in NHS contexts. The team comprises clinical scientists, medical physicists, AI engineers, software developers, clinicians, and programme managers.
 
 {% include team.html %}

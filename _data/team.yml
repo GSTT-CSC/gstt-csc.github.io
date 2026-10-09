@@ -23,68 +23,68 @@ en: &DEFAULT_EN
       - name: "Dika Vilić"
         role: "Head of Clinical Scientific Computing"
         team-member-page: /team_member/dika.html
-        subgroup: "CSC core"        
+        subgroup: "CSC Core"        
         image: assets/img/team/Dika.jpg
 
       - name: "Anil Mistry"
         role: "AI Safety Lead"
         team-member-page: /team_member/anil.html
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
         image: assets/img/team/Anil.jpg
 
       - name: "Mike Woodward"
         role: "AI Development Lead"
         team-member-page: /team_member/mike.html
         image: assets/img/team/Mike.jpg
-        subgroup: "CSC core"            
+        subgroup: "CSC Core"            
 
       - name: "Elise Pather"
         role: "Senior Clinical Scientist in AI"
         team-member-page: /team_member/elise.html
         image: assets/img/team/elise.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Agathe Zecevic"
         role: "Senior Data Scientist & NLP Lead"
         team-member-page: /team_member/agathe.html
         image: assets/img/team/Agathe.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Mikaël Simard"
         role: "Senior Clinical Scientist in AI"
         team-member-page: /team_member/mikael.html
         image: assets/img/team/mikael.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Kristina Zeljić"
         role: "Senior Data Engineer"
         team-member-page: /team_member/kristina.html
         image: assets/img/team/kristina.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Kristin Kostka"
         role: "Senior Health Data Scientist"
         team-member-page: /team_member/kristin.html
         image: assets/img/team/kristin.jpeg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "James Clark Ross"
         role: "Senior Clinical Scientist"
         team-member-page: /team_member/james.html
         image: assets/img/team/james.jpeg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Molly Buckley"
         role: "Clinical Scientist in AI"
         team-member-page: /team_member/molly.html
         image: assets/img/team/molly.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Sam Porter"
         role: "Clinical Scientist in AI"
         team-member-page: /team_member/sam.html
         image: assets/img/team/sam.jpg
-        subgroup: "CSC core"
+        subgroup: "CSC Core"
 
       - name: "Alexander Deng"
         role: "Director"
@@ -102,51 +102,56 @@ en: &DEFAULT_EN
         role: "Programme Support Officer"
         team-member-page: /team_member/zainab.html
         image: assets/img/team/zainab-qazi.jpg
-        subgroup: "NHS Fellowship in Clinical AI Faculty"        
-
-      - name: "Eleanor Stylianides"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/eleanor.html
-        image: assets/img/team/Eleanor.jpg
-        subgroup: "Trainees & Fellows"
-
-      - name: "Keri Anderson"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/keri.html
-        image: assets/img/team/KeriA.jpg
-        subgroup: "Trainees & Fellows"
-
-      - name: "David De Mola"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/david.html
-        image: assets/img/team/daviddm.jpg
-        subgroup: "Trainees & Fellows"
-
-      - name: "Kathan Sonar"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/kathan.html
-        image: assets/img/team/KathanS.jpg
-        subgroup: "Trainees & Fellows"
-
-      - name: "Anthony Lim"
-        role: "Trainee Clinical Scientist"
-        team-member-page: /team_member/anthony.html
-        image: assets/img/team/AnthonyL.jpg
-        subgroup: "Trainees & Fellows"
+        subgroup: "NHS Fellowship in Clinical AI Faculty"
 
       - name: "Karol Basta"
         role: "Clinical AI Fellow"
         team-member-page: /team_member/karol.html
         image: assets/img/team/karol.jpeg
-        subgroup: "CSC core"
+        subgroup: "Fellows"    
+
+      - name: "Aoife Fox"
+        role: "Clinical AI Fellow"
+        team-member-page: /team_member/aoife.html
+        image: assets/img/team/aoife.jpeg
+        subgroup: "Fellows"
+
+      - name: "Keri Anderson"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/keri.html
+        image: assets/img/team/KeriA.jpg
+        subgroup: "Trainees"
+
+      - name: "David De Mola"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/david.html
+        image: assets/img/team/daviddm.jpg
+        subgroup: "Trainees"
+
+      - name: "Kathan Sonar"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/kathan.html
+        image: assets/img/team/KathanS.jpg
+        subgroup: "Trainees"
+
+      - name: "Anthony Lim"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/anthony.html
+        image: assets/img/team/AnthonyL.jpg
+        subgroup: "Trainees"
 
       - name: "Theodora Osazuwa"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/theodora.html
         image: assets/img/team/theodora.JPG
-        subgroup: "Trainees & Fellows"
+        subgroup: "Trainees"
 
-            
+      - name: "Saad Yanis"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/saad.html
+        image: assets/img/team/saad.jpeg
+        subgroup: "Trainees"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
