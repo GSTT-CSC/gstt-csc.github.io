@@ -146,7 +146,7 @@ en: &DEFAULT_EN
         image: assets/img/team/theodora.JPG
         subgroup: "Trainees"
 
-      - name: "Saad Yanis"
+      - name: "Saad Yonis"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/saad.html
         image: assets/img/team/saad.jpeg
