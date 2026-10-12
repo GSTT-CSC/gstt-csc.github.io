@@ -71,10 +71,8 @@ anthony-lim:
     icon: fab fa-linkedin-in
 
 aoife-fox:
-  - url: https://www.linkedin.com/in/aoife-fox-28a9aa150/
+  - url: https://www.linkedin.com/in/dr-aoife-f-28a9aa150/
     icon: fab fa-linkedin-in
-  - url: https://twitter.com/EMDocFox
-    icon: fab fa-twitter
 
 molly-buckley:
   - url: https://github.com/mollybuckley
@@ -132,4 +130,10 @@ theodora-osazuwa:
   - url: https://github.com/Theodora-22
     icon: fab fa-github
   - url: https://www.linkedin.com/in/theodora-osazuwa-20030a214/
+    icon: fab fa-linkedin-in
+
+saad-yanis:
+  - url: https://github.com/Saad-Ki
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/saadyonis/
     icon: fab fa-linkedin-in
