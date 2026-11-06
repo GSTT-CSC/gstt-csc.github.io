@@ -137,3 +137,9 @@ saad-yonis:
     icon: fab fa-github
   - url: https://www.linkedin.com/in/saadyonis/
     icon: fab fa-linkedin-in
+
+berfin-oram:
+  - url: https://github.com/beroram
+    icon: fab fa-github
+  - url: https://www.linkedin.com/in/berfin-oram-122b79151/
+    icon: fab fa-linkedin-in
