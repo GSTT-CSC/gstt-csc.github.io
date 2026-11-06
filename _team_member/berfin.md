@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Berfin Oram
 team-member-photo: /assets/img/team/berfin.jpeg
-job-role: Trainee Clinical Scientist, Clinical Scientific Computing
+job-role: Trainee Clinical Scientist, Clinical Informatics
 ---
 
 ### Bio
