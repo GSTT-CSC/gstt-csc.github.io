@@ -152,6 +152,12 @@ en: &DEFAULT_EN
         image: assets/img/team/saad.jpeg
         subgroup: "Trainees"
 
+      - name: "Berfin Oram"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/berfin.html
+        image: assets/img/team/berfin.jpeg
+        subgroup: "Trainees"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
