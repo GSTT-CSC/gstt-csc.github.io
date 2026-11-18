@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "CSC AI Summer School 2026: Highlights" 
-tag-line: "Interested in implementing AI in the NHS? Then this may interest you."
+tag-line: "Thinking about implementing AI in the NHS? Then this may interest you."
 date: "22 July 2026"
 read-time-mins: "1 min"
 image: /assets/img/blog/SS26_highlights.jpeg
